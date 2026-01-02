@@ -5,13 +5,11 @@ Toxin Domain Files
 | Toxin Family | Catalytic Residues | Multiple Sequence Alignment (source) | Annotated Structure (accession) |
 |-------------|-------------------|-------|-----------|
 | Barnase     | E73, H102         | [This Resource][barnase_model] | [1b20][barnase_molx] |
-| XendoU-N    | H162              | [PF09412][xendou_n_model] | [2c1w][xendou_n_molx] |
-| XendoU-C    |                   | [PF09412][xendou_c_model] | [2c1w][xendou_c_molx] |
-| EndoU-N     |	H187, H204        | [PF14436][endou_n_model]  | [5hkq][endou_n_molx]  |
-| EndoU-C     | H187, H204        | [PF14436][endou_c_model]  | [5hkq][endou_c_molx]  |
-| Colicin D   | H611, K610        | [PF11429][colicind_model] | [1v74][colicind_molx] |
-| Colicin E5  | K25, R33          | [PF12106][colicine5_model]| [2dfx][colicine5_molx]|
-| RelE	      | K54, R81          | [This Resource][rele_model]| [4fxi][rele_molx]|
+| XendoU      | H162              | PF09412 [N-term][xendou_n_model] [C-term][xendou_c_model] | 2c1w [N-term][xendou_n_molx] [C-term][xendou_c_molx] |
+| EndoU       |	H187, H204        | PF14436 [N-term][endou_n_model] [C-term][endou_c_model]   | 5hkq [N-term][endou_n_molx] [C-term][endou_c_molx  |
+| Colicin D   | H611, K610        | [PF11429][colicind_model]      | [1v74][colicind_molx] |
+| Colicin E5  | K25, R33          | [PF12106][colicine5_model]     | [2dfx][colicine5_molx] |
+| RelE	      | K54, R81          | [This Resource][rele_model]    | [4fxi][rele_molx] |
 
 <!-- HTML models -->
 [barnase_model]: https://KristiPhammie.github.io/becr/html/barnase.html
