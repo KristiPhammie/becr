@@ -11,6 +11,13 @@ Toxin Domain Files
 | Colicin E5  	 | K25, R33          | [PF12106][colicine5_model]     | [2dfx][colicine5_molx] |
 | RelE (E. coli) | K54, R81          | [This Resource][rele_model]    | [4fxi][rele_molx] |
 | RelE (Methanococcus jannaschii) | D | [PF06296][rele_mj_model]      | [A0A917YVE8][rele_mj_molx] |
+| ParE 		 | D13, R60          | [PF05016][pare_model]          | [A0A4V1BZU9][pare_molx] |
+| ParE-like 	 | 		     | [PF15781][pare-like_model]     | [A0A0L6U2N9][pare-like_molx] |
+| YoeB		 | E46, H83	     | [PF06769][yoeb_model]	      | [2a6r][yoeb_molx] |
+| BrnT 		 | K18, H19	     | [PF04365][brnt_model]	      | [7cd7][brnt_molx] |
+| MqsR		 | 		     | [PF15723][mqsr_model]	      | [3hi2][mqsr_molx] |
+| YeeF 		 | 		     | [This resource][yeef_model]    | [O31506][yeef_molx]
+
 
 <!-- HTML models -->
 [barnase_model]: https://KristiPhammie.github.io/becr/html/barnase.html
@@ -22,6 +29,7 @@ Toxin Domain Files
 [colicine5_model]:  https://KristiPhammie.github.io/becr/html/ColicinE5.html
 [rele_model]:  https://KristiPhammie.github.io/becr/html/RelE.html
 [rele_mj_model]:  https://KristiPhammie.github.io/becr/html/RelE_MJ.html
+[pare_model]:  https://KristiPhammie.github.io/becr/html/pare.html
 
 <!-- Mol* snapshots -->
 [barnase_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/barnase.molx&snapshot-url-type=molx
@@ -32,4 +40,7 @@ Toxin Domain Files
 [colicind_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinD.molx&snapshot-url-type=molx
 [colicine5_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinE5.molx&snapshot-url-type=molx
 [rele_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE.molx&snapshot-url-type=molx
-[rele_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_MJ.molx&snapshot-url-type=molx
+[rele_mj_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_MJ.molx&snapshot-url-type=molx
+[pare_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/pare.molx&snapshot-url-type=molx
+
+
