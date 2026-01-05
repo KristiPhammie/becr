@@ -62,10 +62,10 @@ Toxin Domain Files
 [rnaset1_model]:  https://KristiPhammie.github.io/becr/html/RNaseT1.html
 [rnaset2_model]:  https://KristiPhammie.github.io/becr/html/RNaseT2.html
 [sarcin_model]:   https://KristiPhammie.github.io/becr/html/Sarcin.html
-[pbecr1_model]: https://KristiPhammie.github.io/becr/html/pbecr1.html
-[pbecr3_model]: https://KristiPhammie.github.io/becr/html/pbecr3.html
-[pbecr4_model]: https://KristiPhammie.github.io/becr/html/pbecr4.html
-[pbecr5_model]: https://KristiPhammie.github.io/becr/html/pbecr5.html
+[pbecr1_model]: https://KristiPhammie.github.io/becr/html/PBECR1.html
+[pbecr3_model]: https://KristiPhammie.github.io/becr/html/PBECR3.html
+[pbecr4_model]: https://KristiPhammie.github.io/becr/html/PBECR4.html
+[pbecr5_model]: https://KristiPhammie.github.io/becr/html/PBECR5.html
 
 
 
@@ -97,9 +97,9 @@ Toxin Domain Files
 [rnaset1_molx]:   https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseT1.molx&snapshot-url-type=molx
 [rnaset2_molx]:   https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseT2.molx&snapshot-url-type=molx
 [sarcin_molx]:    https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Sarcin.molx&snapshot-url-type=molx
-[pbecr1_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/pbecr1.molx&snapshot-url-type=molx
-[pbecr3_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/pbecr3.molx&snapshot-url-type=molx
-[pbecr4_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/pbecr4.molx&snapshot-url-type=molx
-[pbecr5_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/pbecr5.molx&snapshot-url-type=molx
+[pbecr1_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR1.molx&snapshot-url-type=molx
+[pbecr3_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR3.molx&snapshot-url-type=molx
+[pbecr4_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR4.molx&snapshot-url-type=molx
+[pbecr5_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR5.molx&snapshot-url-type=molx
 
 
