@@ -25,6 +25,11 @@ Toxin Domain Files
 | gp49		 | 		     | [PF05973][gp49_model]	      | [Q2RNU1][gp49_molx] |
 | MuF-like	 | 		     | [PF18819][muf-like_model]      | [A0A096XES0][muf-like_molx] |
 | RegB 		 | 		     | [PF10715][regb_model]	      | [2hx6][regb_molx] |
+| RNase A	 | H12, H119	     | [PF00074][rnasea_model]	      | [4WYN][rnasea_molx] |
+| RNase T1	 | H40, H92	     | [This Resource][rnaset1_model] | [1B2M][rnaset1_molx] |
+| RNase T2 	 | H55, H133	     | [PF00445][rnaset2_model]	      | [2EA1][rnaset2_molx] |
+| Sarcin 	 | H50, H137	     | [This Resource][sarcin_model]  | [1DE3][sarcin_molx] |
+
 
 <!-- HTML models -->
 [barnase_model]: https://KristiPhammie.github.io/becr/html/barnase.html
@@ -50,6 +55,11 @@ Toxin Domain Files
 [gp49_model]:     https://KristiPhammie.github.io/becr/html/gp49.html
 [muf-like_model]: https://KristiPhammie.github.io/becr/html/MuF-like.html
 [regb_model]:     https://KristiPhammie.github.io/becr/html/RegB.html
+[rnasea_model]:   https://KristiPhammie.github.io/becr/html/RNaseA.html
+[rnaset1_model]:  https://KristiPhammie.github.io/becr/html/RNaseT1.html
+[rnaset2_model]:  https://KristiPhammie.github.io/becr/html/RNaseT2.html
+[sarcin_model]:   https://KristiPhammie.github.io/becr/html/Sarcin.html
+
 
 
 <!-- Molx snapshots -->
@@ -76,5 +86,9 @@ Toxin Domain Files
 [gp49_molx]:     https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/gp49.molx&snapshot-url-type=molx
 [muf-like_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/MuF-like.molx&snapshot-url-type=molx
 [regb_molx]:     https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RegB.molx&snapshot-url-type=molx
+[rnasea_molx]:    https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseA.molx&snapshot-url-type=molx
+[rnaset1_molx]:   https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseT1.molx&snapshot-url-type=molx
+[rnaset2_molx]:   https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseT2.molx&snapshot-url-type=molx
+[sarcin_molx]:    https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Sarcin.molx&snapshot-url-type=molx
 
 
