@@ -17,11 +17,14 @@ Toxin Domain Files
 | YafO		 | 		     | [PF13957][yafo_model]	      | [A0A3E0TU91][yafo_model] |
 | YhaV		 |		     | [PF11663][yhav_model]	      | [A0A1Y2R202][yhav_molx]
 | HigB		 |		     | [PF09907][higb_model]	      | [B8F451][higb_molx] |
-| HigB-like 	 |		     | [PF05015][higb-like_model]     | [A0A7H0SQA8][higb-like-molx] |
+| HigB-like 	 |		     | [PF05015][higb-like_model]     | [A0A7H0SQA8][higb-like_molx] |
 | BrnT 		 | K18, H19	     | [PF04365][brnt_model]	      | [7cd7][brnt_molx] |
 | MqsR		 | 		     | [PF15723][mqsr_model]	      | [3hi2][mqsr_molx] |
 | YeeF 		 | 		     | [This resource][yeef_model]    | [O31506][yeef_molx]
-
+| YafQ		 | 		     | [PF15738][yafq_model]	      | [4ls4][yafq_molx] |
+| gp49		 | 		     | [PF05973][gp49_model]	      | [Q2RNU1][gp49_molx] |
+| MuF-like	 | 		     | [PF18819][muf-like_model]      | [A0A096XES0][muf-like_molx] |
+| RegB 		 | 		     | [PF10715][regb_model]	      | [2hx6][regb_molx] |
 
 <!-- HTML models -->
 [barnase_model]: https://KristiPhammie.github.io/becr/html/barnase.html
@@ -43,8 +46,13 @@ Toxin Domain Files
 [brnt_model]:  https://KristiPhammie.github.io/becr/html/BrnT.html
 [mqsr_model]:  https://KristiPhammie.github.io/becr/html/MqsR.html
 [yeef_model]:  https://KristiPhammie.github.io/becr/html/YeeF.html
+[yafq_model]:     https://KristiPhammie.github.io/becr/html/YafQ.html
+[gp49_model]:     https://KristiPhammie.github.io/becr/html/gp49.html
+[muf-like_model]: https://KristiPhammie.github.io/becr/html/MuF-like.html
+[regb_model]:     https://KristiPhammie.github.io/becr/html/RegB.html
 
-<!-- Mol* snapshots -->
+
+<!-- Molx snapshots -->
 [barnase_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/barnase.molx&snapshot-url-type=molx
 [xendou_n_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/XendoU-N.molx&snapshot-url-type=molx
 [xendou_c_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/XendoU-C.molx&snapshot-url-type=molx
@@ -64,5 +72,9 @@ Toxin Domain Files
 [brnt_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BrnT.molx&snapshot-url-type=molx
 [mqsr_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/MqsR.molx&snapshot-url-type=molx
 [yeef_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YeeF.molx&snapshot-url-type=molx
+[yafq_molx]:     https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YafQ.molx&snapshot-url-type=molx
+[gp49_molx]:     https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/gp49.molx&snapshot-url-type=molx
+[muf-like_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/MuF-like.molx&snapshot-url-type=molx
+[regb_molx]:     https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RegB.molx&snapshot-url-type=molx
 
 
