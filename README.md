@@ -5,7 +5,7 @@ Toxin Domain Files
 | Toxin Family | Catalytic Residues | Multiple Sequence Alignment (source) | Annotated Structure (accession) |
 |-------------|-------------------|-------|-----------|
 | Barnase    	 | E73, H102         | [This Resource][barnase_model] | [1b20][barnase_molx] |
-| XendoU     	 | H162              | PF09412 [N-term][xendou_n_model] [C-term][xendou_c_model] | 2c1w [N-term][xendou_n_molx] [C-term][xendou_c_molx] |
+| XendoU     	 | H162              | [PF09412](https://KristiPhammie.github.io/becr/html/XendoU.html) [N-term][xendou_n_model] [C-term][xendou_c_model] | 2c1w [N-term][xendou_n_molx] [C-term][xendou_c_molx] |
 | EndoU       	 | H187, H204        | PF14436 [N-term][endou_n_model] [C-term][endou_c_model]   | 5hkq [N-term][endou_n_molx] [C-term][endou_c_molx]  |
 | Colicin D   	 | H611, K610        | [PF11429][colicind_model]      | [1v74][colicind_molx] |
 | Colicin E5  	 | K25, R33          | [PF12106][colicine5_model]     | [2dfx][colicine5_molx] |
@@ -33,7 +33,7 @@ Toxin Domain Files
 | PBECR3         | H                 | [PF18812][pbecr3_model]        | [A0A0B7GSS4][pbecr3_molx] |
 | PBECR4         | H                 | [PF18813][pbecr4_model]        | [A0A417QTL2][pbecr4_molx] |
 | PBECR5         | H                 | [PF18814][pbecr5_model]        | [A0A396QF16][pbecr5_molx] |
-| BC_0920	 | H428, H444, K470, T487, S540, F542, P543 | [This Resource][BC_0920] | [Q813X6][] |
+| BC_0920	 | H428, H444, K470, T487, S540, F542, P543 | [This Resource](https://KristiPhammie.github.io/becr/html/BC_0920.html) | [Q813X6](https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BC_0920.molx&snapshot-url-type=molx) |
 | CdiA-CT 96.165  | H8, R16, T73                                     | [This Resource](https://KristiPhammie.github.io/becr/html/CdiA-CT_96.165.html) | [D9SFT1](https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_96.165.molx&snapshot-url-type=molx) |
 | CdiA-CT EC3006  | K204, Y208, R260, R327, T330                     | [This Resource](https://KristiPhammie.github.io/becr/html/CdiA-CT_EC3006.html) | [6CP8](https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_EC3006.molx&snapshot-url-type=molx) |
 | CdiA-CT EC869   | K196, N212, T214, H216, E219, H281               | [This Resource](https://KristiPhammie.github.io/becr/html/CdiA-CT_EC869.html)  | [B3BM48](https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_EC869.molx&snapshot-url-type=molx) |
