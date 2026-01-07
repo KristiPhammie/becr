@@ -6,7 +6,7 @@ Toxin Domain Files
 |-------------|-------------------|-------|-----------|
 | Barnase    	 | E73, H102         | [This Resource][barnase_model] | [1b20][barnase_molx] |
 | XendoU     	 | H162              | [PF09412](https://KristiPhammie.github.io/becr/html/XendoU.html) [N-term][xendou_n_model] [C-term][xendou_c_model] | 2c1w [N-term][xendou_n_molx] [C-term][xendou_c_molx] |
-| EndoU       	 | H187, H204        | PF14436 [N-term][endou_n_model] [C-term][endou_c_model]   | 5hkq [N-term][endou_n_molx] [C-term][endou_c_molx]  |
+| EndoU       	 | H187, H204        | [PF14436](https://KristiPhammie.github.io/becr/html/EndoU.html) [N-term][endou_n_model] [C-term][endou_c_model]   | 5hkq [N-term][endou_n_molx] [C-term][endou_c_molx]  |
 | Colicin D   	 | H611, K610        | [PF11429][colicind_model]      | [1v74][colicind_molx] |
 | Colicin E5  	 | K25, R33          | [PF12106][colicine5_model]     | [2dfx][colicine5_molx] |
 | RelE (E. coli) | K54, R81          | [This Resource][rele_model]    | [4fxi][rele_molx] |
