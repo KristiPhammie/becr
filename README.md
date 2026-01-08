@@ -155,7 +155,7 @@ Toxin Domain Files
 [rele_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_E.coli.molx&snapshot-url-type=molx
 [rele_mj_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_M.jannaschii.molx&snapshot-url-type=molx
 [rele_mj_3bpq_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_M.jannaschii_3BPQ.molx&snapshot-url-type=molx
-[pare_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/pare.molx&snapshot-url-type=molx
+[pare_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ParE.molx&snapshot-url-type=molx
 [pare-like_molx]:   https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ParE-like.molx&snapshot-url-type=molx
 [yoeb_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YoeB.molx&snapshot-url-type=molx
 [yafo_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YafO.molx&snapshot-url-type=molx
