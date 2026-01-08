@@ -2,20 +2,20 @@ Toxin Domain Files
 
 ## Toxin Domain Files
 
-| Toxin Family   | Model (source)                                       | Annotated Structure (accession) |
-|----------------|------------------------------------------------------|---------------------------------|
-| Barnase                         | [This Resource][barnase_model]      | [1b20][barnase_molx] |
-| XendoU                          | [PF09412][XendoU]                   | [2C1W][XendoU_molx] |
-| EndoU                           | [PF14436][EndoU]                    | [5hkq][EndoU_molx]  |
-| Colicin D                       | [PF11429][colicind_model]           | [1v74][colicind_molx] |
-| Colicin E5                      | [PF12106][colicine5_model]          | [2dfx][colicine5_molx] |
-| RelE (E. coli)                  | [This Resource][rele_model]         | [4fxi][rele_molx] |
-| RelE (Methanococcus jannaschii) | [PF06296][rele_mj_model]            | [3BPQ][rele_mj_3bpq_molx] [A0A917YVE8][rele_mj_molx] |
-| ParE 		                      | [PF05016][pare_model]               | [A0A4V1BZU9][pare_molx] |
-| ParE-like 	                  | [PF15781][pare-like_model]          | [A0A0L6U2N9][pare-like_molx] |
-| YoeB		                      | [PF06769][yoeb_model]	            | [2a6r][yoeb_molx] |
-| YafO		                      | [PF13957][yafo_model]	            | [A0A3E0TU91][yafo_model] |
-| YhaV		                      | [PF11663][yhav_model]	            | [A0A1Y2R202][yhav_molx]
+| Toxin Family | Model (source) | Annotated Structure (accession) |
+|--------------|----------------|---------------------------------|
+| Barnase | [This Resource][barnase_model] | [1b20][barnase_molx] |
+| XendoU | [PF09412][XendoU]| [2C1W][XendoU_molx] |
+| EndoU | [PF14436][EndoU] | [5HKQ][EndoU_molx] |
+| Colicin D | [PF11429][colicind_model] | [1v74][colicind_molx]|
+| Colicin E5 | [PF12106][colicine5_model] | [2dfx][colicine5_molx] |
+| RelE (E. coli) | [This Resource][rele_model]  [4fxi][rele_molx] |
+| RelE (Methanococcus jannaschii) | [PF06296][rele_mj_model] | [3BPQ][rele_mj_3bpq_molx] [A0A917YVE8][rele_mj_molx] |
+| ParE | [PF05016][pare_model] | [A0A4V1BZU9][pare_molx] |
+| ParE-like | [PF15781][pare-like_model] | [A0A0L6U2N9][pare-like_molx] |
+| YoeB | [PF06769][yoeb_model] | [2a6r][yoeb_molx] |
+| YafO | [PF13957][yafo_model] | [A0A3E0TU91][yafo_model] |
+| YhaV | [PF11663][yhav_model] | [A0A1Y2R202][yhav_molx]
 | HigB		                      | [PF09907][higb_model]	            | [B8F451][higb_molx] |
 | HigB-like 	       		      | [PF05015][higb-like_model]          | [A0A7H0SQA8][higb-like_molx] |
 | BrnT 		                      | [PF04365][brnt_model]	            | [7cd7][brnt_molx] |
@@ -149,7 +149,7 @@ Toxin Domain Files
 <!-- Molx snapshots -->
 [barnase_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Barnase.molx&snapshot-url-type=molx
 [XendoU_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/XendoU.molx&snapshot-url-type=molx
-[EndoU_molx]: (https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoU.molx&snapshot-url-type=molx)
+[EndoU_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoU.molx&snapshot-url-type=molx
 [colicind_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinD.molx&snapshot-url-type=molx
 [colicine5_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinE5.molx&snapshot-url-type=molx
 [rele_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_E.coli.molx&snapshot-url-type=molx
