@@ -5,12 +5,12 @@ Toxin Domain Files
 | Toxin Family   | Model (source)                                       | Annotated Structure (accession) |
 |----------------|------------------------------------------------------|---------------------------------|
 | Barnase                         | [This Resource][barnase_model]      | [1b20][barnase_molx] |
-| XendoU                          | [PF09412][XendoU]                   | [2C1W][XendoU.molx] |
-| EndoU                           | [PF14436][EndoU]                    | [5hkq][EndoU.molx]  |
+| XendoU                          | [PF09412][XendoU]                   | [2C1W][XendoU_molx] |
+| EndoU                           | [PF14436][EndoU]                    | [5hkq][EndoU_molx]  |
 | Colicin D                       | [PF11429][colicind_model]           | [1v74][colicind_molx] |
 | Colicin E5                      | [PF12106][colicine5_model]          | [2dfx][colicine5_molx] |
 | RelE (E. coli)                  | [This Resource][rele_model]         | [4fxi][rele_molx] |
-| RelE (Methanococcus jannaschii) | [PF06296][rele_mj_model]            | [3BPQ][rele_mj_3bpq] [A0A917YVE8][rele_mj_molx] |
+| RelE (Methanococcus jannaschii) | [PF06296][rele_mj_model]            | [3BPQ][rele_mj_3bpq_molx] [A0A917YVE8][rele_mj_molx] |
 | ParE 		                      | [PF05016][pare_model]               | [A0A4V1BZU9][pare_molx] |
 | ParE-like 	                  | [PF15781][pare-like_model]          | [A0A0L6U2N9][pare-like_molx] |
 | YoeB		                      | [PF06769][yoeb_model]	            | [2a6r][yoeb_molx] |
@@ -210,8 +210,9 @@ Toxin Domain Files
 [STox_39_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/stox_39.molx&snapshot-url-type=molx
 [STox_4_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/stox_4.molx&snapshot-url-type=molx
 [STox_55_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/stox_55.molx&snapshot-url-type=molx
+[STox_57_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/stox_57.molx&snapshot-url-type=molx
 [STox_58_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/stox_58.molx&snapshot-url-type=molx
 [STox_59_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/stox_59.molx&snapshot-url-type=molx
 [STox_6_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/stox_6.molx&snapshot-url-type=molx
 [STox_60_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/stox_60.molx&snapshot-url-type=molx
-[Tox-Ribonuclease]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Tox-Ribonuclease.molx&snapshot-url-type=molx
+[Tox-Ribonuclease_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Tox-Ribonuclease.molx&snapshot-url-type=molx
