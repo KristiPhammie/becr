@@ -75,14 +75,10 @@ Toxin Domain Files
 
 <!-- HTML models -->
 [barnase_model]: https://KristiPhammie.github.io/becr/html/barnase.html
-[xendou_n_model]: https://KristiPhammie.github.io/becr/html/XendoU-N.html
-[xendou_c_model]: https://KristiPhammie.github.io/becr/html/XendoU-C.html
-[endou_n_model]:  https://KristiPhammie.github.io/becr/html/EndoU-N.html 
-[endou_c_model]:  https://KristiPhammie.github.io/becr/html/EndoU-C.html
 [colicind_model]:  https://KristiPhammie.github.io/becr/html/ColicinD.html
 [colicine5_model]:  https://KristiPhammie.github.io/becr/html/ColicinE5.html
-[rele_model]:  https://KristiPhammie.github.io/becr/html/RelE.html
-[rele_mj_model]:  https://KristiPhammie.github.io/becr/html/RelE_MJ.html
+[rele_model]:  https://KristiPhammie.github.io/becr/html/RelE_E.coli.html
+[rele_mj_model]:  https://KristiPhammie.github.io/becr/html/RelE_M.jannaschii.html
 [pare_model]:  https://KristiPhammie.github.io/becr/html/ParE.html
 [pare-like_model]:  https://KristiPhammie.github.io/becr/html/ParE-like.html
 [yoeb_model]:  https://KristiPhammie.github.io/becr/html/YoeB.html
@@ -116,8 +112,8 @@ Toxin Domain Files
 [endou_c_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoU-C.molx&snapshot-url-type=molx
 [colicind_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinD.molx&snapshot-url-type=molx
 [colicine5_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinE5.molx&snapshot-url-type=molx
-[rele_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE.molx&snapshot-url-type=molx
-[rele_mj_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_MJ.molx&snapshot-url-type=molx
+[rele_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_E.coli.molx&snapshot-url-type=molx
+[rele_mj_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_M.jannaschii.molx&snapshot-url-type=molx
 [pare_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/pare.molx&snapshot-url-type=molx
 [pare-like_molx]:   https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ParE-like.molx&snapshot-url-type=molx
 [yoeb_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YoeB.molx&snapshot-url-type=molx
