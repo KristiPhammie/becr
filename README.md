@@ -40,8 +40,7 @@ Toxin Domain Files
 | CdiA-CT ECL                     | [PF14426][CdiA-CT_ECL]              | [4NTQ][CdiA-CT_ECL_molx]          |
 | CdiA-CT Kp342                   | [This Resource][CdiA-CT_Kp342]      | [6CP9][CdiA-CT_Kp342_molx]        |
 | CdiA-CT NC101                   | [This Resource][CdiA-CT_NC101]      | [5I4Q][CdiA-CT_NC101_molx]        |
-| CdiA-CT Ykris                   | [PF18431][CdiA-CT_Ykris]            | [5E3E][CdiA-CT_Ykris_molx]        |
-| ChpB                            | [PF02452][ChpB]                     | [P33647][ChpB_molx]               |
+| CdiA-CT Ykris                   | [PF18431][CdiA-CT_Ykris]            | [5E3E][CdiA-CT_Ykris_molx] |
 | EndoVII                         | [PF15657][PF15657]                  | [U2R0G2][PF15657_molx]            |
 | Ntox18.st1                      | [Nicastro et al., 2025][Ntox18.st1] | [FD01848346_03751][Ntox18.st1_molx] |
 | Ntox18.st2                      | [Nicastro et al., 2025][Ntox18.st2] | [FD01847924_02385][Ntox18.st2_molx] |
@@ -194,7 +193,7 @@ Toxin Domain Files
 [Ntox35_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox35.molx&snapshot-url-type=molx
 [Ntox36_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox36.molx&snapshot-url-type=molx
 [Ntox41_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox41.molx&snapshot-url-type=molx
-[Ntox47_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox47.molx&snapshot-url-type=molx
+[Ntox47_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PF15540.molx&snapshot-url-type=molx
 [Ntox47.st1_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox47.st1.molx&snapshot-url-type=molx
 [Ntox47.st2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox47.st2.molx&snapshot-url-type=molx
 [Ntox48_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox48.molx&snapshot-url-type=molx
