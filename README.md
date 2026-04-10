@@ -7,8 +7,8 @@
 | RelE (E. coli) | [This Resource][rele_model] | [4FXI][rele_molx] |
 | RelE (Methanococcus jannaschii) | [PF06296][rele_mj_model]            | [3BPQ][rele_mj_3bpq_molx] [A0A917YVE8][rele_mj_molx] |
 | ParE                            | [PF05016][pare_pfam] [This Resource][pare_kristi]               | [A0A4V1BZU9][pare_molx] |
-| ParE-like                       | [PF15781][pare-like_pfam] [This Resource][pare-like_kristi]         | [A0A0L6U2N9][pare-like_molx]                         |
-| YoeB                            | [PF06769][yoeb_pfam] [This Resource][yoeb_kristi] | [2A6R][yoeb_molx]                      |
+| ParE-like                       | [PF15781][pare-like_pfam] [This Resource][pare-like_kristi]         | [A0A0L6U2N9][pare-like_molx] |
+| YoeB                            | [PF06769][yoeb_pfam] [This Resource][yoeb_kristi] | [2A6R][yoeb_molx] |
 | YafO                            | [PF13957][yafo_model]               | [A0A3E0TU91][yafo_molx]                             |
 | YhaV                            | [PF11663][yhav_pfam] [This Resource][yhav_kristi] | [A0A1Y2R202][yhav_molx]                |
 | HigB		                      | [PF09907][higb_pfam] [This Resource][higb_kristi]	            | [B8F451][higb_molx]                                  |
@@ -16,12 +16,8 @@
 | BrnT 		                      | [PF04365][brnt_model]	            | [7VD7][brnt_7vd7_molx] [I4B9V8][brnt_I4B9V8_molx]                                   |
 | MqsR		            		  | [PF15723][mqsr_model]	            | [3HI2][mqsr_molx]                                    |
 | YafQ		                      | [PF15738][yafq_model]	            | [4LS4][yafq_molx] [L8LVU0][yafq_l8lvu0_molx]         |
-| gp49		                      | [PF05973][gp49_pfam] [This Resource][gp49_kristi]	            | [7AWK][gp49_molx] [Q2RNU1][gp49_7AWK_molx] |
-| MuF-like	                      | [PF18819][muf-like_pfam] [This Resource][muf-like_kristi]           | [A0A096XES0][muf-like_molx]                          |
+| gp49		                      | [PF05973][gp49_pfam] [This Resource][gp49_kristi]	            | [7AWK][gp49_molx] [Q2RNU1][gp49_Q2RNU1_molx] |                       |
 | RegB 		                      | [PF10715][regb_model]	            | [2HX6][regb_molx]                                    |
-| CdiA-CT 96.165                  | [PF14076][CdiA-CT_96.165]     | [D9SFT1][CdiA-CT_96.165_molx]                        |
-| Ntox19                          | [Nicastro et al., 2025][Ntox19]     | [FD01848386_04431][Ntox19_molx]                      |
-| Ntox49                          | [Nicastro et al., 2025][Ntox49]     | [FD01848538_01952][Ntox49_molx]                      |
 
 ## BECR-like
 
@@ -57,7 +53,6 @@
 
 | Toxin Family | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|---------------------------------|
-| CdiA-CT Kp342 | [This Resource][CdiA-CT_Kp342] | [6CP9][CdiA-CT_Kp342_molx] |
 | Colicin D | [PF11429][colicind_model] | [1V74][colicind_molx] |
 | Colicin E5 | [PF12106][colicine5_model] | [2DFX][colicine5_molx] |
 | Ntox35 | [PF15534][Ntox35] | [A0A1H3F8X0][Ntox35_molx] |
@@ -65,9 +60,14 @@
 | PBECR1 | [PF18809][pbecr1_model] | [A0A1F6M7H8][pbecr1_molx] |
 | PBECR3 | [PF18812][pbecr3_model] | [A0A0B7GSS4][pbecr3_molx] |
 | PBECR4 | [PF18813][pbecr4_model] | [A0A417QTL2][pbecr4_molx] |
+| CdiA-CT Kp342 | [This Resource][CdiA-CT_Kp342] | [6CP9][CdiA-CT_Kp342_molx] |
 | CdiA-CT EC3006 | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
 | CdiA-CT EC869 | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
 | CdiA-CT NC101 | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |
+| MuF-like	                      | [PF18819][muf-like_pfam] [This Resource][muf-like_kristi]           | [A0A096XES0][muf-like_molx]        
+| CdiA-CT 96.165                  | [PF14076][CdiA-CT_96.165]     | [D9SFT1][CdiA-CT_96.165_molx]                        |
+| Ntox19                          | [Nicastro et al., 2025][Ntox19]     | [FD01848386_04431][Ntox19_molx]                      |
+| Ntox49                          | [Nicastro et al., 2025][Ntox49]     | [FD01848538_01952][Ntox49_molx]                      |
 
 
 ## EndoU-like
@@ -202,7 +202,7 @@
 [colicine5_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinE5.molx&snapshot-url-type=molx
 [rele_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_E.coli.molx&snapshot-url-type=molx
 [rele_mj_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE.M.jannaschii_A0A917YVE8.molx&snapshot-url-type=molx
-[rele_mj_3bpq_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE.M.jannaschii_3BPQ.molx&snapshot-url-type=molx
+[rele_mj_3bpq_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE.M.jannaschii.molx&snapshot-url-type=molx
 [pare_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ParE.molx&snapshot-url-type=molx
 [pare-like_molx]:   https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ParE-like.molx&snapshot-url-type=molx
 [yoeb_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YoeB.molx&snapshot-url-type=molx
