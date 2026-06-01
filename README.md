@@ -25,8 +25,8 @@
 
 | Toxin Family | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|---------------------------------|
-| RelE (E. coli) | [This Resource][RelE_E.coli] | [4FXI][rele_molx] |
-| RelE (Methanococcus jannaschii) | [PF06296][RelE_M.jannaschii] | [3BPQ][RelE_MJ_3bpq_molx] [A0A917YVE8][RelE_MJ_molx] |
+| RelE (E. coli) | [This Resource][RelE_E.coli] | [4FXI][RelE_E.coli_molx] |
+| RelE (Methanococcus jannaschii) | [PF06296][RelE_M.jannaschii] | [3BPQ][RelE_M.jannaschii_pdb_molx] [A0A917YVE8][RelE_M.jannaschii_afdb_molx] |
 | ParE | [PF05016][ParE_pfam] [This Resource][ParE_kristi] | [A0A4V1BZU9][ParE_molx] |
 | ParE-like | [PF15781][ParE-like_pfam] [This Resource][ParE-like_kristi] | [A0A0L6U2N9][ParE-like_molx] |
 | YoeB | [PF06769][YoeB_pfam] [This Resource][YoeB_kristi] | [2A6R][YoeB_molx] |
@@ -34,11 +34,11 @@
 | YhaV | [PF11663][YhaV_pfam] [This Resource][YhaV_kristi] | [A0A1Y2R202][YhaV_molx] |
 | HigB | [PF09907][HigB_pfam] [This Resource][HigB_kristi] | [B8F451][HigB_molx] |
 | HigB-like | [PF05015][HigB-like_pfam] | [A0A7H0SQA8][HigB-like_molx] |
-| BrnT | [PF04365][BrnT] | [7VD7][BrnT_7vd7_molx] [I4B9V8][BrnT_I4B9V8_molx] |
+| BrnT | [PF04365][BrnT] | [7VD7][BrnT_pdb_molx] [I4B9V8][BrnT_afdb_molx] |
 | MqsR | [PF15723][MqsR] | [3HI2][MqsR_molx] |
-| YafQ | [PF15738][YafQ] | [4LS4][YafQ_molx] [L8LVU0][YafQ_l8lvu0_molx] |
-| gp49 | [PF05973][gp49_pfam] [This Resource][gp49_kristi] | [7AWK][gp49_molx] [Q2RNU1][gp49_Q2RNU1_molx] |
-| RegB | [PF10715][RegB] | [2HX6][regb_molx] |
+| YafQ | [PF15738][YafQ] | [4LS4][YafQ_pdb_molx] [L8LVU0][YafQ_afdb_molx] |
+| gp49 | [PF05973][gp49_pfam] [This Resource][gp49_kristi] | [7AWK][gp49_pdb_molx] [Q2RNU1][gp49_afdb_molx] |
+| RegB | [PF10715][RegB] | [2HX6][RegB_molx] |
 
 ## EndoU-like
 
@@ -209,39 +209,10 @@
 
 <!-- Molx snapshots -->
 [Barnase_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Barnase.molx&snapshot-url-type=molx
-[XendoU_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/XendoU.molx&snapshot-url-type=molx
-[EndoU_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoU.molx&snapshot-url-type=molx
-[ColicinD_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinD.molx&snapshot-url-type=molx
-[ColicinE5_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinE5.molx&snapshot-url-type=molx
-[RelE_EC_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_E.coli.molx&snapshot-url-type=molx
-[RelE_MJ_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE.M.jannaschii_A0A917YVE8.molx&snapshot-url-type=molx
-[RelE_MJ_3BPQ_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE.M.jannaschii.molx&snapshot-url-type=molx
-[ParE_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ParE.molx&snapshot-url-type=molx
-[ParE-like_molx]:   https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ParE-like.molx&snapshot-url-type=molx
-[YoeB_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YoeB.molx&snapshot-url-type=molx
-[YafO_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YafO.molx&snapshot-url-type=molx
-[YhaV_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YhaV.molx&snapshot-url-type=molx
-[HigB_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/HigB.molx&snapshot-url-type=molx
-[HigB-like_molx]:   https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/HigB-like.molx&snapshot-url-type=molx
-[brnt_7VD7_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BrnT_7vd7.molx&snapshot-url-type=molx
-[BrnT_I4B9V8_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BrnT_I4B9V8.molx&snapshot-url-type=molx
-[MqsR_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/MqsR.molx&snapshot-url-type=molx
-[YeeF_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YeeF.molx&snapshot-url-type=molx
-[YafQ_molx]:     https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YafQ.molx&snapshot-url-type=molx
-[yafq_l8lvu0_molx]:     https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YafQ_L8LVU0.molx&snapshot-url-type=molx
-[gp49_molx]:     https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/gp49.molx&snapshot-url-type=molx
-[gp49_Q2RNU1_molx]:     https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/gp49_Q2RNU1.molx&snapshot-url-type=molx
-[MuF-like_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/MuF-like.molx&snapshot-url-type=molx
-[RegB_molx]:     https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RegB.molx&snapshot-url-type=molx
-[RNaseA_molx]:    https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseA.molx&snapshot-url-type=molx
-[RNaseT1_molx]:   https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNase_T1.molx&snapshot-url-type=molx
-[RNaseT2_molx]:   https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseT2.molx&snapshot-url-type=molx
-[Sarcin_molx]:    https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Sarcin.molx&snapshot-url-type=molx
-[pbecr1_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR1.molx&snapshot-url-type=molx
-[pbecr3_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR3.molx&snapshot-url-type=molx
-[pbecr4_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR4.molx&snapshot-url-type=molx
-[pbecr5_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR5.molx&snapshot-url-type=molx
-[BC_0920_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BC_0920.molx&snapshot-url-type=molx
+[BrnT_pdb_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BrnT_pdb.molx&snapshot-url-type=molx
+[BrnT_afdb_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BrnT_afdb.molx&snapshot-url-type=molx
+[BC0920_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BC0920.molx&snapshot-url-type=molx
+
 [CdiA-CT_96.154_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_96.154.molx&snapshot-url-type=molx
 [CdiA-CT_EC3006_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_EC3006.molx&snapshot-url-type=molx
 [CdiA-CT_EC869_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_EC869.molx&snapshot-url-type=molx
@@ -249,8 +220,22 @@
 [CdiA-CT_Kp342_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_Kp342.molx&snapshot-url-type=molx
 [CdiA-CT_NC101_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_NC101.molx&snapshot-url-type=molx
 [CdiA-CT_Ykris_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_Ykris.molx&snapshot-url-type=molx
-[ChpB_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ChpB.molx&snapshot-url-type=molx
+[ColicinD_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinD.molx&snapshot-url-type=molx
+[ColicinE5_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinE5.molx&snapshot-url-type=molx
+
+[EndoU_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoU.molx&snapshot-url-type=molx
+
+[gp49_pdb_molx]:     https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/gp49_pdb.molx&snapshot-url-type=molx
+[gp49_afdv_molx]:     https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/gp49_afdb.molx&snapshot-url-type=molx
+
+[HigB_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/HigB.molx&snapshot-url-type=molx
+[HigB-like_molx]:   https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/HigB-like.molx&snapshot-url-type=molx
+
 [PF15657_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PF15657.molx&snapshot-url-type=molx
+
+[MqsR_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/MqsR.molx&snapshot-url-type=molx
+[MuF-like_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/MuF-like.molx&snapshot-url-type=molx
+
 [Ntox18.st1_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox18.st1.molx&snapshot-url-type=molx
 [Ntox18.st2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox18.st2.molx&snapshot-url-type=molx
 [Ntox19_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox19.molx&snapshot-url-type=molx
@@ -264,9 +249,26 @@
 [Ntox49_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox49.molx&snapshot-url-type=molx
 [Ntox50_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox50.molx&snapshot-url-type=molx
 [Ntox7_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox7.molx&snapshot-url-type=molx
+
+[ParE_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ParE.molx&snapshot-url-type=molx
+[ParE-like_molx]:   https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ParE-like.molx&snapshot-url-type=molx
+[PBECR1_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR1.molx&snapshot-url-type=molx
+[PBECR3_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR3.molx&snapshot-url-type=molx
+[PBECR4_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR4.molx&snapshot-url-type=molx
+[PBECR5_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR5.molx&snapshot-url-type=molx
+
+[RegB_molx]:     https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RegB.molx&snapshot-url-type=molx
+[RNaseA_molx]:    https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseA.molx&snapshot-url-type=molx
+[RNaseT1_molx]:   https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNase_T1.molx&snapshot-url-type=molx
+[RNaseT2_molx]:   https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseT2.molx&snapshot-url-type=molx
+[RelE_E.coli_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_E.coli.molx&snapshot-url-type=molx
+[RelE_M.jannaschii_pdb_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_M.jannaschii_pdb.molx&snapshot-url-type=molx
+[RelE_M.jannaschii_afdb_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_M.jannaschii_afdb.molx&snapshot-url-type=molx
+
+[Sarcin_molx]:    https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Sarcin.molx&snapshot-url-type=molx
 [STox_1_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/stox_1.molx&snapshot-url-type=molx
 [STox_11_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/stox_11.molx&snapshot-url-type=molx
-[Stox_2_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/stox_2.molx&snapshot-url-type=molx
+[STox_2_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/stox_2.molx&snapshot-url-type=molx
 [STox_3_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/stox_3.molx&snapshot-url-type=molx
 [STox_32_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/stox_32.molx&snapshot-url-type=molx
 [STox_37_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/stox_37.molx&snapshot-url-type=molx
@@ -278,4 +280,15 @@
 [STox_59_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/stox_59.molx&snapshot-url-type=molx
 [STox_6_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/stox_6.molx&snapshot-url-type=molx
 [STox_60_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/stox_60.molx&snapshot-url-type=molx
+
 [Tox-Ribonuclease_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Tox-Ribonuclease.molx&snapshot-url-type=molx
+
+[XendoU_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/XendoU.molx&snapshot-url-type=molx
+
+[YeeF_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YeeF.molx&snapshot-url-type=molx
+[YafQ_molx]:     https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YafQ.molx&snapshot-url-type=molx
+[YoeB_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YoeB.molx&snapshot-url-type=molx
+[YafO_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YafO.molx&snapshot-url-type=molx
+[YhaV_molx]:        https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YhaV.molx&snapshot-url-type=molx
+[YafQ_pdb_molx]:     https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YafQ_pdb.molx&snapshot-url-type=molx
+[YafQ_afdb_molx]:     https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YafQ_afdb.molx&snapshot-url-type=molx
