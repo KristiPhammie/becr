@@ -11,7 +11,7 @@
 | CdiA-CT EC3006 | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
 | CdiA-CT EC869 | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
 | CdiA-CT NC101 | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |     
-| CdiA-CT 96.154 | [PF14076][CdiA-CT_96.154]     | [D9SFT1][CdiA-CT_96.154_molx] |
+| CdiA-CT 96.154 | [PF14076][CdiA-CT_96.154_pfam] [This Resource][CdiA-CT_96.154_kristi] | [D9SFT1][CdiA-CT_96.154_molx] |
 | RNase T2 | [PF00445][RNaseT2_model] | [2EA1][RNaseT2_molx] |
 | MuF-like | [PF18819][MuF-like_pfam_model] [This Resource][MuF-like_kristi_model] | [A0A096XES0][MuF-like_molx] |  
 | Ntox35 | [PF15534][Ntox35] | [A0A1H3F8X0][Ntox35_molx] |
@@ -30,15 +30,15 @@
 | ParE | [PF05016][ParE_pfam] [This Resource][ParE_kristi] | [A0A4V1BZU9][ParE_molx] |
 | ParE-like | [PF15781][ParE-like_pfam] [This Resource][ParE-like_kristi] | [A0A0L6U2N9][ParE-like_molx] |
 | YoeB | [PF06769][YoeB_pfam] [This Resource][YoeB_kristi] | [2A6R][YoeB_molx] |
-| YafO | [PF13957][YafO_model] | [A0A3E0TU91][YafO_molx] |
+| YafO | [PF13957][YafO] | [A0A3E0TU91][YafO_molx] |
 | YhaV | [PF11663][YhaV_pfam] [This Resource][YhaV_kristi] | [A0A1Y2R202][YhaV_molx] |
 | HigB | [PF09907][HigB_pfam] [This Resource][HigB_kristi] | [B8F451][HigB_molx] |
 | HigB-like | [PF05015][HigB-like_pfam] | [A0A7H0SQA8][HigB-like_molx] |
-| BrnT | [PF04365][BrnT_model] | [7VD7][BrnT_7vd7_molx] [I4B9V8][BrnT_I4B9V8_molx] |
-| MqsR | [PF15723][MqsR_model] | [3HI2][MqsR_molx] |
-| YafQ | [PF15738][YafQ_model] | [4LS4][YafQ_molx] [L8LVU0][YafQ_l8lvu0_molx] |
+| BrnT | [PF04365][BrnT] | [7VD7][BrnT_7vd7_molx] [I4B9V8][BrnT_I4B9V8_molx] |
+| MqsR | [PF15723][MqsR] | [3HI2][MqsR_molx] |
+| YafQ | [PF15738][YafQ] | [4LS4][YafQ_molx] [L8LVU0][YafQ_l8lvu0_molx] |
 | gp49 | [PF05973][gp49_pfam] [This Resource][gp49_kristi] | [7AWK][gp49_molx] [Q2RNU1][gp49_Q2RNU1_molx] |
-| RegB | [PF10715][RegB_model] | [2HX6][regb_molx] |
+| RegB | [PF10715][RegB] | [2HX6][regb_molx] |
 
 ## RNaseA-like
 
@@ -111,7 +111,8 @@
 [BC0920_model]: https://KristiPhammie.github.io/becr/html/BC0920.html
 [BrnT_model]:  https://KristiPhammie.github.io/becr/html/BrnT.html
 
-[CdiA-CT_96.154]: https://KristiPhammie.github.io/becr/html/CdiA-CT_96.154.html
+[CdiA-CT_96.154_pfam]: https://KristiPhammie.github.io/becr/html/CdiA-CT_96.154_pfam.html
+[CdiA-CT_96.154_kristi]: https://KristiPhammie.github.io/becr/html/CdiA-CT_96.154_kristi.html
 [CdiA-CT_EC3006]: https://KristiPhammie.github.io/becr/html/CdiA-CT_EC3006.html
 [CdiA-CT_EC3006_full]: https://KristiPhammie.github.io/becr/html/CdiA-CT_EC3006_full.html
 [CdiA-CT_EC869]: https://KristiPhammie.github.io/becr/html/CdiA-CT_EC869.html
@@ -130,13 +131,13 @@
 [gp49_pfam]:     https://KristiPhammie.github.io/becr/html/gp49_pfam.html
 [gp49_kristi]:     https://KristiPhammie.github.io/becr/html/gp49_kristi.html
 
-[HigB_pfam_model]:  https://KristiPhammie.github.io/becr/html/HigB_pfam.html
-[HigB_kristi_model]:  https://KristiPhammie.github.io/becr/html/HigB_kristi.html
-[HigB-like_pfam_model]:  https://KristiPhammie.github.io/becr/html/HigB-like_pfam.html
+[HigB_pfam]:  https://KristiPhammie.github.io/becr/html/HigB_pfam.html
+[HigB_kristi]:  https://KristiPhammie.github.io/becr/html/HigB_kristi.html
+[HigB-like_pfam]:  https://KristiPhammie.github.io/becr/html/HigB-like_pfam.html
 
-[MqsR_model]:  https://KristiPhammie.github.io/becr/html/MqsR_pfam.html
-[MuF-like_pfam_model]: https://KristiPhammie.github.io/becr/html/MuF-like_pfam.html
-[Muf-like_kristi_model]: https://KristiPhammie.github.io/becr/html/MuF-like_kristi.html
+[MqsR]:  https://KristiPhammie.github.io/becr/html/MqsR_pfam.html
+[MuF-like_pfam]: https://KristiPhammie.github.io/becr/html/MuF-like_pfam.html
+[Muf-like_kristi]: https://KristiPhammie.github.io/becr/html/MuF-like_kristi.html
 
 [Ntox18.st1]: https://KristiPhammie.github.io/becr/html/Ntox18.st1.html
 [Ntox18.st2]: https://KristiPhammie.github.io/becr/html/Ntox18.st2.html
@@ -154,8 +155,8 @@
 [Ntox50]: https://KristiPhammie.github.io/becr/html/Ntox50.html
 [Ntox7]: https://KristiPhammie.github.io/becr/html/Ntox7.html
 
-[ParE_pfam_model]:  https://KristiPhammie.github.io/becr/html/ParE_pfam.html
-[ParE_kristi_model]:  https://KristiPhammie.github.io/becr/html/ParE_kristi.html
+[ParE_pfam]:  https://KristiPhammie.github.io/becr/html/ParE_pfam.html
+[ParE_kristi]:  https://KristiPhammie.github.io/becr/html/ParE_kristi.html
 [ParE-like_pfam_model]:  https://KristiPhammie.github.io/becr/html/ParE-like_pfam.html
 [ParE-like_kristi_model]:  https://KristiPhammie.github.io/becr/html/ParE-like_kristi.html
 [PBECR1_model]: https://KristiPhammie.github.io/becr/html/PBECR1.html
@@ -163,9 +164,9 @@
 [PBECR4_model]: https://KristiPhammie.github.io/becr/html/PBECR4.html
 [PBECR5_model]: https://KristiPhammie.github.io/becr/html/PBECR5.html
 
-[RelE_EC_model]:  https://KristiPhammie.github.io/becr/html/RelE_E.coli.html
-[RelE_MJ_model]:  https://KristiPhammie.github.io/becr/html/RelE_M.jannaschii.html
-[RegB_model]:     https://KristiPhammie.github.io/becr/html/RegB.html
+[RelE_EC]:  https://KristiPhammie.github.io/becr/html/RelE_E.coli.html
+[RelE_MJ]:  https://KristiPhammie.github.io/becr/html/RelE_M.jannaschii.html
+[RegB]:     https://KristiPhammie.github.io/becr/html/RegB.html
 [RNaseA_model]:   https://KristiPhammie.github.io/becr/html/RNaseA.html
 [RNaseT1_model]:  https://KristiPhammie.github.io/becr/html/RNaseT1.html
 [RNaseT2_model]:  https://KristiPhammie.github.io/becr/html/RNaseT2.html
@@ -176,7 +177,7 @@
 [STox_1]: https://KristiPhammie.github.io/becr/html/STox_1.html
 [STox_11]: https://KristiPhammie.github.io/becr/html/STox_11_gian.html
 [STox_11_kristi]: https://KristiPhammie.github.io/becr/html/STox_11_kristi.html
-[Stox_2]: https://KristiPhammie.github.io/becr/html/STox_2.html
+[STox_2]: https://KristiPhammie.github.io/becr/html/STox_2.html
 [STox_3]: https://KristiPhammie.github.io/becr/html/STox_3.html
 [STox_32]: https://KristiPhammie.github.io/becr/html/STox_32.html
 [STox_37]: https://KristiPhammie.github.io/becr/html/STox_37_kristi.html
@@ -194,13 +195,13 @@
 
 [XendoU]: https://KristiPhammie.github.io/becr/html/XendoU.html
 
-[YafO_model]:  https://KristiPhammie.github.io/becr/html/YafO.html
-[YafQ_model]:     https://KristiPhammie.github.io/becr/html/YafQ_pfam.html
+[YafO]:  https://KristiPhammie.github.io/becr/html/YafO.html
+[YafQ]:     https://KristiPhammie.github.io/becr/html/YafQ_pfam.html
 [YeeF_model]:  https://KristiPhammie.github.io/becr/html/YeeF.html
-[YhaV_pfam_model]:  https://KristiPhammie.github.io/becr/html/YhaV_pfam.html
-[YhaV_kristi_model]:  https://KristiPhammie.github.io/becr/html/YhaV_kristi.html
-[YoeB_pfam_model]:  https://KristiPhammie.github.io/becr/html/YoeB_pfam.html
-[YoeB_kristi_model]:  https://KristiPhammie.github.io/becr/html/YoeB_kristi.html
+[YhaV_pfam]:  https://KristiPhammie.github.io/becr/html/YhaV_pfam.html
+[YhaV_kristi]:  https://KristiPhammie.github.io/becr/html/YhaV_kristi.html
+[YoeB_pfam]:  https://KristiPhammie.github.io/becr/html/YoeB_pfam.html
+[YoeB_kristi]:  https://KristiPhammie.github.io/becr/html/YoeB_kristi.html
 
 
 
