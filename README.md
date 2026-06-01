@@ -7,19 +7,19 @@
 |--------------|----------------|---------------------------------|
 | Colicin D | [PF11429][colicind_model] | [1V74][colicind_molx] |
 | Colicin E5 | [PF12106][colicine5_model] | [2DFX][colicine5_molx] |
-| Ntox35 | [PF15534][Ntox35] | [A0A1H3F8X0][Ntox35_molx] |
-| RNase T2 | [PF00445][rnaset2_model] | [2EA1][rnaset2_molx] |
-| PBECR1 | [PF18809][pbecr1_model] | [A0A1F6M7H8][pbecr1_molx] |
-| PBECR3 | [PF18812][pbecr3_model] | [A0A0B7GSS4][pbecr3_molx] |
-| PBECR4 | [PF18813][pbecr4_model] | [A0A417QTL2][pbecr4_molx] |
 | CdiA-CT Kp342 | [This Resource][CdiA-CT_Kp342] | [6CP9][CdiA-CT_Kp342_molx] |
 | CdiA-CT EC3006 | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
 | CdiA-CT EC869 | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
-| CdiA-CT NC101 | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |
-| MuF-like	                      | [PF18819][muf-like_pfam] [This Resource][muf-like_kristi]           | [A0A096XES0][muf-like_molx]        
-| CdiA-CT 96.154                  | [PF14076][CdiA-CT_96.165]     | [D9SFT1][CdiA-CT_96.165_molx]                        |
-| Ntox19                          | [Nicastro et al., 2025][Ntox19]     | [FD01848386_04431][Ntox19_molx]                      |
-| Ntox49                          | [Nicastro et al., 2025][Ntox49]     | [FD01848538_01952][Ntox49_molx]                      |
+| CdiA-CT NC101 | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |     
+| CdiA-CT 96.154 | [PF14076][CdiA-CT_96.165]     | [D9SFT1][CdiA-CT_96.165_molx] |
+| RNase T2 | [PF00445][rnaset2_model] | [2EA1][rnaset2_molx] |
+| MuF-like | [PF18819][muf-like_pfam] [This Resource][muf-like_kristi] | [A0A096XES0][muf-like_molx] |  
+| Ntox35 | [PF15534][Ntox35] | [A0A1H3F8X0][Ntox35_molx] |
+| PBECR1 | [PF18809][pbecr1_model] | [A0A1F6M7H8][pbecr1_molx] |
+| PBECR3 | [PF18812][pbecr3_model] | [A0A0B7GSS4][pbecr3_molx] |
+| PBECR4 | [PF18813][pbecr4_model] | [A0A417QTL2][pbecr4_molx] |
+| Ntox19 | [Nicastro et al., 2025][Ntox19] | [FD01848386_04431][Ntox19_molx] |
+| Ntox49 | [Nicastro et al., 2025][Ntox49] | [FD01848538_01952][Ntox49_molx] |
 
 ## RelE-like
 
@@ -41,6 +41,7 @@
 | RegB 		                      | [PF10715][regb_model]	            | [2HX6][regb_molx]                                    |
 
 ## RNaseA-like
+
 | Toxin Family | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|---------------------------------|
 | RNase A | [PF00074][rnasea_model] | [4WYN][rnasea_molx] |
@@ -58,6 +59,7 @@
 | STox_60 | [Nicastro et al., 2025][STox_60] | [WP_029789863.1][STox_60_molx] |
 
 ## EndoVII-like
+
 | Toxin Family | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|---------------------------------|
 | EndoVII | [PF15657][EndoVII_pfam] [This Resource][EndoVII_kristi] | [U2R0G2][PF15657_molx] |
