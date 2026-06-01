@@ -6,18 +6,18 @@
 | Toxin Family | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|---------------------------------|
 | Colicin D | [PF11429][ColicinD_model] | [1V74][ColicinD_molx] |
-| Colicin E5 | [PF12106][ColicinC5_model] | [2DFX][ColicinE5_molx] |
+| Colicin E5 | [PF12106][ColicinE5_model] | [2DFX][ColicinE5_molx] |
 | CdiA-CT Kp342 | [This Resource][CdiA-CT_Kp342] | [6CP9][CdiA-CT_Kp342_molx] |
 | CdiA-CT EC3006 | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
 | CdiA-CT EC869 | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
 | CdiA-CT NC101 | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |     
 | CdiA-CT 96.154 | [PF14076][CdiA-CT_96.165]     | [D9SFT1][CdiA-CT_96.165_molx] |
-| RNase T2 | [PF00445][rnaset2_model] | [2EA1][rnaset2_molx] |
-| MuF-like | [PF18819][muf-like_pfam] [This Resource][muf-like_kristi] | [A0A096XES0][muf-like_molx] |  
+| RNase T2 | [PF00445][RNaseT2_model] | [2EA1][rnaset2_molx] |
+| MuF-like | [PF18819][MuF-like_pfam] [This Resource][Muf-like_kristi] | [A0A096XES0][muf-like_molx] |  
 | Ntox35 | [PF15534][Ntox35] | [A0A1H3F8X0][Ntox35_molx] |
-| PBECR1 | [PF18809][pbecr1_model] | [A0A1F6M7H8][pbecr1_molx] |
-| PBECR3 | [PF18812][pbecr3_model] | [A0A0B7GSS4][pbecr3_molx] |
-| PBECR4 | [PF18813][pbecr4_model] | [A0A417QTL2][pbecr4_molx] |
+| PBECR1 | [PF18809][PBECR1_model] | [A0A1F6M7H8][pbecr1_molx] |
+| PBECR3 | [PF18812][PBECR3_model] | [A0A0B7GSS4][pbecr3_molx] |
+| PBECR4 | [PF18813][PBECR4_model] | [A0A417QTL2][pbecr4_molx] |
 | Ntox19 | [Nicastro et al., 2025][Ntox19] | [A0A5E7QDQ0][Ntox19_molx] |
 | Ntox49 | [Nicastro et al., 2025][Ntox49] | [A0A7H0VXI5][Ntox49_molx] |
 
@@ -25,26 +25,26 @@
 
 | Toxin Family | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|---------------------------------|
-| RelE (E. coli) | [This Resource][rele_model] | [4FXI][rele_molx] |
-| RelE (Methanococcus jannaschii) | [PF06296][rele_mj_model]            | [3BPQ][rele_mj_3bpq_molx] [A0A917YVE8][rele_mj_molx] |
-| ParE                            | [PF05016][pare_pfam] [This Resource][pare_kristi]               | [A0A4V1BZU9][pare_molx] |
-| ParE-like                       | [PF15781][pare-like_pfam] [This Resource][pare-like_kristi]         | [A0A0L6U2N9][pare-like_molx] |
-| YoeB                            | [PF06769][yoeb_pfam] [This Resource][yoeb_kristi] | [2A6R][yoeb_molx] |
-| YafO                            | [PF13957][yafo_model]               | [A0A3E0TU91][yafo_molx]                             |
-| YhaV                            | [PF11663][yhav_pfam] [This Resource][yhav_kristi] | [A0A1Y2R202][yhav_molx]                |
-| HigB		                      | [PF09907][higb_pfam] [This Resource][higb_kristi]	            | [B8F451][higb_molx]                                  |
-| HigB-like 	       		      | [PF05015][higb-like_pfam]          | [A0A7H0SQA8][higb-like_molx]                         |
-| BrnT 		                      | [PF04365][brnt_model]	            | [7VD7][brnt_7vd7_molx] [I4B9V8][brnt_I4B9V8_molx]                                   |
-| MqsR		            		  | [PF15723][mqsr_model]	            | [3HI2][mqsr_molx]                                    |
-| YafQ		                      | [PF15738][yafq_model]	            | [4LS4][yafq_molx] [L8LVU0][yafq_l8lvu0_molx]         |
+| RelE (E. coli) | [This Resource][RelE_EC_model] | [4FXI][rele_molx] |
+| RelE (Methanococcus jannaschii) | [PF06296][RelE_MJ_model]            | [3BPQ][rele_mj_3bpq_molx] [A0A917YVE8][rele_mj_molx] |
+| ParE                            | [PF05016][ParE_pfam] [This Resource][ParE_kristi]               | [A0A4V1BZU9][pare_molx] |
+| ParE-like                       | [PF15781][ParE-like_pfam] [This Resource][ParE-like_kristi]         | [A0A0L6U2N9][pare-like_molx] |
+| YoeB                            | [PF06769][YoeB_pfam] [This Resource][YoeB_kristi] | [2A6R][yoeb_molx] |
+| YafO                            | [PF13957][YafO_model]               | [A0A3E0TU91][yafo_molx]                             |
+| YhaV                            | [PF11663][YhaV_pfam] [This Resource][YhaV_kristi] | [A0A1Y2R202][yhav_molx]                |
+| HigB		                      | [PF09907][HigB_pfam] [This Resource][HigB_kristi]	            | [B8F451][higb_molx]                                  |
+| HigB-like 	       		      | [PF05015][HigB-like_pfam]          | [A0A7H0SQA8][higb-like_molx]                         |
+| BrnT 		                      | [PF04365][BrnT_model]	            | [7VD7][brnt_7vd7_molx] [I4B9V8][brnt_I4B9V8_molx]                                   |
+| MqsR		            		  | [PF15723][MqsR_model]	            | [3HI2][mqsr_molx]                                    |
+| YafQ		                      | [PF15738][YafQ_model]	            | [4LS4][yafq_molx] [L8LVU0][yafq_l8lvu0_molx]         |
 | gp49		                      | [PF05973][gp49_pfam] [This Resource][gp49_kristi]	            | [7AWK][gp49_molx] [Q2RNU1][gp49_Q2RNU1_molx] |                       |
-| RegB 		                      | [PF10715][regb_model]	            | [2HX6][regb_molx]                                    |
+| RegB 		                      | [PF10715][RegB_model]	            | [2HX6][regb_molx]                                    |
 
 ## RNaseA-like
 
 | Toxin Family | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|---------------------------------|
-| RNase A | [PF00074][rnasea_model] | [4WYN][rnasea_molx] |
+| RNase A | [PF00074][RNaseA_model] | [4WYN][rnasea_molx] |
 | CdiA-CT Ykris | [PF18431][CdiA-CT_Ykris] | [5E3E][CdiA-CT_Ykris_molx] |
 | Ntox41 | [Zhang et al., 2012][Ntox41] | [A0A0E0USU5][Ntox41_molx] |
 | Ntox50 | [PF15542][Ntox50] | [A0AAF0CX04][Ntox50_molx] |
@@ -55,7 +55,7 @@
 |--------------|----------------|---------------------------------|
 | XendoU | [PF09412][XendoU] | [2C1W][XendoU_molx] |
 | EndoU | [PF14436][EndoU] | [5HKQ][EndoU_molx] |
-| BC_0920 | [This Resource][BC_0920] | [Q813X6][BC_0920_molx] |
+| BC_0920 | [This Resource][BC0920] | [Q813X6][BC_0920_molx] |
 | STox_60 | [Nicastro et al., 2025][STox_60] | [WP_029789863.1][STox_60_molx] |
 
 ## EndoVII-like
@@ -75,7 +75,7 @@
 | STox_57 | [Nicastro et al., 2025][STox_57] | [WP_144559643.1][STox_57_molx] |
 | STox_58 | [Nicastro et al., 2025][STox_58] | [WP_113759404.1][STox_58_molx] |
 | STox_59 | [Nicastro et al., 2025][STox_59] | [WP_039850383.1][STox_59_molx] |
-| YeeF | [This resource][yeef_model] | [O31506][yeef_molx] |
+| YeeF | [This resource][YeeF_model] | [O31506][yeef_molx] |
 
 ## Barnase-like
 
@@ -98,13 +98,13 @@
 | Toxin Family | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|---------------------------------|
 | STox_37 | [Nicastro et al., 2025][STox_37_gian] [This Resource][STox_37] | [A0A1M6MZG2][STox_37_molx] |
-| PBECR5 | [PF18814][pbecr5_model] | [A0A396QF16][pbecr5_molx] |
+| PBECR5 | [PF18814][PBECR5_model] | [A0A396QF16][pbecr5_molx] |
 | Ntox48 | [Zhang et al., 2012][Ntox48] | [A0A0H3KAY5][Ntox48_molx] |
 | CdiA-CT ECL | [PF14426][CdiA-CT_ECL_pfam] [This Resource][CdiA-CT_ECL_kristi] | [4NTQ][CdiA-CT_ECL_molx] |
 | Ntox18.st1 | [Nicastro et al., 2025][Ntox18.st1] | [FD01848346_03751][Ntox18.st1_molx] |
 | Ntox18.st2 | [Nicastro et al., 2025][Ntox18.st2] | [FD01847924_02385][Ntox18.st2_molx] |
-| RNase T1 | [This Resource][rnaset1_model] | [1B2M][rnaset1_molx] |
-| Sarcin | [This Resource][sarcin_model] [Full This Resource][sarcin_full_model] | [1DE3][sarcin_molx] |
+| RNase T1 | [This Resource][RNaseT1_model] | [1B2M][rnaset1_molx] |
+| Sarcin | [This Resource][Sarcin_model] [Full This Resource][Sarcin_full_model] | [1DE3][sarcin_molx] |
 
 <!-- HTML models -->
 [RelE_EC_model]:  https://KristiPhammie.github.io/becr/html/RelE_E.coli.html
