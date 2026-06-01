@@ -13,7 +13,7 @@
 | CdiA-CT NC101 | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |     
 | CdiA-CT 96.154 | [PF14076][CdiA-CT_96.154_pfam] [This Resource][CdiA-CT_96.154_kristi] | [D9SFT1][CdiA-CT_96.154_molx] |
 | RNase T2 | [PF00445][RNaseT2_model] | [2EA1][RNaseT2_molx] |
-| MuF-like | [PF18819][MuF-like_pfam_model] [This Resource][MuF-like_kristi_model] | [A0A096XES0][MuF-like_molx] |  
+| MuF-like | [PF18819][MuF-like_pfam] [This Resource][MuF-like_kristi] | [A0A096XES0][MuF-like_molx] |  
 | Ntox35 | [PF15534][Ntox35] | [A0A1H3F8X0][Ntox35_molx] |
 | PBECR1 | [PF18809][PBECR1_model] | [A0A1F6M7H8][PBECR1_molx] |
 | PBECR3 | [PF18812][PBECR3_model] | [A0A0B7GSS4][PBECR3_molx] |
@@ -25,8 +25,8 @@
 
 | Toxin Family | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|---------------------------------|
-| RelE (E. coli) | [This Resource][RelE_EC_model] | [4FXI][rele_molx] |
-| RelE (Methanococcus jannaschii) | [PF06296][RelE_MJ_model] | [3BPQ][RelE_MJ_3bpq_molx] [A0A917YVE8][RelE_MJ_molx] |
+| RelE (E. coli) | [This Resource][RelE_E.coli] | [4FXI][rele_molx] |
+| RelE (Methanococcus jannaschii) | [PF06296][RelE_M.jannaschii] | [3BPQ][RelE_MJ_3bpq_molx] [A0A917YVE8][RelE_MJ_molx] |
 | ParE | [PF05016][ParE_pfam] [This Resource][ParE_kristi] | [A0A4V1BZU9][ParE_molx] |
 | ParE-like | [PF15781][ParE-like_pfam] [This Resource][ParE-like_kristi] | [A0A0L6U2N9][ParE-like_molx] |
 | YoeB | [PF06769][YoeB_pfam] [This Resource][YoeB_kristi] | [2A6R][YoeB_molx] |
@@ -40,6 +40,15 @@
 | gp49 | [PF05973][gp49_pfam] [This Resource][gp49_kristi] | [7AWK][gp49_molx] [Q2RNU1][gp49_Q2RNU1_molx] |
 | RegB | [PF10715][RegB] | [2HX6][regb_molx] |
 
+## EndoU-like
+
+| Toxin Family | Model (source) | Annotated Structure (accession) |
+|--------------|----------------|---------------------------------|
+| XendoU | [PF09412][XendoU] | [2C1W][XendoU_molx] |
+| EndoU | [PF14436][EndoU] | [5HKQ][EndoU_molx] |
+| BC0920 | [This Resource][BC0920] | [Q813X6][BC0920_molx] |
+| STox_60 | [Nicastro et al., 2025][STox_60] | [WP_029789863.1][STox_60_molx] |
+
 ## RNaseA-like
 
 | Toxin Family | Model (source) | Annotated Structure (accession) |
@@ -48,15 +57,6 @@
 | CdiA-CT Ykris | [PF18431][CdiA-CT_Ykris] | [5E3E][CdiA-CT_Ykris_molx] |
 | Ntox41 | [Zhang et al., 2012][Ntox41] | [A0A0E0USU5][Ntox41_molx] |
 | Ntox50 | [PF15542][Ntox50] | [A0AAF0CX04][Ntox50_molx] |
-
-## EndoU-like
-
-| Toxin Family | Model (source) | Annotated Structure (accession) |
-|--------------|----------------|---------------------------------|
-| XendoU | [PF09412][XendoU] | [2C1W][XendoU_molx] |
-| EndoU | [PF14436][EndoU] | [5HKQ][EndoU_molx] |
-| BC_0920 | [This Resource][BC_0920] | [Q813X6][BC_0920_molx] |
-| STox_60 | [Nicastro et al., 2025][STox_60] | [WP_029789863.1][STox_60_molx] |
 
 ## EndoVII-like
 
@@ -108,8 +108,8 @@
 
 <!-- HTML models -->
 [Barnase]: https://KristiPhammie.github.io/becr/html/Barnase.html
-[BC0920_model]: https://KristiPhammie.github.io/becr/html/BC0920.html
-[BrnT_model]:  https://KristiPhammie.github.io/becr/html/BrnT.html
+[BC0920]: https://KristiPhammie.github.io/becr/html/BC0920.html
+[BrnT]:  https://KristiPhammie.github.io/becr/html/BrnT.html
 
 [CdiA-CT_96.154_pfam]: https://KristiPhammie.github.io/becr/html/CdiA-CT_96.154_pfam.html
 [CdiA-CT_96.154_kristi]: https://KristiPhammie.github.io/becr/html/CdiA-CT_96.154_kristi.html
@@ -157,15 +157,15 @@
 
 [ParE_pfam]:  https://KristiPhammie.github.io/becr/html/ParE_pfam.html
 [ParE_kristi]:  https://KristiPhammie.github.io/becr/html/ParE_kristi.html
-[ParE-like_pfam_model]:  https://KristiPhammie.github.io/becr/html/ParE-like_pfam.html
-[ParE-like_kristi_model]:  https://KristiPhammie.github.io/becr/html/ParE-like_kristi.html
+[ParE-like_pfam]:  https://KristiPhammie.github.io/becr/html/ParE-like_pfam.html
+[ParE-like_kristi]:  https://KristiPhammie.github.io/becr/html/ParE-like_kristi.html
 [PBECR1_model]: https://KristiPhammie.github.io/becr/html/PBECR1.html
 [PBECR3_model]: https://KristiPhammie.github.io/becr/html/PBECR3.html
 [PBECR4_model]: https://KristiPhammie.github.io/becr/html/PBECR4.html
 [PBECR5_model]: https://KristiPhammie.github.io/becr/html/PBECR5.html
 
-[RelE_EC]:  https://KristiPhammie.github.io/becr/html/RelE_E.coli.html
-[RelE_MJ]:  https://KristiPhammie.github.io/becr/html/RelE_M.jannaschii.html
+[RelE_E.coli]:  https://KristiPhammie.github.io/becr/html/RelE_E.coli.html
+[RelE_M.jannaschii]:  https://KristiPhammie.github.io/becr/html/RelE_M.jannaschii.html
 [RegB]:     https://KristiPhammie.github.io/becr/html/RegB.html
 [RNaseA_model]:   https://KristiPhammie.github.io/becr/html/RNaseA.html
 [RNaseT1_model]:  https://KristiPhammie.github.io/becr/html/RNaseT1.html
