@@ -5,8 +5,8 @@
 
 | Toxin Family | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|---------------------------------|
-| Colicin D | [PF11429][colicind_model] | [1V74][colicind_molx] |
-| Colicin E5 | [PF12106][colicine5_model] | [2DFX][colicine5_molx] |
+| Colicin D | [PF11429][ColicinD_model] | [1V74][ColicinD_molx] |
+| Colicin E5 | [PF12106][ColicinC5_model] | [2DFX][ColicinE5_molx] |
 | CdiA-CT Kp342 | [This Resource][CdiA-CT_Kp342] | [6CP9][CdiA-CT_Kp342_molx] |
 | CdiA-CT EC3006 | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
 | CdiA-CT EC869 | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
@@ -18,8 +18,8 @@
 | PBECR1 | [PF18809][pbecr1_model] | [A0A1F6M7H8][pbecr1_molx] |
 | PBECR3 | [PF18812][pbecr3_model] | [A0A0B7GSS4][pbecr3_molx] |
 | PBECR4 | [PF18813][pbecr4_model] | [A0A417QTL2][pbecr4_molx] |
-| Ntox19 | [Nicastro et al., 2025][Ntox19] | [FD01848386_04431][Ntox19_molx] |
-| Ntox49 | [Nicastro et al., 2025][Ntox49] | [FD01848538_01952][Ntox49_molx] |
+| Ntox19 | [Nicastro et al., 2025][Ntox19] | [A0A5E7QDQ0][Ntox19_molx] |
+| Ntox49 | [Nicastro et al., 2025][Ntox49] | [A0A7H0VXI5][Ntox49_molx] |
 
 ## RelE-like
 
@@ -107,50 +107,50 @@
 | Sarcin | [This Resource][sarcin_model] [Full This Resource][sarcin_full_model] | [1DE3][sarcin_molx] |
 
 <!-- HTML models -->
-[rele_model]:  https://KristiPhammie.github.io/becr/html/RelE_E.coli.html
-[rele_mj_model]:  https://KristiPhammie.github.io/becr/html/RelE_M.jannaschii.html
-[pare_pfam]:  https://KristiPhammie.github.io/becr/html/ParE_pfam.html
-[pare_kristi]:  https://KristiPhammie.github.io/becr/html/ParE_kristi.html
-[pare-like_pfam]:  https://KristiPhammie.github.io/becr/html/ParE-like_pfam.html
-[pare-like_kristi]:  https://KristiPhammie.github.io/becr/html/ParE-like_kristi.html
-[yoeb_pfam]:  https://KristiPhammie.github.io/becr/html/YoeB_pfam.html
-[yoeb_kristi]:  https://KristiPhammie.github.io/becr/html/YoeB_kristi.html
-[yafo_model]:  https://KristiPhammie.github.io/becr/html/YafO.html
-[yhav_pfam]:  https://KristiPhammie.github.io/becr/html/YhaV_pfam.html
-[yhav_kristi]:  https://KristiPhammie.github.io/becr/html/YhaV_kristi.html
-[yeef_model]:  https://KristiPhammie.github.io/becr/html/YeeF.html
-[yafq_model]:     https://KristiPhammie.github.io/becr/html/YafQ_pfam.html
-[higb_pfam]:  https://KristiPhammie.github.io/becr/html/HigB_pfam.html
-[higb_kristi]:  https://KristiPhammie.github.io/becr/html/HigB_kristi.html
-[higb-like_pfam]:  https://KristiPhammie.github.io/becr/html/HigB-like_pfam.html
-[brnt_model]:  https://KristiPhammie.github.io/becr/html/BrnT.html
-[mqsr_model]:  https://KristiPhammie.github.io/becr/html/MqsR_pfam.html
+[RelE_EC_model]:  https://KristiPhammie.github.io/becr/html/RelE_E.coli.html
+[RelE_MJ_model]:  https://KristiPhammie.github.io/becr/html/RelE_M.jannaschii.html
+[ParE_pfam]:  https://KristiPhammie.github.io/becr/html/ParE_pfam.html
+[ParE_kristi]:  https://KristiPhammie.github.io/becr/html/ParE_kristi.html
+[ParE-like_pfam]:  https://KristiPhammie.github.io/becr/html/ParE-like_pfam.html
+[ParE-like_kristi]:  https://KristiPhammie.github.io/becr/html/ParE-like_kristi.html
+[YoeB_pfam]:  https://KristiPhammie.github.io/becr/html/YoeB_pfam.html
+[YoeB_kristi]:  https://KristiPhammie.github.io/becr/html/YoeB_kristi.html
+[YafO_model]:  https://KristiPhammie.github.io/becr/html/YafO.html
+[YhaV_pfam]:  https://KristiPhammie.github.io/becr/html/YhaV_pfam.html
+[YhaV_kristi]:  https://KristiPhammie.github.io/becr/html/YhaV_kristi.html
+[YeeF_model]:  https://KristiPhammie.github.io/becr/html/YeeF.html
+[YafQ_model]:     https://KristiPhammie.github.io/becr/html/YafQ_pfam.html
+[HigB_pfam]:  https://KristiPhammie.github.io/becr/html/HigB_pfam.html
+[HigB_kristi]:  https://KristiPhammie.github.io/becr/html/HigB_kristi.html
+[HigB-like_pfam]:  https://KristiPhammie.github.io/becr/html/HigB-like_pfam.html
+[BrnT_model]:  https://KristiPhammie.github.io/becr/html/BrnT.html
+[MqsR_model]:  https://KristiPhammie.github.io/becr/html/MqsR_pfam.html
 [gp49_pfam]:     https://KristiPhammie.github.io/becr/html/gp49_pfam.html
 [gp49_kristi]:     https://KristiPhammie.github.io/becr/html/gp49_kristi.html
 
-[muf-like_pfam]: https://KristiPhammie.github.io/becr/html/MuF-like_pfam.html
-[muf-like_kristi]: https://KristiPhammie.github.io/becr/html/MuF-like_kristi.html
-[regb_model]:     https://KristiPhammie.github.io/becr/html/RegB.html
+[MuF-like_pfam]: https://KristiPhammie.github.io/becr/html/MuF-like_pfam.html
+[Muf-like_kristi]: https://KristiPhammie.github.io/becr/html/MuF-like_kristi.html
+[RegB_model]:     https://KristiPhammie.github.io/becr/html/RegB.html
 
-[rnasea_model]:   https://KristiPhammie.github.io/becr/html/RNaseA.html
-[rnaset1_model]:  https://KristiPhammie.github.io/becr/html/RNaseT1.html
-[rnaset2_model]:  https://KristiPhammie.github.io/becr/html/RNaseT2.html
+[RNaseA_model]:   https://KristiPhammie.github.io/becr/html/RNaseA.html
+[RNaseT1_model]:  https://KristiPhammie.github.io/becr/html/RNaseT1.html
+[RNaseT2_model]:  https://KristiPhammie.github.io/becr/html/RNaseT2.html
 
-[sarcin_model]:   https://KristiPhammie.github.io/becr/html/Sarcin.html
-[sarcin_full_model]:   https://KristiPhammie.github.io/becr/html/Sarcin_full.html
+[Sarcin_model]:   https://KristiPhammie.github.io/becr/html/Sarcin.html
+[Sarcin_full_model]:   https://KristiPhammie.github.io/becr/html/Sarcin_full.html
 
 [Barnase]: https://KristiPhammie.github.io/becr/html/Barnase.html
 [XendoU]: https://KristiPhammie.github.io/becr/html/XendoU.html
 [EndoU]: https://KristiPhammie.github.io/becr/html/EndoU.html
-[colicind_model]:  https://KristiPhammie.github.io/becr/html/ColicinD.html
-[colicine5_model]:  https://KristiPhammie.github.io/becr/html/ColicinE5.html
+[ColicinD_model]:  https://KristiPhammie.github.io/becr/html/ColicinD.html
+[ColicinE5_model]:  https://KristiPhammie.github.io/becr/html/ColicinE5.html
 
-[pbecr1_model]: https://KristiPhammie.github.io/becr/html/PBECR1.html
-[pbecr3_model]: https://KristiPhammie.github.io/becr/html/PBECR3.html
-[pbecr4_model]: https://KristiPhammie.github.io/becr/html/PBECR4.html
-[pbecr5_model]: https://KristiPhammie.github.io/becr/html/PBECR5.html
-[BC_0920]: https://KristiPhammie.github.io/becr/html/BC_0920.html
-[CdiA-CT_96.165]: https://KristiPhammie.github.io/becr/html/CdiA-CT_96.165.html
+[PBECR1_model]: https://KristiPhammie.github.io/becr/html/PBECR1.html
+[PBECR3_model]: https://KristiPhammie.github.io/becr/html/PBECR3.html
+[PBECR4_model]: https://KristiPhammie.github.io/becr/html/PBECR4.html
+[PBECR5_model]: https://KristiPhammie.github.io/becr/html/PBECR5.html
+[BC0920]: https://KristiPhammie.github.io/becr/html/BC0920.html
+[CdiA-CT_96.154]: https://KristiPhammie.github.io/becr/html/CdiA-CT_96.154.html
 [CdiA-CT_EC3006]: https://KristiPhammie.github.io/becr/html/CdiA-CT_EC3006.html
 [CdiA-CT_EC3006_full]: https://KristiPhammie.github.io/becr/html/CdiA-CT_EC3006_full.html
 [CdiA-CT_EC869]: https://KristiPhammie.github.io/becr/html/CdiA-CT_EC869.html
@@ -159,7 +159,6 @@
 [CdiA-CT_Kp342]: https://KristiPhammie.github.io/becr/html/CdiA-CT_Kp342.html
 [CdiA-CT_NC101]: https://KristiPhammie.github.io/becr/html/CdiA-CT_NC101.html
 [CdiA-CT_Ykris]: https://KristiPhammie.github.io/becr/html/CdiA-CT_Ykris.html
-[ChpB]: https://KristiPhammie.github.io/becr/html/ChpB.html
 [EndoVII_pfam]: https://KristiPhammie.github.io/becr/html/EndoVII_pfam.html
 [EndoVII_kristi]: https://KristiPhammie.github.io/becr/html/EndoVII_kristi.html
 [Ntox18.st1]: https://KristiPhammie.github.io/becr/html/Ntox18.st1.html
@@ -205,7 +204,6 @@
 [Barnase_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Barnase.molx&snapshot-url-type=molx
 [XendoU_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/XendoU.molx&snapshot-url-type=molx
 [EndoU_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoU.molx&snapshot-url-type=molx
-[EndoU_F2JKK1_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoU_F2JKK1.molx&snapshot-url-type=molx
 [ColicinD_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinD.molx&snapshot-url-type=molx
 [colicine5_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinE5.molx&snapshot-url-type=molx
 [rele_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_E.coli.molx&snapshot-url-type=molx
