@@ -13,7 +13,7 @@
 | CdiA-CT NC101 | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |     
 | CdiA-CT 96.154 | [PF14076][CdiA-CT_96.154]     | [D9SFT1][CdiA-CT_96.154_molx] |
 | RNase T2 | [PF00445][RNaseT2_model] | [2EA1][RNaseT2_molx] |
-| MuF-like | [PF18819][MuF-like_pfam] [This Resource][MuF-like_kristi] | [A0A096XES0][MuF-like_molx] |  
+| MuF-like | [PF18819][MuF-like_pfam_model] [This Resource][MuF-like_kristi_model] | [A0A096XES0][MuF-like_molx] |  
 | Ntox35 | [PF15534][Ntox35] | [A0A1H3F8X0][Ntox35_molx] |
 | PBECR1 | [PF18809][PBECR1_model] | [A0A1F6M7H8][PBECR1_molx] |
 | PBECR3 | [PF18812][PBECR3_model] | [A0A0B7GSS4][PBECR3_molx] |
@@ -44,7 +44,7 @@
 
 | Toxin Family | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|---------------------------------|
-| RNase A | [PF00074][rnasea_model] | [4WYN][RNaseA_molx] |
+| RNase A | [PF00074][RNaseA_model] | [4WYN][RNaseA_molx] |
 | CdiA-CT Ykris | [PF18431][CdiA-CT_Ykris] | [5E3E][CdiA-CT_Ykris_molx] |
 | Ntox41 | [Zhang et al., 2012][Ntox41] | [A0A0E0USU5][Ntox41_molx] |
 | Ntox50 | [PF15542][Ntox50] | [A0AAF0CX04][Ntox50_molx] |
@@ -241,7 +241,7 @@
 [pbecr4_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR4.molx&snapshot-url-type=molx
 [pbecr5_molx]:  https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR5.molx&snapshot-url-type=molx
 [BC_0920_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BC_0920.molx&snapshot-url-type=molx
-[CdiA-CT_96.165_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_96.165.molx&snapshot-url-type=molx
+[CdiA-CT_96.154_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_96.154.molx&snapshot-url-type=molx
 [CdiA-CT_EC3006_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_EC3006.molx&snapshot-url-type=molx
 [CdiA-CT_EC869_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_EC869.molx&snapshot-url-type=molx
 [CdiA-CT_ECL_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_ECL.molx&snapshot-url-type=molx
