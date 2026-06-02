@@ -7,24 +7,24 @@ Model
 ## Colicin-like
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
-|--------------|----------------|---------------------------------|
+|--------------|----------------|----------------|---------------------------------|
 | BECR-Tox1 | [View][BECR-Tox1_gn] | [This Resource][BECR-Tox1] | [A0A417CPW8][BECR-Tox1_molx] |
 | BECR-Tox3 | [View][BECR-Tox3_gn] | [This Resource][BECR-Tox3] | [A0A3C1G575][BECR-Tox3_molx] |
 | BECR-Tox4 | [View][BECR-Tox4_gn] | [This Resource][BECR-Tox4] | [A0A1F9Y1D8][BECR-Tox4_molx] |
 | Colicin D | [View][ColicinD_gn] | [PF11429][ColicinD_model] | [1V74][ColicinD_molx] |
 | ColicinD.2 | [View][ColicinD.2_gn] | [This Resource][ColicinD.2] | [A0A212J498][ColicinD.2_molx] |
-| Colicin E5 | [View][Colicin E5_gn] | [PF12106][ColicinE5_model] | [2DFX][ColicinE5_molx] |
-| CdiA-CT Kp342 | [View][CdiA-CT_Kp342_gn] | [This Resource][CdiA-CT_Kp342] | [6CP9][CdiA-CT_Kp342_molx] |
-| CdiA-CT EC3006 | [View][CdiA-CT_EC3006_gn] | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
-| CdiA-CT EC869 | [View][CdiA-CT_EC869_gn] | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
-| CdiA-CT NC101 | [View][CdiA-CT_NC101_gn] | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |     
+| Colicin E5 | [View][ColicinE5_gn] | [PF12106][ColicinE5_model] | [2DFX][ColicinE5_molx] |
+| CdiA-CT Kp342 | [View][CdiA-CTKp342_gn] | [This Resource][CdiA-CT_Kp342] | [6CP9][CdiA-CT_Kp342_molx] |
+| CdiA-CT EC3006 | [View][CdiA-CTEC3006_gn] | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
+| CdiA-CT EC869 | [View][CdiA-CTEC869_gn] | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
+| CdiA-CT NC101 | [View][CdiA-CTNC101_gn] | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |
 | CdiA-CT 96.154 | [View][CdiA-CT_96.154_gn] | [PF14076][CdiA-CT_96.154_pfam] [This Resource][CdiA-CT_96.154_kristi] | [D9SFT1][CdiA-CT_96.154_molx] |
 | DUF4258.2 | [View][DUF4258.2_gn] | [This Resource][DUF4258.2] | [A0A838VH86][DUF4258.2_molx] |
 | DUF4258.3 | [View][DUF4258.3_gn] | [This Resource][DUF4258.3] | [A0A1F7XZ82][DUF4258.3_molx] |
 | DUF4258.4 | [View][DUF4258.4_gn] | [This Resource][DUF4258.4] | [D2UA17][DUF4258.4_molx] |
 | DUF4258.5 | [View][DUF4258.5_gn] | [This Resource][DUF4258.5] | [A0A268EH04][DUF4258.5_molx] |
 | RNase T2 | [View][RNaseT2_gn] | [PF00445][RNaseT2_model] | [2EA1][RNaseT2_molx] |
-| MuF-like | [View][MuF-like_gn] | [PF18819][MuF-like_pfam] [This Resource][MuF-like_kristi] | [A0A096XES0][MuF-like_molx] |  
+| MuF-like | [View][MuF-like_gn] | [PF18819][MuF-like_pfam] [This Resource][MuF-like_kristi] | [A0A096XES0][MuF-like_molx] |
 | Ntox35 | [View][Ntox35_gn] | [PF15534][Ntox35] | [A0A1H3F8X0][Ntox35_molx] |
 | Ntox35.2 | [View][Ntox35.2_gn] | [This Resource][Ntox35.2] | [A0A841I6D6][Ntox35.2_molx] |
 | PBECR1 | [View][PBECR1_gn] | [PF18809][PBECR1_model] | [A0A1F6M7H8][PBECR1_molx] |
@@ -38,113 +38,211 @@ Model
 
 ## RelE-like
 
-| Toxin Family | Model (source) | Annotated Structure (accession) |
-|--------------|----------------|---------------------------------|
-| RelE (E. coli) | [This Resource][RelE_E.coli] | [4FXI][RelE_E.coli_molx] |
-| RelE (Methanococcus jannaschii) | [PF06296][RelE_M.jannaschii] | [3BPQ][RelE_M.jannaschii_pdb_molx] [A0A917YVE8][RelE_M.jannaschii_afdb_molx] |
-| ParE | [PF05016][ParE_pfam] [This Resource][ParE_kristi] | [A0A4V1BZU9][ParE_molx] |
-| ParE.2 | [This resource][ParE.2] | [A0A0C1YHU8][ParE.2_molx] |
-| ParE.3 | [This resource][ParE.3] | [A0A938YUV1][ParE.3_molx] |
-| ParE-like | [PF15781][ParE-like_pfam] [This Resource][ParE-like_kristi] | [A0A0L6U2N9][ParE-like_molx] |
-| YoeB | [PF06769][YoeB_pfam] [This Resource][YoeB_kristi] | [2A6R][YoeB_molx] |
-| YafO | [PF13957][YafO] | [A0A3E0TU91][YafO_molx] |
-| YhaV | [PF11663][YhaV_pfam] [This Resource][YhaV_kristi] | [A0A1Y2R202][YhaV_molx] |
-| HigB | [PF09907][HigB_pfam] [This Resource][HigB_kristi] | [B8F451][HigB_molx] |
-| HigB-like | [PF05015][HigB-like_pfam] | [A0A7H0SQA8][HigB-like_molx] |
-| BrnT | [PF04365][BrnT] | [7VD7][BrnT_pdb_molx] [I4B9V8][BrnT_afdb_molx] |
-| BrnT.2 | [This Resource][BrnT.2] | [A0A1J5E5S5][BrnT.2_molx] |
-| BrnT.3 | [This Resource][BrnT.3] | [A0A8J2XEI7][BrnT.3_molx] |
-| MqsR | [PF15723][MqsR] | [3HI2][MqsR_molx] |
-| MqsR.2 | [This Resource][MqsR.2] | [A0A9X7T5T6][MqsR.2_molx] |
-| MqsR.3 | [This Resource][MqsR.3] | [A0A953XSG8][MqsR.3_molx] |
-| YafQ | [PF15738][YafQ] | [4LS4][YafQ_pdb_molx] [L8LVU0][YafQ_afdb_molx] |
-| gp49 | [PF05973][gp49_pfam] [This Resource][gp49_kristi] | [7AWK][gp49_pdb_molx] [Q2RNU1][gp49_afdb_molx] |
-| RegB | [PF10715][RegB] | [2HX6][RegB_molx] |
+| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
+|--------------|----------------|----------------|---------------------------------|
+| RelE (E. coli) | [View][RelE_E.coli_gn] | [This Resource][RelE_E.coli] | [4FXI][RelE_E.coli_molx] |
+| RelE (Methanococcus jannaschii) | [View][RelE_M.jannaschii_gn] | [PF06296][RelE_M.jannaschii] | [3BPQ][RelE_M.jannaschii_pdb_molx] [A0A917YVE8][RelE_M.jannaschii_afdb_molx] |
+| ParE | [View][ParE_gn] | [PF05016][ParE_pfam] [This Resource][ParE_kristi] | [A0A4V1BZU9][ParE_molx] |
+| ParE.2 | [View][ParE.2_gn] | [This resource][ParE.2] | [A0A0C1YHU8][ParE.2_molx] |
+| ParE.3 | [View][ParE.3_gn] | [This resource][ParE.3] | [A0A938YUV1][ParE.3_molx] |
+| ParE-like | [View][ParE-like_gn] | [PF15781][ParE-like_pfam] [This Resource][ParE-like_kristi] | [A0A0L6U2N9][ParE-like_molx] |
+| YoeB | [View][YoeB_gn] | [PF06769][YoeB_pfam] [This Resource][YoeB_kristi] | [2A6R][YoeB_molx] |
+| YafO | [View][YafO_gn] | [PF13957][YafO] | [A0A3E0TU91][YafO_molx] |
+| YhaV | [View][YhaV_gn] | [PF11663][YhaV_pfam] [This Resource][YhaV_kristi] | [A0A1Y2R202][YhaV_molx] |
+| HigB | [View][HigB_gn] | [PF09907][HigB_pfam] [This Resource][HigB_kristi] | [B8F451][HigB_molx] |
+| HigB-like | [View][HigB-like_gn] | [PF05015][HigB-like_pfam] | [A0A7H0SQA8][HigB-like_molx] |
+| BrnT | [View][BrnT_gn] | [PF04365][BrnT] | [7VD7][BrnT_pdb_molx] [I4B9V8][BrnT_afdb_molx] |
+| BrnT.2 | [View][BrnT.2_gn] | [This Resource][BrnT.2] | [A0A1J5E5S5][BrnT.2_molx] |
+| BrnT.3 | [View][BrnT.3_gn] | [This Resource][BrnT.3] | [A0A8J2XEI7][BrnT.3_molx] |
+| MqsR | [View][MqsR_gn] | [PF15723][MqsR] | [3HI2][MqsR_molx] |
+| MqsR.2 | [View][MqsR.2_gn] | [This Resource][MqsR.2] | [A0A9X7T5T6][MqsR.2_molx] |
+| MqsR.3 | [View][MqsR.3_gn] | [This Resource][MqsR.3] | [A0A953XSG8][MqsR.3_molx] |
+| YafQ | [View][YafQ_gn] | [PF15738][YafQ] | [4LS4][YafQ_pdb_molx] [L8LVU0][YafQ_afdb_molx] |
+| gp49 | [View][gp49_gn] | [PF05973][gp49_pfam] [This Resource][gp49_kristi] | [7AWK][gp49_pdb_molx] [Q2RNU1][gp49_afdb_molx] |
+| RegB | [View][RegB_gn] | [PF10715][RegB] | [2HX6][RegB_molx] |
 
 ## EndoU-like
 
-| Toxin Family | Model (source) | Annotated Structure (accession) |
-|--------------|----------------|---------------------------------|
-| XendoU | [PF09412][XendoU] | [2C1W][XendoU_molx] |
-| XendoU.2 | [This Resource][XendoU.2] | [A0A1Z4JKT7][XendoU.2_molx] |
-| EndoU | [PF14436][EndoU] | [5HKQ][EndoU_molx] |
-| EndoU.2 | [This Resource][EndoU.2] | [A0A1V4H847][EndoU.2_molx] |
-| EndoU.3 | [This Resource][EndoU.3] | [A0A1V2YJU1][EndoU.3_molx] |
-| EndoU.4 | [This Resource][EndoU.4] | [UPI002E2B26D7][EndoU.4_molx] |
-| BC0920 | [This Resource][BC0920] | [Q813X6][BC0920_molx] |
-| STox_60 | [Nicastro et al., 2025][STox_60] | [WP_029789863.1][STox_60_molx] |
+| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
+|--------------|----------------|----------------|---------------------------------|
+| XendoU | [View][XendoU_gn] | [PF09412][XendoU] | [2C1W][XendoU_molx] |
+| XendoU.2 | [View][XendoU.2_gn] | [This Resource][XendoU.2] | [A0A1Z4JKT7][XendoU.2_molx] |
+| EndoU | [View][EndoU_gn] | [PF14436][EndoU] | [5HKQ][EndoU_molx] |
+| EndoU.2 | [View][EndoU.2_gn] | [This Resource][EndoU.2] | [A0A1V4H847][EndoU.2_molx] |
+| EndoU.3 | [View][EndoU.3_gn] | [This Resource][EndoU.3] | [A0A1V2YJU1][EndoU.3_molx] |
+| EndoU.4 | [View][EndoU.4_gn] | [This Resource][EndoU.4] | [UPI002E2B26D7][EndoU.4_molx] |
+| BC0920 | [View][BC0920_gn] | [This Resource][BC0920] | [Q813X6][BC0920_molx] |
+| STox_60 | [View][STox_60_gn] | [Nicastro et al., 2025][STox_60] | [WP_029789863.1][STox_60_molx] |
 
 ## RNaseA-like
 
-| Toxin Family | Model (source) | Annotated Structure (accession) |
-|--------------|----------------|---------------------------------|
-| RNase A | [PF00074][RNaseA_model] | [4WYN][RNaseA_molx] |
-| RNaseA.2 | [This Resource][RNaseA.2] | [A0A3B1IEH8][RNaseA.2_molx] | 
-| CdiA-CT Ykris | [PF18431][CdiA-CT_Ykris] | [5E3E][CdiA-CT_Ykris_molx] |
-| Ntox41 | [Zhang et al., 2012][Ntox41] | [A0A0E0USU5][Ntox41_molx] |
-| Ntox41.2 | [This Resource][Ntox41.2] | [A0A1Q4EYU6][Ntox41.2_molx] |
-| Ntox50 | [PF15542][Ntox50] | [A0AAF0CX04][Ntox50_molx] |
-| Ntox50.2 | [This Resource][Ntox50.2] | [A0A2G6EE91][Ntox50.2_molx] |
+| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
+|--------------|----------------|----------------|---------------------------------|
+| RNase A | [View][RNaseA_gn] | [PF00074][RNaseA_model] | [4WYN][RNaseA_molx] |
+| RNaseA.2 | [View][RNaseA.2_gn] | [This Resource][RNaseA.2] | [A0A3B1IEH8][RNaseA.2_molx] |
+| CdiA-CT Ykris | [View][CdiA-CTYkris_gn] | [PF18431][CdiA-CT_Ykris] | [5E3E][CdiA-CT_Ykris_molx] |
+| Ntox41 | [View][Ntox41_gn] | [Zhang et al., 2012][Ntox41] | [A0A0E0USU5][Ntox41_molx] |
+| Ntox41.2 | [View][Ntox41.2_gn] | [This Resource][Ntox41.2] | [A0A1Q4EYU6][Ntox41.2_molx] |
+| Ntox50 | [View][Ntox50_gn] | [PF15542][Ntox50] | [A0AAF0CX04][Ntox50_molx] |
+| Ntox50.2 | [View][Ntox50.2_gn] | [This Resource][Ntox50.2] | [A0A2G6EE91][Ntox50.2_molx] |
 
 ## EndoVII-like
 
-| Toxin Family | Model (source) | Annotated Structure (accession) |
-|--------------|----------------|---------------------------------|
-| EndoVII | [PF15657][EndoVII_pfam] [This Resource][EndoVII_kristi] | [U2R0G2][PF15657_molx] | 
-| EndoVII.2 | [This Resource][EndoVII.2] | [A0A1N7BT64][EndoVII.2_molx] |
-| Ntox7 | [Nicastro et al., 2025][Ntox7] | [A0A5J5FSA8][Ntox7_molx] |
-| Ntox7.2 | [This Resource][Ntox7.2] | [A0A369YFT7][Ntox7.2_molx] |
-| Ntox7.3 | [This Resource][Ntox7.3] | [A0A7Y4YHE2][Ntox7.3_molx] |
-| Ntox36 | [Zhang et al., 2012][Ntox36_zhang] [This Resource][Ntox36] | [Q7NP45][Ntox36_molx] |
-| Ntox47.st1 | [Nicastro et al., 2025][Ntox47.st1.gian] [This Resource][Ntox47.st1.kristi] | [A0A740SFH9][Ntox47.st1_molx] |
-| Ntox47.st2 | [Nicastro et al., 2025][Ntox47.st2.gian] | [A0A747XMS3][Ntox47.st2_molx] |
-| Stox_2 | [Nicastro et al., 2025][Stox_2] | [WP_212722943.1][Stox_2_molx] |
-| STox_6 | [Nicastro et al., 2025][STox_6] | [A0A748UZW8][STox_6_molx] |
-| STox_11 | [Nicastro et al., 2025][STox_11] [This Resource][STox_11_kristi] | [A0A4V1G7W5][STox_11_molx] |
-| STox_11.2 | [This Resource][STox_11.2] | [A0A7X0PHU6][STox_11.2_molx] |
-| STox_11.3 | [This Resource][STox_11.3] | [A0A939KTB7][STox_11.3_molx] |
-| STox_32 | [This Resource][STox_32] | [UPI00217D55C6][STox_32_molx] |
-| STox_39 | [Nicastro et al., 2025][STox_39] [This Resource][STox_39_kristi] | [A0A5T2NHZ2][STox_39_molx] |
-| STox_39.2 | [This Resource][STox_39.2] | [A0A937AZC2][STox_39.2_molx] | 
-| STox_57 | [Nicastro et al., 2025][STox_57] | [A0A3S4HEL1][STox_57_molx] |
-| STox_58 | [Nicastro et al., 2025][STox_58] | [A0A5X8N7M2][STox_58_molx] |
-| STox_59 | [Nicastro et al., 2025][STox_59] | [A0A6X8NAU9][STox_59_molx] |
-| YeeF | [This resource][YeeF_model] | [O31506][YeeF_molx] |
+| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
+|--------------|----------------|----------------|---------------------------------|
+| EndoVII | [View][EndoVII_gn] | [PF15657][EndoVII_pfam] [This Resource][EndoVII_kristi] | [U2R0G2][PF15657_molx] |
+| EndoVII | [View][EndoVII_gn] | [This Resource][EndoVII.2] | [A0A1N7BT64][EndoVII.2_molx] |
+| Ntox7 | [View][Ntox7_gn] | [Nicastro et al., 2025][Ntox7] | [A0A5J5FSA8][Ntox7_molx] |
+| Ntox7.2 | [View][Ntox7.2_gn] | [This Resource][Ntox7.2] | [A0A369YFT7][Ntox7.2_molx] |
+| Ntox7.3 | [View][Ntox7.3_gn] | [This Resource][Ntox7.3] | [A0A7Y4YHE2][Ntox7.3_molx] |
+| Ntox36 | [View][Ntox36_gn] | [Zhang et al., 2012][Ntox36_zhang] [This Resource][Ntox36] | [Q7NP45][Ntox36_molx] |
+| Ntox47.st1 | [View][Ntox47.st1_gn] | [Nicastro et al., 2025][Ntox47.st1.gian] [This Resource][Ntox47.st1.kristi] | [A0A740SFH9][Ntox47.st1_molx] |
+| Ntox47.st2 | [View][Ntox47.st2_gn] | [Nicastro et al., 2025][Ntox47.st2.gian] | [A0A747XMS3][Ntox47.st2_molx] |
+| Stox_2 | [View][STox_2_gn] | [Nicastro et al., 2025][Stox_2] | [WP_212722943.1][Stox_2_molx] |
+| STox_6 | [View][STox_6_gn] | [Nicastro et al., 2025][STox_6] | [A0A748UZW8][STox_6_molx] |
+| STox_11 | [View][STox_11_gn] | [Nicastro et al., 2025][STox_11] [This Resource][STox_11_kristi] | [A0A4V1G7W5][STox_11_molx] |
+| STox_11.2 | [View][STox_11.2_gn] | [This Resource][STox_11.2] | [A0A7X0PHU6][STox_11.2_molx] |
+| STox_11.3 | [View][STox_11.3_gn] | [This Resource][STox_11.3] | [A0A939KTB7][STox_11.3_molx] |
+| STox_32 | [View][STox_32_gn] | [This Resource][STox_32] | [UPI00217D55C6][STox_32_molx] |
+| STox_39 | [View][STox_39_gn] | [Nicastro et al., 2025][STox_39] [This Resource][STox_39_kristi] | [A0A5T2NHZ2][STox_39_molx] |
+| STox_39.2 | [View][STox_39.2_gn] | [This Resource][STox_39.2] | [A0A937AZC2][STox_39.2_molx] |
+| STox_57 | [View][STox_57_gn] | [Nicastro et al., 2025][STox_57] | [A0A3S4HEL1][STox_57_molx] |
+| STox_58 | [View][STox_58_gn] | [Nicastro et al., 2025][STox_58] | [A0A5X8N7M2][STox_58_molx] |
+| STox_59 | [View][STox_59_gn] | [Nicastro et al., 2025][STox_59] | [A0A6X8NAU9][STox_59_molx] |
+| YeeF | [View][YeeF_gn] | [This resource][YeeF_model] | [O31506][YeeF_molx] |
 
 ## Barnase-like
 
-| Toxin Family | Model (source) | Annotated Structure (accession) |
-|--------------|----------------|---------------------------------|
-| Barnase | [This Resource][Barnase] | [1B20][Barnase_molx] |
-| Tox-Ribonuclease | [Nicastro et al., 2025][Tox-Ribonuclease] | [A0A744A5J7][Tox-Ribonuclease_molx] |
+| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
+|--------------|----------------|----------------|---------------------------------|
+| Barnase | [View][Barnase_gn] | [This Resource][Barnase] | [1B20][Barnase_molx] |
+| Tox-Ribonuclease | [View][Tox-Ribonuclease_gn] | [Nicastro et al., 2025][Tox-Ribonuclease] | [A0A744A5J7][Tox-Ribonuclease_molx] |
 
 ## BECR-like
 
-| Toxin Family | Model (source) | Annotated Structure (accession) |
-|--------------|----------------|---------------------------------|
-| STox_1 | [Nicastro et al., 2025][STox_1] | [FD01543133_03431][STox_1_molx] |
-| STox_3 | [Nicastro et al., 2025][STox_3] | [A0A3Z2V253][STox_3_molx] |
-| STox_4 | [Nicastro et al., 2025][STox_4] | [A0A3Y4H1N0][STox_4_molx] |
-| STox_4.2 | [This Resource][STox_4.2] | [A0A7V8VAQ0][STox_4.2_molx] |
-| STox_55 | [Nicastro et al., 2025][STox_55] | [WP_117405990.1][STox_55_molx] |
+| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
+|--------------|----------------|----------------|---------------------------------|
+| STox_1 | [View][STox_1_gn] | [Nicastro et al., 2025][STox_1] | [FD01543133_03431][STox_1_molx] |
+| STox_3 | [View][STox_3_gn] | [Nicastro et al., 2025][STox_3] | [A0A3Z2V253][STox_3_molx] |
+| STox_4 | [View][STox_4_gn] | [Nicastro et al., 2025][STox_4] | [A0A3Y4H1N0][STox_4_molx] |
+| STox_4.2 | [View][STox_4.2_gn] | [This Resource][STox_4.2] | [A0A7V8VAQ0][STox_4.2_molx] |
+| STox_55 | [View][STox_55_gn] | [Nicastro et al., 2025][STox_55] | [WP_117405990.1][STox_55_molx] |
 
 ## Undetermined
 
-| Toxin Family | Model (source) | Annotated Structure (accession) |
-|--------------|----------------|---------------------------------|
-| BECR-Tox2 | [This Resource][BECR-Tox2] | [A0A352X7W3][BECR-Tox2_molx] |
-| STox_37 | [Nicastro et al., 2025][STox_37_gian] [This Resource][STox_37] | [A0A1M6MZG2][STox_37_molx] |
-| PBECR5 | [PF18814][PBECR5_model] | [A0A396QF16][PBECR5_molx] |
-| Ntox48 | [Zhang et al., 2012][Ntox48] | [A0A0H3KAY5][Ntox48_molx] |
-| CdiA-CT ECL | [PF14426][CdiA-CT_ECL_pfam] [This Resource][CdiA-CT_ECL_kristi] | [4NTQ][CdiA-CT_ECL_molx] |
-| Ntox18.st1 | [Nicastro et al., 2025][Ntox18.st1] | [A0A3Y4H1N0][Ntox18.st1_molx] |
-| Ntox18.st2 | [Nicastro et al., 2025][Ntox18.st2] | [A0A7T8FFU2][Ntox18.st2_molx] |
-| RNase T1 | [This Resource][RNaseT1_model] | [1B2M][RNaseT1_molx] |
-| RNaseT1.2 | [This Resource][RNaseT1.2] | [A0A0B1NYA6][RNaseT1.2_molx] | 
-| RNaseT1.3 | [This Resource][RNaseT1.3] | [A0A9W9CSS5][RNaseT1.3_molx] |
-| Sarcin | [This Resource][Sarcin_model] [Full This Resource][Sarcin_full_model] | [1DE3][Sarcin_molx] |
+| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
+|--------------|----------------|----------------|---------------------------------|
+| BECR-Tox2 | [View][BECR-Tox2_gn] | [This Resource][BECR-Tox2] | [A0A352X7W3][BECR-Tox2_molx] |
+| STox_37 | [View][STox_37_gn] | [Nicastro et al., 2025][STox_37_gian] [This Resource][STox_37] | [A0A1M6MZG2][STox_37_molx] |
+| PBECR5 | [View][PBECR5_gn] | [PF18814][PBECR5_model] | [A0A396QF16][PBECR5_molx] |
+| Ntox48 | [View][Ntox48_gn] | [Zhang et al., 2012][Ntox48] | [A0A0H3KAY5][Ntox48_molx] |
+| CdiA-CT ECL | [View][CdiA-CTECL_gn] | [PF14426][CdiA-CT_ECL_pfam] [This Resource][CdiA-CT_ECL_kristi] | [4NTQ][CdiA-CT_ECL_molx] |
+| Ntox18.st1 | [View][Ntox18.st1_gn] | [Nicastro et al., 2025][Ntox18.st1] | [A0A3Y4H1N0][Ntox18.st1_molx] |
+| Ntox18.st2 | [View][Ntox18.st2_gn] | [Nicastro et al., 2025][Ntox18.st2] | [A0A7T8FFU2][Ntox18.st2_molx] |
+| RNase T1 | [View][RNaseT1_gn] | [This Resource][RNaseT1_model] | [1B2M][RNaseT1_molx] |
+| RNaseT1.2 | [View][RNaseT1.2_gn] | [This Resource][RNaseT1.2] | [A0A0B1NYA6][RNaseT1.2_molx] |
+| RNaseT1.3 | [View][RNaseT1.3_gn] | [This Resource][RNaseT1.3] | [A0A9W9CSS5][RNaseT1.3_molx] |
+| Sarcin | [View][Sarcin_gn] | [This Resource][Sarcin_model] [Full This Resource][Sarcin_full_model] | [1DE3][Sarcin_molx] |
 
-<!-- Gene Context pdfs -->
+<!-- Genome context PDFs -->
+[BECR-Tox1_gn]: https://KristiPhammie.github.io/becr/pdf/BECR-Tox1.pdf
+[BECR-Tox3_gn]: https://KristiPhammie.github.io/becr/pdf/BECR-Tox3.pdf
+[BECR-Tox4_gn]: https://KristiPhammie.github.io/becr/pdf/BECR-Tox4.pdf
+[ColicinD_gn]: https://KristiPhammie.github.io/becr/pdf/ColicinD.pdf
+[ColicinD.2_gn]: https://KristiPhammie.github.io/becr/pdf/ColicinD.2.pdf
+[ColicinE5_gn]: https://KristiPhammie.github.io/becr/pdf/ColicinE5.pdf
+[CdiA-CTKp342_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTKp342.pdf
+[CdiA-CTEC3006_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTEC3006.pdf
+[CdiA-CTEC869_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTEC869.pdf
+[CdiA-CTNC101_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTNC101.pdf
+[CdiA-CT_96.154_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CT_96.154.pdf
+[DUF4258.2_gn]: https://KristiPhammie.github.io/becr/pdf/DUF4258.2.pdf
+[DUF4258.3_gn]: https://KristiPhammie.github.io/becr/pdf/DUF4258.3.pdf
+[DUF4258.4_gn]: https://KristiPhammie.github.io/becr/pdf/DUF4258.4.pdf
+[DUF4258.5_gn]: https://KristiPhammie.github.io/becr/pdf/DUF4258.5.pdf
+[RNaseT2_gn]: https://KristiPhammie.github.io/becr/pdf/RNaseT2.pdf
+[MuF-like_gn]: https://KristiPhammie.github.io/becr/pdf/MuF-like.pdf
+[Ntox35_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox35.pdf
+[Ntox35.2_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox35.2.pdf
+[PBECR1_gn]: https://KristiPhammie.github.io/becr/pdf/PBECR1.pdf
+[PBECR3_gn]: https://KristiPhammie.github.io/becr/pdf/PBECR3.pdf
+[PBECR3.2_gn]: https://KristiPhammie.github.io/becr/pdf/PBECR3.2.pdf
+[PBECR4_gn]: https://KristiPhammie.github.io/becr/pdf/PBECR4.pdf
+[PBECR4.2_gn]: https://KristiPhammie.github.io/becr/pdf/PBECR4.2.pdf
+[Ntox19_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox19.pdf
+[Ntox49_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox49.pdf
+[RelE_E.coli_gn]: https://KristiPhammie.github.io/becr/pdf/RelE_E.coli.pdf
+[RelE_M.jannaschii_gn]: https://KristiPhammie.github.io/becr/pdf/RelE_M.jannaschii.pdf
+[ParE_gn]: https://KristiPhammie.github.io/becr/pdf/ParE.pdf
+[ParE.2_gn]: https://KristiPhammie.github.io/becr/pdf/ParE.2.pdf
+[ParE.3_gn]: https://KristiPhammie.github.io/becr/pdf/ParE.3.pdf
+[ParE-like_gn]: https://KristiPhammie.github.io/becr/pdf/ParE-like.pdf
+[YoeB_gn]: https://KristiPhammie.github.io/becr/pdf/YoeB.pdf
+[YafO_gn]: https://KristiPhammie.github.io/becr/pdf/YafO.pdf
+[YhaV_gn]: https://KristiPhammie.github.io/becr/pdf/YhaV.pdf
+[HigB_gn]: https://KristiPhammie.github.io/becr/pdf/HigB.pdf
+[HigB-like_gn]: https://KristiPhammie.github.io/becr/pdf/HigB-like.pdf
+[BrnT_gn]: https://KristiPhammie.github.io/becr/pdf/BrnT.pdf
+[BrnT.2_gn]: https://KristiPhammie.github.io/becr/pdf/BrnT.2.pdf
+[BrnT.3_gn]: https://KristiPhammie.github.io/becr/pdf/BrnT.3.pdf
+[MqsR_gn]: https://KristiPhammie.github.io/becr/pdf/MqsR.pdf
+[MqsR.2_gn]: https://KristiPhammie.github.io/becr/pdf/MqsR.2.pdf
+[MqsR.3_gn]: https://KristiPhammie.github.io/becr/pdf/MqsR.3.pdf
+[YafQ_gn]: https://KristiPhammie.github.io/becr/pdf/YafQ.pdf
+[gp49_gn]: https://KristiPhammie.github.io/becr/pdf/gp49.pdf
+[RegB_gn]: https://KristiPhammie.github.io/becr/pdf/RegB.pdf
+[XendoU_gn]: https://KristiPhammie.github.io/becr/pdf/XendoU.pdf
+[XendoU.2_gn]: https://KristiPhammie.github.io/becr/pdf/XendoU.2.pdf
+[EndoU_gn]: https://KristiPhammie.github.io/becr/pdf/EndoU.pdf
+[EndoU.2_gn]: https://KristiPhammie.github.io/becr/pdf/EndoU.2.pdf
+[EndoU.3_gn]: https://KristiPhammie.github.io/becr/pdf/EndoU.3.pdf
+[EndoU.4_gn]: https://KristiPhammie.github.io/becr/pdf/EndoU.4.pdf
+[BC0920_gn]: https://KristiPhammie.github.io/becr/pdf/BC0920.pdf
+[STox_60_gn]: https://KristiPhammie.github.io/becr/pdf/STox_60.pdf
+[RNaseA_gn]: https://KristiPhammie.github.io/becr/pdf/RNaseA.pdf
+[RNaseA.2_gn]: https://KristiPhammie.github.io/becr/pdf/RNaseA.2.pdf
+[CdiA-CTYkris_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTYkris.pdf
+[Ntox41_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox41.pdf
+[Ntox41.2_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox41.2.pdf
+[Ntox50_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox50.pdf
+[Ntox50.2_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox50.2.pdf
+[EndoVII_gn]: https://KristiPhammie.github.io/becr/pdf/EndoVII.pdf
+[Ntox7_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox7.pdf
+[Ntox7.2_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox7.2.pdf
+[Ntox7.3_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox7.3.pdf
+[Ntox36_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox36.pdf
+[Ntox47.st1_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox47.st1.pdf
+[Ntox47.st2_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox47.st2.pdf
+[STox_2_gn]: https://KristiPhammie.github.io/becr/pdf/STox_2.pdf
+[STox_6_gn]: https://KristiPhammie.github.io/becr/pdf/STox_6.pdf
+[STox_11_gn]: https://KristiPhammie.github.io/becr/pdf/STox_11.pdf
+[STox_11.2_gn]: https://KristiPhammie.github.io/becr/pdf/STox_11.2.pdf
+[STox_11.3_gn]: https://KristiPhammie.github.io/becr/pdf/STox_11.3.pdf
+[STox_32_gn]: https://KristiPhammie.github.io/becr/pdf/STox_32.pdf
+[STox_39_gn]: https://KristiPhammie.github.io/becr/pdf/STox_39.pdf
+[STox_39.2_gn]: https://KristiPhammie.github.io/becr/pdf/STox_39.2.pdf
+[STox_57_gn]: https://KristiPhammie.github.io/becr/pdf/STox_57.pdf
+[STox_58_gn]: https://KristiPhammie.github.io/becr/pdf/STox_58.pdf
+[STox_59_gn]: https://KristiPhammie.github.io/becr/pdf/STox_59.pdf
+[YeeF_gn]: https://KristiPhammie.github.io/becr/pdf/YeeF.pdf
+[Barnase_gn]: https://KristiPhammie.github.io/becr/pdf/Barnase.pdf
+[Tox-Ribonuclease_gn]: https://KristiPhammie.github.io/becr/pdf/Tox-Ribonuclease.pdf
+[STox_1_gn]: https://KristiPhammie.github.io/becr/pdf/STox_1.pdf
+[STox_3_gn]: https://KristiPhammie.github.io/becr/pdf/STox_3.pdf
+[STox_4_gn]: https://KristiPhammie.github.io/becr/pdf/STox_4.pdf
+[STox_4.2_gn]: https://KristiPhammie.github.io/becr/pdf/STox_4.2.pdf
+[STox_55_gn]: https://KristiPhammie.github.io/becr/pdf/STox_55.pdf
+[BECR-Tox2_gn]: https://KristiPhammie.github.io/becr/pdf/BECR-Tox2.pdf
+[STox_37_gn]: https://KristiPhammie.github.io/becr/pdf/STox_37.pdf
+[PBECR5_gn]: https://KristiPhammie.github.io/becr/pdf/PBECR5.pdf
+[Ntox48_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox48.pdf
+[CdiA-CTECL_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTECL.pdf
+[Ntox18.st1_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox18.st1.pdf
+[Ntox18.st2_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox18.st2.pdf
+[RNaseT1_gn]: https://KristiPhammie.github.io/becr/pdf/RNaseT1.pdf
+[RNaseT1.2_gn]: https://KristiPhammie.github.io/becr/pdf/RNaseT1.2.pdf
+[RNaseT1.3_gn]: https://KristiPhammie.github.io/becr/pdf/RNaseT1.3.pdf
+[Sarcin_gn]: https://KristiPhammie.github.io/becr/pdf/Sarcin.pdf
 
 <!-- HTML models -->
 [BECR-Tox1]: https://KristiPhammie.github.io/becr/html/BECR-Tox1.html
