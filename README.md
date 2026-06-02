@@ -6,34 +6,34 @@ Model
 
 ## Colicin-like
 
-| Toxin Family | Model (source) | Annotated Structure (accession) |
+| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|---------------------------------|
-| BECR-Tox1 | [This Resource][BECR-Tox1] | [A0A417CPW8][BECR-Tox1_molx] |
-| BECR-Tox3 | [This Resource][BECR-Tox3] | [A0A3C1G575][BECR-Tox3_molx] |
-| BECR-Tox4 | [This Resource][BECR-Tox4] | [A0A1F9Y1D8][BECR-Tox4_molx] |
-| Colicin D | [PF11429][ColicinD_model] | [1V74][ColicinD_molx] |
-| ColicinD.2 | [This Resource][ColicinD.2] | [A0A212J498][ColicinD.2_molx] |
-| Colicin E5 | [PF12106][ColicinE5_model] | [2DFX][ColicinE5_molx] |
-| CdiA-CT Kp342 | [This Resource][CdiA-CT_Kp342] | [6CP9][CdiA-CT_Kp342_molx] |
-| CdiA-CT EC3006 | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
-| CdiA-CT EC869 | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
-| CdiA-CT NC101 | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |     
-| CdiA-CT 96.154 | [PF14076][CdiA-CT_96.154_pfam] [This Resource][CdiA-CT_96.154_kristi] | [D9SFT1][CdiA-CT_96.154_molx] |
-| DUF4258.2 | [This Resource][DUF4258.2] | [A0A838VH86][DUF4258.2_molx] |
-| DUF4258.3 | [This Resource][DUF4258.3] | [A0A1F7XZ82][DUF4258.3_molx] |
-| DUF4258.4 | [This Resource][DUF4258.4] | [D2UA17][DUF4258.4_molx] |
-| DUF4258.5 | [This Resource][DUF4258.5] | [A0A268EH04][DUF4258.5_molx] |
-| RNase T2 | [PF00445][RNaseT2_model] | [2EA1][RNaseT2_molx] |
-| MuF-like | [PF18819][MuF-like_pfam] [This Resource][MuF-like_kristi] | [A0A096XES0][MuF-like_molx] |  
-| Ntox35 | [PF15534][Ntox35] | [A0A1H3F8X0][Ntox35_molx] |
-| Ntox35.2 | [This Resource][Ntox35.2] | [A0A841I6D6][Ntox35.2_molx] |
-| PBECR1 | [PF18809][PBECR1_model] | [A0A1F6M7H8][PBECR1_molx] |
-| PBECR3 | [PF18812][PBECR3_model] | [A0A0B7GSS4][PBECR3_molx] |
-| PBECR3.2 | [This Resource][PBECR3.2] | [A0A4U8UI43][PBECR3.2_molx] |
-| PBECR4 | [PF18813][PBECR4_model] | [A0A417QTL2][PBECR4_molx] |
-| PBECR4.2 | [This Resource][PBECR4.2] | [A0A2V2DIW2][PBECR4.2_molx] |
-| Ntox19 | [Nicastro et al., 2025][Ntox19] | [A0A5E7QDQ0][Ntox19_molx] |
-| Ntox49 | [Nicastro et al., 2025][Ntox49] | [A0A7H0VXI5][Ntox49_molx] |
+| BECR-Tox1 | [View][BECR-Tox1_gn] | [This Resource][BECR-Tox1] | [A0A417CPW8][BECR-Tox1_molx] |
+| BECR-Tox3 | [View][BECR-Tox3_gn] | [This Resource][BECR-Tox3] | [A0A3C1G575][BECR-Tox3_molx] |
+| BECR-Tox4 | [View][BECR-Tox4_gn] | [This Resource][BECR-Tox4] | [A0A1F9Y1D8][BECR-Tox4_molx] |
+| Colicin D | [View][ColicinD_gn] | [PF11429][ColicinD_model] | [1V74][ColicinD_molx] |
+| ColicinD.2 | [View][ColicinD.2_gn] | [This Resource][ColicinD.2] | [A0A212J498][ColicinD.2_molx] |
+| Colicin E5 | [View][Colicin E5_gn] | [PF12106][ColicinE5_model] | [2DFX][ColicinE5_molx] |
+| CdiA-CT Kp342 | [View][CdiA-CT_Kp342_gn] | [This Resource][CdiA-CT_Kp342] | [6CP9][CdiA-CT_Kp342_molx] |
+| CdiA-CT EC3006 | [View][CdiA-CT_EC3006_gn] | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
+| CdiA-CT EC869 | [View][CdiA-CT_EC869_gn] | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
+| CdiA-CT NC101 | [View][CdiA-CT_NC101_gn] | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |     
+| CdiA-CT 96.154 | [View][CdiA-CT_96.154_gn] | [PF14076][CdiA-CT_96.154_pfam] [This Resource][CdiA-CT_96.154_kristi] | [D9SFT1][CdiA-CT_96.154_molx] |
+| DUF4258.2 | [View][DUF4258.2_gn] | [This Resource][DUF4258.2] | [A0A838VH86][DUF4258.2_molx] |
+| DUF4258.3 | [View][DUF4258.3_gn] | [This Resource][DUF4258.3] | [A0A1F7XZ82][DUF4258.3_molx] |
+| DUF4258.4 | [View][DUF4258.4_gn] | [This Resource][DUF4258.4] | [D2UA17][DUF4258.4_molx] |
+| DUF4258.5 | [View][DUF4258.5_gn] | [This Resource][DUF4258.5] | [A0A268EH04][DUF4258.5_molx] |
+| RNase T2 | [View][RNaseT2_gn] | [PF00445][RNaseT2_model] | [2EA1][RNaseT2_molx] |
+| MuF-like | [View][MuF-like_gn] | [PF18819][MuF-like_pfam] [This Resource][MuF-like_kristi] | [A0A096XES0][MuF-like_molx] |  
+| Ntox35 | [View][Ntox35_gn] | [PF15534][Ntox35] | [A0A1H3F8X0][Ntox35_molx] |
+| Ntox35.2 | [View][Ntox35.2_gn] | [This Resource][Ntox35.2] | [A0A841I6D6][Ntox35.2_molx] |
+| PBECR1 | [View][PBECR1_gn] | [PF18809][PBECR1_model] | [A0A1F6M7H8][PBECR1_molx] |
+| PBECR3 | [View][PBECR3_gn] | [PF18812][PBECR3_model] | [A0A0B7GSS4][PBECR3_molx] |
+| PBECR3.2 | [View][PBECR3.2_gn] | [This Resource][PBECR3.2] | [A0A4U8UI43][PBECR3.2_molx] |
+| PBECR4 | [View][PBECR4_gn] | [PF18813][PBECR4_model] | [A0A417QTL2][PBECR4_molx] |
+| PBECR4.2 | [View][PBECR4.2_gn] | [This Resource][PBECR4.2] | [A0A2V2DIW2][PBECR4.2_molx] |
+| Ntox19 | [View][Ntox19_gn] | [Nicastro et al., 2025][Ntox19] | [A0A5E7QDQ0][Ntox19_molx] |
+| Ntox49 | [View][Ntox49_gn] | [Nicastro et al., 2025][Ntox49] | [A0A7H0VXI5][Ntox49_molx] |
 
 
 ## RelE-like
@@ -91,7 +91,7 @@ Model
 | Toxin Family | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|---------------------------------|
 | EndoVII | [PF15657][EndoVII_pfam] [This Resource][EndoVII_kristi] | [U2R0G2][PF15657_molx] | 
-| EndoVII | [This Resource][EndoVII.2] | [A0A1N7BT64][EndoVII.2_molx] |
+| EndoVII.2 | [This Resource][EndoVII.2] | [A0A1N7BT64][EndoVII.2_molx] |
 | Ntox7 | [Nicastro et al., 2025][Ntox7] | [A0A5J5FSA8][Ntox7_molx] |
 | Ntox7.2 | [This Resource][Ntox7.2] | [A0A369YFT7][Ntox7.2_molx] |
 | Ntox7.3 | [This Resource][Ntox7.3] | [A0A7Y4YHE2][Ntox7.3_molx] |
@@ -143,6 +143,8 @@ Model
 | RNaseT1.2 | [This Resource][RNaseT1.2] | [A0A0B1NYA6][RNaseT1.2_molx] | 
 | RNaseT1.3 | [This Resource][RNaseT1.3] | [A0A9W9CSS5][RNaseT1.3_molx] |
 | Sarcin | [This Resource][Sarcin_model] [Full This Resource][Sarcin_full_model] | [1DE3][Sarcin_molx] |
+
+<!-- Gene Context pdfs -->
 
 <!-- HTML models -->
 [BECR-Tox1]: https://KristiPhammie.github.io/becr/html/BECR-Tox1.html
