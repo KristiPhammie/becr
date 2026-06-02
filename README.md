@@ -15,9 +15,9 @@ Model
 | ColicinD.2 | [View][ColicinD.2_gn] | [This Resource][ColicinD.2] | [A0A212J498][ColicinD.2_molx] |
 | Colicin E5 | [View][ColicinE5_gn] | [PF12106][ColicinE5_model] | [2DFX][ColicinE5_molx] |
 | CdiA-CT Kp342 | [View][CdiA-CTKp342_gn] | [This Resource][CdiA-CT_Kp342] | [6CP9][CdiA-CT_Kp342_molx] |
-| CdiA-CT EC3006 | [View][CdiA-CTEC3006_gn] | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
-| CdiA-CT EC869 | [View][CdiA-CTEC869_gn] | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
-| CdiA-CT NC101 | [View][CdiA-CTNC101_gn] | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |
+| CdiA-CT EC3006 | [View][CdiA-CT_EC3006_gn] | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
+| CdiA-CT EC869 | [View][CdiA-CT_EC869_gn] | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
+| CdiA-CT NC101 | [View][CdiA-CT_NC101_gn] | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |
 | CdiA-CT 96.154 | [View][CdiA-CT_96.154_gn] | [PF14076][CdiA-CT_96.154_pfam] [This Resource][CdiA-CT_96.154_kristi] | [D9SFT1][CdiA-CT_96.154_molx] |
 | DUF4258.2 | [View][DUF4258.2_gn] | [This Resource][DUF4258.2] | [A0A838VH86][DUF4258.2_molx] |
 | DUF4258.3 | [View][DUF4258.3_gn] | [This Resource][DUF4258.3] | [A0A1F7XZ82][DUF4258.3_molx] |
@@ -91,7 +91,7 @@ Model
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
 | EndoVII | [View][EndoVII_gn] | [PF15657][EndoVII_pfam] [This Resource][EndoVII_kristi] | [U2R0G2][PF15657_molx] |
-| EndoVII | [View][EndoVII_gn] | [This Resource][EndoVII.2] | [A0A1N7BT64][EndoVII.2_molx] |
+| EndoVII | [View][EndoVII.2_gn] | [This Resource][EndoVII.2] | [A0A1N7BT64][EndoVII.2_molx] |
 | Ntox7 | [View][Ntox7_gn] | [Nicastro et al., 2025][Ntox7] | [A0A5J5FSA8][Ntox7_molx] |
 | Ntox7.2 | [View][Ntox7.2_gn] | [This Resource][Ntox7.2] | [A0A369YFT7][Ntox7.2_molx] |
 | Ntox7.3 | [View][Ntox7.3_gn] | [This Resource][Ntox7.3] | [A0A7Y4YHE2][Ntox7.3_molx] |
@@ -136,7 +136,7 @@ Model
 | STox_37 | [View][STox_37_gn] | [Nicastro et al., 2025][STox_37_gian] [This Resource][STox_37] | [A0A1M6MZG2][STox_37_molx] |
 | PBECR5 | [View][PBECR5_gn] | [PF18814][PBECR5_model] | [A0A396QF16][PBECR5_molx] |
 | Ntox48 | [View][Ntox48_gn] | [Zhang et al., 2012][Ntox48] | [A0A0H3KAY5][Ntox48_molx] |
-| CdiA-CT ECL | [View][CdiA-CTECL_gn] | [PF14426][CdiA-CT_ECL_pfam] [This Resource][CdiA-CT_ECL_kristi] | [4NTQ][CdiA-CT_ECL_molx] |
+| CdiA-CT ECL | [View][CdiA-CT_ECL_gn] | [PF14426][CdiA-CT_ECL_pfam] [This Resource][CdiA-CT_ECL_kristi] | [4NTQ][CdiA-CT_ECL_molx] |
 | Ntox18.st1 | [View][Ntox18.st1_gn] | [Nicastro et al., 2025][Ntox18.st1] | [A0A3Y4H1N0][Ntox18.st1_molx] |
 | Ntox18.st2 | [View][Ntox18.st2_gn] | [Nicastro et al., 2025][Ntox18.st2] | [A0A7T8FFU2][Ntox18.st2_molx] |
 | RNase T1 | [View][RNaseT1_gn] | [This Resource][RNaseT1_model] | [1B2M][RNaseT1_molx] |
@@ -151,10 +151,10 @@ Model
 [ColicinD_gn]: https://KristiPhammie.github.io/becr/pdf/ColicinD.pdf
 [ColicinD.2_gn]: https://KristiPhammie.github.io/becr/pdf/ColicinD.2.pdf
 [ColicinE5_gn]: https://KristiPhammie.github.io/becr/pdf/ColicinE5.pdf
-[CdiA-CTKp342_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTKp342.pdf
-[CdiA-CTEC3006_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTEC3006.pdf
-[CdiA-CTEC869_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTEC869.pdf
-[CdiA-CTNC101_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTNC101.pdf
+[CdiA-CT_Kp342_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTKp342.pdf
+[CdiA-CT_EC3006_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTEC3006.pdf
+[CdiA-CT_EC869_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTEC869.pdf
+[CdiA-CT_NC101_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTNC101.pdf
 [CdiA-CT_96.154_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CT_96.154.pdf
 [DUF4258.2_gn]: https://KristiPhammie.github.io/becr/pdf/DUF4258.2.pdf
 [DUF4258.3_gn]: https://KristiPhammie.github.io/becr/pdf/DUF4258.3.pdf
@@ -207,6 +207,7 @@ Model
 [Ntox50_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox50.pdf
 [Ntox50.2_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox50.2.pdf
 [EndoVII_gn]: https://KristiPhammie.github.io/becr/pdf/EndoVII.pdf
+[EndoVII.2_gn]: https://KristiPhammie.github.io/becr/pdf/EndoVII.2.pdf
 [Ntox7_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox7.pdf
 [Ntox7.2_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox7.2.pdf
 [Ntox7.3_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox7.3.pdf
