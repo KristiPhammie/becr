@@ -1,0 +1,479 @@
+1(1)	WP_286145223.1	WP_286145223.1 MULTISPECIES: AAA family ATPase 
+1(1)	WP_274079777.1	WP_274079777.1 AAA family ATPase 
+1(1)	WP_294218995.1	WP_294218995.1 AAA family ATPase 
+1(1)	WP_050870091.1	WP_050870091.1 AAA family ATPase 
+1(1)	WP_232611350.1	WP_232611350.1 DUF3696 domain-containing protein 
+1(1)	WP_300714821.1	WP_300714821.1 DUF3696 domain-containing protein 
+1(1)	WP_112146061.1	WP_112146061.1 AAA family ATPase 
+1(1)	WP_026491186.1	WP_026491186.1 AAA family ATPase 
+1(1)	WP_162091660.1	WP_162091660.1 DUF3696 domain-containing protein 
+1(1)	WP_303805741.1	WP_303805741.1 DUF3696 domain-containing protein 
+1(1)	WP_325795094.1	WP_325795094.1 MULTISPECIES: AAA family ATPase 
+1(1)	WP_249101381.1	WP_249101381.1 DUF3696 domain-containing protein 
+1(1)	WP_064384920.1	WP_064384920.1 AAA family ATPase 
+1(1)	WP_002911345.1	WP_002911345.1 MULTISPECIES: AAA family ATPase 
+1(1)	WP_083619088.1	WP_083619088.1 AAA family ATPase 
+1(1)	WP_012596216.1	WP_012596216.1 AAA family ATPase 
+1(1)	WP_158591230.1	WP_158591230.1 AAA family ATPase 
+1(1)	WP_334311894.1	WP_334311894.1 AAA family ATPase 
+1(1)	WP_048970724.1	WP_048970724.1 MULTISPECIES: AAA family ATPase 
+1(1)	WP_164972684.1	WP_164972684.1 AAA family ATPase 
+1(1)	WP_027403793.1	WP_027403793.1 AAA family ATPase 
+1(1)	WP_167860850.1	WP_167860850.1 AAA family ATPase 
+1(1)	WP_076012060.1	WP_076012060.1 AAA family ATPase 
+1(1)	WP_129630823.1	WP_129630823.1 AAA family ATPase 
+1(1)	WP_026785378.1	WP_026785378.1 MULTISPECIES: AAA family ATPase 
+1(1)	WP_106302939.1	WP_106302939.1 DUF3696 domain-containing protein 
+1(1)	WP_108190510.1	WP_108190510.1 AAA family ATPase 
+1(1)	WP_199247667.1	WP_199247667.1 DUF3696 domain-containing protein 
+1(1)	WP_282506392.1	WP_282506392.1 AAA family ATPase 
+1(1)	WP_309266773.1	WP_309266773.1 AAA family ATPase 
+1(1)	WP_140199304.1	WP_140199304.1 MULTISPECIES: DUF3696 domain-containing protein 
+1(1)	WP_232612935.1	WP_232612935.1 DUF3696 domain-containing protein 
+1(1)	WP_322264757.1	WP_322264757.1 DUF3696 domain-containing protein 
+1(1)	WP_330148205.1	WP_330148205.1 AAA family ATPase 
+1(1)	WP_110580006.1	WP_110580006.1 MULTISPECIES: DUF3696 domain-containing protein 
+1(1)	WP_120471427.1	WP_120471427.1 AAA family ATPase 
+1(1)	WP_096141449.1	WP_096141449.1 AAA family ATPase 
+1(1)	WP_039507984.1	WP_039507984.1 AAA family ATPase 
+1(1)	WP_007561323.1	WP_007561323.1 DUF3696 domain-containing protein 
+1(1)	WP_105082261.1	WP_105082261.1 AAA family ATPase 
+1(1)	WP_342155402.1	WP_342155402.1 MULTISPECIES: AAA family ATPase 
+1(1)	WP_074397282.1	WP_074397282.1 DUF3696 domain-containing protein 
+1(1)	WP_209826565.1	WP_209826565.1 DUF3696 domain-containing protein 
+1(1)	WP_068681726.1	WP_068681726.1 ATP-dependent nuclease 
+1(1)	WP_085052579.1	WP_085052579.1 DUF3696 domain-containing protein 
+1(1)	WP_271796772.1	WP_271796772.1 AAA family ATPase 
+1(1)	WP_068681731.1	WP_068681731.1 DUF3696 domain-containing protein 
+1(1)	WP_182976133.1	WP_182976133.1 DUF3696 domain-containing protein 
+1(1)	WP_193944269.1	WP_193944269.1 AAA family ATPase 
+1(1)	WP_102534752.1	WP_102534752.1 AAA family ATPase 
+1(1)	WP_253528726.1	WP_253528726.1 AAA family ATPase 
+1(1)	WP_120817044.1	WP_120817044.1 AAA family ATPase 
+1(1)	WP_013192892.1	WP_013192892.1 AAA family ATPase 
+1(1)	WP_241814523.1	WP_241814523.1 AAA family ATPase 
+1(2)	WP_012122020.1	WP_012122020.1 MULTISPECIES: DUF3696 domain-containing protein 
+1(1)	WP_190488478.1	WP_190488478.1 DUF3696 domain-containing protein 
+1(1)	WP_077163222.1	WP_077163222.1 AAA family ATPase 
+
+
+2(1)	WP_112146059.1	WP_112146059.1 DUF262 domain-containing protein 
+2(1)	WP_050870092.1	WP_050870092.1 hypothetical protein 
+2(2)	WP_012122019.1	WP_012122019.1 MULTISPECIES: DUF262 domain-containing protein 
+2(1)	WP_300714823.1	WP_300714823.1 DUF262 domain-containing protein 
+2(1)	WP_146109541.1	WP_146109541.1 hypothetical protein 
+2(1)	WP_309266772.1	WP_309266772.1 hypothetical protein 
+2(1)	WP_206756548.1	WP_206756548.1 DUF262 domain-containing protein 
+2(1)	WP_027403792.1	WP_027403792.1 MULTISPECIES: DUF262 domain-containing protein 
+2(1)	WP_325795093.1	WP_325795093.1 MULTISPECIES: hypothetical protein 
+2(1)	WP_140199303.1	WP_140199303.1 MULTISPECIES: hypothetical protein 
+2(1)	WP_181309199.1	WP_181309199.1 DUF262 domain-containing protein 
+2(1)	WP_167860851.1	WP_167860851.1 DUF262 domain-containing protein 
+2(1)	WP_076012061.1	WP_076012061.1 hypothetical protein 
+2(1)	WP_131673108.1	WP_131673108.1 hypothetical protein 
+2(1)	WP_074397283.1	WP_074397283.1 hypothetical protein 
+2(1)	WP_077163223.1	WP_077163223.1 hypothetical protein 
+2(1)	WP_190346456.1	WP_190346456.1 MULTISPECIES: DUF262 domain-containing protein 
+2(1)	WP_194032664.1	WP_194032664.1 DUF262 domain-containing protein 
+2(1)	WP_294218993.1	WP_294218993.1 DUF262 domain-containing protein 
+2(1)	WP_182976132.1	WP_182976132.1 pepsin/retropepsin-like aspartic protease family protein 
+2(1)	WP_102534753.1	WP_102534753.1 hypothetical protein 
+2(1)	WP_083619086.1	WP_083619086.1 DUF262 domain-containing protein 
+2(1)	WP_271796771.1	WP_271796771.1 DUF262 domain-containing protein 
+2(1)	WP_043936740.1	WP_043936740.1 MULTISPECIES: DUF262 domain-containing protein 
+2(1)	WP_171885006.1	WP_171885006.1 MULTISPECIES: DUF262 domain-containing protein 
+2(1)	WP_051200675.1	WP_051200675.1 DUF262 domain-containing protein 
+2(1)	WP_120471426.1	WP_120471426.1 DUF262 domain-containing protein 
+2(1)	WP_002911344.1	WP_002911344.1 MULTISPECIES: DUF262 domain-containing protein 
+2(1)	WP_012596215.1	WP_012596215.1 DUF262 domain-containing protein 
+2(1)	WP_064384918.1	WP_064384918.1 DUF262 domain-containing protein 
+2(1)	WP_007561325.1	WP_007561325.1 DUF262 domain-containing protein 
+2(1)	WP_322264758.1	WP_322264758.1 hypothetical protein 
+2(1)	WP_271775719.1	WP_271775719.1 DUF262 domain-containing protein 
+2(1)	WP_209826180.1	WP_209826180.1 hypothetical protein 
+2(1)	WP_249101384.1	WP_249101384.1 GmrSD restriction endonuclease domain-containing protein 
+2(1)	WP_108190509.1	WP_108190509.1 DUF262 domain-containing protein 
+2(1)	WP_120817043.1	WP_120817043.1 DUF262 domain-containing protein 
+2(1)	WP_120406623.1	WP_120406623.1 DUF262 domain-containing protein 
+2(1)	WP_282506391.1	WP_282506391.1 DUF262 domain-containing protein 
+2(1)	WP_129630821.1	WP_129630821.1 DUF262 domain-containing protein 
+2(1)	WP_129130619.1	WP_129130619.1 GmrSD restriction endonuclease domain-containing protein 
+2(1)	WP_274079778.1	WP_274079778.1 DUF262 domain-containing protein 
+2(1)	WP_286145224.1	WP_286145224.1 DUF262 domain-containing protein 
+2(1)	WP_232612934.1	WP_232612934.1 GmrSD restriction endonuclease domain-containing protein 
+2(1)	WP_017013568.1	WP_017013568.1 hypothetical protein 
+2(1)	WP_061772508.1	WP_061772508.1 MULTISPECIES: hypothetical protein 
+2(1)	WP_085052578.1	WP_085052578.1 DUF262 domain-containing protein 
+
+
+3(1)	WP_321388803.1	WP_321388803.1 hypothetical protein 
+3(1)	WP_254290488.1	WP_254290488.1 ImmA/IrrE family metallo-endopeptidase 
+3(1)	WP_120409926.1	WP_120409926.1 MULTISPECIES: hypothetical protein 
+3(1)	WP_075065613.1	WP_075065613.1 hypothetical protein 
+3(1)	WP_295256668.1	WP_295256668.1 helix-turn-helix domain-containing protein 
+3(1)	WP_303016388.1	WP_303016388.1 hypothetical protein 
+3(1)	WP_009297837.1	WP_009297837.1 hypothetical protein 
+3(1)	WP_206582566.1	WP_206582566.1 hypothetical protein 
+3(1)	WP_295256673.1	WP_295256673.1 hypothetical protein 
+3(1)	WP_239892362.1	WP_239892362.1 hypothetical protein 
+3(1)	WP_094443242.1	WP_094443242.1 ImmA/IrrE family metallo-endopeptidase 
+3(1)	WP_147933188.1	WP_147933188.1 hypothetical protein 
+3(1)	WP_005910004.1	WP_005910004.1 MULTISPECIES: hypothetical protein 
+3(1)	WP_231559768.1	WP_231559768.1 MULTISPECIES: DUF5984 family protein 
+3(1)	WP_183995086.1	WP_183995086.1 ImmA/IrrE family metallo-endopeptidase 
+3(1)	WP_097154013.1	WP_097154013.1 hypothetical protein 
+3(1)	WP_182983834.1	WP_182983834.1 hypothetical protein 
+3(1)	WP_191018333.1	WP_191018333.1 hypothetical protein 
+3(1)	WP_219348980.1	WP_219348980.1 hypothetical protein 
+3(1)	WP_054785758.1	WP_054785758.1 hypothetical protein 
+3(1)	WP_316032312.1	WP_316032312.1 ImmA/IrrE family metallo-endopeptidase 
+3(1)	WP_187585752.1	WP_187585752.1 hypothetical protein 
+3(1)	WP_157818035.1	WP_157818035.1 ImmA/IrrE family metallo-endopeptidase 
+3(1)	WP_188908166.1	WP_188908166.1 hypothetical protein 
+3(1)	WP_271868143.1	WP_271868143.1 hypothetical protein 
+3(1)	WP_117923238.1	WP_117923238.1 MULTISPECIES: hypothetical protein 
+3(1)	WP_183368812.1	WP_183368812.1 hypothetical protein 
+3(1)	WP_233182430.1	WP_233182430.1 hypothetical protein 
+3(1)	WP_197028310.1	WP_197028310.1 ImmA/IrrE family metallo-endopeptidase 
+3(1)	WP_096073657.1	WP_096073657.1 MULTISPECIES: hypothetical protein 
+3(1)	WP_093238517.1	WP_093238517.1 ImmA/IrrE family metallo-endopeptidase 
+3(1)	WP_183368811.1	WP_183368811.1 hypothetical protein 
+3(1)	WP_176630103.1	WP_176630103.1 ImmA/IrrE family metallo-endopeptidase 
+3(1)	WP_137926205.1	WP_137926205.1 hypothetical protein 
+3(1)	WP_027624769.1	WP_027624769.1 hypothetical protein 
+3(1)	WP_010766296.1	WP_010766296.1 hypothetical protein 
+3(1)	WP_037588046.1	WP_037588046.1 hypothetical protein 
+3(1)	WP_144915792.1	WP_144915792.1 hypothetical protein 
+3(1)	WP_279785968.1	WP_279785968.1 hypothetical protein 
+3(1)	WP_006507006.1	WP_006507006.1 MULTISPECIES: hypothetical protein 
+3(1)	WP_123299340.1	WP_123299340.1 ImmA/IrrE family metallo-endopeptidase 
+3(1)	WP_015697205.1	WP_015697205.1 MULTISPECIES: hypothetical protein 
+3(1)	WP_085057248.1	WP_085057248.1 diguanylate phosphodiesterase 
+3(1)	WP_080065865.1	WP_080065865.1 hypothetical protein 
+3(1)	WP_253490349.1	WP_253490349.1 ImmA/IrrE family metallo-endopeptidase 
+
+
+4(1)	WP_271868151.1	WP_271868151.1 hypothetical protein 
+4(1)	WP_250350609.1	WP_250350609.1 MULTISPECIES: hypothetical protein 
+4(1)	WP_155407637.1	WP_155407637.1 hypothetical protein 
+4(1)	WP_037039167.1	WP_037039167.1 hypothetical protein 
+4(1)	WP_265309914.1	WP_265309914.1 hemagglutinin repeat-containing protein 
+4(1)	WP_238890803.1	WP_238890803.1 hemagglutinin repeat-containing protein 
+4(1)	WP_346775683.1	WP_346775683.1 hemagglutinin repeat-containing protein 
+4(1)	WP_238890801.1	WP_238890801.1 hemagglutinin repeat-containing protein 
+4(1)	WP_250350611.1	WP_250350611.1 MULTISPECIES: VENN motif pre-toxin domain-containing protein 
+4(1)	WP_241651030.1	WP_241651030.1 VENN motif pre-toxin domain-containing protein, partial 
+4(1)	WP_265309915.1	WP_265309915.1 hypothetical protein 
+4(1)	WP_250350615.1	WP_250350615.1 MULTISPECIES: VENN motif pre-toxin domain-containing protein 
+4(1)	WP_126468143.1	WP_126468143.1 hemagglutinin repeat-containing protein 
+4(1)	WP_265309919.1	WP_265309919.1 hypothetical protein 
+
+
+5(1)	WP_007897160.1	WP_007897160.1 Imm42 family immunity protein 
+5(1)	WP_241582046.1	WP_241582046.1 immunity 42 family protein 
+5(1)	WP_265309917.1	WP_265309917.1 immunity 42 family protein 
+5(1)	WP_325792824.1	WP_325792824.1 Imm42 family immunity protein 
+5(1)	WP_238890805.1	WP_238890805.1 immunity 42 family protein 
+5(1)	WP_265814191.1	WP_265814191.1 immunity 42 family protein 
+5(1)	WP_010201969.1	WP_010201969.1 Imm42 family immunity protein 
+5(1)	WP_167575069.1	WP_167575069.1 MULTISPECIES: immunity 42 family protein 
+5(1)	WP_011144624.1	WP_011144624.1 MULTISPECIES: immunity 42 family protein 
+5(1)	WP_123805069.1	WP_123805069.1 Imm42 family immunity protein 
+5(1)	WP_139638625.1	WP_139638625.1 Imm42 family immunity protein 
+5(1)	WP_074824318.1	WP_074824318.1 immunity 42 family protein 
+
+
+6(1)	WP_321388798.1	WP_321388798.1 ABC transporter ATP-binding protein 
+6(1)	WP_080065866.1	WP_080065866.1 ABC transporter ATP-binding protein 
+6(1)	WP_080065867.1	WP_080065867.1 ABC transporter ATP-binding protein 
+6(1)	WP_027403791.1	WP_027403791.1 MULTISPECIES: excinuclease ABC subunit UvrA 
+6(1)	WP_112146068.1	WP_112146068.1 ABC transporter ATP-binding protein 
+6(1)	WP_012122023.1	WP_012122023.1 ABC transporter ATP-binding protein 
+6(1)	WP_012122021.1	WP_012122021.1 ABC transporter ATP-binding protein 
+6(1)	WP_288090354.1	WP_288090354.1 ABC transporter ATP-binding protein 
+6(1)	WP_279785964.1	WP_279785964.1 ABC transporter ATP-binding protein 
+6(1)	WP_288090350.1	WP_288090350.1 ABC transporter ATP-binding protein 
+6(1)	WP_075065616.1	WP_075065616.1 amino acid ABC transporter ATP-binding protein 
+
+
+7(1)	WP_227072739.1	WP_227072739.1 RHS repeat-associated core domain-containing protein 
+7(1)	WP_140397857.1	WP_140397857.1 polymorphic toxin-type HINT domain-containing protein 
+7(1)	WP_303016392.1	WP_303016392.1 RHS repeat domain-containing protein 
+7(1)	WP_303016390.1	WP_303016390.1 RHS repeat-associated core domain-containing protein 
+7(1)	WP_303016386.1	WP_303016386.1 RHS repeat domain-containing protein 
+7(1)	WP_233182425.1	WP_233182425.1 RHS repeat-associated core domain-containing protein 
+7(1)	WP_279785975.1	WP_279785975.1 RHS repeat-associated core domain-containing protein 
+7(1)	WP_233182427.1	WP_233182427.1 hypothetical protein 
+7(1)	WP_233182432.1	WP_233182432.1 hypothetical protein 
+
+
+8(1)	WP_263582085.1	WP_263582085.1 ShlB/FhaC/HecB family hemolysin secretion/activation protein 
+8(1)	WP_325792822.1	WP_325792822.1 ShlB/FhaC/HecB family hemolysin secretion/activation protein 
+8(1)	WP_007897154.1	WP_007897154.1 ShlB/FhaC/HecB family hemolysin secretion/activation protein 
+8(1)	WP_137926245.1	WP_137926245.1 ShlB/FhaC/HecB family hemolysin secretion/activation protein 
+8(1)	WP_171149314.1	WP_171149314.1 MULTISPECIES: ShlB/FhaC/HecB family hemolysin secretion/activation protein 
+8(1)	WP_037039161.1	WP_037039161.1 ShlB/FhaC/HecB family hemolysin secretion/activation protein 
+8(1)	WP_010201966.1	WP_010201966.1 ShlB/FhaC/HecB family hemolysin secretion/activation protein 
+8(1)	WP_260232304.1	WP_260232304.1 MULTISPECIES: ShlB/FhaC/HecB family hemolysin secretion/activation protein 
+8(1)	WP_074824415.1	WP_074824415.1 ShlB/FhaC/HecB family hemolysin secretion/activation protein 
+
+
+9(1)	WP_282506396.1	WP_282506396.1 LysR family transcriptional regulator 
+9(1)	WP_325792820.1	WP_325792820.1 LysR family transcriptional regulator 
+9(1)	WP_147933185.1	WP_147933185.1 LysR family transcriptional regulator 
+9(1)	WP_088755256.1	WP_088755256.1 MULTISPECIES: LysR family transcriptional regulator 
+9(1)	WP_093238513.1	WP_093238513.1 MULTISPECIES: LysR family transcriptional regulator 
+9(1)	WP_123299341.1	WP_123299341.1 LysR family transcriptional regulator 
+
+
+10(1)	WP_342997898.1	WP_342997898.1 restriction endonuclease subunit S 
+10(1)	WP_197745434.1	WP_197745434.1 restriction endonuclease subunit S 
+10(1)	WP_232612932.1	WP_232612932.1 restriction endonuclease subunit S 
+10(1)	WP_102534748.1	WP_102534748.1 restriction endonuclease subunit S 
+10(1)	WP_064384913.1	WP_064384913.1 restriction endonuclease subunit S 
+
+
+11(2)	WP_005910006.1	WP_005910006.1 MULTISPECIES: hypothetical protein 
+11(2)	WP_005910007.1	WP_005910007.1 MULTISPECIES: hypothetical protein 
+
+
+12(1)	WP_102416601.1	WP_102416601.1 MULTISPECIES: type I restriction endonuclease subunit R 
+12(1)	WP_161914423.1	WP_161914423.1 DEAD/DEAH box helicase family protein 
+12(1)	WP_064384915.1	WP_064384915.1 type I restriction endonuclease subunit R 
+12(1)	WP_232612933.1	WP_232612933.1 type I restriction endonuclease subunit R 
+
+
+13(1)	WP_120406628.1	WP_120406628.1 IMP dehydrogenase 
+13(1)	WP_074397285.1	WP_074397285.1 MULTISPECIES: IMP dehydrogenase 
+13(1)	WP_263140136.1	WP_263140136.1 MULTISPECIES: CBS domain-containing protein 
+13(1)	WP_120471430.1	WP_120471430.1 dihydroorotate dehydrogenase 
+
+
+14(1)	WP_037039157.1	WP_037039157.1 multidrug effflux MFS transporter 
+14(1)	WP_147933184.1	WP_147933184.1 MFS transporter 
+14(1)	WP_123299342.1	WP_123299342.1 MFS transporter 
+14(1)	WP_274079774.1	WP_274079774.1 MFS transporter 
+
+
+15(1)	WP_012122018.1	WP_012122018.1 M16 family metallopeptidase 
+15(1)	WP_288090343.1	WP_288090343.1 pitrilysin family protein 
+15(1)	WP_012122017.1	WP_012122017.1 M16 family metallopeptidase 
+15(1)	WP_288090345.1	WP_288090345.1 pitrilysin family protein 
+
+
+16(1)	WP_027624768.1	WP_027624768.1 hypothetical protein 
+16(1)	WP_051542000.1	WP_051542000.1 hypothetical protein 
+16(1)	WP_027624772.1	WP_027624772.1 hypothetical protein 
+
+
+17(1)	WP_096564997.1	WP_096564997.1 MULTISPECIES: protein IsiD 
+17(1)	WP_137908178.1	WP_137908178.1 MULTISPECIES: protein IsiD 
+17(1)	WP_015078552.1	WP_015078552.1 MULTISPECIES: protein IsiD 
+
+
+18(1)	WP_239892367.1	WP_239892367.1 IS3 family transposase 
+18(1)	WP_161914419.1	WP_161914419.1 IS3 family transposase 
+18(1)	WP_147933189.1	WP_147933189.1 IS481 family transposase, partial 
+
+
+19(1)	WP_064604439.1	WP_064604439.1 hypothetical protein 
+19(1)	WP_019671779.1	WP_019671779.1 hypothetical protein 
+19(1)	WP_250350612.1	WP_250350612.1 MULTISPECIES: hypothetical protein 
+
+
+20(1)	WP_106302948.1	WP_106302948.1 SNF2-related protein 
+20(1)	WP_176630102.1	WP_176630102.1 DEAD/DEAH box helicase 
+20(1)	WP_254290490.1	WP_254290490.1 DEAD/DEAH box helicase 
+
+
+21(1)	WP_080967089.1	WP_080967089.1 polymorphic toxin type 50 domain-containing protein 
+21(1)	WP_263582086.1	WP_263582086.1 DUF637 domain-containing protein 
+21(1)	WP_223882185.1	WP_223882185.1 hypothetical protein 
+
+
+22(1)	WP_265814192.1	WP_265814192.1 ribonuclease toxin immunity protein CdiI 
+22(1)	WP_267483637.1	WP_267483637.1 ribonuclease toxin immunity protein CdiI 
+22(1)	WP_267483638.1	WP_267483638.1 ribonuclease toxin immunity protein CdiI 
+
+
+23(1)	WP_271796770.1	WP_271796770.1 alpha/beta hydrolase 
+23(1)	WP_271775718.1	WP_271775718.1 alpha/beta hydrolase 
+23(1)	WP_193944270.1	WP_193944270.1 alpha/beta hydrolase 
+
+
+24(1)	WP_271775721.1	WP_271775721.1 bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC 
+24(1)	WP_193944268.1	WP_193944268.1 bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC 
+24(1)	WP_271796774.1	WP_271796774.1 bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC 
+
+
+25(1)	WP_279068769.1	WP_279068769.1 MULTISPECIES: type I restriction-modification system subunit M 
+25(1)	WP_198594968.1	WP_198594968.1 type I restriction-modification system subunit M 
+25(1)	WP_282506389.1	WP_282506389.1 type I restriction-modification system subunit M 
+
+
+26(1)	WP_106302945.1	WP_106302945.1 recombinase family protein 
+26(1)	WP_246371563.1	WP_246371563.1 recombinase family protein 
+26(1)	WP_282506390.1	WP_282506390.1 recombinase family protein 
+
+
+27(1)	WP_039507982.1	WP_039507982.1 GlxA family transcriptional regulator 
+27(1)	WP_277934833.1	WP_277934833.1 response regulator transcription factor 
+27(1)	WP_316032311.1	WP_316032311.1 AraC family transcriptional regulator 
+
+
+28(1)	WP_009006763.1	WP_009006763.1 MULTISPECIES: DUF5376 family protein 
+28(1)	WP_005910009.1	WP_005910009.1 MULTISPECIES: hypothetical protein 
+
+
+29(1)	WP_005910008.1	WP_005910008.1 MULTISPECIES: hypothetical protein 
+29(1)	WP_009006764.1	WP_009006764.1 hypothetical protein 
+
+
+30(1)	WP_008702584.1	WP_008702584.1 MULTISPECIES: hypothetical protein 
+30(1)	WP_009006768.1	WP_009006768.1 MULTISPECIES: hypothetical protein 
+
+
+31(1)	WP_010766295.1	WP_010766295.1 hypothetical protein 
+31(1)	WP_010766293.1	WP_010766293.1 hypothetical protein 
+
+
+32(1)	WP_013325282.1	WP_013325282.1 DUF5331 domain-containing protein 
+32(1)	WP_013325283.1	WP_013325283.1 DUF5331 domain-containing protein 
+
+
+33(1)	WP_026491185.1	WP_026491185.1 RHS repeat protein 
+33(1)	WP_026491184.1	WP_026491184.1 hypothetical protein 
+
+
+34(1)	WP_068681739.1	WP_068681739.1 TetR/AcrR family transcriptional regulator 
+34(1)	WP_072404130.1	WP_072404130.1 TetR/AcrR family transcriptional regulator 
+
+
+35(1)	WP_072404131.1	WP_072404131.1 alpha/beta fold hydrolase 
+35(1)	WP_027403795.1	WP_027403795.1 MULTISPECIES: alpha/beta fold hydrolase 
+
+
+36(1)	WP_039507987.1	WP_039507987.1 glutamine-hydrolyzing GMP synthase 
+36(1)	WP_074397284.1	WP_074397284.1 glutamine-hydrolyzing GMP synthase 
+
+
+37(1)	WP_079680165.1	WP_079680165.1 MULTISPECIES: type II toxin-antitoxin system HicB family antitoxin 
+37(1)	WP_071782617.1	WP_071782617.1 MULTISPECIES: type II toxin-antitoxin system HicB family antitoxin 
+
+
+38(1)	WP_083619092.1	WP_083619092.1 Uma2 family endonuclease 
+38(1)	WP_027250177.1	WP_027250177.1 Uma2 family endonuclease 
+
+
+39(1)	WP_083619094.1	WP_083619094.1 sensor histidine kinase 
+39(1)	WP_027250176.1	WP_027250176.1 sensor histidine kinase 
+
+
+40(1)	WP_027255357.1	WP_027255357.1 heavy metal translocating P-type ATPase 
+40(1)	WP_083619096.1	WP_083619096.1 heavy metal translocating P-type ATPase 
+
+
+41(1)	WP_083619098.1	WP_083619098.1 cupredoxin domain-containing protein 
+41(1)	WP_026796376.1	WP_026796376.1 MULTISPECIES: cupredoxin domain-containing protein 
+
+
+42(1)	WP_093238520.1	WP_093238520.1 aldehyde dehydrogenase family protein 
+42(1)	WP_088755258.1	WP_088755258.1 aldehyde dehydrogenase family protein 
+
+
+43(1)	WP_120817046.1	WP_120817046.1 PilL N-terminal domain-containing protein 
+43(1)	WP_072095890.1	WP_072095890.1 PilL N-terminal domain-containing protein 
+
+
+44(1)	WP_141106994.1	WP_141106994.1 hypothetical protein 
+44(1)	WP_088755254.1	WP_088755254.1 Imm42 family immunity protein 
+
+
+45(1)	WP_171149312.1	WP_171149312.1 hypothetical protein 
+45(1)	WP_155407638.1	WP_155407638.1 hypothetical protein 
+
+
+46(1)	WP_190488487.1	WP_190488487.1 DNA phosphorothioation system sulfurtransferase DndC 
+46(1)	WP_190488476.1	WP_190488476.1 phosphoadenosine phosphosulfate reductase family protein 
+
+
+47(1)	WP_075065617.1	WP_075065617.1 ABC transporter permease subunit 
+47(1)	WP_200957101.1	WP_200957101.1 ABC transporter permease subunit 
+
+
+48(1)	WP_048283781.1	WP_048283781.1 SymE family type I addiction module toxin 
+48(1)	WP_223803881.1	WP_223803881.1 MULTISPECIES: SymE family type I addiction module toxin 
+
+
+49(1)	WP_232301917.1	WP_232301917.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+49(1)	WP_077163225.1	WP_077163225.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+
+
+50(1)	WP_087433098.1	WP_087433098.1 Imm42 family immunity protein 
+50(1)	WP_233182426.1	WP_233182426.1 immunity 42 family protein 
+
+
+51(1)	WP_094443238.1	WP_094443238.1 DNA polymerase I 
+51(1)	WP_245349726.1	WP_245349726.1 DNA polymerase 
+
+
+52(1)	WP_246870616.1	WP_246870616.1 TonB-dependent receptor domain-containing protein 
+52(1)	WP_147933186.1	WP_147933186.1 TonB-dependent receptor plug domain-containing protein 
+
+
+53(1)	WP_253528723.1	WP_253528723.1 ATP-binding protein 
+53(1)	WP_253528727.1	WP_253528727.1 ATP-binding protein 
+
+
+54(1)	WP_258229809.1	WP_258229809.1 metallophosphoesterase 
+54(1)	WP_010201964.1	WP_010201964.1 symmetrical bis(5'-nucleosyl)-tetraphosphatase 
+
+
+55(1)	WP_263582087.1	WP_263582087.1 contact-dependent growth inhibition system immunity protein 
+55(1)	WP_167575072.1	WP_167575072.1 contact-dependent growth inhibition system immunity protein 
+
+
+56(1)	WP_271868152.1	WP_271868152.1 immunity 8 family protein 
+56(1)	WP_087433100.1	WP_087433100.1 Imm8 family immunity protein 
+
+
+57(1)	WP_277438116.1	WP_277438116.1 PIN domain nuclease 
+57(1)	WP_277438111.1	WP_277438111.1 PIN domain nuclease 
+
+
+58(1)	WP_043081991.1	WP_043081991.1 GntR family transcriptional regulator 
+58(1)	WP_279785966.1	WP_279785966.1 GntR family transcriptional regulator 
+
+
+59(1)	WP_162091657.1	WP_162091657.1 helix-turn-helix domain-containing protein 
+59(1)	WP_281396555.1	WP_281396555.1 winged helix-turn-helix transcriptional regulator 
+
+
+60(1)	WP_288090352.1	WP_288090352.1 tyrosine-protein phosphatase 
+60(1)	WP_012122022.1	WP_012122022.1 tyrosine-protein phosphatase 
+
+
+61(1)	WP_012122024.1	WP_012122024.1 DUF4126 domain-containing protein 
+61(1)	WP_288090356.1	WP_288090356.1 DUF4126 domain-containing protein 
+
+
+62(1)	WP_206582565.1	WP_206582565.1 DUF2019 domain-containing protein 
+62(1)	WP_303016391.1	WP_303016391.1 hypothetical protein 
+
+
+63(1)	WP_303016393.1	WP_303016393.1 DUF3969 family protein 
+63(1)	WP_019671781.1	WP_019671781.1 DUF3969 family protein 
+
+
+64(1)	WP_322264753.1	WP_322264753.1 helix-turn-helix domain-containing protein 
+64(1)	WP_097497685.1	WP_097497685.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+
+
+65(1)	WP_068681724.1	WP_068681724.1 RadC family protein 
+65(1)	WP_325795097.1	WP_325795097.1 RadC family protein 
+
+
+66(1)	WP_295256670.1	WP_295256670.1 DUF4417 domain-containing protein 
+66(1)	WP_342997897.1	WP_342997897.1 DUF4417 domain-containing protein 
+
+

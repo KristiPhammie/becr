@@ -1,0 +1,45 @@
+1(1)	WP_052947800.1	WP_052947800.1 DNRLRE domain-containing protein 
+1(1)	WP_052218120.1	WP_052218120.1 RHS repeat-associated core domain-containing protein 
+1(1)	WP_289270100.1	WP_289270100.1 IPT/TIG domain-containing protein 
+1(1)	WP_289270112.1	WP_289270112.1 RHS repeat-associated core domain-containing protein 
+1(1)	WP_162264048.1	WP_162264048.1 RHS repeat domain-containing protein 
+1(1)	WP_052947802.1	WP_052947802.1 RHS repeat protein 
+1(1)	WP_305260957.1	WP_305260957.1 RHS repeat domain-containing protein 
+1(1)	WP_289270114.1	WP_289270114.1 RHS repeat-associated core domain-containing protein 
+1(1)	WP_269446533.1	WP_269446533.1 RHS repeat-associated core domain-containing protein 
+1(1)	WP_059062545.1	WP_059062545.1 RHS repeat domain-containing protein 
+1(1)	WP_305260986.1	WP_305260986.1 RHS repeat domain-containing protein 
+
+
+2(1)	WP_058487096.1	WP_058487096.1 hypothetical protein 
+2(1)	WP_047153642.1	WP_047153642.1 hypothetical protein 
+2(1)	WP_289270106.1	WP_289270106.1 hypothetical protein 
+2(1)	WP_297036860.1	WP_297036860.1 hypothetical protein 
+2(1)	WP_141733939.1	WP_141733939.1 hypothetical protein 
+2(1)	WP_059062543.1	WP_059062543.1 hypothetical protein 
+
+
+3(2)	WP_316355858.1	WP_316355858.1 transposase 
+3(1)	WP_316355860.1	WP_316355860.1 transposase 
+
+
+4(1)	WP_316357527.1	WP_316357527.1 hypothetical protein 
+4(1)	WP_316355863.1	WP_316355863.1 hypothetical protein 
+4(1)	WP_013944203.1	WP_013944203.1 hypothetical protein 
+
+
+5(1)	WP_002559041.1	WP_002559041.1 MULTISPECIES: hypothetical protein 
+5(1)	WP_223381779.1	WP_223381779.1 hypothetical protein 
+
+
+6(1)	WP_289267250.1	WP_289267250.1 hypothetical protein 
+6(1)	WP_059062537.1	WP_059062537.1 hypothetical protein 
+
+
+7(2)	WP_316355856.1	WP_316355856.1 IS3 family transposase 
+
+
+8(1)	WP_316355866.1	WP_316355866.1 hypothetical protein 
+8(1)	WP_316357515.1	WP_316357515.1 hypothetical protein 
+
+

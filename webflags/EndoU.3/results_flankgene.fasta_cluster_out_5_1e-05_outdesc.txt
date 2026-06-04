@@ -1,0 +1,303 @@
+1(1)	WP_206458694.1	WP_206458694.1 hypothetical protein 
+1(1)	WP_185605768.1	WP_185605768.1 hypothetical protein 
+1(1)	WP_015732320.1	WP_015732320.1 hypothetical protein 
+1(1)	WP_163583496.1	WP_163583496.1 hypothetical protein 
+1(1)	WP_186865807.1	WP_186865807.1 hypothetical protein 
+1(1)	WP_047841781.1	WP_047841781.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_138751862.1	WP_138751862.1 hypothetical protein 
+1(1)	WP_099225427.1	WP_099225427.1 hypothetical protein 
+1(1)	WP_294231912.1	WP_294231912.1 hypothetical protein 
+1(1)	WP_294196095.1	WP_294196095.1 hypothetical protein 
+1(1)	WP_318697763.1	WP_318697763.1 hypothetical protein 
+1(1)	WP_120197956.1	WP_120197956.1 hypothetical protein 
+1(1)	WP_113744568.1	WP_113744568.1 hypothetical protein 
+1(1)	WP_066679065.1	WP_066679065.1 hypothetical protein 
+1(1)	WP_300078337.1	WP_300078337.1 hypothetical protein 
+1(1)	WP_293753762.1	WP_293753762.1 hypothetical protein 
+1(1)	WP_050022446.1	WP_050022446.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_252238991.1	WP_252238991.1 hypothetical protein 
+1(1)	WP_137657450.1	WP_137657450.1 hypothetical protein 
+1(1)	WP_288515955.1	WP_288515955.1 hypothetical protein 
+1(1)	WP_147644176.1	WP_147644176.1 hypothetical protein 
+1(1)	WP_026057062.1	WP_026057062.1 hypothetical protein 
+1(1)	WP_109587268.1	WP_109587268.1 hypothetical protein 
+1(1)	WP_078577998.1	WP_078577998.1 hypothetical protein 
+1(1)	WP_068883290.1	WP_068883290.1 hypothetical protein 
+1(1)	WP_182493654.1	WP_182493654.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_000350220.1	WP_000350220.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_278780877.1	WP_278780877.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_283682690.1	WP_283682690.1 hypothetical protein 
+1(1)	WP_322925065.1	WP_322925065.1 hypothetical protein 
+1(1)	WP_304683767.1	WP_304683767.1 hypothetical protein 
+1(1)	WP_219778044.1	WP_219778044.1 hypothetical protein 
+1(1)	WP_022747754.1	WP_022747754.1 hypothetical protein 
+1(1)	WP_101622778.1	WP_101622778.1 hypothetical protein 
+1(1)	WP_173606214.1	WP_173606214.1 hypothetical protein 
+1(1)	WP_051993653.1	WP_051993653.1 hypothetical protein 
+1(1)	WP_129596022.1	WP_129596022.1 hypothetical protein 
+1(1)	WP_142414400.1	WP_142414400.1 hypothetical protein 
+1(1)	WP_281085813.1	WP_281085813.1 hypothetical protein 
+1(1)	WP_088467023.1	WP_088467023.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_061870204.1	WP_061870204.1 hypothetical protein 
+1(1)	WP_127821743.1	WP_127821743.1 hypothetical protein 
+1(1)	WP_195962471.1	WP_195962471.1 hypothetical protein 
+1(1)	WP_004027251.1	WP_004027251.1 hypothetical protein 
+1(1)	WP_026652487.1	WP_026652487.1 hypothetical protein 
+1(1)	WP_033515260.1	WP_033515260.1 hypothetical protein 
+1(1)	WP_127490408.1	WP_127490408.1 hypothetical protein 
+1(1)	WP_094690316.1	WP_094690316.1 hypothetical protein 
+1(1)	WP_003748864.1	WP_003748864.1 hypothetical protein 
+1(1)	WP_316096693.1	WP_316096693.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_109725549.1	WP_109725549.1 hypothetical protein 
+1(1)	WP_251205877.1	WP_251205877.1 hypothetical protein 
+1(1)	WP_118204009.1	WP_118204009.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_073182395.1	WP_073182395.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_169741030.1	WP_169741030.1 hypothetical protein 
+1(1)	WP_265233030.1	WP_265233030.1 hypothetical protein 
+1(1)	WP_300781947.1	WP_300781947.1 hypothetical protein 
+1(1)	WP_291750404.1	WP_291750404.1 hypothetical protein 
+1(1)	WP_100513694.1	WP_100513694.1 hypothetical protein 
+1(1)	WP_305905514.1	WP_305905514.1 hypothetical protein 
+1(1)	WP_123063862.1	WP_123063862.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_115674376.1	WP_115674376.1 hypothetical protein 
+1(1)	WP_035434801.1	WP_035434801.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_054852335.1	WP_054852335.1 hypothetical protein 
+1(1)	WP_304016411.1	WP_304016411.1 hypothetical protein 
+
+
+2(1)	WP_061870202.1	WP_061870202.1 DUF4417 domain-containing protein 
+2(1)	WP_300078344.1	WP_300078344.1 DUF4417 domain-containing protein 
+2(1)	WP_016829298.1	WP_016829298.1 DUF4417 domain-containing protein 
+2(1)	WP_026652486.1	WP_026652486.1 DUF4417 domain-containing protein 
+2(1)	WP_033515262.1	WP_033515262.1 hypothetical protein 
+2(1)	WP_186865809.1	WP_186865809.1 DUF4417 domain-containing protein 
+2(1)	WP_318697765.1	WP_318697765.1 DUF4417 domain-containing protein 
+2(1)	WP_113745748.1	WP_113745748.1 DUF4417 domain-containing protein 
+2(1)	WP_281085814.1	WP_281085814.1 DUF4417 domain-containing protein 
+2(1)	WP_304016413.1	WP_304016413.1 DUF4417 domain-containing protein 
+2(1)	WP_337524264.1	WP_337524264.1 DUF4417 domain-containing protein 
+2(1)	WP_288515953.1	WP_288515953.1 DUF4417 domain-containing protein 
+2(1)	WP_255296246.1	WP_255296246.1 DUF4417 domain-containing protein 
+2(1)	WP_304683770.1	WP_304683770.1 DUF4417 domain-containing protein 
+2(1)	WP_094690318.1	WP_094690318.1 DUF4417 domain-containing protein 
+2(1)	WP_165776825.1	WP_165776825.1 DUF4417 domain-containing protein 
+2(1)	WP_014547105.1	WP_014547105.1 DUF4417 domain-containing protein 
+2(1)	WP_101622780.1	WP_101622780.1 DUF4417 domain-containing protein 
+2(1)	WP_033515261.1	WP_033515261.1 hypothetical protein 
+
+
+3(1)	WP_029232844.1	WP_029232844.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+3(1)	WP_233244493.1	WP_233244493.1 XRE family transcriptional regulator 
+3(1)	WP_123063860.1	WP_123063860.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+3(1)	WP_186865811.1	WP_186865811.1 helix-turn-helix domain-containing protein 
+3(1)	WP_014547107.1	WP_014547107.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+3(1)	WP_094690319.1	WP_094690319.1 helix-turn-helix domain-containing protein 
+3(1)	WP_186865806.1	WP_186865806.1 helix-turn-helix domain-containing protein 
+3(1)	WP_033515257.1	WP_033515257.1 helix-turn-helix domain-containing protein 
+3(1)	WP_076253421.1	WP_076253421.1 MULTISPECIES: helix-turn-helix transcriptional regulator 
+3(1)	WP_185577590.1	WP_185577590.1 helix-turn-helix domain-containing protein 
+
+
+4(1)	WP_251205872.1	WP_251205872.1 phage terminase small subunit-related protein 
+4(1)	WP_300781955.1	WP_300781955.1 phage terminase small subunit 
+4(1)	WP_138751867.1	WP_138751867.1 phage terminase small subunit 
+4(1)	WP_129596018.1	WP_129596018.1 phage terminase small subunit-related protein 
+4(1)	WP_206458691.1	WP_206458691.1 helix-turn-helix domain-containing protein 
+4(1)	WP_251205873.1	WP_251205873.1 hypothetical protein 
+4(1)	WP_283682694.1	WP_283682694.1 phage terminase small subunit 
+
+
+5(1)	WP_283682688.1	WP_283682688.1 XkdF-like putative serine protease domain-containing protein 
+5(1)	WP_129596023.1	WP_129596023.1 XkdF-like putative serine protease domain-containing protein 
+5(1)	WP_147644175.1	WP_147644175.1 XkdF-like putative serine protease domain-containing protein 
+5(1)	WP_300781944.1	WP_300781944.1 XkdF-like putative serine protease domain-containing protein 
+5(1)	WP_251205878.1	WP_251205878.1 XkdF-like putative serine protease domain-containing protein 
+5(1)	WP_206458697.1	WP_206458697.1 XkdF-like putative serine protease domain-containing protein 
+
+
+6(1)	WP_251205875.1	WP_251205875.1 phage portal protein 
+6(1)	WP_206458692.1	WP_206458692.1 phage portal protein 
+6(1)	WP_283682692.1	WP_283682692.1 phage portal protein 
+6(1)	WP_147644178.1	WP_147644178.1 phage portal protein 
+6(1)	WP_129596020.1	WP_129596020.1 phage portal protein 
+6(1)	WP_300781951.1	WP_300781951.1 phage portal protein 
+
+
+7(1)	WP_293753756.1	WP_293753756.1 PBSX family phage terminase large subunit 
+7(1)	WP_316096696.1	WP_316096696.1 MULTISPECIES: terminase large subunit domain-containing protein 
+7(1)	WP_138751866.1	WP_138751866.1 PBSX family phage terminase large subunit 
+7(1)	WP_142414403.1	WP_142414403.1 terminase large subunit domain-containing protein 
+7(1)	WP_129596019.1	WP_129596019.1 PBSX family phage terminase large subunit 
+7(1)	WP_195961824.1	WP_195961824.1 PBSX family phage terminase large subunit 
+
+
+8(1)	WP_068883294.1	WP_068883294.1 phage portal protein 
+8(1)	WP_293753758.1	WP_293753758.1 phage portal protein 
+8(1)	WP_252238993.1	WP_252238993.1 phage portal protein 
+8(1)	WP_195961823.1	WP_195961823.1 phage portal protein 
+8(1)	WP_219778046.1	WP_219778046.1 phage portal protein 
+
+
+9(1)	WP_158539205.1	WP_158539205.1 phage scaffolding protein 
+9(1)	WP_142414398.1	WP_142414398.1 phage scaffolding protein 
+9(1)	WP_316096692.1	WP_316096692.1 MULTISPECIES: phage scaffolding protein 
+9(1)	WP_293753763.1	WP_293753763.1 phage scaffolding protein 
+9(1)	WP_138751861.1	WP_138751861.1 phage scaffolding protein 
+
+
+10(1)	WP_330634578.1	WP_330634578.1 DEAD/DEAH box helicase family protein 
+10(1)	WP_147644179.1	WP_147644179.1 DEAD/DEAH box helicase family protein 
+10(1)	WP_283682693.1	WP_283682693.1 terminase B 
+10(1)	WP_300781953.1	WP_300781953.1 terminase B 
+10(1)	WP_251205874.1	WP_251205874.1 terminase B 
+
+
+11(1)	WP_100513691.1	WP_100513691.1 excinuclease ABC subunit A 
+11(1)	WP_202574720.1	WP_202574720.1 excinuclease ABC subunit UvrA 
+11(1)	WP_257822142.1	WP_257822142.1 ABC transporter ATP-binding protein 
+11(1)	WP_101622777.1	WP_101622777.1 ABC transporter ATP-binding protein 
+
+
+12(1)	WP_174441952.1	WP_174441952.1 hypothetical protein 
+12(1)	WP_182493656.1	WP_182493656.1 hypothetical protein 
+12(1)	WP_125066379.1	WP_125066379.1 hypothetical protein 
+12(1)	WP_294231919.1	WP_294231919.1 hypothetical protein 
+
+
+13(1)	WP_219778047.1	WP_219778047.1 hypothetical protein 
+13(1)	WP_244205724.1	WP_244205724.1 phage terminase large subunit 
+13(1)	WP_348980996.1	WP_348980996.1 phage terminase large subunit 
+13(1)	WP_252238994.1	WP_252238994.1 hypothetical protein 
+
+
+14(1)	WP_109587266.1	WP_109587266.1 ImmA/IrrE family metallo-endopeptidase 
+14(1)	WP_026652490.1	WP_026652490.1 MULTISPECIES: hypothetical protein 
+14(1)	WP_014547106.1	WP_014547106.1 ImmA/IrrE family metallo-endopeptidase 
+
+
+15(1)	WP_113744158.1	WP_113744158.1 IS1634 family transposase 
+15(1)	WP_113745435.1	WP_113745435.1 transposase 
+15(1)	WP_113745749.1	WP_113745749.1 IS1634 family transposase 
+
+
+16(1)	WP_148638445.1	WP_148638445.1 hypothetical protein 
+16(1)	WP_054852332.1	WP_054852332.1 hypothetical protein 
+16(1)	WP_054852336.1	WP_054852336.1 hypothetical protein 
+
+
+17(1)	WP_202574719.1	WP_202574719.1 S8 family peptidase 
+17(1)	WP_100513696.1	WP_100513696.1 S8 family peptidase 
+17(1)	WP_004026595.1	WP_004026595.1 S8 family peptidase 
+
+
+18(1)	WP_147644174.1	WP_147644174.1 P2 family phage major capsid protein 
+18(1)	WP_283682687.1	WP_283682687.1 hypothetical protein 
+18(1)	WP_129596024.1	WP_129596024.1 P2 family phage major capsid protein 
+
+
+19(1)	WP_050022449.1	WP_050022449.1 MULTISPECIES: hypothetical protein 
+19(1)	WP_294231917.1	WP_294231917.1 hypothetical protein 
+19(1)	WP_182493655.1	WP_182493655.1 MULTISPECIES: hypothetical protein 
+
+
+20(1)	WP_206458690.1	WP_206458690.1 ParB N-terminal domain-containing protein 
+20(1)	WP_300781958.1	WP_300781958.1 ParB N-terminal domain-containing protein 
+20(1)	WP_283682696.1	WP_283682696.1 ParB N-terminal domain-containing protein 
+
+
+21(1)	WP_300078353.1	WP_300078353.1 class I SAM-dependent DNA methyltransferase 
+21(1)	WP_304016408.1	WP_304016408.1 type I restriction-modification system subunit M 
+21(1)	WP_061870200.1	WP_061870200.1 HsdM family class I SAM-dependent methyltransferase 
+
+
+22(1)	WP_316096695.1	WP_316096695.1 MULTISPECIES: capsid protein 
+22(1)	WP_142414402.1	WP_142414402.1 phage portal protein 
+22(1)	WP_138751864.1	WP_138751864.1 capsid protein 
+
+
+23(1)	WP_293753754.1	WP_293753754.1 terminase small subunit 
+23(1)	WP_195961825.1	WP_195961825.1 terminase small subunit 
+23(1)	WP_316096715.1	WP_316096715.1 MULTISPECIES: terminase small subunit 
+
+
+24(1)	WP_127821745.1	WP_127821745.1 hypothetical protein 
+24(1)	WP_127821741.1	WP_127821741.1 hypothetical protein 
+24(1)	WP_318580845.1	WP_318580845.1 hypothetical protein 
+
+
+25(1)	WP_036098290.1	WP_036098290.1 aldehyde dehydrogenase 
+25(1)	WP_097848950.1	WP_097848950.1 aldehyde dehydrogenase 
+
+
+26(1)	WP_100513695.1	WP_100513695.1 ATP-binding protein 
+26(1)	WP_061870205.1	WP_061870205.1 ATP-binding protein 
+
+
+27(1)	WP_120197958.1	WP_120197958.1 pentapeptide repeat-containing protein 
+27(1)	WP_123063863.1	WP_123063863.1 MULTISPECIES: pentapeptide repeat-containing protein 
+
+
+28(1)	WP_146198151.1	WP_146198151.1 hypothetical protein 
+28(1)	WP_109725551.1	WP_109725551.1 hypothetical protein 
+
+
+29(1)	WP_187294269.1	WP_187294269.1 hypothetical protein 
+29(1)	WP_162874881.1	WP_162874881.1 MULTISPECIES: hypothetical protein 
+
+
+30(1)	WP_137657449.1	WP_137657449.1 T7SS effector LXG polymorphic toxin 
+30(1)	WP_228472255.1	WP_228472255.1 T7SS effector LXG polymorphic toxin 
+
+
+31(1)	WP_240422392.1	WP_240422392.1 hypothetical protein 
+31(1)	WP_123063865.1	WP_123063865.1 MULTISPECIES: hypothetical protein 
+
+
+32(1)	WP_240422393.1	WP_240422393.1 immunity 70 family protein 
+32(1)	WP_034564883.1	WP_034564883.1 Imm70 family immunity protein, partial 
+
+
+33(1)	WP_068883288.1	WP_068883288.1 DUF4355 domain-containing protein 
+33(1)	WP_252238988.1	WP_252238988.1 DUF4355 domain-containing protein 
+
+
+34(1)	WP_300078347.1	WP_300078347.1 type I restriction endonuclease 
+34(1)	WP_202574715.1	WP_202574715.1 DEAD/DEAH box helicase family protein 
+
+
+35(1)	WP_300781938.1	WP_300781938.1 hypothetical protein 
+35(1)	WP_251205880.1	WP_251205880.1 hypothetical protein 
+
+
+36(1)	WP_251205879.1	WP_251205879.1 hypothetical protein 
+36(1)	WP_300781941.1	WP_300781941.1 hypothetical protein 
+
+
+37(1)	WP_035434798.1	WP_035434798.1 MULTISPECIES: imm11 family protein 
+37(1)	WP_305089851.1	WP_305089851.1 imm11 family protein 
+
+
+38(1)	WP_305905513.1	WP_305905513.1 GNAT family N-acetyltransferase 
+38(1)	WP_305905517.1	WP_305905517.1 GNAT family N-acetyltransferase 
+
+
+39(1)	WP_138751860.1	WP_138751860.1 major capsid protein 
+39(1)	WP_316096691.1	WP_316096691.1 MULTISPECIES: major capsid protein 
+
+
+40(1)	WP_312009532.1	WP_312009532.1 RNase A-like domain-containing protein 
+40(1)	WP_325956545.1	WP_325956545.1 DNA/RNA non-specific endonuclease 
+
+
+41(1)	WP_325956548.1	WP_325956548.1 DUF600 domain-containing protein 
+41(1)	WP_095305960.1	WP_095305960.1 DUF600 domain-containing protein 
+
+
+42(1)	WP_304016410.1	WP_304016410.1 DUF6076 domain-containing protein 
+42(1)	WP_337524265.1	WP_337524265.1 DUF6076 domain-containing protein 
+
+
+43(1)	WP_281085811.1	WP_281085811.1 Fic family protein 
+43(1)	WP_342636752.1	WP_342636752.1 Fic family protein 
+
+

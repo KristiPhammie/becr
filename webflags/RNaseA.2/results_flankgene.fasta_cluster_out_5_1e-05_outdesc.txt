@@ -1,0 +1,390 @@
+1(1)	XP_013860143.1	XP_013860143.1 E3 ubiquitin-protein ligase RNF115 
+1(1)	XP_036436315.1	XP_036436315.1 tripartite motif-containing protein 35-like 
+1(1)	XP_024122994.1	XP_024122994.1 E3 ubiquitin-protein ligase RNF115 
+1(1)	XP_042565128.1	XP_042565128.1 regulation of nuclear pre-mRNA domain-containing protein 2 
+1(1)	XP_034532036.1	XP_034532036.1 E3 ubiquitin-protein ligase TRIM21-like 
+1(1)	XP_061530188.1	XP_061530188.1 regulation of nuclear pre-mRNA domain-containing protein 2 
+1(1)	XP_041635339.1	XP_041635339.1 E3 ubiquitin-protein ligase TRIM21-like 
+1(1)	XP_039972880.1	XP_039972880.1 regulation of nuclear pre-mRNA domain-containing protein 2 isoform X1 
+1(1)	XP_062279384.1	XP_062279384.1 LOW QUALITY PROTEIN: E3 ubiquitin-protein ligase RNF115 
+1(1)	XP_030286406.1	XP_030286406.1 uncharacterized protein LOC115589573 isoform X1 
+1(1)	XP_035004843.2	XP_035004843.2 E3 ubiquitin-protein ligase TRIM39-like 
+1(1)	XP_060906476.1	XP_060906476.1 E3 ubiquitin-protein ligase RNF115 
+1(1)	XP_022519249.2	XP_022519249.2 E3 ubiquitin-protein ligase RNF115 
+1(1)	XP_003450946.2	XP_003450946.2 E3 ubiquitin-protein ligase RNF115 
+1(1)	XP_020783588.1	XP_020783588.1 E3 ubiquitin-protein ligase RNF115 
+1(1)	XP_036435921.1	XP_036435921.1 E3 ubiquitin-protein ligase TRIM39-like 
+1(1)	XP_039456048.1	XP_039456048.1 reticulocyte-binding protein 2 homolog a-like 
+1(1)	XP_049923714.1	XP_049923714.1 uncharacterized protein LOC126404497 
+1(1)	XP_034554530.1	XP_034554530.1 E3 ubiquitin-protein ligase RNF115 isoform X1 
+1(1)	XP_024865311.1	XP_024865311.1 pyrin isoform X2 
+1(1)	XP_054914440.1	XP_054914440.1 E3 ubiquitin-protein ligase TRIM21-like isoform X2 
+1(1)	XP_034532711.1	XP_034532711.1 mucin-2-like 
+1(1)	XP_037393085.1	XP_037393085.1 tripartite motif-containing protein 35-like 
+1(1)	XP_030286350.1	XP_030286350.1 E3 ubiquitin-protein ligase TRIM21-like 
+1(1)	XP_054477020.1	XP_054477020.1 E3 ubiquitin-protein ligase RNF115 isoform X1 
+1(1)	XP_017542471.2	XP_017542471.2 zinc-binding protein A33-like 
+1(1)	XP_039465915.1	XP_039465915.1 pyrin-like 
+1(1)	XP_034532037.1	XP_034532037.1 E3 ubiquitin-protein ligase TRIM47-like 
+1(1)	XP_037393086.1	XP_037393086.1 zinc-binding protein A33-like 
+1(1)	XP_039465902.1	XP_039465902.1 uncharacterized protein LOC120439195 isoform X2 
+1(1)	XP_054914441.1	XP_054914441.1 E3 ubiquitin-protein ligase TRIM38-like 
+1(1)	XP_041635340.1	XP_041635340.1 E3 ubiquitin-protein ligase TRIM39-like 
+1(1)	XP_043971958.1	XP_043971958.1 NACHT, LRR and PYD domains-containing protein 12-like 
+1(1)	XP_051258383.1	XP_051258383.1 probable E3 ubiquitin-protein ligase TRIML2 isoform X10 
+1(1)	XP_034532035.1	XP_034532035.1 E3 ubiquitin-protein ligase TRIM38-like 
+1(1)	XP_054478466.1	XP_054478466.1 LOW QUALITY PROTEIN: regulation of nuclear pre-mRNA domain-containing protein 2 
+1(1)	XP_049923732.1	XP_049923732.1 E3 ubiquitin-protein ligase TRIM39-like 
+1(1)	XP_017570028.1	XP_017570028.1 tripartite motif-containing protein 35-like 
+1(1)	XP_051258352.1	XP_051258352.1 uncharacterized protein LOC127364672 isoform X1 
+1(1)	XP_049923724.1	XP_049923724.1 E3 ubiquitin-protein ligase BRE1A-like isoform X2 
+1(1)	XP_056884334.1	XP_056884334.1 E3 ubiquitin/ISG15 ligase TRIM25 
+1(1)	XP_037832578.1	XP_037832578.1 uncharacterized protein LOC108245263 
+1(1)	XP_037392672.1	XP_037392672.1 tripartite motif-containing protein 35-like 
+1(1)	XP_061530180.1	XP_061530180.1 E3 ubiquitin-protein ligase RNF115 isoform X1 
+1(1)	XP_029931566.1	XP_029931566.1 uncharacterized protein LOC115376214 
+1(1)	XP_034030613.1	XP_034030613.1 E3 ubiquitin-protein ligase RNF115 
+1(1)	XP_029931565.1	XP_029931565.1 uncharacterized protein LOC115376213 
+1(1)	XP_055019615.1	XP_055019615.1 regulation of nuclear pre-mRNA domain-containing protein 2 isoform X2 
+1(1)	XP_046235837.1	XP_046235837.1 E3 ubiquitin-protein ligase TRIM39-like 
+1(1)	XP_054914444.1	XP_054914444.1 uncharacterized protein LOC129378181 isoform X2 
+1(1)	XP_047194781.1	XP_047194781.1 E3 ubiquitin-protein ligase TRIM21-like isoform X2 
+1(1)	XP_030286374.1	XP_030286374.1 E3 ubiquitin-protein ligase TRIM21 
+1(1)	XP_017287538.1	XP_017287538.1 E3 ubiquitin-protein ligase TRIM39-like 
+1(1)	XP_062277900.1	XP_062277900.1 regulation of nuclear pre-mRNA domain-containing protein 2 isoform X2 
+1(1)	XP_061572892.1	XP_061572892.1 E3 ubiquitin-protein ligase RNF115 
+1(1)	XP_035004842.2	XP_035004842.2 E3 ubiquitin-protein ligase TRIM39 isoform X2 
+1(1)	XP_036436324.1	XP_036436324.1 tripartite motif-containing protein 35-like 
+1(1)	XP_028835323.1	XP_028835323.1 regulation of nuclear pre-mRNA domain-containing protein 2 isoform X1 
+1(1)	XP_043971945.1	XP_043971945.1 regulation of nuclear pre-mRNA domain-containing protein 2 
+1(1)	XP_041635346.1	XP_041635346.1 E3 ubiquitin/ISG15 ligase TRIM25-like 
+1(1)	XP_047194782.1	XP_047194782.1 E3 ubiquitin-protein ligase TRIM39-like 
+1(1)	XP_041635343.1	XP_041635343.1 E3 ubiquitin-protein ligase TRIM39-like 
+1(1)	XP_029927801.1	XP_029927801.1 E3 ubiquitin-protein ligase RNF115 
+1(1)	XP_060906409.1	XP_060906409.1 regulation of nuclear pre-mRNA domain-containing protein 2-like isoform X1 
+1(1)	XP_036436344.1	XP_036436344.1 tripartite motif-containing protein 35-like 
+
+
+2(1)	XP_041635351.1	XP_041635351.1 complement C1q-like protein 3 
+2(1)	XP_051258056.1	XP_051258056.1 galactose-specific lectin nattectin-like isoform X2 
+2(1)	XP_041635347.1	XP_041635347.1 cerebellin-1-like 
+2(1)	XP_048039566.1	XP_048039566.1 macrophage mannose receptor 1-like 
+2(1)	XP_046235839.1	XP_046235839.1 cerebellin-1-like isoform X1 
+2(1)	XP_034005958.1	XP_034005958.1 myosin-3-like 
+2(1)	XP_054914453.1	XP_054914453.1 complement C1q tumor necrosis factor-related protein 3-like 
+2(1)	XP_051256974.1	XP_051256974.1 caprin-2 isoform X2 
+2(2)	XP_056884701.1	XP_056884701.1 C-type mannose receptor 2-like 
+2(1)	XP_019209588.1	XP_019209588.1 putative C-type lectin domain family 20 member A 
+2(1)	XP_034005961.1	XP_034005961.1 complement C1q-like protein 2 isoform X2 
+2(1)	XP_039456039.1	XP_039456039.1 collagen alpha-2(VIII) chain-like 
+2(1)	XP_019209627.1	XP_019209627.1 macrophage mannose receptor 1-like 
+2(1)	XP_025761861.1	XP_025761861.1 secretory phospholipase A2 receptor-like 
+2(1)	XP_048039570.1	XP_048039570.1 C-type mannose receptor 2-like 
+2(1)	XP_041962382.1	XP_041962382.1 hyaluronan and proteoglycan link protein 2 
+2(1)	XP_048039569.1	XP_048039569.1 macrophage mannose receptor 1-like 
+2(2)	XP_056884347.1	XP_056884347.1 C-type mannose receptor 2-like 
+2(1)	XP_051258131.1	XP_051258131.1 complement C1q tumor necrosis factor-related protein 3-like 
+2(1)	XP_041962336.1	XP_041962336.1 brevican core protein isoform X4 
+2(1)	XP_048039567.1	XP_048039567.1 C-type mannose receptor 2-like 
+2(1)	XP_054483013.1	XP_054483013.1 complement C1q-like protein 3 
+2(1)	XP_019209587.1	XP_019209587.1 lithostathine-like 
+2(1)	XP_054914449.1	XP_054914449.1 complement C1q-like protein 2 
+2(1)	XP_034005963.1	XP_034005963.1 complement C1q-like protein 3 
+2(1)	XP_051256979.1	XP_051256979.1 cerebellin-1-like 
+2(1)	XP_025761863.1	XP_025761863.1 macrophage mannose receptor 1-like 
+2(1)	XP_029931564.1	XP_029931564.1 complement C1q-like protein 3 
+2(2)	XP_056884703.1	XP_056884703.1 C-type mannose receptor 2-like 
+2(1)	XP_013132711.2	XP_013132711.2 cerebellin-1-like 
+2(1)	XP_051256980.1	XP_051256980.1 complement C1q-like protein 3 
+2(1)	XP_049923775.1	XP_049923775.1 caprin-2-like isoform X2 
+2(1)	XP_048039571.1	XP_048039571.1 macrophage mannose receptor 1-like 
+2(1)	XP_039456056.1	XP_039456056.1 macrophage mannose receptor 1-like 
+2(1)	XP_046235842.1	XP_046235842.1 complement C1q-like protein 4 
+2(1)	XP_049923771.1	XP_049923771.1 complement C1q-like protein 3 isoform X2 
+2(1)	XP_049923782.1	XP_049923782.1 complement C1q-like protein 2 
+2(1)	XP_034532741.1	XP_034532741.1 complement C1q-like protein 4 
+2(1)	XP_034532693.1	XP_034532693.1 complement C1q subcomponent subunit C-like 
+2(1)	XP_056884704.1	XP_056884704.1 uncharacterized protein LOC130523421 
+2(1)	XP_030286439.1	XP_030286439.1 complement C1q tumor necrosis factor-related protein 6-like 
+2(1)	XP_054914572.1	XP_054914572.1 complement C1q-like protein 2 
+2(1)	XP_054914448.1	XP_054914448.1 complement C1q tumor necrosis factor-related protein 3-like 
+2(1)	XP_017287513.1	XP_017287513.1 complement C1q-like protein 2 
+2(1)	XP_013132752.2	XP_013132752.2 macrophage mannose receptor 1-like 
+2(1)	XP_041635349.1	XP_041635349.1 complement C1q-like protein 4 isoform X2 
+2(1)	XP_029931562.1	XP_029931562.1 complement C1q-like protein 3 
+2(1)	XP_049923780.1	XP_049923780.1 complement C1q-like protein 3 
+
+
+3(1)	XP_062278744.1	XP_062278744.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_034030610.1	XP_034030610.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_039973985.1	XP_039973985.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_061531597.1	XP_061531597.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_013860145.1	XP_013860145.1 cellular retinoic acid-binding protein 2 
+3(1)	XP_061572893.1	XP_061572893.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_034554533.1	XP_034554533.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_023117481.1	XP_023117481.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_024122713.1	XP_024122713.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_046256717.1	XP_046256717.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_059196103.1	XP_059196103.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_048008841.1	XP_048008841.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_020783566.1	XP_020783566.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_003450947.1	XP_003450947.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_028836612.1	XP_028836612.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_064863287.1	XP_064863287.1 cellular retinoic acid-binding protein 2-like isoform X2 
+3(1)	XP_008321376.1	XP_008321376.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_022519251.1	XP_022519251.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_042596630.1	XP_042596630.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_017570035.1	XP_017570035.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_036929027.1	XP_036929027.1 cellular retinoic acid-binding protein 2a 
+3(2)	XP_029928276.1	XP_029928276.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_060906406.1	XP_060906406.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_054478025.1	XP_054478025.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_056459009.1	XP_056459009.1 cellular retinoic acid-binding protein 2a 
+3(1)	XP_012690376.1	XP_012690376.1 cellular retinoic acid-binding protein 2a 
+
+
+4(1)	XP_054477880.1	XP_054477880.1 integrin alpha-10 
+4(1)	XP_028835092.1	XP_028835092.1 LOW QUALITY PROTEIN: integrin alpha-10-like 
+4(1)	XP_035800088.2	XP_035800088.2 integrin alpha-10 isoform X2 
+4(1)	XP_042596628.1	XP_042596628.1 integrin alpha-10 
+4(1)	XP_061572887.1	XP_061572887.1 integrin alpha-10 
+4(1)	XP_039972800.1	XP_039972800.1 integrin alpha-10 
+4(1)	XP_024123788.1	XP_024123788.1 integrin alpha-10 
+4(2)	XP_029927792.1	XP_029927792.1 integrin alpha-10 
+4(1)	XP_048009754.1	XP_048009754.1 LOW QUALITY PROTEIN: integrin alpha-10 
+4(1)	XP_005472695.1	XP_005472695.1 integrin alpha-10 isoform X2 
+4(1)	XP_042596640.1	XP_042596640.1 collagen alpha-1(XIV) chain isoform X6 
+4(1)	XP_049336435.1	XP_049336435.1 integrin alpha-10 
+4(1)	XP_061531439.1	XP_061531439.1 integrin alpha-10 
+4(1)	XP_062279362.1	XP_062279362.1 integrin alpha-10 
+4(1)	XP_034554528.1	XP_034554528.1 integrin alpha-10 
+4(1)	XP_056458679.1	XP_056458679.1 integrin alpha-10 isoform X2 
+4(1)	XP_036929009.1	XP_036929009.1 integrin alpha-10 
+4(1)	XP_008321375.1	XP_008321375.1 integrin alpha-10 
+4(1)	XP_013860144.1	XP_013860144.1 integrin alpha-10 
+4(1)	XP_046254327.1	XP_046254327.1 integrin alpha-10 isoform X1 
+4(1)	XP_034030611.1	XP_034030611.1 integrin alpha-10 
+4(1)	XP_048008160.1	XP_048008160.1 collagen alpha-1(XIV) chain isoform X5 
+4(1)	XP_031431726.1	XP_031431726.1 integrin alpha-10 
+4(1)	XP_060906470.1	XP_060906470.1 integrin alpha-10 
+4(1)	XP_020783605.1	XP_020783605.1 integrin alpha-10 
+4(1)	XP_064863294.1	XP_064863294.1 integrin alpha-10-like 
+
+
+5(1)	XP_034030604.1	XP_034030604.1 carbonic anhydrase 14 isoform X6 
+5(1)	XP_061572898.1	XP_061572898.1 carbonic anhydrase 14 isoform X5 
+5(1)	XP_041962369.1	XP_041962369.1 carbonic anhydrase 14 isoform X2 
+5(1)	XP_031432629.1	XP_031432629.1 carbonic anhydrase 14 isoform X2 
+5(1)	XP_046256648.1	XP_046256648.1 carbonic anhydrase 14 
+5(2)	XP_029928271.1	XP_029928271.1 carbonic anhydrase 14 isoform X1 
+5(1)	XP_060906403.1	XP_060906403.1 carbonic anhydrase 14 isoform X3 
+5(1)	XP_056157746.1	XP_056157746.1 carbonic anhydrase 14 
+5(1)	XP_056457829.1	XP_056457829.1 carbonic anhydrase 14 
+5(1)	XP_008321377.1	XP_008321377.1 carbonic anhydrase 14 isoform X1 
+5(1)	XP_025767643.1	XP_025767643.1 carbonic anhydrase 14 isoform X4 
+5(1)	XP_054478121.1	XP_054478121.1 carbonic anhydrase 14 
+5(1)	XP_055020254.1	XP_055020254.1 carbonic anhydrase 14 
+5(1)	XP_028836415.1	XP_028836415.1 carbonic anhydrase 14 isoform X1 
+5(1)	XP_024123944.1	XP_024123944.1 carbonic anhydrase 14 isoform X4 
+5(1)	XP_043971954.1	XP_043971954.1 carbonic anhydrase 14 isoform X1 
+5(1)	XP_036929023.1	XP_036929023.1 carbonic anhydrase 14 isoform X3 
+5(1)	XP_059196074.1	XP_059196074.1 carbonic anhydrase 14 isoform X3 
+5(1)	XP_061530184.1	XP_061530184.1 carbonic anhydrase 14 isoform X2 
+5(1)	XP_035800097.2	XP_035800097.2 carbonic anhydrase 14 isoform X4 
+5(1)	XP_062279091.1	XP_062279091.1 carbonic anhydrase 14 
+5(1)	XP_013860153.1	XP_013860153.1 carbonic anhydrase 14 isoform X5 
+5(1)	XP_039974748.1	XP_039974748.1 carbonic anhydrase 14 
+5(1)	XP_034554534.1	XP_034554534.1 carbonic anhydrase 14 
+
+
+6(1)	XP_039974812.1	XP_039974812.1 circadian-associated transcriptional repressor-like 
+6(1)	XP_034030596.1	XP_034030596.1 uncharacterized protein LOC117514317 
+6(1)	XP_024123940.1	XP_024123940.1 circadian-associated transcriptional repressor 
+6(1)	XP_016893303.1	XP_016893303.1 circadian-associated transcriptional repressor-like isoform X2 
+6(1)	XP_054477773.1	XP_054477773.1 uncharacterized protein LOC129109681 
+6(1)	XP_061572902.1	XP_061572902.1 uncharacterized protein LOC133432766 isoform X4 
+6(1)	XP_028836814.1	XP_028836814.1 circadian-associated transcriptional repressor-like 
+6(1)	XP_059196068.1	XP_059196068.1 uncharacterized protein LOC131976875 isoform X1 
+6(1)	XP_036929020.1	XP_036929020.1 circadian-associated transcriptional repressor-like isoform X2 
+6(1)	XP_062279045.1	XP_062279045.1 uncharacterized protein LOC133983850 
+6(1)	XP_056157749.1	XP_056157749.1 circadian-associated transcriptional repressor-like 
+6(1)	XP_061531600.1	XP_061531600.1 uncharacterized protein LOC133402048 
+6(2)	XP_029928269.1	XP_029928269.1 uncharacterized protein LOC115373826 
+6(1)	XP_012697456.2	XP_012697456.2 circadian-associated transcriptional repressor 
+6(1)	XP_056457828.1	XP_056457828.1 circadian-associated transcriptional repressor-like 
+6(1)	XP_043971952.1	XP_043971952.1 uncharacterized protein LOC122830582 
+6(1)	XP_060906400.1	XP_060906400.1 uncharacterized protein LOC132983882 isoform X2 
+6(1)	XP_046256359.1	XP_046256359.1 circadian-associated transcriptional repressor-like isoform X1 
+6(1)	XP_013860147.1	XP_013860147.1 circadian associated repressor of transcription a 
+6(1)	XP_005472693.1	XP_005472693.1 circadian-associated transcriptional repressor 
+6(1)	XP_034553891.1	XP_034553891.1 uncharacterized protein LOC117822991 
+
+
+7(1)	XP_020783679.1	XP_020783679.1 DNA-directed RNA polymerase III subunit RPC3 
+7(1)	XP_024122991.1	XP_024122991.1 DNA-directed RNA polymerase III subunit RPC3 
+7(1)	XP_039972802.1	XP_039972802.1 DNA-directed RNA polymerase III subunit RPC3 
+7(1)	XP_013860119.1	XP_013860119.1 DNA-directed RNA polymerase III subunit RPC3 
+7(2)	XP_029927794.1	XP_029927794.1 DNA-directed RNA polymerase III subunit RPC3 isoform X1 
+7(1)	XP_061572889.1	XP_061572889.1 DNA-directed RNA polymerase III subunit RPC3 
+7(1)	XP_034030612.1	XP_034030612.1 DNA-directed RNA polymerase III subunit RPC3 
+7(1)	XP_061530173.1	XP_061530173.1 DNA-directed RNA polymerase III subunit RPC3 isoform X2 
+7(1)	XP_054477018.1	XP_054477018.1 DNA-directed RNA polymerase III subunit RPC3 
+7(1)	XP_003451031.1	XP_003451031.1 DNA-directed RNA polymerase III subunit RPC3 
+7(1)	XP_060906471.1	XP_060906471.1 DNA-directed RNA polymerase III subunit RPC3 
+7(1)	XP_048009756.1	XP_048009756.1 DNA-directed RNA polymerase III subunit RPC3 
+7(1)	XP_049336578.1	XP_049336578.1 DNA-directed RNA polymerase III subunit RPC3 
+7(1)	XP_008321380.1	XP_008321380.1 DNA-directed RNA polymerase III subunit RPC3 
+7(1)	XP_062279375.1	XP_062279375.1 DNA-directed RNA polymerase III subunit RPC3 
+7(1)	XP_042596629.1	XP_042596629.1 DNA-directed RNA polymerase III subunit RPC3 
+7(1)	XP_034554529.1	XP_034554529.1 DNA-directed RNA polymerase III subunit RPC3 
+7(1)	XP_036929014.1	XP_036929014.1 DNA-directed RNA polymerase III subunit RPC3 
+7(1)	XP_023117477.1	XP_023117477.1 DNA-directed RNA polymerase III subunit RPC3 
+7(1)	XP_028835091.1	XP_028835091.1 DNA-directed RNA polymerase III subunit RPC3-like 
+
+
+8(1)	XP_020783613.1	XP_020783613.1 U4/U6 small nuclear ribonucleoprotein Prp3 
+8(1)	XP_031432875.1	XP_031432875.1 U4/U6 small nuclear ribonucleoprotein Prp3 isoform X1 
+8(1)	XP_056457827.1	XP_056457827.1 U4/U6 small nuclear ribonucleoprotein Prp3 
+8(1)	XP_054477442.1	XP_054477442.1 U4/U6 small nuclear ribonucleoprotein Prp3 isoform X2 
+8(2)	XP_029928267.1	XP_029928267.1 U4/U6 small nuclear ribonucleoprotein Prp3 
+8(1)	XP_034553366.1	XP_034553366.1 U4/U6 small nuclear ribonucleoprotein Prp3 isoform X2 
+8(1)	XP_039974708.1	XP_039974708.1 U4/U6 small nuclear ribonucleoprotein Prp3 isoform X2 
+8(1)	XP_062278330.1	XP_062278330.1 U4/U6 small nuclear ribonucleoprotein Prp3 
+8(1)	XP_061531601.1	XP_061531601.1 U4/U6 small nuclear ribonucleoprotein Prp3 
+8(1)	XP_028836407.1	XP_028836407.1 U4/U6 small nuclear ribonucleoprotein Prp3 
+8(1)	XP_060906398.1	XP_060906398.1 U4/U6 small nuclear ribonucleoprotein Prp3 
+8(1)	XP_024917202.1	XP_024917202.1 U4/U6 small nuclear ribonucleoprotein Prp3 
+8(1)	XP_061574391.1	XP_061574391.1 U4/U6 small nuclear ribonucleoprotein Prp3 
+8(1)	XP_013860155.1	XP_013860155.1 U4/U6 small nuclear ribonucleoprotein Prp3 
+8(1)	XP_059196020.1	XP_059196020.1 U4/U6 small nuclear ribonucleoprotein Prp3 
+8(1)	XP_034030595.1	XP_034030595.1 U4/U6 small nuclear ribonucleoprotein Prp3 isoform X2 
+8(1)	XP_046254392.1	XP_046254392.1 U4/U6 small nuclear ribonucleoprotein Prp3 
+8(1)	XP_043971948.1	XP_043971948.1 U4/U6 small nuclear ribonucleoprotein Prp3 isoform X1 
+8(1)	XP_003450949.1	XP_003450949.1 U4/U6 small nuclear ribonucleoprotein Prp3 isoform X2 
+
+
+9(2)	XP_029928275.1	XP_029928275.1 angiogenin-like 
+9(2)	XP_029928274.1	XP_029928274.1 uncharacterized protein LOC115373828 
+9(1)	XP_017570034.2	XP_017570034.2 uncharacterized protein LOC108437452 isoform X1 
+9(2)	XP_056884361.1	XP_056884361.1 uncharacterized protein LOC130523260 isoform X1 
+9(1)	XP_042597815.1	XP_042597815.1 uncharacterized protein LOC109080439 
+9(1)	XP_036435874.1	XP_036435874.1 uncharacterized protein LOC118814391 
+9(1)	XP_037393152.1	XP_037393152.1 uncharacterized protein LOC119263106 
+9(1)	XP_031432833.1	XP_031432833.1 uncharacterized protein LOC116222535 
+9(2)	XP_056884668.1	XP_056884668.1 uncharacterized protein LOC130523409 
+9(1)	XP_048009627.1	XP_048009627.1 uncharacterized protein LOC125243828 
+
+
+10(2)	XP_056884335.1	XP_056884335.1 calsequestrin-1b 
+10(1)	XP_046237543.1	XP_046237543.1 calsequestrin-1b isoform X2 
+10(1)	XP_027893759.1	XP_027893759.1 calsequestrin-1b isoform X4 
+10(1)	XP_035004479.2	XP_035004479.2 LOW QUALITY PROTEIN: calsequestrin-1b 
+10(1)	XP_029931663.1	XP_029931663.1 calsequestrin-1-like isoform X2 
+10(1)	XP_017287551.1	XP_017287551.1 calsequestrin-1b isoform X2 
+10(1)	XP_034005902.1	XP_034005902.1 calsequestrin-1b isoform X2 
+
+
+11(1)	XP_014884697.1	XP_014884697.1 histone H3 
+11(1)	XP_032439857.1	XP_032439857.1 uncharacterized protein LOC116733183 
+11(1)	XP_014868146.1	XP_014868146.1 PREDICTED: histone H4 
+11(1)	XP_014884699.1	XP_014884699.1 histone H4 
+11(1)	XP_032438383.1	XP_032438383.1 histone H3 
+11(1)	XP_032438389.1	XP_032438389.1 histone H4 
+11(1)	XP_014868125.1	XP_014868125.1 PREDICTED: uncharacterized protein LOC106933405 
+
+
+12(1)	XP_029931668.1	XP_029931668.1 astrocytic phosphoprotein PEA-15 
+12(1)	XP_035004637.1	XP_035004637.1 astrocytic phosphoprotein PEA-15 
+12(1)	XP_046235910.1	XP_046235910.1 astrocytic phosphoprotein PEA-15 isoform X1 
+12(2)	XP_056884382.1	XP_056884382.1 astrocytic phosphoprotein PEA-15 
+12(1)	XP_027893876.1	XP_027893876.1 astrocytic phosphoprotein PEA-15 
+
+
+13(1)	XP_035847097.1	XP_035847097.1 deoxyribonuclease-2-beta-like 
+13(1)	XP_028457180.1	XP_028457180.1 deoxyribonuclease-2-beta-like 
+13(1)	XP_031136382.1	XP_031136382.1 deoxyribonuclease-2-beta-like 
+13(1)	XP_028457166.1	XP_028457166.1 cell death-related nuclease 6-like 
+
+
+14(1)	XP_018946913.1	XP_018946913.1 sister chromatid cohesion protein DCC1 
+14(1)	XP_049336606.1	XP_049336606.1 sister chromatid cohesion protein DCC1 
+14(1)	XP_048010060.1	XP_048010060.1 sister chromatid cohesion protein DCC1 
+14(1)	XP_036452072.1	XP_036452072.1 sister chromatid cohesion protein DCC1 
+
+
+15(2)	XP_030203559.1	XP_030203559.1 probable thiopurine S-methyltransferase, partial 
+15(1)	XP_030203287.1	XP_030203287.1 probable thiopurine S-methyltransferase 
+
+
+16(1)	XP_032438385.1	XP_032438385.1 histone H2A-like 
+16(1)	XP_032438384.1	XP_032438384.1 histone H2A-like 
+16(1)	XP_014884698.1	XP_014884698.1 histone H2A-like 
+
+
+17(1)	XP_022519254.2	XP_022519254.2 DEP domain-containing mTOR-interacting protein 
+17(1)	XP_042596632.1	XP_042596632.1 DEP domain-containing mTOR-interacting protein 
+17(1)	XP_048008385.1	XP_048008385.1 DEP domain-containing mTOR-interacting protein isoform X1 
+
+
+18(1)	XP_048039561.1	XP_048039561.1 serine/threonine-protein kinase PLK4-like 
+18(1)	XP_046256554.1	XP_046256554.1 serine/threonine-protein kinase pim-2-like 
+18(1)	XP_048039133.1	XP_048039133.1 protein kinase byr2-like 
+
+
+19(1)	XP_029931413.1	XP_029931413.1 large ribosomal subunit protein mL48 isoform X1 
+19(2)	XP_056884372.1	XP_056884372.1 39S ribosomal protein L48, mitochondrial isoform X2 
+
+
+20(1)	XP_059196090.1	XP_059196090.1 zinc finger protein ZFP2-like 
+20(1)	XP_059196083.1	XP_059196083.1 histone-lysine N-methyltransferase PRDM9-like isoform X5 
+20(1)	XP_059196091.1	XP_059196091.1 zinc finger protein 239-like 
+
+
+21(1)	XP_023117489.1	XP_023117489.1 protein S100-A10b 
+21(1)	XP_023117487.1	XP_023117487.1 S100 calcium binding protein W 
+
+
+22(1)	XP_028456697.1	XP_028456697.1 malignant fibrous histiocytoma-amplified sequence 1 homolog 
+22(1)	XP_031175044.2	XP_031175044.2 malignant fibrous histiocytoma-amplified sequence 1 homolog isoform X2 
+
+
+23(1)	XP_031175047.1	XP_031175047.1 protein phosphatase 1 regulatory subunit 3B isoform X2 
+23(1)	XP_028457170.1	XP_028457170.1 protein phosphatase 1 regulatory subunit 3B isoform X1 
+
+
+24(1)	XP_031431993.1	XP_031431993.1 LOW QUALITY PROTEIN: putative mediator of RNA polymerase II transcription subunit 12, partial 
+24(1)	XP_024116817.1	XP_024116817.1 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 3 
+
+
+25(1)	XP_032438308.1	XP_032438308.1 sterile alpha motif domain-containing protein 9-like 
+25(1)	XP_014884695.1	XP_014884695.1 sterile alpha motif domain-containing protein 9-like 
+
+
+26(1)	XP_014868141.1	XP_014868141.1 PREDICTED: histone H2B 1/2 
+26(1)	XP_032438387.1	XP_032438387.1 histone H2B 1/2-like 
+
+
+27(1)	XP_043971962.1	XP_043971962.1 interferon-stimulated 20 kDa exonuclease-like 2 isoform X2 
+27(1)	XP_041962378.1	XP_041962378.1 interferon-stimulated 20 kDa exonuclease-like 2 
+
+
+28(1)	XP_048008520.1	XP_048008520.1 39S ribosomal protein L13, mitochondrial isoform X3 
+28(1)	XP_018947758.1	XP_018947758.1 39S ribosomal protein L13, mitochondrial 
+
+
+29(1)	XP_051755397.1	XP_051755397.1 heterogeneous nuclear ribonucleoproteins C1/C2 isoform X1 
+29(1)	XP_039505336.1	XP_039505336.1 heterogeneous nuclear ribonucleoproteins C1/C2 isoform X2 
+
+
+30(1)	XP_051755624.1	XP_051755624.1 protein NDRG2 
+30(1)	XP_039505332.1	XP_039505332.1 protein NDRG2 
+
+
+31(1)	XP_051757623.1	XP_051757623.1 FH1/FH2 domain-containing protein 1 
+31(1)	XP_039505307.1	XP_039505307.1 FH1/FH2 domain-containing protein 1 isoform X1 
+
+
+32(1)	XP_029928265.1	XP_029928265.1 threonine--tRNA ligase, cytoplasmic-like isoform X3 
+32(1)	XP_061572905.1	XP_061572905.1 threonine--tRNA ligase 1, cytoplasmic isoform X2 
+
+

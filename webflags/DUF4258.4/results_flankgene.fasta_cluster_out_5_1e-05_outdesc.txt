@@ -1,0 +1,613 @@
+1(1)	WP_013835907.1	WP_013835907.1 helix-turn-helix domain-containing protein 
+1(1)	WP_014950967.1	WP_014950967.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+1(1)	WP_197922457.1	WP_197922457.1 helix-turn-helix domain-containing protein 
+1(1)	WP_184025900.1	WP_184025900.1 DNA-binding transcriptional regulator 
+1(1)	WP_048398970.1	WP_048398970.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+1(1)	WP_127020122.1	WP_127020122.1 helix-turn-helix domain-containing protein 
+1(1)	WP_269823602.1	WP_269823602.1 helix-turn-helix domain-containing protein 
+1(1)	WP_121430387.1	WP_121430387.1 helix-turn-helix domain-containing protein 
+1(1)	WP_319589174.1	WP_319589174.1 hypothetical protein 
+1(1)	WP_324564545.1	WP_324564545.1 helix-turn-helix transcriptional regulator 
+1(1)	WP_009394630.1	WP_009394630.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+1(1)	WP_196745162.1	WP_196745162.1 helix-turn-helix transcriptional regulator 
+1(1)	WP_243917937.1	WP_243917937.1 helix-turn-helix domain-containing protein 
+1(1)	WP_020851648.1	WP_020851648.1 helix-turn-helix domain-containing protein 
+1(1)	WP_319549330.1	WP_319549330.1 type II TA system antitoxin MqsA family protein 
+1(1)	WP_203153177.1	WP_203153177.1 helix-turn-helix domain-containing protein 
+1(1)	WP_316980025.1	WP_316980025.1 helix-turn-helix domain-containing protein 
+1(1)	WP_297384681.1	WP_297384681.1 hypothetical protein 
+1(1)	WP_300040439.1	WP_300040439.1 hypothetical protein 
+1(1)	WP_223507795.1	WP_223507795.1 transcriptional regulator 
+1(1)	WP_000274930.1	WP_000274930.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+1(1)	WP_318666274.1	WP_318666274.1 hypothetical protein 
+1(1)	WP_244082349.1	WP_244082349.1 type II TA system antitoxin MqsA family protein 
+1(1)	WP_052367478.1	WP_052367478.1 helix-turn-helix domain-containing protein 
+1(1)	WP_015488413.1	WP_015488413.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+1(1)	WP_090530115.1	WP_090530115.1 helix-turn-helix domain-containing protein 
+1(1)	WP_136876109.1	WP_136876109.1 type II TA system antitoxin MqsA family protein 
+1(1)	WP_108469221.1	WP_108469221.1 helix-turn-helix domain-containing protein 
+1(1)	WP_023763050.1	WP_023763050.1 helix-turn-helix transcriptional regulator 
+1(1)	WP_297141881.1	WP_297141881.1 helix-turn-helix domain-containing protein 
+1(1)	WP_277427828.1	WP_277427828.1 helix-turn-helix domain-containing protein 
+1(1)	WP_121083557.1	WP_121083557.1 helix-turn-helix domain-containing protein 
+1(1)	WP_038034092.1	WP_038034092.1 helix-turn-helix domain-containing protein 
+1(1)	WP_264938850.1	WP_264938850.1 helix-turn-helix domain-containing protein 
+1(1)	WP_061011129.1	WP_061011129.1 helix-turn-helix domain-containing protein 
+1(1)	WP_294067403.1	WP_294067403.1 helix-turn-helix domain-containing protein 
+1(1)	WP_167230137.1	WP_167230137.1 hypothetical protein 
+1(1)	WP_045571847.1	WP_045571847.1 helix-turn-helix domain-containing protein 
+1(1)	WP_011446373.1	WP_011446373.1 helix-turn-helix domain-containing protein 
+1(1)	WP_154835530.1	WP_154835530.1 MULTISPECIES: helix-turn-helix transcriptional regulator 
+1(1)	WP_066413632.1	WP_066413632.1 helix-turn-helix domain-containing protein 
+1(1)	WP_238591614.1	WP_238591614.1 MULTISPECIES: LexA family transcriptional regulator 
+1(1)	WP_213963141.1	WP_213963141.1 helix-turn-helix domain-containing protein 
+1(1)	WP_018714514.1	WP_018714514.1 helix-turn-helix domain-containing protein 
+1(1)	WP_217495125.1	WP_217495125.1 helix-turn-helix domain-containing protein 
+1(1)	WP_318666272.1	WP_318666272.1 helix-turn-helix domain-containing protein 
+1(1)	WP_060816856.1	WP_060816856.1 helix-turn-helix domain-containing protein 
+1(1)	WP_293208682.1	WP_293208682.1 helix-turn-helix domain-containing protein 
+1(1)	WP_320151450.1	WP_320151450.1 helix-turn-helix domain-containing protein 
+1(1)	WP_213362239.1	WP_213362239.1 hypothetical protein 
+1(1)	WP_205872766.1	WP_205872766.1 helix-turn-helix domain-containing protein 
+1(1)	WP_112712610.1	WP_112712610.1 helix-turn-helix domain-containing protein 
+1(1)	WP_296411893.1	WP_296411893.1 hypothetical protein 
+1(1)	WP_296411892.1	WP_296411892.1 helix-turn-helix domain-containing protein 
+1(1)	WP_254598268.1	WP_254598268.1 helix-turn-helix domain-containing protein 
+1(1)	WP_267832071.1	WP_267832071.1 hypothetical protein 
+1(1)	WP_090634771.1	WP_090634771.1 helix-turn-helix domain-containing protein 
+1(1)	WP_054616831.1	WP_054616831.1 RNA polymerase sigma factor RpoD 
+1(1)	WP_071155325.1	WP_071155325.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+1(1)	WP_300074987.1	WP_300074987.1 transcriptional regulator 
+1(1)	WP_223507850.1	WP_223507850.1 LexA family transcriptional regulator 
+1(1)	WP_213362240.1	WP_213362240.1 helix-turn-helix domain-containing protein 
+1(1)	WP_292932932.1	WP_292932932.1 type II toxin-antitoxin system MqsA family antitoxin 
+1(1)	WP_128303687.1	WP_128303687.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+1(1)	WP_154835538.1	WP_154835538.1 MULTISPECIES: helix-turn-helix transcriptional regulator 
+1(1)	WP_243996253.1	WP_243996253.1 helix-turn-helix domain-containing protein 
+1(1)	WP_115535606.1	WP_115535606.1 helix-turn-helix domain-containing protein 
+1(1)	WP_013031685.1	WP_013031685.1 helix-turn-helix transcriptional regulator 
+1(1)	WP_324564555.1	WP_324564555.1 hypothetical protein 
+1(1)	WP_293995355.1	WP_293995355.1 hypothetical protein 
+1(1)	WP_173942147.1	WP_173942147.1 helix-turn-helix domain-containing protein 
+1(1)	WP_130117503.1	WP_130117503.1 helix-turn-helix domain-containing protein 
+1(1)	WP_264410726.1	WP_264410726.1 helix-turn-helix domain-containing protein 
+1(1)	WP_051327368.1	WP_051327368.1 type II TA system antitoxin MqsA family protein 
+1(1)	WP_216152006.1	WP_216152006.1 LexA family transcriptional regulator 
+1(1)	WP_097050885.1	WP_097050885.1 helix-turn-helix domain-containing protein 
+1(1)	WP_063237168.1	WP_063237168.1 hypothetical protein 
+1(1)	WP_176537796.1	WP_176537796.1 helix-turn-helix domain-containing protein 
+1(1)	WP_252625991.1	WP_252625991.1 helix-turn-helix domain-containing protein 
+1(1)	WP_324150841.1	WP_324150841.1 hypothetical protein 
+1(1)	WP_036506767.1	WP_036506767.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+1(1)	WP_200149922.1	WP_200149922.1 helix-turn-helix domain-containing protein 
+1(1)	WP_128198114.1	WP_128198114.1 hypothetical protein 
+1(1)	WP_056271453.1	WP_056271453.1 helix-turn-helix domain-containing protein 
+1(1)	WP_208315588.1	WP_208315588.1 helix-turn-helix domain-containing protein 
+1(1)	WP_150214925.1	WP_150214925.1 helix-turn-helix domain-containing protein 
+1(1)	WP_054306950.1	WP_054306950.1 helix-turn-helix domain-containing protein 
+1(1)	WP_154835534.1	WP_154835534.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+1(1)	WP_057652967.1	WP_057652967.1 DNA-binding transcriptional regulator 
+1(1)	WP_045581712.1	WP_045581712.1 helix-turn-helix domain-containing protein 
+1(1)	WP_247433333.1	WP_247433333.1 transcriptional regulator 
+1(1)	WP_255539411.1	WP_255539411.1 DNA-binding transcriptional regulator 
+1(1)	WP_114193232.1	WP_114193232.1 helix-turn-helix domain-containing protein 
+1(1)	WP_087144579.1	WP_087144579.1 hypothetical protein 
+1(1)	WP_279356700.1	WP_279356700.1 transcriptional regulator 
+1(1)	WP_076622273.1	WP_076622273.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+1(1)	WP_262566158.1	WP_262566158.1 helix-turn-helix domain-containing protein 
+1(1)	WP_058321526.1	WP_058321526.1 DNA-binding transcriptional regulator 
+1(1)	WP_188027430.1	WP_188027430.1 helix-turn-helix domain-containing protein 
+1(1)	WP_158936538.1	WP_158936538.1 MULTISPECIES: DNA-binding transcriptional regulator 
+1(1)	WP_312126337.1	WP_312126337.1 helix-turn-helix domain-containing protein 
+1(1)	WP_292553726.1	WP_292553726.1 helix-turn-helix domain-containing protein 
+1(1)	WP_069045613.1	WP_069045613.1 helix-turn-helix domain-containing protein 
+1(1)	WP_036506761.1	WP_036506761.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+1(1)	WP_029030321.1	WP_029030321.1 helix-turn-helix domain-containing protein 
+1(1)	WP_271698547.1	WP_271698547.1 transcriptional regulator 
+1(1)	WP_297221184.1	WP_297221184.1 helix-turn-helix domain-containing protein 
+1(1)	WP_305843184.1	WP_305843184.1 helix-turn-helix domain-containing protein 
+1(1)	WP_308135409.1	WP_308135409.1 helix-turn-helix domain-containing protein 
+1(1)	WP_131990828.1	WP_131990828.1 hypothetical protein 
+1(1)	WP_100002021.1	WP_100002021.1 helix-turn-helix domain-containing protein 
+1(1)	WP_329770028.1	WP_329770028.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_018148928.1	WP_018148928.1 helix-turn-helix domain-containing protein 
+1(1)	WP_167518126.1	WP_167518126.1 helix-turn-helix domain-containing protein 
+1(1)	WP_174548533.1	WP_174548533.1 helix-turn-helix domain-containing protein 
+1(1)	WP_257246382.1	WP_257246382.1 helix-turn-helix domain-containing protein 
+1(1)	WP_287655125.1	WP_287655125.1 helix-turn-helix domain-containing protein 
+1(1)	WP_023124436.1	WP_023124436.1 helix-turn-helix domain-containing protein 
+1(1)	WP_262568771.1	WP_262568771.1 helix-turn-helix domain-containing protein 
+1(1)	WP_041742832.1	WP_041742832.1 helix-turn-helix domain-containing protein 
+1(1)	WP_203434353.1	WP_203434353.1 helix-turn-helix domain-containing protein 
+1(1)	WP_023706400.1	WP_023706400.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+1(1)	WP_188074037.1	WP_188074037.1 helix-turn-helix domain-containing protein 
+1(1)	WP_292932930.1	WP_292932930.1 hypothetical protein 
+1(1)	WP_279757288.1	WP_279757288.1 hypothetical protein 
+1(1)	WP_090576435.1	WP_090576435.1 DNA-binding transcriptional regulator 
+1(1)	WP_256079945.1	WP_256079945.1 hypothetical protein 
+1(1)	WP_287406517.1	WP_287406517.1 hypothetical protein 
+1(1)	WP_266107130.1	WP_266107130.1 hypothetical protein, partial 
+1(1)	WP_104800544.1	WP_104800544.1 transcriptional regulator 
+1(1)	WP_103921516.1	WP_103921516.1 helix-turn-helix domain-containing protein 
+1(1)	WP_322094579.1	WP_322094579.1 helix-turn-helix domain-containing protein 
+1(1)	WP_305330843.1	WP_305330843.1 helix-turn-helix domain-containing protein 
+1(1)	WP_269333260.1	WP_269333260.1 transcriptional regulator 
+1(1)	WP_083763954.1	WP_083763954.1 type II toxin-antitoxin system MqsA family antitoxin 
+1(1)	WP_031394935.1	WP_031394935.1 hypothetical protein 
+1(1)	WP_051928785.1	WP_051928785.1 helix-turn-helix domain-containing protein 
+1(1)	WP_054617223.1	WP_054617223.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+1(1)	WP_281546223.1	WP_281546223.1 helix-turn-helix transcriptional regulator 
+1(1)	WP_203153174.1	WP_203153174.1 helix-turn-helix domain-containing protein 
+1(1)	WP_218300187.1	WP_218300187.1 MULTISPECIES: transcriptional regulator 
+1(1)	WP_070935173.1	WP_070935173.1 helix-turn-helix domain-containing protein 
+1(1)	WP_300321788.1	WP_300321788.1 helix-turn-helix domain-containing protein 
+1(1)	WP_132038696.1	WP_132038696.1 hypothetical protein 
+1(1)	WP_290238340.1	WP_290238340.1 helix-turn-helix domain-containing protein 
+1(1)	WP_287406525.1	WP_287406525.1 helix-turn-helix transcriptional regulator 
+1(1)	WP_326864240.1	WP_326864240.1 helix-turn-helix transcriptional regulator 
+1(1)	WP_296981748.1	WP_296981748.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_299440049.1	WP_299440049.1 helix-turn-helix domain-containing protein 
+1(1)	WP_114562596.1	WP_114562596.1 helix-turn-helix domain-containing protein 
+1(1)	WP_244556938.1	WP_244556938.1 helix-turn-helix domain-containing protein 
+1(1)	WP_188449644.1	WP_188449644.1 helix-turn-helix transcriptional regulator 
+1(1)	WP_249738703.1	WP_249738703.1 helix-turn-helix domain-containing protein 
+1(1)	WP_137172326.1	WP_137172326.1 hypothetical protein 
+1(1)	WP_028995195.1	WP_028995195.1 helix-turn-helix domain-containing protein 
+1(1)	WP_019333135.1	WP_019333135.1 helix-turn-helix domain-containing protein 
+1(1)	WP_090634775.1	WP_090634775.1 helix-turn-helix domain-containing protein 
+1(1)	WP_199792746.1	WP_199792746.1 helix-turn-helix domain-containing protein 
+1(1)	WP_178368140.1	WP_178368140.1 type II TA system antitoxin MqsA family protein 
+1(1)	WP_146642616.1	WP_146642616.1 helix-turn-helix domain-containing protein 
+1(1)	WP_268154354.1	WP_268154354.1 helix-turn-helix domain-containing protein 
+1(1)	WP_296707988.1	WP_296707988.1 helix-turn-helix domain-containing protein 
+1(1)	WP_262566156.1	WP_262566156.1 helix-turn-helix domain-containing protein 
+1(1)	WP_182807326.1	WP_182807326.1 transcriptional regulator 
+1(1)	WP_250878061.1	WP_250878061.1 transcriptional regulator 
+1(1)	WP_060816854.1	WP_060816854.1 helix-turn-helix domain-containing protein 
+1(1)	WP_369410181.1	WP_369410181.1 helix-turn-helix domain-containing protein 
+1(1)	WP_220086798.1	WP_220086798.1 helix-turn-helix domain-containing protein 
+1(1)	WP_184025906.1	WP_184025906.1 hypothetical protein 
+1(1)	WP_050917926.1	WP_050917926.1 helix-turn-helix domain-containing protein 
+1(1)	WP_308074143.1	WP_308074143.1 helix-turn-helix domain-containing protein 
+1(1)	WP_281661335.1	WP_281661335.1 helix-turn-helix domain-containing protein 
+1(1)	WP_293606505.1	WP_293606505.1 hypothetical protein 
+1(1)	WP_092782215.1	WP_092782215.1 helix-turn-helix domain-containing protein 
+1(1)	WP_183485545.1	WP_183485545.1 DNA-binding transcriptional regulator 
+1(1)	WP_322312364.1	WP_322312364.1 hypothetical protein 
+1(1)	WP_188449655.1	WP_188449655.1 helix-turn-helix domain-containing protein 
+1(1)	WP_091149328.1	WP_091149328.1 helix-turn-helix domain-containing protein 
+1(1)	WP_136876115.1	WP_136876115.1 mobile mystery protein A 
+
+
+2(1)	WP_308135408.1	WP_308135408.1 tyrosine-type recombinase/integrase 
+2(1)	WP_184025891.1	WP_184025891.1 tyrosine recombinase XerC 
+2(1)	WP_128198112.1	WP_128198112.1 tyrosine-type recombinase/integrase 
+2(1)	WP_213362237.1	WP_213362237.1 tyrosine-type recombinase/integrase 
+2(1)	WP_287655128.1	WP_287655128.1 integrase family protein 
+2(1)	WP_296411895.1	WP_296411895.1 site-specific integrase 
+2(1)	WP_081700205.1	WP_081700205.1 Arm DNA-binding domain-containing protein 
+2(1)	WP_028995198.1	WP_028995198.1 tyrosine-type recombinase/integrase 
+2(1)	WP_053172188.1	WP_053172188.1 tyrosine-type recombinase/integrase 
+2(1)	WP_018714513.1	WP_018714513.1 hypothetical protein 
+2(1)	WP_045571846.1	WP_045571846.1 integron integrase 
+2(1)	WP_045581715.1	WP_045581715.1 site-specific integrase 
+2(1)	WP_293995349.1	WP_293995349.1 tyrosine-type recombinase/integrase 
+2(1)	WP_068832980.1	WP_068832980.1 Arm DNA-binding domain-containing protein 
+2(1)	WP_324564546.1	WP_324564546.1 integrase arm-type DNA-binding domain-containing protein 
+2(1)	WP_218300184.1	WP_218300184.1 MULTISPECIES: site-specific integrase 
+2(1)	WP_131990832.1	WP_131990832.1 tyrosine-type recombinase/integrase 
+2(1)	WP_114562599.1	WP_114562599.1 tyrosine-type recombinase/integrase 
+
+
+3(1)	WP_243996249.1	WP_243996249.1 sensor histidine kinase 
+3(1)	WP_324564547.1	WP_324564547.1 heavy metal sensor histidine kinase 
+3(1)	WP_083910988.1	WP_083910988.1 PAS domain-containing protein 
+3(1)	WP_013031677.1	WP_013031677.1 sigma-54-dependent transcriptional regulator 
+3(1)	WP_104800540.1	WP_104800540.1 MULTISPECIES: response regulator 
+3(1)	WP_319589175.1	WP_319589175.1 ATP-binding protein 
+3(1)	WP_324564548.1	WP_324564548.1 heavy metal response regulator transcription factor 
+3(1)	WP_058617328.1	WP_058617328.1 sensor histidine kinase 
+3(1)	WP_070967078.1	WP_070967078.1 response regulator 
+3(1)	WP_279356702.1	WP_279356702.1 ActS/PrrB/RegB family redox-sensitive histidine kinase 
+3(1)	WP_243996248.1	WP_243996248.1 response regulator transcription factor 
+3(1)	WP_089504105.1	WP_089504105.1 ActR/PrrA/RegA family redox response regulator transcription factor 
+
+
+4(1)	WP_057652965.1	WP_057652965.1 LysR family transcriptional regulator 
+4(1)	WP_203153171.1	WP_203153171.1 LysR substrate-binding domain-containing protein 
+4(1)	WP_320151452.1	WP_320151452.1 LysR family transcriptional regulator 
+4(1)	WP_166951535.1	WP_166951535.1 LysR family transcriptional regulator 
+4(1)	WP_066410496.1	WP_066410496.1 LysR family transcriptional regulator 
+4(1)	WP_114193231.1	WP_114193231.1 LysR family transcriptional regulator 
+4(1)	WP_188027428.1	WP_188027428.1 LysR family transcriptional regulator 
+4(1)	WP_281661330.1	WP_281661330.1 LysR family transcriptional regulator 
+
+
+5(1)	WP_279757285.1	WP_279757285.1 tripartite tricarboxylate transporter substrate binding protein 
+5(1)	WP_440823048.1	WP_440823048.1 Bug family tripartite tricarboxylate transporter substrate binding protein 
+5(2)	WP_091721929.1	WP_091721929.1 MULTISPECIES: Bug family tripartite tricarboxylate transporter substrate binding protein 
+5(1)	WP_183485804.1	WP_183485804.1 tripartite tricarboxylate transporter substrate binding protein 
+5(1)	WP_066410498.1	WP_066410498.1 Bug family tripartite tricarboxylate transporter substrate binding protein 
+5(1)	WP_279757286.1	WP_279757286.1 tripartite tricarboxylate transporter substrate binding protein 
+5(1)	WP_066410491.1	WP_066410491.1 Bug family tripartite tricarboxylate transporter substrate binding protein 
+
+
+6(1)	WP_319585208.1	WP_319585208.1 transposase 
+6(1)	WP_083761352.1	WP_083761352.1 transposase 
+6(1)	WP_252625988.1	WP_252625988.1 integrase core domain-containing protein 
+6(1)	WP_319585350.1	WP_319585350.1 IS3 family transposase 
+6(1)	WP_127019331.1	WP_127019331.1 IS3 family transposase 
+6(1)	WP_319585211.1	WP_319585211.1 IS3 family transposase 
+6(1)	WP_407691844.1	WP_407691844.1 IS3 family transposase 
+
+
+7(1)	WP_277427832.1	WP_277427832.1 EAL domain-containing protein 
+7(1)	WP_121430389.1	WP_121430389.1 GGDEF domain-containing phosphodiesterase 
+7(1)	WP_293995360.1	WP_293995360.1 sensor domain-containing diguanylate cyclase 
+7(1)	WP_057652966.1	WP_057652966.1 GGDEF domain-containing protein 
+7(1)	WP_054616832.1	WP_054616832.1 bifunctional diguanylate cyclase/phosphodiesterase 
+7(1)	WP_158936539.1	WP_158936539.1 GGDEF domain-containing protein 
+
+
+8(1)	WP_062769280.1	WP_062769280.1 MULTISPECIES: SDR family NAD(P)-dependent oxidoreductase 
+8(1)	WP_322312362.1	WP_322312362.1 SDR family NAD(P)-dependent oxidoreductase 
+8(1)	WP_324150842.1	WP_324150842.1 oxidoreductase 
+8(1)	WP_090530112.1	WP_090530112.1 benzoate diol dehydrogenase BenD 
+8(1)	WP_320151451.1	WP_320151451.1 SDR family oxidoreductase 
+8(1)	WP_054306953.1	WP_054306953.1 SDR family oxidoreductase 
+
+
+9(1)	WP_279757289.1	WP_279757289.1 FadR/GntR family transcriptional regulator 
+9(1)	WP_128144210.1	WP_128144210.1 FadR/GntR family transcriptional regulator 
+9(2)	WP_091721926.1	WP_091721926.1 MULTISPECIES: FadR/GntR family transcriptional regulator 
+9(1)	WP_326864242.1	WP_326864242.1 FadR/GntR family transcriptional regulator 
+9(1)	WP_277427826.1	WP_277427826.1 GntR family transcriptional regulator 
+
+
+10(1)	WP_108025072.1	WP_108025072.1 MULTISPECIES: energy-dependent translational throttle protein EttA 
+10(1)	WP_121430391.1	WP_121430391.1 ABC transporter ATP-binding protein 
+10(1)	WP_188449660.1	WP_188449660.1 ABC transporter ATP-binding protein 
+10(1)	WP_197922456.1	WP_197922456.1 energy-dependent translational throttle protein EttA 
+10(1)	WP_156078914.1	WP_156078914.1 MULTISPECIES: peptidase domain-containing ABC transporter 
+
+
+11(1)	WP_218586909.1	WP_218586909.1 tetratricopeptide repeat protein 
+11(1)	WP_170954057.1	WP_170954057.1 tetratricopeptide repeat protein 
+11(1)	WP_169829468.1	WP_169829468.1 tetratricopeptide repeat protein 
+11(1)	WP_115226459.1	WP_115226459.1 SEL1-like repeat protein 
+11(1)	WP_090576428.1	WP_090576428.1 tetratricopeptide repeat protein 
+
+
+12(1)	WP_028315629.1	WP_028315629.1 tetratricopeptide repeat protein 
+12(1)	WP_162629219.1	WP_162629219.1 tetratricopeptide repeat protein 
+12(1)	WP_169829469.1	WP_169829469.1 tetratricopeptide repeat protein 
+12(1)	WP_244082347.1	WP_244082347.1 tetratricopeptide repeat protein 
+
+
+13(1)	WP_188449658.1	WP_188449658.1 FAD-binding oxidoreductase 
+13(1)	WP_104800546.1	WP_104800546.1 PDR/VanB family oxidoreductase 
+13(1)	WP_244082353.1	WP_244082353.1 dihydroorotate dehydrogenase electron transfer subunit 
+13(1)	WP_090530109.1	WP_090530109.1 benzoate 1,2-dioxygenase electron transfer component BenC 
+
+
+14(1)	WP_294067398.1	WP_294067398.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+14(1)	WP_128198111.1	WP_128198111.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+14(1)	WP_114563941.1	WP_114563941.1 GTPase HflX 
+14(1)	WP_014008417.1	WP_014008417.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE 
+
+
+15(1)	WP_107045681.1	WP_107045681.1 helix-turn-helix domain-containing protein 
+15(1)	WP_296981740.1	WP_296981740.1 MULTISPECIES: hypothetical protein 
+15(1)	WP_281021099.1	WP_281021099.1 hypothetical protein 
+15(1)	WP_281021100.1	WP_281021100.1 hypothetical protein 
+
+
+16(1)	WP_173960490.1	WP_173960490.1 helix-turn-helix transcriptional regulator 
+16(1)	WP_108469220.1	WP_108469220.1 helix-turn-helix transcriptional regulator 
+16(1)	WP_300040442.1	WP_300040442.1 YafY family protein 
+16(1)	WP_300040446.1	WP_300040446.1 YafY family protein 
+
+
+17(1)	WP_255577710.1	WP_255577710.1 MULTISPECIES: thermonuclease family protein 
+17(1)	WP_269823604.1	WP_269823604.1 thermonuclease family protein 
+17(1)	WP_245795018.1	WP_245795018.1 thermonuclease family protein 
+17(1)	WP_419144971.1	WP_419144971.1 thermonuclease family protein 
+
+
+18(1)	WP_052702586.1	WP_052702586.1 BRO family protein 
+18(1)	WP_052702584.1	WP_052702584.1 Rha family transcriptional regulator 
+18(1)	WP_090576424.1	WP_090576424.1 BRO family protein 
+
+
+19(1)	WP_097050890.1	WP_097050890.1 phage tail protein 
+19(1)	WP_128734731.1	WP_128734731.1 tail fiber protein 
+19(1)	WP_097050889.1	WP_097050889.1 tail fiber protein 
+
+
+20(1)	WP_158936535.1	WP_158936535.1 hypothetical protein 
+20(1)	WP_158936536.1	WP_158936536.1 hypothetical protein 
+20(1)	WP_158936534.1	WP_158936534.1 hypothetical protein 
+
+
+21(1)	WP_083334402.1	WP_083334402.1 DUF1654 domain-containing protein 
+21(1)	WP_058143927.1	WP_058143927.1 DUF1654 domain-containing protein 
+21(1)	WP_223507793.1	WP_223507793.1 DUF1654 domain-containing protein 
+
+
+22(1)	WP_250878059.1	WP_250878059.1 hypothetical protein 
+22(1)	WP_103921514.1	WP_103921514.1 rhodanese-like domain-containing protein 
+22(1)	WP_247433338.1	WP_247433338.1 rhodanese-like domain-containing protein 
+
+
+23(1)	WP_262566155.1	WP_262566155.1 Panacea domain-containing protein 
+23(1)	WP_128734728.1	WP_128734728.1 Panacea domain-containing protein 
+23(1)	WP_257246379.1	WP_257246379.1 Panacea domain-containing protein 
+
+
+24(1)	WP_150215012.1	WP_150215012.1 amino acid permease 
+24(1)	WP_267832066.1	WP_267832066.1 APC family permease 
+24(1)	WP_150214927.1	WP_150214927.1 amino acid permease 
+
+
+25(1)	WP_269823607.1	WP_269823607.1 helix-turn-helix transcriptional regulator 
+25(1)	WP_083240147.1	WP_083240147.1 helix-turn-helix transcriptional regulator 
+25(1)	WP_213362244.1	WP_213362244.1 helix-turn-helix transcriptional regulator 
+
+
+26(1)	WP_279757290.1	WP_279757290.1 DNA-binding transcriptional regulator KdgR 
+26(2)	WP_091721923.1	WP_091721923.1 MULTISPECIES: DNA-binding transcriptional regulator KdgR 
+
+
+27(1)	WP_178368138.1	WP_178368138.1 long-chain-fatty-acid--CoA ligase 
+27(1)	WP_121430390.1	WP_121430390.1 acyl-CoA synthetase 
+27(1)	WP_293208687.1	WP_293208687.1 AMP-binding protein 
+
+
+28(1)	WP_014008418.1	WP_014008418.1 membrane protein insertase YidC 
+28(1)	WP_294067397.1	WP_294067397.1 membrane protein insertase YidC 
+28(1)	WP_128198110.1	WP_128198110.1 membrane protein insertase YidC 
+
+
+29(1)	WP_097050884.1	WP_097050884.1 hypothetical protein 
+29(1)	WP_092782209.1	WP_092782209.1 hypothetical protein 
+29(1)	WP_299440045.1	WP_299440045.1 hypothetical protein 
+
+
+30(1)	WP_092782212.1	WP_092782212.1 hypothetical protein 
+30(1)	WP_299440047.1	WP_299440047.1 hypothetical protein 
+30(1)	WP_097050887.1	WP_097050887.1 hypothetical protein 
+
+
+31(1)	WP_305330845.1	WP_305330845.1 FAD-binding oxidoreductase 
+31(1)	WP_009394629.1	WP_009394629.1 MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase 
+31(1)	WP_208315592.1	WP_208315592.1 NAD(P)/FAD-dependent oxidoreductase 
+
+
+32(1)	WP_027817489.1	WP_027817489.1 ubiquinone-dependent pyruvate dehydrogenase 
+32(1)	WP_197918169.1	WP_197918169.1 2-oxoacid:ferredoxin oxidoreductase subunit beta 
+32(1)	WP_308074144.1	WP_308074144.1 biosynthetic-type acetolactate synthase large subunit 
+
+
+33(1)	WP_011446378.1	WP_011446378.1 phage tail tape measure protein 
+33(1)	WP_280044053.1	WP_280044053.1 tape measure protein, partial 
+33(1)	WP_312126343.1	WP_312126343.1 hypothetical protein 
+
+
+34(1)	WP_192879021.1	WP_192879021.1 protein adenylyltransferase Fic 
+34(1)	WP_136876113.1	WP_136876113.1 mobile mystery protein B 
+34(1)	WP_318666276.1	WP_318666276.1 Fic family protein 
+
+
+35(1)	WP_137172329.1	WP_137172329.1 efflux RND transporter periplasmic adaptor subunit 
+35(1)	WP_292553716.1	WP_292553716.1 efflux RND transporter periplasmic adaptor subunit 
+35(1)	WP_324150844.1	WP_324150844.1 efflux RND transporter periplasmic adaptor subunit 
+
+
+36(1)	WP_268154360.1	WP_268154360.1 heavy metal translocating P-type ATPase 
+36(1)	WP_405198057.1	WP_405198057.1 heavy metal translocating P-type ATPase 
+36(1)	WP_229743228.1	WP_229743228.1 heavy metal translocating P-type ATPase 
+
+
+37(1)	WP_440823046.1	WP_440823046.1 2-dehydro-3-deoxyglucarate aldolase 
+37(1)	WP_091721935.1	WP_091721935.1 MULTISPECIES: 2-dehydro-3-deoxyglucarate aldolase 
+37(1)	WP_279757284.1	WP_279757284.1 2-dehydro-3-deoxyglucarate aldolase 
+
+
+38(1)	WP_279757291.1	WP_279757291.1 pectinesterase family protein 
+38(1)	WP_183485543.1	WP_183485543.1 pectinesterase family protein 
+38(1)	WP_440823051.1	WP_440823051.1 pectinesterase family protein 
+
+
+39(1)	WP_279757327.1	WP_279757327.1 enolase C-terminal domain-like protein 
+39(1)	WP_310737342.1	WP_310737342.1 MULTISPECIES: enolase C-terminal domain-like protein 
+39(1)	WP_440823072.1	WP_440823072.1 enolase C-terminal domain-like protein 
+
+
+40(1)	WP_028315634.1	WP_028315634.1 B12-binding domain-containing radical SAM protein 
+40(1)	WP_028315633.1	WP_028315633.1 B12-binding domain-containing radical SAM protein 
+
+
+41(1)	WP_054268339.1	WP_054268339.1 MULTISPECIES: transcription termination factor Rho 
+41(1)	WP_029030319.1	WP_029030319.1 flagellar protein export ATPase FliI 
+
+
+42(1)	WP_038034096.1	WP_038034096.1 FAD-binding oxidoreductase 
+42(1)	WP_063237165.1	WP_063237165.1 FAD-binding oxidoreductase 
+
+
+43(1)	WP_014008419.1	WP_014008419.1 membrane protein insertion efficiency factor YidD 
+43(1)	WP_128198271.1	WP_128198271.1 membrane protein insertion efficiency factor YidD 
+
+
+44(1)	WP_188449647.1	WP_188449647.1 hypothetical protein 
+44(1)	WP_188449649.1	WP_188449649.1 hypothetical protein 
+
+
+45(1)	WP_112315340.1	WP_112315340.1 nicotinate-nucleotide adenylyltransferase 
+45(1)	WP_197918161.1	WP_197918161.1 nicotinate-nucleotide adenylyltransferase 
+
+
+46(1)	WP_198021905.1	WP_198021905.1 AraC family transcriptional regulator 
+46(1)	WP_015670788.1	WP_015670788.1 MULTISPECIES: 4-hydroxyphenylacetate catabolism regulatory protein HpaA 
+
+
+47(1)	WP_173960495.1	WP_173960495.1 nucleotidyltransferase domain-containing protein 
+47(1)	WP_216152012.1	WP_216152012.1 nucleotidyltransferase domain-containing protein 
+
+
+48(1)	WP_024533370.1	WP_024533370.1 MULTISPECIES: hypothetical protein 
+48(1)	WP_223507797.1	WP_223507797.1 hypothetical protein 
+
+
+49(1)	WP_121982997.1	WP_121982997.1 MULTISPECIES: cold-shock protein 
+49(1)	WP_231513117.1	WP_231513117.1 DUF1294 domain-containing protein 
+
+
+50(1)	WP_166951540.1	WP_166951540.1 arginase 
+50(1)	WP_247433341.1	WP_247433341.1 arginase 
+
+
+51(1)	WP_249748210.1	WP_249748210.1 hypothetical protein 
+51(1)	WP_176537798.1	WP_176537798.1 hypothetical protein 
+
+
+52(1)	WP_249748212.1	WP_249748212.1 putative metallopeptidase 
+52(1)	WP_176537795.1	WP_176537795.1 putative metallopeptidase 
+
+
+53(1)	WP_054306951.1	WP_054306951.1 D-alanyl-D-alanine-carboxypeptidase/endopeptidase AmpH 
+53(1)	WP_250878060.1	WP_250878060.1 serine hydrolase domain-containing protein 
+
+
+54(1)	WP_247433327.1	WP_247433327.1 SPOR domain-containing protein 
+54(1)	WP_250878062.1	WP_250878062.1 SPOR domain-containing protein 
+
+
+55(1)	WP_193493655.1	WP_193493655.1 IS200/IS605 family transposase 
+55(1)	WP_262564606.1	WP_262564606.1 IS200/IS605 family transposase 
+
+
+56(1)	WP_267898335.1	WP_267898335.1 RHS repeat-associated core domain-containing protein 
+56(1)	WP_233280388.1	WP_233280388.1 RHS repeat-associated core domain-containing protein 
+
+
+57(1)	WP_268154358.1	WP_268154358.1 Cu(I)-responsive transcriptional regulator 
+57(1)	WP_017468373.1	WP_017468373.1 MULTISPECIES: MerR family transcriptional regulator 
+
+
+58(1)	WP_045581717.1	WP_045581717.1 YgaP family membrane protein 
+58(1)	WP_269651832.1	WP_269651832.1 YgaP family membrane protein 
+
+
+59(1)	WP_217884120.1	WP_217884120.1 HigA family addiction module antitoxin 
+59(1)	WP_287655124.1	WP_287655124.1 HigA family addiction module antitoxin 
+
+
+60(1)	WP_292553728.1	WP_292553728.1 C1 family peptidase 
+60(1)	WP_287655130.1	WP_287655130.1 C1 family peptidase 
+
+
+61(1)	WP_274377023.1	WP_274377023.1 ribonuclease P protein component 
+61(1)	WP_294067395.1	WP_294067395.1 ribonuclease P protein component 
+
+
+62(1)	WP_054044155.1	WP_054044155.1 MULTISPECIES: Lrp/AsnC family transcriptional regulator 
+62(1)	WP_294067407.1	WP_294067407.1 Lrp/AsnC family transcriptional regulator 
+
+
+63(1)	WP_296411890.1	WP_296411890.1 DNA-binding protein 
+63(1)	WP_287655121.1	WP_287655121.1 hypothetical protein 
+
+
+64(1)	WP_296707985.1	WP_296707985.1 phosphotransferase 
+64(1)	WP_293606500.1	WP_293606500.1 phosphotransferase 
+
+
+65(1)	WP_296708197.1	WP_296708197.1 NADPH:quinone oxidoreductase family protein 
+65(1)	WP_026180759.1	WP_026180759.1 NAD(P)H-quinone oxidoreductase 
+
+
+66(1)	WP_131990820.1	WP_131990820.1 class I SAM-dependent DNA methyltransferase 
+66(1)	WP_296981742.1	WP_296981742.1 MULTISPECIES: class I SAM-dependent DNA methyltransferase 
+
+
+67(1)	WP_115535610.1	WP_115535610.1 NAD-dependent succinate-semialdehyde dehydrogenase 
+67(1)	WP_297141886.1	WP_297141886.1 aldehyde dehydrogenase family protein 
+
+
+68(1)	WP_084410487.1	WP_084410487.1 quinone-dependent dihydroorotate dehydrogenase 
+68(1)	WP_297141891.1	WP_297141891.1 quinone-dependent dihydroorotate dehydrogenase 
+
+
+69(1)	WP_299440043.1	WP_299440043.1 hypothetical protein 
+69(1)	WP_092782206.1	WP_092782206.1 hypothetical protein 
+
+
+70(1)	WP_092782221.1	WP_092782221.1 hypothetical protein 
+70(1)	WP_299440055.1	WP_299440055.1 hypothetical protein 
+
+
+71(1)	WP_092782224.1	WP_092782224.1 phage capsid protein 
+71(1)	WP_299440057.1	WP_299440057.1 phage capsid protein 
+
+
+72(1)	WP_245699057.1	WP_245699057.1 capsid assembly protein 
+72(1)	WP_299440059.1	WP_299440059.1 hypothetical protein 
+
+
+73(1)	WP_300040433.1	WP_300040433.1 replicative DNA helicase 
+73(1)	WP_200149925.1	WP_200149925.1 replicative DNA helicase 
+
+
+74(1)	WP_300074981.1	WP_300074981.1 uroporphyrinogen-III C-methyltransferase 
+74(1)	WP_300075249.1	WP_300075249.1 precorrin-3B C(17)-methyltransferase 
+
+
+75(1)	WP_268154350.1	WP_268154350.1 GFA family protein 
+75(1)	WP_305330848.1	WP_305330848.1 GFA family protein 
+
+
+76(1)	WP_308074141.1	WP_308074141.1 DUF927 domain-containing protein 
+76(1)	WP_053172054.1	WP_053172054.1 DUF927 domain-containing protein 
+
+
+77(1)	WP_316980030.1	WP_316980030.1 methyl-accepting chemotaxis protein 
+77(1)	WP_296707997.1	WP_296707997.1 MULTISPECIES: methyl-accepting chemotaxis protein 
+
+
+78(1)	WP_281021101.1	WP_281021101.1 Rha family transcriptional regulator 
+78(1)	WP_317008273.1	WP_317008273.1 phage regulatory protein/antirepressor Ant 
+
+
+79(1)	WP_322094578.1	WP_322094578.1 hypothetical protein 
+79(1)	WP_221311405.1	WP_221311405.1 hypothetical protein 
+
+
+80(1)	WP_322312368.1	WP_322312368.1 alpha/beta hydrolase 
+80(1)	WP_057652964.1	WP_057652964.1 alpha/beta fold hydrolase 
+
+
+81(1)	WP_324150843.1	WP_324150843.1 efflux RND transporter permease subunit 
+81(1)	WP_137172328.1	WP_137172328.1 efflux RND transporter permease subunit 
+
+
+82(1)	WP_326864241.1	WP_326864241.1 IS1595 family transposase 
+82(1)	WP_114562080.1	WP_114562080.1 IS1595 family transposase 
+
+
+83(1)	WP_264410728.1	WP_264410728.1 molybdopterin biosynthesis protein 
+83(1)	WP_338109667.1	WP_338109667.1 molybdopterin-binding protein 
+
+
+84(1)	WP_188449651.1	WP_188449651.1 class I SAM-dependent DNA methyltransferase 
+84(1)	WP_343227725.1	WP_343227725.1 DNA methyltransferase 
+
+
+85(1)	WP_198032298.1	WP_198032298.1 alpha-hydroxy-acid oxidizing protein, partial 
+85(1)	WP_425292959.1	WP_425292959.1 type 2 isopentenyl-diphosphate Delta-isomerase 
+
+
+86(1)	WP_425502253.1	WP_425502253.1 DUF6745 domain-containing protein, partial 
+86(1)	WP_223177585.1	WP_223177585.1 DUF6745 domain-containing protein, partial 
+
+

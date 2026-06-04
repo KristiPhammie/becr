@@ -1,0 +1,361 @@
+1(1)	XP_006087508.1	XP_006087508.1 ribonuclease pancreatic 
+1(1)	XP_036736484.2	XP_036736484.2 ribonuclease K6 
+1(1)	XP_044516005.1	XP_044516005.1 ribonuclease pancreatic-like 
+1(1)	XP_060110535.1	XP_060110535.1 ribonuclease pancreatic-like 
+1(1)	XP_050999351.1	XP_050999351.1 epididymal secretory protein E3-beta 
+1(1)	XP_050999353.1	XP_050999353.1 ribonuclease pancreatic 
+1(1)	XP_055464653.1	XP_055464653.1 ribonuclease 4 
+1(1)	XP_057575839.1	XP_057575839.1 epididymal secretory protein E3-beta 
+1(2)	XP_044841993.1	XP_044841993.1 ribonuclease-like 
+1(1)	XP_006835547.1	XP_006835547.1 PREDICTED: ribonuclease pancreatic 
+1(1)	XP_061038316.1	XP_061038316.1 non-secretory ribonuclease 
+1(2)	XP_044841090.1	XP_044841090.1 ribonuclease-like 
+1(1)	XP_060111766.1	XP_060111766.1 ribonuclease-like 
+1(1)	XP_023608649.1	XP_023608649.1 ribonuclease 4-like 
+1(1)	XP_053120945.1	XP_053120945.1 angiogenin-like 
+1(1)	XP_035584160.1	XP_035584160.1 ribonuclease K6-like 
+1(1)	XP_007442033.1	XP_007442033.1 ribonuclease-like 
+1(1)	XP_015273538.1	XP_015273538.1 PREDICTED: ribonuclease-like 
+1(2)	XP_034267397.1	XP_034267397.1 ribonuclease-like 
+1(1)	XP_015273520.1	XP_015273520.1 PREDICTED: angiogenin-like 
+1(1)	XP_016021099.1	XP_016021099.1 ribonuclease 4 
+1(1)	XP_074975111.1	XP_074975111.1 ribonuclease-like 
+1(1)	XP_044516007.1	XP_044516007.1 uncharacterized protein LOC123234128 
+1(1)	XP_039206089.1	XP_039206089.1 ribonuclease pancreatic-like 
+1(1)	XP_039206124.1	XP_039206124.1 ribonuclease-like 
+1(1)	XP_027778180.2	XP_027778180.2 non-secretory ribonuclease-like 
+1(2)	XP_034267398.1	XP_034267398.1 ribonuclease-like 
+1(1)	XP_050998968.1	XP_050998968.1 angiogenin 
+1(1)	XP_012891153.1	XP_012891153.1 PREDICTED: epididymal secretory protein E3-beta-like 
+1(1)	XP_039206079.1	XP_039206079.1 ribonuclease-like 
+1(1)	XP_031218507.1	XP_031218507.1 ribonuclease 2B-like 
+1(1)	XP_039206090.1	XP_039206090.1 ribonuclease-like 
+1(1)	XP_064341852.1	XP_064341852.1 ribonuclease pancreatic isoform X2 
+1(1)	XP_052047562.1	XP_052047562.1 angiogenin-like 
+1(1)	XP_059952055.1	XP_059952055.1 ribonuclease K6 
+1(2)	XP_050774010.1	XP_050774010.1 ribonuclease-like 
+1(1)	XP_010837767.1	XP_010837767.1 PREDICTED: epididymal secretory protein E3-beta-like 
+1(1)	XP_006835608.1	XP_006835608.1 PREDICTED: epididymal secretory protein E3-beta 
+1(1)	XP_027778189.2	XP_027778189.2 non-secretory ribonuclease-like 
+1(2)	XP_034267492.1	XP_034267492.1 ribonuclease-like 
+1(1)	XP_060546906.1	XP_060546906.1 ribonuclease-like 
+1(1)	XP_006835610.1	XP_006835610.1 PREDICTED: epididymal secretory protein E3-beta-like 
+1(1)	XP_008586718.1	XP_008586718.1 PREDICTED: ribonuclease 4 
+1(1)	XP_033024215.1	XP_033024215.1 ribonuclease pancreatic-like 
+1(1)	XP_059954236.1	XP_059954236.1 ribonuclease pancreatic 
+1(1)	XP_073923030.1	XP_073923030.1 eosinophil cationic protein 1-like 
+1(1)	XP_050774002.1	XP_050774002.1 angiogenin-like 
+1(1)	XP_073924557.1	XP_073924557.1 ribonuclease 4 
+1(1)	XP_044516010.1	XP_044516010.1 eosinophil cationic protein 2-like 
+1(1)	XP_060110932.1	XP_060110932.1 ribonuclease-like 
+1(1)	XP_053120222.1	XP_053120222.1 ribonuclease-like 
+1(1)	XP_010837769.1	XP_010837769.1 PREDICTED: angiogenin-1-like 
+1(1)	XP_050774005.1	XP_050774005.1 ribonuclease-like 
+1(1)	XP_050999352.1	XP_050999352.1 ribonuclease K6 
+1(1)	XP_002717926.1	XP_002717926.1 epididymal secretory protein E3-beta 
+1(1)	XP_049624948.1	XP_049624948.1 ribonuclease pancreatic-like 
+1(1)	XP_027778203.1	XP_027778203.1 ribonuclease pancreatic-like 
+1(1)	XP_016021013.1	XP_016021013.1 ribonuclease K6 
+1(1)	XP_056720171.1	XP_056720171.1 ribonuclease-like 
+1(1)	XP_050774006.1	XP_050774006.1 ribonuclease-like isoform X1 
+1(1)	XP_031218506.1	XP_031218506.1 ribonuclease pancreatic-like 
+1(1)	XP_052589320.1	XP_052589320.1 ribonuclease 4 
+1(1)	XP_034793131.1	XP_034793131.1 LOW QUALITY PROTEIN: epididymal secretory protein E3-alpha-like 
+1(1)	XP_008267528.2	XP_008267528.2 ribonuclease 4 
+1(1)	XP_054953407.1	XP_054953407.1 ribonuclease 4 isoform X2 
+1(1)	XP_003758814.1	XP_003758814.1 ribonuclease pancreatic-like 
+1(1)	XP_012891146.1	XP_012891146.1 PREDICTED: ribonuclease K6 
+1(2)	XP_056719017.1	XP_056719017.1 angiogenin-like 
+1(2)	XP_056719010.1	XP_056719010.1 ribonuclease pancreatic-like 
+1(1)	XP_049624663.1	XP_049624663.1 ribonuclease 4-like 
+1(2)	XP_050774047.1	XP_050774047.1 ribonuclease-like 
+1(1)	XP_058397044.1	XP_058397044.1 ribonuclease K6 
+1(1)	XP_008586716.1	XP_008586716.1 PREDICTED: epididymal secretory protein E3-beta-like 
+1(1)	XP_044840505.1	XP_044840505.1 ribonuclease-like 
+1(1)	XP_060110929.1	XP_060110929.1 angiogenin-like 
+1(1)	XP_053218619.1	XP_053218619.1 ribonuclease-like 
+1(1)	XP_045143678.1	XP_045143678.1 epididymal secretory protein E3-beta 
+1(1)	XP_015273010.1	XP_015273010.1 PREDICTED: angiogenin-4-like 
+1(1)	XP_045678291.1	XP_045678291.1 ribonuclease 4 
+1(1)	XP_059954238.1	XP_059954238.1 LOW QUALITY PROTEIN: ribonuclease pancreatic-like 
+1(1)	XP_007949322.2	XP_007949322.2 ribonuclease K6-like 
+1(2)	XP_048676723.1	XP_048676723.1 ribonuclease 
+1(1)	XP_054850129.1	XP_054850129.1 ribonuclease-like 
+1(1)	XP_044518248.1	XP_044518248.1 epididymal secretory protein E3-beta-like 
+1(1)	XP_045012582.1	XP_045012582.1 ribonuclease pancreatic-like 
+1(1)	XP_060110930.1	XP_060110930.1 ribonuclease-like 3 
+1(1)	XP_034793130.2	XP_034793130.2 epididymal secretory protein E3-alpha 
+1(1)	XP_047653318.1	XP_047653318.1 epididymal secretory protein E3-beta 
+1(1)	XP_048374065.1	XP_048374065.1 angiogenin-1-like 
+1(1)	XP_047651297.1	XP_047651297.1 ribonuclease K6 
+1(2)	XP_048676725.1	XP_048676725.1 ribonuclease-like 
+1(1)	XP_036984283.2	XP_036984283.2 non-secretory ribonuclease-like 
+1(1)	XP_034354515.2	XP_034354515.2 ribonuclease 2B-like 
+1(1)	XP_052047549.1	XP_052047549.1 epididymal secretory protein E3-beta-like 
+1(1)	XP_021045368.1	XP_021045368.1 eosinophil cationic protein 2 
+1(1)	XP_044519336.1	XP_044519336.1 ribonuclease pancreatic-like 
+1(1)	XP_032774153.1	XP_032774153.1 epididymal secretory protein E3-beta-like 
+1(1)	XP_008055110.1	XP_008055110.1 epididymal secretory protein E3-alpha 
+1(1)	XP_034354820.1	XP_034354820.1 ribonuclease K6-like 
+1(1)	XP_020042626.1	XP_020042626.1 eosinophil cationic protein 
+1(1)	XP_039206091.1	XP_039206091.1 ribonuclease-like 
+1(2)	XP_050774019.1	XP_050774019.1 ribonuclease-like 
+1(1)	XP_032774212.1	XP_032774212.1 ribonuclease K6 
+1(1)	XP_007949418.2	XP_007949418.2 epididymal secretory protein E3-beta 
+1(1)	XP_033025870.1	XP_033025870.1 ribonuclease pancreatic-like 
+1(1)	XP_035584159.1	XP_035584159.1 epididymal secretory protein E3-beta-like 
+1(1)	XP_076788165.1	XP_076788165.1 ribonuclease 2B-like 
+1(1)	XP_054850890.1	XP_054850890.1 ribonuclease pancreatic-like 
+1(1)	XP_064341853.1	XP_064341853.1 ribonuclease K6 
+1(1)	XP_050774011.1	XP_050774011.1 ribonuclease-like 
+1(2)	XP_060546879.1	XP_060546879.1 ribonuclease-like 
+1(1)	XP_023351121.1	XP_023351121.1 ribonuclease 4 
+1(1)	XP_006087505.1	XP_006087505.1 angiogenin 
+1(1)	XP_032773785.1	XP_032773785.1 ribonuclease pancreatic beta-type 
+1(1)	XP_013210560.1	XP_013210560.1 ribonuclease 4 
+1(1)	XP_031805139.1	XP_031805139.1 seminal ribonuclease-like 
+1(1)	XP_034354327.1	XP_034354327.1 ribonuclease pancreatic-like 
+1(1)	XP_007442031.1	XP_007442031.1 ribonuclease-like 
+1(1)	XP_027778168.1	XP_027778168.1 ribonuclease K6 
+1(1)	XP_049624947.1	XP_049624947.1 ribonuclease pancreatic-like 
+1(1)	XP_052445380.1	XP_052445380.1 ribonuclease-like 3 
+1(1)	XP_054849590.1	XP_054849590.1 angiogenin-like 
+1(1)	XP_004648147.2	XP_004648147.2 ribonuclease K6-like 
+1(1)	XP_052590267.1	XP_052590267.1 ribonuclease K6 
+1(1)	XP_010837768.1	XP_010837768.1 PREDICTED: ribonuclease 4-like 
+1(1)	XP_053218011.1	XP_053218011.1 angiogenin-like 
+1(1)	XP_050774016.1	XP_050774016.1 ribonuclease-like 
+1(2)	XP_056720170.1	XP_056720170.1 ribonuclease pancreatic-like 
+1(1)	XP_020033173.1	XP_020033173.1 ribonuclease K6 
+1(1)	XP_042798537.1	XP_042798537.1 angiogenin 
+1(1)	XP_061038312.1	XP_061038312.1 LOW QUALITY PROTEIN: epididymal secretory protein E3-beta 
+1(1)	XP_016021098.1	XP_016021098.1 angiogenin isoform X2 
+1(1)	XP_058397042.1	XP_058397042.1 epididymal secretory protein E3-beta 
+1(1)	XP_053120220.1	XP_053120220.1 ribonuclease-like 
+1(1)	XP_061038311.1	XP_061038311.1 ribonuclease 4 
+1(1)	XP_042796511.1	XP_042796511.1 ribonuclease K6-like 
+1(1)	XP_037358858.1	XP_037358858.1 ribonuclease pancreatic-like 
+1(1)	XP_004698938.1	XP_004698938.1 ribonuclease K6 
+1(1)	XP_016055047.1	XP_016055047.1 PREDICTED: ribonuclease K6 
+1(1)	XP_074975110.1	XP_074975110.1 uncharacterized protein LOC142068884 
+1(1)	XP_045012557.1	XP_045012557.1 ribonuclease pancreatic-like 
+1(1)	XP_010988511.1	XP_010988511.1 eosinophil cationic protein 
+1(1)	XP_045679512.1	XP_045679512.1 epididymal secretory protein E3-beta 
+1(1)	XP_053217063.1	XP_053217063.1 angiogenin-like 
+1(1)	XP_016055049.1	XP_016055049.1 PREDICTED: ribonuclease 4 
+1(2)	XP_054848239.1	XP_054848239.1 ribonuclease-like 
+1(1)	XP_007949321.1	XP_007949321.1 ribonuclease 4 
+1(1)	XP_023564124.1	XP_023564124.1 ribonuclease K3-like 
+1(1)	XP_052047547.1	XP_052047547.1 epididymal secretory protein E3-beta-like 
+1(1)	XP_057580844.1	XP_057580844.1 ribonuclease 4 
+1(1)	XP_053516754.1	XP_053516754.1 ribonuclease K6 
+1(2)	XP_054850124.1	XP_054850124.1 ribonuclease-like 
+1(1)	XP_057580839.1	XP_057580839.1 angiogenin-1-like 
+1(1)	XP_025031280.1	XP_025031280.1 ribonuclease-like 
+1(1)	XP_004672408.2	XP_004672408.2 epididymal secretory protein E3-beta-like 
+1(2)	XP_054850122.1	XP_054850122.1 angiogenin-3-like 
+1(2)	XP_056719011.1	XP_056719011.1 ribonuclease-like 
+1(1)	XP_016021015.1	XP_016021015.1 epididymal secretory protein E3-beta isoform X2 
+1(1)	XP_048676730.1	XP_048676730.1 ribonuclease-like 
+1(1)	XP_039206080.1	XP_039206080.1 ribonuclease-like 
+1(1)	XP_061038313.1	XP_061038313.1 ribonuclease K6 
+1(1)	XP_003811795.1	XP_003811795.1 epididymal secretory protein E3-beta 
+1(1)	XP_033024214.1	XP_033024214.1 angiogenin-like 
+1(1)	XP_015273011.1	XP_015273011.1 PREDICTED: angiogenin-like 
+1(1)	XP_016055146.1	XP_016055146.1 PREDICTED: ribonuclease pancreatic 
+1(1)	XP_032773656.1	XP_032773656.1 angiogenin 
+1(1)	XP_060112383.1	XP_060112383.1 ribonuclease pancreatic-like 
+1(1)	XP_035584119.1	XP_035584119.1 epididymal secretory protein E3-beta-like 
+1(1)	XP_060110931.1	XP_060110931.1 ribonuclease-like 
+1(1)	XP_044518247.1	XP_044518247.1 ribonuclease K3-like 
+1(1)	XP_059954239.1	XP_059954239.1 LOW QUALITY PROTEIN: epididymal secretory protein E3-beta 
+1(1)	XP_015273535.1	XP_015273535.1 PREDICTED: angiogenin-like 
+1(1)	XP_059954241.1	XP_059954241.1 ribonuclease 4 
+1(1)	XP_016055052.1	XP_016055052.1 PREDICTED: epididymal secretory protein E3-beta-like 
+1(1)	XP_010837735.1	XP_010837735.1 PREDICTED: brain ribonuclease 
+1(1)	XP_015273521.1	XP_015273521.1 PREDICTED: ribonuclease-like 
+1(1)	XP_057344606.1	XP_057344606.1 LOW QUALITY PROTEIN: angiogenin 
+1(1)	XP_036984298.1	XP_036984298.1 ribonuclease 4 
+1(1)	XP_064342438.1	XP_064342438.1 ribonuclease pancreatic 
+1(1)	XP_052047548.1	XP_052047548.1 epididymal secretory protein E3-beta-like 
+1(1)	XP_037358850.1	XP_037358850.1 ribonuclease K6 
+1(1)	XP_010837732.1	XP_010837732.1 PREDICTED: ribonuclease 4-like 
+1(1)	XP_016021114.2	XP_016021114.2 non-secretory ribonuclease 
+1(1)	XP_073924554.1	XP_073924554.1 epididymal secretory protein E3-beta 
+1(1)	XP_056719009.1	XP_056719009.1 ribonuclease-like 
+1(1)	XP_055464609.1	XP_055464609.1 LOW QUALITY PROTEIN: ribonuclease K6 
+1(1)	XP_008586714.1	XP_008586714.1 PREDICTED: ribonuclease pancreatic 
+1(2)	XP_056719008.1	XP_056719008.1 ribonuclease-like 
+1(2)	XP_074974655.1	XP_074974655.1 ribonuclease 
+1(1)	XP_021567440.1	XP_021567440.1 ribonuclease 4 
+1(1)	XP_045679194.1	XP_045679194.1 ribonuclease K6 
+1(2)	XP_048676728.1	XP_048676728.1 ribonuclease 
+1(1)	XP_006087502.1	XP_006087502.1 ribonuclease 4-like 
+1(1)	XP_058397046.1	XP_058397046.1 angiogenin 
+1(1)	XP_005371044.1	XP_005371044.1 epididymal secretory protein E3-beta 
+1(1)	XP_031805140.1	XP_031805140.1 ribonuclease 8 
+1(1)	XP_034354699.1	XP_034354699.1 ribonuclease K6-like 
+1(1)	XP_048374174.1	XP_048374174.1 ribonuclease-like 
+1(1)	XP_047651550.1	XP_047651550.1 ribonuclease 4 
+1(1)	XP_044516009.1	XP_044516009.1 ribonuclease pancreatic-like 
+1(1)	XP_036984285.2	XP_036984285.2 epididymal secretory protein E3-beta 
+1(2)	XP_060546905.1	XP_060546905.1 ribonuclease-like 
+1(1)	XP_050773552.1	XP_050773552.1 ribonuclease-like 
+1(1)	XP_044840919.1	XP_044840919.1 ribonuclease-like 
+1(1)	XP_061038315.1	XP_061038315.1 ribonuclease pancreatic 
+1(1)	XP_051032833.1	XP_051032833.1 ribonuclease K6 
+1(1)	XP_053122308.1	XP_053122308.1 ribonuclease-like 
+1(1)	XP_055464610.1	XP_055464610.1 epididymal secretory protein E3-beta 
+1(1)	XP_051032801.1	XP_051032801.1 ribonuclease pancreatic 
+1(1)	XP_048676734.2	XP_048676734.2 ribonuclease-like 
+1(2)	XP_056719016.1	XP_056719016.1 angiogenin-like 
+1(1)	XP_037358853.1	XP_037358853.1 epididymal secretory protein E3-beta 
+1(2)	XP_044842351.1	XP_044842351.1 ribonuclease-like 
+1(1)	XP_059954235.1	XP_059954235.1 non-secretory ribonuclease 
+1(2)	XP_054850128.1	XP_054850128.1 ribonuclease-like 
+1(1)	XP_014310199.1	XP_014310199.1 ribonuclease 4 
+1(1)	XP_048373825.1	XP_048373825.1 angiogenin-like 
+1(1)	XP_037358849.1	XP_037358849.1 ribonuclease 4 
+1(1)	XP_032773654.1	XP_032773654.1 ribonuclease 4 
+1(1)	XP_031218533.1	XP_031218533.1 epididymal secretory protein E3-beta 
+1(1)	XP_044516008.1	XP_044516008.1 ribonuclease pancreatic-like 
+1(1)	XP_027778137.1	XP_027778137.1 epididymal secretory protein E3-beta 
+1(1)	XP_060546880.1	XP_060546880.1 angiogenin-2-like 
+1(1)	XP_050998966.1	XP_050998966.1 ribonuclease 4 
+1(1)	XP_006835549.1	XP_006835549.1 PREDICTED: ribonuclease 4 
+1(1)	XP_054851497.1	XP_054851497.1 ribonuclease-like 
+1(1)	XP_006835548.1	XP_006835548.1 PREDICTED: ribonuclease K6 
+1(1)	XP_031807859.1	XP_031807859.1 epididymal secretory protein E3-beta 
+1(1)	XP_036984296.2	XP_036984296.2 angiogenin 
+1(1)	XP_005371042.1	XP_005371042.1 non-secretory ribonuclease 
+1(1)	XP_057580744.1	XP_057580744.1 ribonuclease 4-like isoform X1 
+1(1)	XP_058397045.1	XP_058397045.1 ribonuclease 4 
+1(1)	XP_010837731.1	XP_010837731.1 PREDICTED: non-secretory ribonuclease isoform X2 
+1(1)	XP_036736436.2	XP_036736436.2 ribonuclease 4 
+1(1)	XP_052590268.1	XP_052590268.1 epididymal secretory protein E3-beta 
+1(1)	XP_054850889.1	XP_054850889.1 ribonuclease-like 
+1(2)	XP_056719007.1	XP_056719007.1 angiogenin-like 
+1(1)	XP_071462916.1	XP_071462916.1 non-secretory ribonuclease 
+1(1)	XP_037357700.1	XP_037357700.1 ribonuclease pancreatic-like 
+1(1)	XP_051032741.1	XP_051032741.1 ribonuclease 4 
+1(1)	XP_004698936.1	XP_004698936.1 angiogenin 
+1(1)	XP_015273522.1	XP_015273522.1 PREDICTED: ribonuclease-like 
+1(1)	XP_053120224.1	XP_053120224.1 angiogenin-like 
+1(1)	XP_044842496.1	XP_044842496.1 ribonuclease-like 
+1(1)	XP_053115063.1	XP_053115063.1 angiogenin-like 
+1(1)	XP_045678988.1	XP_045678988.1 ribonuclease pancreatic 
+1(1)	XP_042796509.1	XP_042796509.1 epididymal secretory protein E3-beta 
+1(1)	XP_008586715.1	XP_008586715.1 PREDICTED: ribonuclease K6 
+1(1)	XP_005371043.1	XP_005371043.1 ribonuclease pancreatic 
+1(1)	XP_027427657.2	XP_027427657.2 LOW QUALITY PROTEIN: ribonuclease K3-like 
+1(1)	XP_031218505.1	XP_031218505.1 ribonuclease 4 
+1(1)	XP_051032832.1	XP_051032832.1 epididymal secretory protein E3-beta 
+1(1)	XP_045143677.1	XP_045143677.1 ribonuclease 4 
+1(1)	XP_039540362.1	XP_039540362.1 ribonuclease-like 3 
+1(1)	XP_048373714.1	XP_048373714.1 ribonuclease-like 
+1(1)	XP_037358860.1	XP_037358860.1 ribonuclease pancreatic-like 
+
+
+2(2)	XP_054850953.1	XP_054850953.1 methyltransferase-like protein 17, mitochondrial 
+2(1)	XP_004648149.1	XP_004648149.1 methyltransferase-like protein 17, mitochondrial isoform X1 
+2(1)	XP_010837729.1	XP_010837729.1 PREDICTED: methyltransferase-like protein 17, mitochondrial 
+2(1)	XP_045012494.1	XP_045012494.1 methyltransferase-like protein 17, mitochondrial isoform X3 
+2(1)	XP_059954233.1	XP_059954233.1 methyltransferase-like protein 17, mitochondrial 
+2(1)	XP_039206082.1	XP_039206082.1 methyltransferase-like protein 17, mitochondrial 
+2(1)	XP_027428239.1	XP_027428239.1 methyltransferase-like protein 17, mitochondrial isoform X1 
+2(1)	XP_045144010.1	XP_045144010.1 methyltransferase-like protein 17, mitochondrial 
+2(1)	XP_007442030.1	XP_007442030.1 methyltransferase-like protein 17, mitochondrial 
+2(1)	XP_007949420.1	XP_007949420.1 methyltransferase-like protein 17, mitochondrial 
+2(1)	XP_016021121.2	XP_016021121.2 methyltransferase-like protein 17, mitochondrial 
+2(2)	XP_034267399.1	XP_034267399.1 methyltransferase-like protein 17, mitochondrial 
+2(1)	XP_036984522.2	XP_036984522.2 methyltransferase-like protein 17, mitochondrial 
+2(1)	XP_036736516.2	XP_036736516.2 methyltransferase-like protein 17, mitochondrial 
+2(1)	XP_042798544.1	XP_042798544.1 methyltransferase-like protein 17, mitochondrial 
+2(1)	XP_053217386.1	XP_053217386.1 methyltransferase-like protein 17, mitochondrial 
+2(1)	XP_053119693.1	XP_053119693.1 methyltransferase-like protein 17, mitochondrial 
+2(1)	XP_037358863.1	XP_037358863.1 methyltransferase-like protein 17, mitochondrial isoform X2 
+
+
+3(2)	XP_054850660.1	XP_054850660.1 zinc transporter ZIP2 
+3(1)	XP_057344028.1	XP_057344028.1 zinc transporter ZIP2 isoform X2 
+3(1)	XP_004698498.1	XP_004698498.1 zinc transporter ZIP2 
+3(1)	XP_048374009.1	XP_048374009.1 zinc transporter ZIP2 
+3(1)	XP_015273015.1	XP_015273015.1 PREDICTED: zinc transporter ZIP2 
+3(1)	XP_053218431.1	XP_053218431.1 zinc transporter ZIP2 
+3(1)	XP_037358864.1	XP_037358864.1 zinc transporter ZIP2 
+3(1)	XP_007949323.1	XP_007949323.1 zinc transporter ZIP2 
+3(1)	XP_023564126.1	XP_023564126.1 zinc transporter ZIP2 isoform X3 
+3(1)	XP_027428245.1	XP_027428245.1 zinc transporter ZIP2 isoform X3 
+3(1)	XP_059954232.1	XP_059954232.1 zinc transporter ZIP2 
+3(1)	XP_042796517.1	XP_042796517.1 zinc transporter ZIP2 isoform X4 
+3(1)	XP_004672415.1	XP_004672415.1 zinc transporter ZIP2 
+3(1)	XP_016021007.2	XP_016021007.2 zinc transporter ZIP2 
+3(1)	XP_060546981.1	XP_060546981.1 zinc transporter ZIP2 
+3(1)	XP_004698497.1	XP_004698497.1 zinc transporter ZIP2-like 
+3(1)	XP_037358859.1	XP_037358859.1 zinc transporter ZIP2-like 
+3(1)	XP_010837728.1	XP_010837728.1 PREDICTED: zinc transporter ZIP2 
+
+
+4(1)	XP_056304468.1	XP_056304468.1 uncharacterized protein LOC130216600 
+4(1)	XP_052445335.1	XP_052445335.1 uncharacterized protein LOC127987079 
+4(1)	XP_056304011.1	XP_056304011.1 uncharacterized protein LOC130216147 
+4(1)	XP_052445349.1	XP_052445349.1 SLAM family member 5-like 
+4(1)	XP_056304469.1	XP_056304469.1 uncharacterized protein LOC130216601 
+4(1)	XP_056304243.1	XP_056304243.1 uncharacterized protein LOC130216375 isoform X1 
+4(1)	XP_039540355.1	XP_039540355.1 SLAM family member 5-like isoform X2 
+4(1)	XP_052445330.1	XP_052445330.1 uncharacterized protein LOC127987075 
+4(1)	XP_056304008.1	XP_056304008.1 uncharacterized protein LOC130216144 isoform X1 
+4(1)	XP_056304010.1	XP_056304010.1 uncharacterized protein LOC130216146 
+4(1)	XP_039540352.1	XP_039540352.1 titin-like 
+
+
+5(1)	XP_033025501.1	XP_033025501.1 C-type lectin BpLec-like 
+5(1)	XP_039540358.1	XP_039540358.1 ladderlectin-like 
+5(1)	XP_033026363.1	XP_033026363.1 C-type lectin BpLec-like 
+5(1)	XP_033025499.1	XP_033025499.1 C-type lectin BfL-2-like 
+5(1)	XP_033024211.1	XP_033024211.1 C-type lectin-like 
+5(1)	XP_053120219.1	XP_053120219.1 regenerating islet-derived protein 4-like 
+5(1)	XP_054851374.1	XP_054851374.1 regenerating islet-derived protein 4-like 
+5(1)	XP_033024212.1	XP_033024212.1 regenerating islet-derived protein 4-like 
+5(1)	XP_033025500.1	XP_033025500.1 C-type lectin BfL-2-like 
+5(1)	XP_033027050.1	XP_033027050.1 C-type lectin-like 
+
+
+6(1)	XP_048374344.1	XP_048374344.1 olfactory receptor 5V1-like 
+6(1)	XP_044840920.1	XP_044840920.1 olfactory receptor 6J1-like 
+6(1)	XP_045679933.1	XP_045679933.1 olfactory receptor 6S1 
+6(1)	XP_039206078.1	XP_039206078.1 olfactory receptor 6M1-like 
+6(1)	XP_048372710.1	XP_048372710.1 olfactory receptor 5V1-like 
+6(1)	XP_044840921.1	XP_044840921.1 olfactory receptor 49-like 
+6(1)	XP_048372711.1	XP_048372711.1 olfactory receptor 10P1-like 
+6(2)	XP_054850125.1	XP_054850125.1 olfactory receptor 2G3-like 
+
+
+7(2)	XP_054850126.1	XP_054850126.1 vomeronasal type-2 receptor 26-like 
+7(1)	XP_053216153.1	XP_053216153.1 vomeronasal type-2 receptor 26-like 
+7(1)	XP_054850121.1	XP_054850121.1 vomeronasal type-2 receptor 26-like 
+7(2)	XP_054850127.1	XP_054850127.1 vomeronasal type-2 receptor 26-like 
+7(1)	XP_033024216.1	XP_033024216.1 vomeronasal type-2 receptor 26-like 
+7(1)	XP_060546904.1	XP_060546904.1 vomeronasal type-2 receptor 26-like 
+
+
+8(1)	XP_031424729.1	XP_031424729.1 uncharacterized protein LOC116220756 isoform X1 
+8(1)	XP_031424733.1	XP_031424733.1 uncharacterized protein LOC116220757 
+8(1)	XP_042563940.1	XP_042563940.1 uncharacterized protein LOC105897427 isoform X1 
+8(1)	XP_031424728.1	XP_031424728.1 M1-specific T cell receptor beta chain-like 
+
+
+9(1)	XP_012807647.1	XP_012807647.1 protein NDRG2 isoform X3 
+9(1)	XP_042798549.1	XP_042798549.1 protein NDRG2 isoform X3 
+9(1)	XP_007949325.1	XP_007949325.1 protein NDRG2 
+9(1)	XP_027426317.1	XP_027426317.1 protein NDRG2 isoform X6 
+
+
+10(1)	XP_044841668.1	XP_044841668.1 epimerase family protein SDR39U1 
+10(1)	XP_048676717.1	XP_048676717.1 epimerase family protein SDR39U1 isoform X2 
+
+
+11(1)	XP_056624431.1	XP_056624431.1 olfactomedin-4 
+11(1)	XP_056623712.1	XP_056623712.1 olfactomedin-4 
+
+

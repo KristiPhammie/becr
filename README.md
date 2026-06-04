@@ -14,8 +14,8 @@ Model
 | Colicin D | [View][ColicinD_gn] | [PF11429][ColicinD_model] | [1V74][ColicinD_molx] |
 | ColicinD.2 | [View][ColicinD.2_gn] | [This Resource][ColicinD.2] | [A0A212J498][ColicinD.2_molx] |
 | Colicin E5 | [View][ColicinE5_gn] | [PF12106][ColicinE5_model] | [2DFX][ColicinE5_molx] |
-| CdiA-CT Kp342 | [View][CdiA-CTKp342_gn] | [This Resource][CdiA-CT_Kp342] | [6CP9][CdiA-CT_Kp342_molx] |
-| CdiA-CT EC3006 | [View][CdiA-CT_EC3006_gn] | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
+| CdiA-CT Kp342 | [View][CdiA-CT_Kp342_gn] | [This Resource][CdiA-CT_Kp342] | [6CP9][CdiA-CT_Kp342_molx] |
+| CdiA-CT EC3006 | [View][CdiA-CT_EC3006_gn] | [This Resource][CdiA-CT_EC3006] | [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
 | CdiA-CT EC869 | [View][CdiA-CT_EC869_gn] | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
 | CdiA-CT NC101 | [View][CdiA-CT_NC101_gn] | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |
 | CdiA-CT 96.154 | [View][CdiA-CT_96.154_gn] | [PF14076][CdiA-CT_96.154_pfam] [This Resource][CdiA-CT_96.154_kristi] | [D9SFT1][CdiA-CT_96.154_molx] |
@@ -151,10 +151,11 @@ Model
 [ColicinD_gn]: https://KristiPhammie.github.io/becr/pdf/ColicinD.pdf
 [ColicinD.2_gn]: https://KristiPhammie.github.io/becr/pdf/ColicinD.2.pdf
 [ColicinE5_gn]: https://KristiPhammie.github.io/becr/pdf/ColicinE5.pdf
-[CdiA-CT_Kp342_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTKp342.pdf
-[CdiA-CT_EC3006_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTEC3006.pdf
-[CdiA-CT_EC869_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTEC869.pdf
-[CdiA-CT_NC101_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTNC101.pdf
+[CdiA-CT_Kp342_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CT_Kp342.pdf
+[CdiA-CT_ECL_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CT_ECL.pdf
+[CdiA-CT_EC3006_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CT_EC3006.pdf
+[CdiA-CT_EC869_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CT_EC869.pdf
+[CdiA-CT_NC101_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CT_NC101.pdf
 [CdiA-CT_96.154_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CT_96.154.pdf
 [DUF4258.2_gn]: https://KristiPhammie.github.io/becr/pdf/DUF4258.2.pdf
 [DUF4258.3_gn]: https://KristiPhammie.github.io/becr/pdf/DUF4258.3.pdf
