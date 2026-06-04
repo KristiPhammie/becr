@@ -132,7 +132,7 @@ Model
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
-| BECR-Tox2 | [View][BECR-Tox2_gn] | [This Resource][BECR-Tox2] | [A0A352X7W3][BECR-Tox2_molx] |
+| BECR-Tox2 | WebFlaGs: [pdf][BECR-Tox2_pdf] [operon.tsv][BECR-Tox2_tsv] [outdescription.txt][BECR-Tox2.txt] | [This Resource][BECR-Tox2] | [A0A352X7W3][BECR-Tox2_molx] |
 | STox_37 | [View][STox_37_gn] | [Nicastro et al., 2025][STox_37_gian] [This Resource][STox_37] | [A0A1M6MZG2][STox_37_molx] |
 | PBECR5 | [View][PBECR5_gn] | [PF18814][PBECR5_model] | [A0A396QF16][PBECR5_molx] |
 | Ntox48 | [View][Ntox48_gn] | [Zhang et al., 2012][Ntox48] | [A0A0H3KAY5][Ntox48_molx] |
@@ -234,7 +234,11 @@ Model
 [STox_4_gn]: https://KristiPhammie.github.io/becr/pdf/STox_4.pdf
 [STox_4.2_gn]: https://KristiPhammie.github.io/becr/pdf/STox_4.2.pdf
 [STox_55_gn]: https://KristiPhammie.github.io/becr/pdf/STox_55.pdf
+
 [BECR-Tox2_gn]: https://KristiPhammie.github.io/becr/pdf/BECR-Tox2.pdf
+[BECR-Tox2_pdf]: https://KristiPhammie.github.io/becr/webflags/BECR-Tox2/results_TreeOrder_output.pdf
+[BECR-Tox2_tsv]: https://KristiPhammie.github.io/becr/webflags/BECR-Tox2/results_TreeOrder_operon.tsv
+[BECR-Tox2.txt]: https://KristiPhammie.github.io/becr/webflags/BECR-Tox2/results_flankgene.fasta_cluster_out_1_1e-05_outdesc.txt
 [STox_37_gn]: https://KristiPhammie.github.io/becr/pdf/STox_37.pdf
 [PBECR5_gn]: https://KristiPhammie.github.io/becr/pdf/PBECR5.pdf
 [Ntox48_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox48.pdf
