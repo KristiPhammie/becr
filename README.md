@@ -2,7 +2,18 @@
 
 This page provides supplemental information for all  BECR-fold proteins identified in our comprehensive classfication study on the BECR superfamily. Each table represents a BECR structural subclass with a protein family in each row. The columns include:
 
-Model
+Toxin Family
+Genome C
+
+Quick links:
+[Colicin-like](https://kristiphammie.github.io/becr/#colicin-like)
+[RelE-like](https://kristiphammie.github.io/becr/#rele-like)
+[EndoU-like](https://kristiphammie.github.io/becr/#endou-like)
+[RNaseA-like](https://kristiphammie.github.io/becr/#rnasea-like)
+[EndoVII-like](https://kristiphammie.github.io/becr/#endovii-like)
+[Barnase-like](https://kristiphammie.github.io/becr/#barnase-like)
+[BECR-like](https://kristiphammie.github.io/becr/#becr-like-like)
+[Other BECRs](https://kristiphammie.github.io/becr/#other-becrs)
 
 ## Colicin-like
 
