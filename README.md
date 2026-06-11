@@ -225,6 +225,9 @@ Quick links:
 [EndoU.2_pdf]: https://KristiPhammie.github.io/becr/webflags/EndoU.2/results_TreeOrder_output.pdf
 [EndoU.2_tsv]: https://KristiPhammie.github.io/becr/webflags/EndoU.2/results_TreeOrder_operon.tsv
 [EndoU.2_txt]: https://KristiPhammie.github.io/becr/webflags/EndoU.2/results_flankgene.fasta_cluster_out_1_1e-05_outdesc.txt
+[EndoU.3_pdf]: https://KristiPhammie.github.io/becr/webflags/EndoU.3/results_TreeOrder_output.pdf
+[EndoU.3_tsv]: https://KristiPhammie.github.io/becr/webflags/EndoU.3/results_TreeOrder_operon.tsv
+[EndoU.3_txt]: https://KristiPhammie.github.io/becr/webflags/EndoU.3/results_flankgene.fasta_cluster_out_1_1e-05_outdesc.txt
 [EndoU.4_pdf]: https://KristiPhammie.github.io/becr/webflags/EndoU.4/results_TreeOrder_output.pdf
 [EndoU.4_tsv]: https://KristiPhammie.github.io/becr/webflags/EndoU.4/results_TreeOrder_operon.tsv
 [EndoU.4_txt]: https://KristiPhammie.github.io/becr/webflags/EndoU.4/results_flankgene.fasta_cluster_out_1_1e-05_outdesc.txt
