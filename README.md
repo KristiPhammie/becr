@@ -191,8 +191,8 @@ Quick links:
 [PBECR3.2_gn]: https://KristiPhammie.github.io/becr/pdf/PBECR3.2.pdf
 [PBECR4_gn]: https://KristiPhammie.github.io/becr/pdf/PBECR4.pdf
 [PBECR4.2_gn]: https://KristiPhammie.github.io/becr/pdf/PBECR4.2.pdf
-[Ntox19_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox19.pdf
-[Ntox49_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox49.pdf
+[Ntox19_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox19.st.pdf
+[Ntox49_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox49_1.pdf
 
 [RelE_E.coli_gn]: https://KristiPhammie.github.io/becr/pdf/RelE_E.coli.pdf
 [RelE_M.jannaschii_gn]: https://KristiPhammie.github.io/becr/pdf/RelE_M.jannaschii.pdf
