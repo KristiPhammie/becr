@@ -101,7 +101,7 @@ Quick links:
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
 | EndoVII | [View][EndoVII_gn] | [PF15657][EndoVII_pfam] [This Resource][EndoVII_kristi] | [U2R0G2][PF15657_molx] |
-| EndoVII | [View][EndoVII.2_gn] | [This Resource][EndoVII.2] | [A0A1N7BT64][EndoVII.2_molx] |
+| EndoVII.2 | [View][EndoVII.2_gn] | [This Resource][EndoVII.2] | [A0A1N7BT64][EndoVII.2_molx] |
 | Ntox7 | [View][Ntox7_gn] | [Nicastro et al., 2025][Ntox7] | [A0A5J5FSA8][Ntox7_molx] |
 | Ntox7.2 | [View][Ntox7.2_gn] | [This Resource][Ntox7.2] | [A0A369YFT7][Ntox7.2_molx] |
 | Ntox7.3 | WebFlaGs: [pdf][Ntox7.3_pdf] [operon.tsv][Ntox7.3_tsv] [outdesc.txt][Ntox7.3_txt] | [This Resource][Ntox7.3] | [A0A7Y4YHE2][Ntox7.3_molx] |
@@ -163,6 +163,9 @@ Quick links:
 <!-- Genome context PDFs -->
 [BECR-Tox1_gn]: https://KristiPhammie.github.io/becr/pdf/BECR-Tox1.pdf
 [BECR-Tox3_gn]: https://KristiPhammie.github.io/becr/pdf/BECR-Tox3.pdf
+[BECR-Tox5_pdf]: https://KristiPhammie.github.io/becr/webflags/BECR-Tox5/results_TreeOrder_output.pdf
+[BECR-Tox5_tsv]: https://KristiPhammie.github.io/becr/webflags/BECR-Tox5/results_TreeOrder_operon.tsv
+[BECR-Tox5_txt]: https://KristiPhammie.github.io/becr/webflags/BECR-Tox5/results_flankgene.fasta_cluster_out_1_1e-05_outdesc.txt
 [ColicinD_gn]: https://KristiPhammie.github.io/becr/pdf/ColicinD.pdf
 [ColicinD.2_gn]: https://KristiPhammie.github.io/becr/pdf/ColicinD.2.pdf
 [ColicinE5_gn]: https://KristiPhammie.github.io/becr/pdf/ColicinE5.pdf
@@ -222,9 +225,6 @@ Quick links:
 [XendoU_txt]: https://KristiPhammie.github.io/becr/webflags/XendoU/results_flankgene.fasta_cluster_out_1_1e-05_outdesc.txt
 [XendoU.2_gn]: https://KristiPhammie.github.io/becr/pdf/XendoU.2.pdf
 [EndoU_gn]: https://KristiPhammie.github.io/becr/pdf/EndoU.pdf
-[EndoU.2_pdf]: https://KristiPhammie.github.io/becr/webflags/EndoU.2/results_TreeOrder_output.pdf
-[EndoU.2_tsv]: https://KristiPhammie.github.io/becr/webflags/EndoU.2/results_TreeOrder_operon.tsv
-[EndoU.2_txt]: https://KristiPhammie.github.io/becr/webflags/EndoU.2/results_flankgene.fasta_cluster_out_1_1e-05_outdesc.txt
 [EndoU.3_pdf]: https://KristiPhammie.github.io/becr/webflags/EndoU.3/results_TreeOrder_output.pdf
 [EndoU.3_tsv]: https://KristiPhammie.github.io/becr/webflags/EndoU.3/results_TreeOrder_operon.tsv
 [EndoU.3_txt]: https://KristiPhammie.github.io/becr/webflags/EndoU.3/results_flankgene.fasta_cluster_out_1_1e-05_outdesc.txt
@@ -243,7 +243,7 @@ Quick links:
 [RNaseA.2_pdf]: https://KristiPhammie.github.io/becr/webflags/RNaseA.2/results_TreeOrder_output.pdf
 [RNaseA.2_tsv]: https://KristiPhammie.github.io/becr/webflags/RNaseA.2/results_TreeOrder_operon.tsv
 [RNaseA.2_txt]: https://KristiPhammie.github.io/becr/webflags/RNaseA.2/results_flankgene.fasta_cluster_out_1_1e-10_outdesc.txt
-[CdiA-CTYkris_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CTYkris.pdf
+[CdiA-CTYkris_gn]: https://KristiPhammie.github.io/becr/pdf/CdiA-CT_Ykris.pdf
 [Ntox41_gn]: https://KristiPhammie.github.io/becr/pdf/Ntox41.pdf
 [Ntox41.2_pdf]: https://KristiPhammie.github.io/becr/webflags/Ntox41.2/results_TreeOrder_output.pdf
 [Ntox41.2_tsv]: https://KristiPhammie.github.io/becr/webflags/Ntox41.2/results_TreeOrder_operon.tsv
