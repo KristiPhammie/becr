@@ -36,7 +36,6 @@ Barnase.html filter=lfs diff=lfs merge=lfs -text
 CdiA-CT_EC3006.html filter=lfs diff=lfs merge=lfs -text
 CdiA-CT_ECL_kristi.html filter=lfs diff=lfs merge=lfs -text
 CdiA-CT_Kp342.html filter=lfs diff=lfs merge=lfs -text
-RelE_E.coli.html filter=lfs diff=lfs merge=lfs -text
 RelE_M.jannaschii.html filter=lfs diff=lfs merge=lfs -text
 Sarcin_full.html filter=lfs diff=lfs merge=lfs -text
 STox_37_kristi.html filter=lfs diff=lfs merge=lfs -text
