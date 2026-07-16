@@ -21,6 +21,7 @@ Quick links:
 |--------------|----------------|----------------|---------------------------------|
 | BECR-Tox1 | [View][BECR-Tox1_gn] | [This Resource][BECR-Tox1] | [A0A417CPW8][BECR-Tox1_molx] |
 | BECR-Tox3 | [View][BECR-Tox3_gn] | [This Resource][BECR-Tox3] | [A0A3C1G575][BECR-Tox3_molx] |
+| BECR-Tox5 | WebFlaGs: [pdf][BECR-Tox5_pdf] [operon.tsv][BECR-Tox5_tsv] [outdesc.txt][BECR-Tox5_txt] | [This Resource][BECR-Tox5] | [A0A1V4H847][BECR-Tox5_molx] |
 | Colicin D | [View][ColicinD_gn] | [PF11429][ColicinD_model] | [1V74][ColicinD_molx] |
 | ColicinD.2 | [View][ColicinD.2_gn] | [This Resource][ColicinD.2] | [A0A212J498][ColicinD.2_molx] |
 | Colicin E5 | [View][ColicinE5_gn] | [PF12106][ColicinE5_model] | [2DFX][ColicinE5_molx] |
@@ -61,7 +62,7 @@ Quick links:
 | YhaV | [View][YhaV_gn] | [PF11663][YhaV_pfam] [This Resource][YhaV_kristi] | [A0A1Y2R202][YhaV_molx] |
 | HigB | [View][HigB_gn] | [PF09907][HigB_pfam] [This Resource][HigB_kristi] | [B8F451][HigB_molx] |
 | HigB-like | [View][HigB-like_gn] | [PF05015][HigB-like_pfam] | [A0A7H0SQA8][HigB-like_molx] |
-| BrnT | [View][BrnT_gn] | [PF04365][BrnT] | [7VD7][BrnT_pdb_molx] [I4B9V8][BrnT_afdb_molx] |
+| BrnT | [View][BrnT_gn] | [PF04365][BrnT_pfam] [This Resource][BrnT_kristi] | [7VD7][BrnT_pdb_molx] [I4B9V8][BrnT_afdb_molx] |
 | BrnT.2 | [View][BrnT.2_gn] | [This Resource][BrnT.2] | [A0A1J5E5S5][BrnT.2_molx] |
 | BrnT.3 | [View][BrnT.3_gn] | [This Resource][BrnT.3] | [A0A8J2XEI7][BrnT.3_molx] |
 | MqsR | [View][MqsR_gn] | [PF15723][MqsR] | [3HI2][MqsR_molx] |
@@ -78,7 +79,6 @@ Quick links:
 | XendoU | WebFlaGs: [pdf][XendoU_pdf] [operon.tsv][XendoU_tsv] [outdesc.txt][XendoU_txt] | [PF09412][XendoU] | [2C1W][XendoU_molx] |
 | XendoU.2 | [View][XendoU.2_gn] | [This Resource][XendoU.2] | [A0A1Z4JKT7][XendoU.2_molx] |
 | EndoU | [View][EndoU_gn] | [PF14436][EndoU] | [5HKQ][EndoU_molx] |
-| EndoU.2 | WebFlaGs: [pdf][EndoU.2_pdf] [operon.tsv][EndoU.2_tsv] [outdesc.txt][EndoU.2_txt] | [This Resource][EndoU.2] | [A0A1V4H847][EndoU.2_molx] |
 | EndoU.3 | WebFlaGs: [pdf][EndoU.3_pdf] [operon.tsv][EndoU.3_tsv] [outdesc.txt][EndoU.3_txt] | [This Resource][EndoU.3] | [A0A1V2YJU1][EndoU.3_molx] |
 | EndoU.4 | WebFlaGs: [pdf][EndoU.4_pdf] [operon.tsv][EndoU.4_tsv] [outdesc.txt][EndoU.4_txt] | [This Resource][EndoU.4] | [UPI002E2B26D7][EndoU.4_molx] |
 | BC0920 | [View][BC0920_gn] | [This Resource][BC0920] | [Q813X6][BC0920_molx] |
@@ -113,7 +113,7 @@ Quick links:
 | STox_11 | [View][STox_11_gn] | [Nicastro et al., 2025][STox_11] [This Resource][STox_11_kristi] | [A0A4V1G7W5][STox_11_molx] |
 | STox_11.2 | [View][STox_11.2_gn] | [This Resource][STox_11.2] | [A0A7X0PHU6][STox_11.2_molx] |
 | STox_11.3 | [View][STox_11.3_gn] | [This Resource][STox_11.3] | [A0A939KTB7][STox_11.3_molx] |
-| STox_32 | [View][STox_32_gn] | [This Resource][STox_32] | [UPI00217D55C6][STox_32_molx] |
+| STox_32 | [View][STox_32_gn] | [This Resource][STox_32_kristi] | [UPI00217D55C6][STox_32_molx] |
 | STox_39 | [View][STox_39_gn] | [Nicastro et al., 2025][STox_39] [This Resource][STox_39_kristi] | [A0A5T2NHZ2][STox_39_molx] |
 | STox_39.2 | [View][STox_39.2_gn] | [This Resource][STox_39.2] | [A0A937AZC2][STox_39.2_molx] |
 | STox_57 | [View][STox_57_gn] | [Nicastro et al., 2025][STox_57] | [A0A3S4HEL1][STox_57_molx] |
@@ -352,7 +352,8 @@ Quick links:
 [HigB_pfam]: https://KristiPhammie.github.io/becr/html/HigB_pfam.html
 [HigB_kristi]: https://KristiPhammie.github.io/becr/html/HigB_kristi.html
 [HigB-like_pfam]: https://KristiPhammie.github.io/becr/html/HigB-like_pfam.html
-[BrnT]: https://KristiPhammie.github.io/becr/html/BrnT.html
+[BrnT_pfam]: https://KristiPhammie.github.io/becr/html/BrnT_pfam.html
+[BrnT_kristi]: https://KristiPhammie.github.io/becr/html/BrnT_kristi.html
 [BrnT.2]: https://KristiPhammie.github.io/becr/html/BrnT.2.html
 [BrnT.3]: https://KristiPhammie.github.io/becr/html/BrnT.3.html
 [MqsR]: https://KristiPhammie.github.io/becr/html/MqsR_pfam.html
@@ -394,7 +395,7 @@ Quick links:
 [STox_11_kristi]: https://KristiPhammie.github.io/becr/html/STox_11_kristi.html
 [STox_11.2]: https://KristiPhammie.github.io/becr/html/STox_11.2.html
 [STox_11.3]: https://KristiPhammie.github.io/becr/html/STox_11.3.html
-[STox_32]: https://KristiPhammie.github.io/becr/html/STox_32.html
+[STox_32_kristi]: https://KristiPhammie.github.io/becr/html/STox_32_kristi.html
 [STox_39]: https://KristiPhammie.github.io/becr/html/STox_39_gian.html
 [STox_39_kristi]: https://KristiPhammie.github.io/becr/html/STox_39_kristi.html
 [STox_39.2]: https://KristiPhammie.github.io/becr/html/STox_39.2.html
