@@ -1,0 +1,430 @@
+1(1)	WP_110556889.1	WP_110556889.1 DUF2283 domain-containing protein 
+1(1)	WP_193872104.1	WP_193872104.1 DUF2283 domain-containing protein 
+1(1)	WP_224000775.1	WP_224000775.1 DUF2283 domain-containing protein 
+1(1)	WP_257316633.1	WP_257316633.1 DUF2283 domain-containing protein 
+1(1)	WP_003601826.1	WP_003601826.1 MULTISPECIES: DUF2283 domain-containing protein 
+1(1)	WP_153111058.1	WP_153111058.1 DUF2283 domain-containing protein 
+1(1)	WP_235705041.1	WP_235705041.1 MULTISPECIES: DUF2283 domain-containing protein 
+1(1)	WP_007354482.1	WP_007354482.1 MULTISPECIES: DUF2283 domain-containing protein 
+1(1)	WP_077924379.1	WP_077924379.1 MULTISPECIES: DUF2283 domain-containing protein 
+1(1)	WP_066061890.1	WP_066061890.1 DUF2283 domain-containing protein 
+1(1)	WP_297510654.1	WP_297510654.1 DUF2283 domain-containing protein 
+1(1)	WP_247219313.1	WP_247219313.1 DUF2283 domain-containing protein 
+1(1)	WP_012939520.1	WP_012939520.1 DUF2283 domain-containing protein 
+1(1)	WP_011479534.1	WP_011479534.1 MULTISPECIES: DUF2283 domain-containing protein 
+1(1)	WP_223047105.1	WP_223047105.1 DUF2283 domain-containing protein 
+1(1)	WP_048191334.1	WP_048191334.1 DUF2283 domain-containing protein 
+1(1)	WP_298087509.1	WP_298087509.1 DUF2283 domain-containing protein, partial 
+1(1)	WP_152945556.1	WP_152945556.1 DUF2283 domain-containing protein 
+1(1)	WP_008870513.1	WP_008870513.1 MULTISPECIES: DUF2283 domain-containing protein 
+1(1)	WP_093569368.1	WP_093569368.1 DUF2283 domain-containing protein 
+1(1)	WP_164696825.1	WP_164696825.1 DUF2283 domain-containing protein 
+1(1)	WP_277867427.1	WP_277867427.1 DUF2283 domain-containing protein 
+1(1)	WP_126398377.1	WP_126398377.1 DUF2283 domain-containing protein 
+1(1)	WP_237368585.1	WP_237368585.1 DUF2283 domain-containing protein 
+1(1)	WP_155751015.1	WP_155751015.1 DUF2283 domain-containing protein 
+1(1)	WP_047147763.1	WP_047147763.1 DUF2283 domain-containing protein 
+1(1)	WP_287277415.1	WP_287277415.1 MULTISPECIES: DUF2283 domain-containing protein 
+1(1)	WP_218606752.1	WP_218606752.1 DUF2283 domain-containing protein 
+1(1)	WP_193995714.1	WP_193995714.1 DUF2283 domain-containing protein 
+1(1)	WP_320002370.1	WP_320002370.1 DUF2283 domain-containing protein 
+1(1)	WP_194059930.1	WP_194059930.1 DUF2283 domain-containing protein 
+1(1)	WP_073041377.1	WP_073041377.1 DUF2283 domain-containing protein 
+1(1)	WP_190495304.1	WP_190495304.1 DUF2283 domain-containing protein 
+1(1)	WP_322311703.1	WP_322311703.1 DUF2283 domain-containing protein 
+1(1)	WP_233023332.1	WP_233023332.1 DUF2283 domain-containing protein 
+1(1)	WP_287261705.1	WP_287261705.1 DUF2283 domain-containing protein 
+1(1)	WP_194020804.1	WP_194020804.1 DUF2283 domain-containing protein 
+1(1)	WP_192221676.1	WP_192221676.1 DUF2283 domain-containing protein 
+1(1)	WP_173949796.1	WP_173949796.1 DUF2283 domain-containing protein 
+1(1)	WP_308134756.1	WP_308134756.1 DUF2283 domain-containing protein 
+1(1)	WP_026785230.1	WP_026785230.1 MULTISPECIES: DUF2283 domain-containing protein 
+1(1)	WP_159785681.1	WP_159785681.1 DUF2283 domain-containing protein 
+1(1)	WP_293449179.1	WP_293449179.1 DUF2283 domain-containing protein 
+1(1)	WP_410250918.1	WP_410250918.1 DUF2283 domain-containing protein 
+1(1)	WP_190350797.1	WP_190350797.1 DUF2283 domain-containing protein 
+1(1)	WP_448527640.1	WP_448527640.1 DUF2283 domain-containing protein 
+1(1)	WP_265051687.1	WP_265051687.1 DUF2283 domain-containing protein 
+1(1)	WP_107564026.1	WP_107564026.1 DUF2283 domain-containing protein 
+1(1)	WP_245610384.1	WP_245610384.1 DUF2283 domain-containing protein 
+1(1)	WP_104522326.1	WP_104522326.1 DUF2283 domain-containing protein 
+1(1)	WP_245410500.1	WP_245410500.1 DUF2283 domain-containing protein 
+1(1)	WP_163329294.1	WP_163329294.1 DUF2283 domain-containing protein 
+1(1)	WP_207567192.1	WP_207567192.1 DUF2283 domain-containing protein 
+1(1)	WP_012843395.1	WP_012843395.1 DUF2283 domain-containing protein 
+1(1)	WP_246112251.1	WP_246112251.1 DUF2283 domain-containing protein 
+1(1)	WP_099209479.1	WP_099209479.1 DUF2283 domain-containing protein 
+1(1)	WP_267583337.1	WP_267583337.1 MULTISPECIES: DUF2283 domain-containing protein 
+1(1)	WP_119066392.1	WP_119066392.1 sigma factor-like helix-turn-helix DNA-binding protein 
+1(1)	WP_047252065.1	WP_047252065.1 DUF2283 domain-containing protein 
+1(1)	WP_207680158.1	WP_207680158.1 DUF2283 domain-containing protein 
+1(1)	WP_296907530.1	WP_296907530.1 DUF2283 domain-containing protein 
+1(1)	WP_287261699.1	WP_287261699.1 DUF2283 domain-containing protein 
+1(1)	WP_011393808.1	WP_011393808.1 DUF2283 domain-containing protein 
+1(1)	WP_256008034.1	WP_256008034.1 DUF2283 domain-containing protein 
+1(1)	WP_042698127.1	WP_042698127.1 DUF2283 domain-containing protein 
+1(1)	WP_233221059.1	WP_233221059.1 DUF2283 domain-containing protein 
+1(1)	WP_105220586.1	WP_105220586.1 DUF2283 domain-containing protein 
+1(1)	WP_041922404.1	WP_041922404.1 MULTISPECIES: DUF2283 domain-containing protein 
+1(1)	WP_013683185.1	WP_013683185.1 DUF2283 domain-containing protein 
+1(1)	WP_010865627.1	WP_010865627.1 DUF2283 domain-containing protein 
+1(1)	WP_293444319.1	WP_293444319.1 DUF2283 domain-containing protein 
+1(1)	WP_244017582.1	WP_244017582.1 MULTISPECIES: DUF2283 domain-containing protein 
+1(1)	WP_066616688.1	WP_066616688.1 DUF2283 domain-containing protein 
+1(1)	WP_016923590.1	WP_016923590.1 DUF2283 domain-containing protein 
+1(1)	WP_286393919.1	WP_286393919.1 DUF2283 domain-containing protein 
+1(1)	WP_176234112.1	WP_176234112.1 DUF2283 domain-containing protein, partial 
+1(1)	WP_056933662.1	WP_056933662.1 MULTISPECIES: DUF2283 domain-containing protein 
+1(1)	WP_286678914.1	WP_286678914.1 DUF2283 domain-containing protein 
+1(1)	WP_062389591.1	WP_062389591.1 DUF2283 domain-containing protein 
+1(1)	WP_054151551.1	WP_054151551.1 MULTISPECIES: DUF2283 domain-containing protein 
+1(1)	WP_048150734.1	WP_048150734.1 DUF2283 domain-containing protein 
+1(1)	WP_129608962.1	WP_129608962.1 MULTISPECIES: DUF2283 domain-containing protein 
+1(1)	WP_318730631.1	WP_318730631.1 DUF2283 domain-containing protein 
+1(1)	WP_077132320.1	WP_077132320.1 DUF2283 domain-containing protein 
+1(1)	WP_152716688.1	WP_152716688.1 DUF2283 domain-containing protein 
+1(1)	WP_100080609.1	WP_100080609.1 DUF2283 domain-containing protein 
+1(1)	WP_014188100.1	WP_014188100.1 MULTISPECIES: DUF2283 domain-containing protein 
+1(1)	WP_048430857.1	WP_048430857.1 DUF2283 domain-containing protein 
+1(1)	WP_261207243.1	WP_261207243.1 DUF2283 domain-containing protein 
+1(1)	WP_245413680.1	WP_245413680.1 DUF2283 domain-containing protein 
+1(1)	WP_253490015.1	WP_253490015.1 DUF2283 domain-containing protein 
+1(1)	WP_107564022.1	WP_107564022.1 DUF2283 domain-containing protein 
+1(1)	WP_042682561.1	WP_042682561.1 DUF2283 domain-containing protein 
+1(1)	WP_287794616.1	WP_287794616.1 DUF2283 domain-containing protein 
+1(1)	WP_073592320.1	WP_073592320.1 MULTISPECIES: DUF2283 domain-containing protein 
+1(1)	WP_035084635.1	WP_035084635.1 MULTISPECIES: DUF2283 domain-containing protein 
+1(1)	WP_267356409.1	WP_267356409.1 MULTISPECIES: DUF2283 domain-containing protein 
+
+
+2(1)	WP_166482561.1	WP_166482561.1 ATP-binding protein 
+2(1)	WP_261207246.1	WP_261207246.1 PAS domain S-box protein 
+2(1)	WP_153111062.1	WP_153111062.1 putative bifunctional diguanylate cyclase/phosphodiesterase 
+2(1)	WP_442864886.1	WP_442864886.1 stimulus-sensing domain-containing protein 
+2(1)	WP_107564021.1	WP_107564021.1 SDR family NAD(P)-dependent oxidoreductase 
+2(1)	WP_066616698.1	WP_066616698.1 sensor histidine kinase 
+2(1)	WP_077924376.1	WP_077924376.1 FAD-dependent oxidoreductase 
+2(1)	WP_045214131.1	WP_045214131.1 GDP-mannose 4,6-dehydratase 
+2(1)	WP_233023334.1	WP_233023334.1 putative bifunctional diguanylate cyclase/phosphodiesterase 
+2(1)	WP_207567195.1	WP_207567195.1 GDP-mannose 4,6-dehydratase 
+2(1)	WP_058938035.1	WP_058938035.1 dTDP-4-dehydrorhamnose reductase 
+2(1)	WP_265051689.1	WP_265051689.1 sensor histidine kinase 
+2(1)	WP_293444317.1	WP_293444317.1 GGDEF domain-containing phosphodiesterase 
+2(1)	WP_207567193.1	WP_207567193.1 exopolysaccharide biosynthesis polyprenyl glycosylphosphotransferase 
+2(1)	WP_279316087.1	WP_279316087.1 response regulator transcription factor 
+2(1)	WP_330203143.1	WP_330203143.1 response regulator 
+2(1)	WP_066616683.1	WP_066616683.1 sensor histidine kinase 
+2(1)	WP_114388967.1	WP_114388967.1 HWE histidine kinase domain-containing protein 
+2(1)	WP_148882944.1	WP_148882944.1 dTDP-4-dehydrorhamnose reductase 
+2(1)	WP_261207245.1	WP_261207245.1 ATP-binding protein 
+2(1)	WP_155751018.1	WP_155751018.1 CheR family methyltransferase 
+
+
+3(1)	WP_297510648.1	WP_297510648.1 alkaline phosphatase family protein 
+3(1)	WP_148882948.1	WP_148882948.1 alkaline phosphatase family protein 
+3(1)	WP_099209477.1	WP_099209477.1 alkaline phosphatase family protein 
+3(1)	WP_042682557.1	WP_042682557.1 alkaline phosphatase family protein 
+3(1)	WP_062389594.1	WP_062389594.1 alkaline phosphatase family protein 
+3(1)	WP_042698119.1	WP_042698119.1 alkaline phosphatase family protein 
+3(1)	WP_048150727.1	WP_048150727.1 alkaline phosphatase family protein 
+
+
+4(1)	WP_048150736.1	WP_048150736.1 adenylyl-sulfate kinase 
+4(1)	WP_042698130.1	WP_042698130.1 adenylyl-sulfate kinase 
+4(1)	WP_297510658.1	WP_297510658.1 adenylyl-sulfate kinase 
+4(1)	WP_099209480.1	WP_099209480.1 adenylyl-sulfate kinase 
+4(1)	WP_148882946.1	WP_148882946.1 adenylyl-sulfate kinase 
+4(1)	WP_062389588.1	WP_062389588.1 adenylyl-sulfate kinase 
+4(1)	WP_042682562.1	WP_042682562.1 adenylyl-sulfate kinase 
+
+
+5(1)	WP_042698116.1	WP_042698116.1 single-stranded-DNA-specific exonuclease RecJ 
+5(1)	WP_048150725.1	WP_048150725.1 DHH family phosphoesterase 
+5(1)	WP_148882949.1	WP_148882949.1 DHH family phosphoesterase 
+5(1)	WP_297510764.1	WP_297510764.1 DHH family phosphoesterase 
+5(1)	WP_062389597.1	WP_062389597.1 DHH family phosphoesterase 
+5(1)	WP_042682556.1	WP_042682556.1 DHH family phosphoesterase 
+5(1)	WP_099209476.1	WP_099209476.1 DHH family phosphoesterase 
+
+
+6(1)	WP_458436317.1	WP_458436317.1 ABC transporter ATP-binding protein/permease 
+6(1)	WP_243925494.1	WP_243925494.1 LPS export ABC transporter ATP-binding protein 
+6(1)	WP_288195603.1	WP_288195603.1 ABC transporter ATP-binding protein 
+6(1)	WP_077924383.1	WP_077924383.1 excinuclease ABC subunit UvrA 
+6(1)	WP_244017575.1	WP_244017575.1 LPS export ABC transporter ATP-binding protein 
+6(1)	WP_108547834.1	WP_108547834.1 ABC transporter ATP-binding protein 
+6(1)	WP_081364384.1	WP_081364384.1 ATP-binding cassette domain-containing protein 
+
+
+7(1)	WP_114388968.1	WP_114388968.1 translation elongation factor 4 
+7(1)	WP_224000771.1	WP_224000771.1 translation elongation factor 4 
+7(1)	WP_155479126.1	WP_155479126.1 translation elongation factor 4 
+7(1)	WP_047147764.1	WP_047147764.1 translation elongation factor 4 
+7(1)	WP_233023330.1	WP_233023330.1 translation elongation factor 4 
+7(1)	WP_198598404.1	WP_198598404.1 translation elongation factor 4 
+
+
+8(1)	WP_062389585.1	WP_062389585.1 sulfite exporter TauE/SafE family protein 
+8(1)	WP_042682564.1	WP_042682564.1 sulfite exporter TauE/SafE family protein 
+8(1)	WP_297510661.1	WP_297510661.1 sulfite exporter TauE/SafE family protein 
+8(1)	WP_245612507.1	WP_245612507.1 sulfite exporter TauE/SafE family protein 
+8(1)	WP_148882945.1	WP_148882945.1 sulfite exporter TauE/SafE family protein 
+8(1)	WP_099209481.1	WP_099209481.1 sulfite exporter TauE/SafE family protein 
+
+
+9(1)	WP_056933663.1	WP_056933663.1 type II toxin-antitoxin system HicB family antitoxin 
+9(1)	WP_277867426.1	WP_277867426.1 type II toxin-antitoxin system HicB family antitoxin 
+9(1)	WP_296907535.1	WP_296907535.1 type II toxin-antitoxin system HicB family antitoxin 
+9(1)	WP_448527643.1	WP_448527643.1 type II toxin-antitoxin system HicB family antitoxin 
+9(1)	WP_253490014.1	WP_253490014.1 type II toxin-antitoxin system HicB family antitoxin 
+9(1)	WP_318730629.1	WP_318730629.1 type II toxin-antitoxin system HicB family antitoxin 
+
+
+10(1)	WP_058619284.1	WP_058619284.1 DEAD/DEAH box helicase 
+10(1)	WP_194020807.1	WP_194020807.1 helicase-related protein 
+10(1)	WP_156469399.1	WP_156469399.1 helicase-related protein 
+10(1)	WP_190350799.1	WP_190350799.1 DISARM system SNF2-like helicase DrmD 
+10(1)	WP_254031865.1	WP_254031865.1 helicase-related protein 
+
+
+11(1)	WP_286393911.1	WP_286393911.1 BREX-2 system adenine-specific DNA-methyltransferase PglX 
+11(1)	WP_066061896.1	WP_066061896.1 Eco57I restriction-modification methylase domain-containing protein 
+11(1)	WP_190350796.1	WP_190350796.1 Eco57I restriction-modification methylase domain-containing protein 
+11(1)	WP_221709761.1	WP_221709761.1 HsdM family class I SAM-dependent methyltransferase, partial 
+11(1)	WP_254031864.1	WP_254031864.1 HsdM family class I SAM-dependent methyltransferase 
+
+
+12(1)	WP_048150722.1	WP_048150722.1 sulfate adenylyltransferase 
+12(1)	WP_297510761.1	WP_297510761.1 sulfate adenylyltransferase 
+12(1)	WP_042682554.1	WP_042682554.1 sulfate adenylyltransferase 
+12(1)	WP_042698109.1	WP_042698109.1 sulfate adenylyltransferase 
+12(1)	WP_062389600.1	WP_062389600.1 sulfate adenylyltransferase 
+
+
+13(1)	WP_048085493.1	WP_048085493.1 hypothetical protein 
+13(1)	WP_013683183.1	WP_013683183.1 acylphosphatase 
+13(1)	WP_052302954.1	WP_052302954.1 hypothetical protein 
+13(1)	WP_013683182.1	WP_013683182.1 acylphosphatase 
+
+
+14(1)	WP_163329302.1	WP_163329302.1 Uma2 family endonuclease 
+14(1)	WP_163329298.1	WP_163329298.1 Uma2 family endonuclease 
+14(1)	WP_163329300.1	WP_163329300.1 Uma2 family endonuclease 
+14(1)	WP_077132326.1	WP_077132326.1 PDDEXK family nuclease 
+
+
+15(1)	WP_243925505.1	WP_243925505.1 MULTISPECIES: MFS transporter 
+15(1)	WP_081364135.1	WP_081364135.1 DHA2 family efflux MFS transporter permease subunit 
+15(1)	WP_244017586.1	WP_244017586.1 MFS transporter 
+15(1)	WP_286678912.1	WP_286678912.1 MDR family MFS transporter 
+
+
+16(1)	WP_042682552.1	WP_042682552.1 MULTISPECIES: ribbon-helix-helix domain-containing protein 
+16(1)	WP_297510645.1	WP_297510645.1 CopG family transcriptional regulator 
+16(1)	WP_048150718.1	WP_048150718.1 MULTISPECIES: ribbon-helix-helix domain-containing protein 
+16(1)	WP_062389603.1	WP_062389603.1 hypothetical protein 
+
+
+17(1)	WP_047147766.1	WP_047147766.1 HlyD family secretion protein 
+17(1)	WP_011393805.1	WP_011393805.1 HlyD family secretion protein 
+17(1)	WP_011393810.1	WP_011393810.1 HlyD family secretion protein 
+
+
+18(1)	WP_139681552.1	WP_139681552.1 MULTISPECIES: antitoxin family protein 
+18(1)	WP_099209474.1	WP_099209474.1 antitoxin family protein 
+18(1)	WP_042698114.1	WP_042698114.1 antitoxin family protein 
+
+
+19(1)	WP_161540658.1	WP_161540658.1 LA_3696 family protein 
+19(1)	WP_161540657.1	WP_161540657.1 LA_3696 family protein 
+19(1)	WP_161540660.1	WP_161540660.1 LA_3696 family protein 
+
+
+20(1)	WP_007354485.1	WP_007354485.1 MULTISPECIES: ParA family protein 
+20(1)	WP_194020809.1	WP_194020809.1 MULTISPECIES: ParA family protein 
+20(1)	WP_233221058.1	WP_233221058.1 ParA family protein 
+
+
+21(1)	WP_073592321.1	WP_073592321.1 Rpn family recombination-promoting nuclease/putative transposase 
+21(1)	WP_247219305.1	WP_247219305.1 DUF2887 domain-containing protein 
+21(1)	WP_073592322.1	WP_073592322.1 hypothetical protein 
+
+
+22(1)	WP_237368581.1	WP_237368581.1 zinc-dependent alcohol dehydrogenase family protein 
+22(1)	WP_205319971.1	WP_205319971.1 NAD(P)H-quinone oxidoreductase 
+22(1)	WP_257316638.1	WP_257316638.1 zinc-dependent alcohol dehydrogenase family protein 
+
+
+23(1)	WP_066616692.1	WP_066616692.1 PTS sugar transporter subunit IIA 
+23(1)	WP_233023327.1	WP_233023327.1 PTS sugar transporter subunit IIA 
+23(1)	WP_265051685.1	WP_265051685.1 PTS sugar transporter subunit IIA 
+
+
+24(1)	WP_007354481.1	WP_007354481.1 type I restriction endonuclease subunit R 
+24(1)	WP_047252064.1	WP_047252064.1 DEAD/DEAH box helicase family protein 
+24(1)	WP_293449183.1	WP_293449183.1 HsdR family type I site-specific deoxyribonuclease 
+
+
+25(1)	WP_298087507.1	WP_298087507.1 DUF6941 family protein 
+25(1)	WP_256008032.1	WP_256008032.1 DUF6941 family protein 
+25(1)	WP_047252066.1	WP_047252066.1 DUF6941 family protein 
+
+
+26(1)	WP_267356411.1	WP_267356411.1 MULTISPECIES: hypothetical protein 
+26(1)	WP_267356410.1	WP_267356410.1 MULTISPECIES: MFS transporter 
+26(1)	WP_313901164.1	WP_313901164.1 MFS transporter 
+
+
+27(1)	WP_320002368.1	WP_320002368.1 recombinase family protein 
+27(1)	WP_296907527.1	WP_296907527.1 recombinase family protein 
+27(1)	WP_126398373.1	WP_126398373.1 recombinase family protein 
+
+
+28(1)	WP_366932612.1	WP_366932612.1 type II toxin-antitoxin system HicA family toxin 
+28(1)	WP_366518477.1	WP_366518477.1 type II toxin-antitoxin system HicA family toxin 
+28(1)	WP_056933664.1	WP_056933664.1 type II toxin-antitoxin system HicA family toxin 
+
+
+29(1)	WP_237368587.1	WP_237368587.1 SRPBCC family protein 
+29(1)	WP_377274868.1	WP_377274868.1 SRPBCC domain-containing protein 
+29(1)	WP_237368586.1	WP_237368586.1 SRPBCC domain-containing protein 
+
+
+30(1)	WP_257316636.1	WP_257316636.1 carbamoyl-phosphate synthase large subunit 
+30(1)	WP_237368583.1	WP_237368583.1 carbamoyl-phosphate synthase large subunit 
+30(1)	WP_377274869.1	WP_377274869.1 carbamoyl-phosphate synthase large subunit 
+
+
+31(1)	WP_082767290.1	WP_082767290.1 HPr family phosphocarrier protein 
+31(1)	WP_442864887.1	WP_442864887.1 HPr family phosphocarrier protein 
+31(1)	WP_233023328.1	WP_233023328.1 HPr family phosphocarrier protein 
+
+
+32(1)	WP_042682566.1	WP_042682566.1 DUF3368 domain-containing protein 
+32(1)	WP_010865629.1	WP_010865629.1 DUF3368 domain-containing protein 
+
+
+33(1)	WP_047147765.1	WP_047147765.1 MarR family transcriptional regulator 
+33(1)	WP_071522047.1	WP_071522047.1 MarR family winged helix-turn-helix transcriptional regulator 
+
+
+34(1)	WP_077924381.1	WP_077924381.1 MULTISPECIES: ribonucleotide-diphosphate reductase subunit beta 
+34(1)	WP_077132323.1	WP_077132323.1 ribonucleotide-diphosphate reductase subunit beta 
+
+
+35(1)	WP_093569369.1	WP_093569369.1 MULTISPECIES: DUF1508 domain-containing protein 
+35(1)	WP_048430858.1	WP_048430858.1 MULTISPECIES: YegP family protein 
+
+
+36(1)	WP_099209482.1	WP_099209482.1 sulfatase 
+36(1)	WP_077132318.1	WP_077132318.1 sulfatase family protein 
+
+
+37(1)	WP_131800868.1	WP_131800868.1 hypothetical protein, partial 
+37(1)	WP_093569366.1	WP_093569366.1 hypothetical protein 
+
+
+38(1)	WP_058938036.1	WP_058938036.1 type II toxin-antitoxin system VapC family toxin 
+38(1)	WP_148679244.1	WP_148679244.1 PIN domain-containing protein 
+
+
+39(1)	WP_099209475.1	WP_099209475.1 type II toxin-antitoxin system VapC family toxin 
+39(1)	WP_148882950.1	WP_148882950.1 type II toxin-antitoxin system VapC family toxin 
+
+
+40(1)	WP_153111060.1	WP_153111060.1 hypothetical protein 
+40(1)	WP_012939519.1	WP_012939519.1 integrase 
+
+
+41(1)	WP_119066386.1	WP_119066386.1 FAD-linked oxidase C-terminal domain-containing protein 
+41(1)	WP_162924385.1	WP_162924385.1 FAD-binding oxidoreductase 
+
+
+42(1)	WP_167827789.1	WP_167827789.1 hypothetical protein 
+42(1)	WP_014025874.1	WP_014025874.1 ribbon-helix-helix protein, CopG family 
+
+
+43(1)	WP_173949792.1	WP_173949792.1 reverse transcriptase family protein 
+43(1)	WP_073592318.1	WP_073592318.1 reverse transcriptase family protein 
+
+
+44(1)	WP_077924382.1	WP_077924382.1 HNH endonuclease 
+44(1)	WP_190495308.1	WP_190495308.1 DNA polymerase III subunit beta 
+
+
+45(1)	WP_194059933.1	WP_194059933.1 DUF29 family protein 
+45(1)	WP_194059932.1	WP_194059932.1 DUF29 family protein 
+
+
+46(1)	WP_204305169.1	WP_204305169.1 nucleotidyltransferase family protein 
+46(1)	WP_223047102.1	WP_223047102.1 nucleotidyltransferase family protein 
+
+
+47(1)	WP_163329292.1	WP_163329292.1 DUF86 domain-containing protein 
+47(1)	WP_223047103.1	WP_223047103.1 HepT-like ribonuclease domain-containing protein 
+
+
+48(1)	WP_223047106.1	WP_223047106.1 hypothetical protein 
+48(1)	WP_017713129.1	WP_017713129.1 hypothetical protein 
+
+
+49(1)	WP_247219303.1	WP_247219303.1 Uma2 family endonuclease 
+49(1)	WP_044076979.1	WP_044076979.1 Uma2 family endonuclease 
+
+
+50(1)	WP_265051684.1	WP_265051684.1 HPr kinase/phosphorylase 
+50(1)	WP_066616696.1	WP_066616696.1 HPr kinase/phosphorylase 
+
+
+51(1)	WP_066616687.1	WP_066616687.1 adenosylhomocysteinase 
+51(1)	WP_265051688.1	WP_265051688.1 adenosylhomocysteinase 
+
+
+52(1)	WP_265051690.1	WP_265051690.1 tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE 
+52(1)	WP_066616680.1	WP_066616680.1 tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE 
+
+
+53(1)	WP_267356408.1	WP_267356408.1 MULTISPECIES: dimethylmenaquinone methyltransferase 
+53(1)	WP_244017584.1	WP_244017584.1 dimethylmenaquinone methyltransferase 
+
+
+54(1)	WP_244017572.1	WP_244017572.1 LptA/OstA family protein 
+54(1)	WP_267356412.1	WP_267356412.1 MULTISPECIES: LptA/OstA family protein 
+
+
+55(1)	WP_247219309.1	WP_247219309.1 type I-E CRISPR-associated protein Cse2/CasB 
+55(1)	WP_277867429.1	WP_277867429.1 type I-E CRISPR-associated protein Cse2/CasB 
+
+
+56(1)	WP_228020700.1	WP_228020700.1 serine/threonine-protein kinase 
+56(1)	WP_286393923.1	WP_286393923.1 BREX system serine/threonine kinase PglW 
+
+
+57(1)	WP_193995719.1	WP_193995719.1 COR domain-containing protein, partial 
+57(1)	WP_318730626.1	WP_318730626.1 leucine-rich repeat domain-containing protein 
+
+
+58(1)	WP_318730632.1	WP_318730632.1 XisI protein 
+58(1)	WP_223047101.1	WP_223047101.1 XisI protein 
+
+
+59(1)	WP_322311706.1	WP_322311706.1 CoA pyrophosphatase 
+59(1)	WP_244539607.1	WP_244539607.1 NUDIX domain-containing protein 
+
+
+60(1)	WP_330203139.1	WP_330203139.1 LL-diaminopimelate aminotransferase 
+60(1)	WP_108547839.1	WP_108547839.1 histidinol-phosphate transaminase 
+
+
+61(1)	WP_338818448.1	WP_338818448.1 ABC transporter permease 
+61(1)	WP_025773502.1	WP_025773502.1 ABC transporter permease 
+
+
+62(1)	WP_237368582.1	WP_237368582.1 DUF1868 domain-containing protein 
+62(1)	WP_377274871.1	WP_377274871.1 DUF1868 domain-containing protein 
+
+
+63(1)	WP_377274872.1	WP_377274872.1 methyl-accepting chemotaxis protein 
+63(1)	WP_153111061.1	WP_153111061.1 methyl-accepting chemotaxis protein 
+
+

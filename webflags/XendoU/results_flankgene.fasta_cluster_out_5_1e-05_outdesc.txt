@@ -1,0 +1,95 @@
+1(1)	WP_017745564.1	WP_017745564.1 hybrid sensor histidine kinase/response regulator 
+1(1)	WP_031270504.1	WP_031270504.1 MULTISPECIES: PleD family two-component system response regulator 
+1(1)	WP_023003409.1	WP_023003409.1 MULTISPECIES: chemotaxis response regulator protein-glutamate methylesterase 
+1(1)	WP_027838812.1	WP_027838812.1 winged helix-turn-helix domain-containing protein 
+1(1)	WP_027838811.1	WP_027838811.1 sensor histidine kinase 
+1(1)	WP_017745565.1	WP_017745565.1 hybrid sensor histidine kinase/response regulator 
+
+
+2(1)	WP_075899978.1	WP_075899978.1 serine/threonine-protein kinase 
+2(1)	WP_158069597.1	WP_158069597.1 serine/threonine-protein kinase 
+2(1)	WP_008184304.1	WP_008184304.1 MULTISPECIES: serine/threonine-protein kinase 
+2(1)	WP_287310480.1	WP_287310480.1 serine/threonine-protein kinase 
+
+
+3(1)	WP_008177625.1	WP_008177625.1 MULTISPECIES: sialate O-acetylesterase 
+3(1)	WP_075899986.1	WP_075899986.1 sialate O-acetylesterase 
+3(1)	WP_008177623.1	WP_008177623.1 MULTISPECIES: sialate O-acetylesterase 
+
+
+4(1)	WP_130186342.1	WP_130186342.1 GNAT family N-acetyltransferase 
+4(1)	WP_137315928.1	WP_137315928.1 GNAT family N-acetyltransferase 
+4(1)	WP_131147889.1	WP_131147889.1 GNAT family N-acetyltransferase 
+
+
+5(1)	WP_131147888.1	WP_131147888.1 aminopeptidase N 
+5(1)	WP_130186341.1	WP_130186341.1 aminopeptidase N 
+5(1)	WP_137315929.1	WP_137315929.1 aminopeptidase N 
+
+
+6(1)	WP_131147886.1	WP_131147886.1 UV DNA damage repair endonuclease UvsE 
+6(1)	WP_130186339.1	WP_130186339.1 UV DNA damage repair endonuclease UvsE 
+6(1)	WP_137315931.1	WP_137315931.1 UV DNA damage repair endonuclease UvsE 
+
+
+7(1)	WP_130186338.1	WP_130186338.1 DUF2945 domain-containing protein 
+7(1)	WP_131147885.1	WP_131147885.1 DUF2945 domain-containing protein 
+7(1)	WP_137315932.1	WP_137315932.1 MULTISPECIES: DUF2945 domain-containing protein 
+
+
+8(1)	WP_130186337.1	WP_130186337.1 GGDEF domain-containing protein 
+8(1)	WP_137315933.1	WP_137315933.1 GGDEF domain-containing protein 
+8(1)	WP_131147884.1	WP_131147884.1 GGDEF domain-containing protein 
+
+
+9(1)	WP_190953980.1	WP_190953980.1 MULTISPECIES: endonuclease/exonuclease/phosphatase family protein 
+9(1)	WP_006102235.1	WP_006102235.1 endonuclease/exonuclease/phosphatase family protein 
+9(1)	WP_017745561.1	WP_017745561.1 endonuclease/exonuclease/phosphatase family protein 
+
+
+10(1)	WP_307722079.1	WP_307722079.1 hypothetical protein 
+10(1)	WP_307722168.1	WP_307722168.1 hypothetical protein 
+10(1)	WP_207221387.1	WP_207221387.1 hypothetical protein 
+
+
+11(1)	WP_131149340.1	WP_131149340.1 nucleotide pyrophosphohydrolase 
+11(1)	WP_371861487.1	WP_371861487.1 nucleotide pyrophosphohydrolase 
+11(1)	WP_130186343.1	WP_130186343.1 nucleotide pyrophosphohydrolase 
+
+
+12(1)	WP_008177630.1	WP_008177630.1 MULTISPECIES: helix-turn-helix domain-containing protein 
+12(1)	WP_075899982.1	WP_075899982.1 helix-turn-helix domain-containing protein 
+
+
+13(1)	WP_075906115.1	WP_075906115.1 NUDIX domain-containing protein 
+13(1)	WP_044493200.1	WP_044493200.1 MULTISPECIES: NUDIX domain-containing protein 
+
+
+14(1)	WP_163700520.1	WP_163700520.1 ABC transporter permease 
+14(1)	WP_193990415.1	WP_193990415.1 ABC transporter permease 
+
+
+15(1)	WP_250565866.1	WP_250565866.1 hypothetical protein 
+15(1)	WP_193990413.1	WP_193990413.1 hypothetical protein 
+
+
+16(1)	WP_285670580.1	WP_285670580.1 SH3 domain-containing protein 
+16(1)	WP_285670581.1	WP_285670581.1 SH3 domain-containing protein 
+
+
+17(1)	WP_322744874.1	WP_322744874.1 ABC transporter substrate-binding protein 
+17(1)	WP_163700523.1	WP_163700523.1 ABC transporter substrate-binding protein 
+
+
+18(1)	WP_322744877.1	WP_322744877.1 methionine--tRNA ligase 
+18(1)	WP_163700528.1	WP_163700528.1 methionine--tRNA ligase 
+
+
+19(1)	WP_008177627.1	WP_008177627.1 MULTISPECIES: HNH endonuclease 
+19(1)	WP_330359436.1	WP_330359436.1 HNH endonuclease 
+
+
+20(1)	WP_175424905.1	WP_175424905.1 tetratricopeptide repeat protein 
+20(1)	WP_371874865.1	WP_371874865.1 DUF6396 domain-containing protein 
+
+

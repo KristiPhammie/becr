@@ -1,0 +1,186 @@
+1(1)	WP_174470979.1	WP_174470979.1 leucyl/phenylalanyl-tRNA--protein transferase 
+1(1)	WP_045580930.1	WP_045580930.1 leucyl/phenylalanyl-tRNA--protein transferase 
+1(1)	WP_209982932.1	WP_209982932.1 leucyl/phenylalanyl-tRNA--protein transferase 
+1(1)	WP_149230418.1	WP_149230418.1 MULTISPECIES: leucyl/phenylalanyl-tRNA--protein transferase 
+1(1)	WP_063635221.1	WP_063635221.1 leucyl/phenylalanyl-tRNA--protein transferase 
+1(1)	WP_085555027.1	WP_085555027.1 leucyl/phenylalanyl-tRNA--protein transferase 
+1(1)	WP_098741004.1	WP_098741004.1 leucyl/phenylalanyl-tRNA--protein transferase 
+1(1)	WP_200196000.1	WP_200196000.1 leucyl/phenylalanyl-tRNA--protein transferase 
+1(1)	WP_051340213.1	WP_051340213.1 leucyl/phenylalanyl-tRNA--protein transferase 
+
+
+2(1)	WP_103173485.1	WP_103173485.1 MULTISPECIES: DUF1013 domain-containing protein 
+2(1)	WP_166189454.1	WP_166189454.1 DUF1013 domain-containing protein 
+2(1)	WP_187792927.1	WP_187792927.1 DUF1013 domain-containing protein 
+2(1)	WP_216034864.1	WP_216034864.1 DUF1013 domain-containing protein 
+2(1)	WP_260277803.1	WP_260277803.1 DUF1013 domain-containing protein 
+2(1)	WP_011748544.1	WP_011748544.1 MULTISPECIES: DUF1013 domain-containing protein 
+2(1)	WP_377682588.1	WP_377682588.1 DUF1013 domain-containing protein 
+2(1)	WP_207469151.1	WP_207469151.1 MULTISPECIES: DUF1013 domain-containing protein 
+2(1)	WP_275104816.1	WP_275104816.1 DUF1013 domain-containing protein 
+
+
+3(1)	WP_098739171.1	WP_098739171.1 MULTISPECIES: cold-shock protein 
+3(1)	WP_200196008.1	WP_200196008.1 cold-shock protein 
+3(1)	WP_045580926.1	WP_045580926.1 cold-shock protein 
+3(1)	WP_109047933.1	WP_109047933.1 MULTISPECIES: cold-shock protein 
+3(1)	WP_042695755.1	WP_042695755.1 MULTISPECIES: cold-shock protein 
+3(1)	WP_014248651.1	WP_014248651.1 MULTISPECIES: cold-shock protein 
+3(1)	WP_209982730.1	WP_209982730.1 cold-shock protein 
+3(1)	WP_085555022.1	WP_085555022.1 cold-shock protein 
+
+
+4(1)	WP_063635218.1	WP_063635218.1 histidine phosphatase family protein 
+4(1)	WP_200196004.1	WP_200196004.1 histidine phosphatase family protein 
+4(1)	WP_246193646.1	WP_246193646.1 MULTISPECIES: histidine phosphatase family protein 
+4(1)	WP_085555024.1	WP_085555024.1 histidine phosphatase family protein 
+4(1)	WP_098739169.1	WP_098739169.1 histidine phosphatase family protein 
+4(1)	WP_174470874.1	WP_174470874.1 MULTISPECIES: histidine phosphatase family protein 
+4(1)	WP_209982731.1	WP_209982731.1 histidine phosphatase family protein 
+4(1)	WP_045580928.1	WP_045580928.1 histidine phosphatase family protein 
+
+
+5(1)	WP_063635217.1	WP_063635217.1 alkene reductase 
+5(1)	WP_200196006.1	WP_200196006.1 alkene reductase 
+5(1)	WP_098739170.1	WP_098739170.1 alkene reductase 
+5(1)	WP_045580927.1	WP_045580927.1 alkene reductase 
+5(1)	WP_085555023.1	WP_085555023.1 alkene reductase 
+5(1)	WP_149229691.1	WP_149229691.1 MULTISPECIES: alkene reductase 
+5(1)	WP_281414982.1	WP_281414982.1 alkene reductase 
+5(1)	WP_174470873.1	WP_174470873.1 alkene reductase 
+
+
+6(1)	WP_011748543.1	WP_011748543.1 NAD-dependent succinate-semialdehyde dehydrogenase 
+6(1)	WP_187792929.1	WP_187792929.1 NAD-dependent succinate-semialdehyde dehydrogenase 
+6(1)	WP_188713594.1	WP_188713594.1 NAD-dependent succinate-semialdehyde dehydrogenase 
+6(1)	WP_377682586.1	WP_377682586.1 NAD-dependent succinate-semialdehyde dehydrogenase 
+6(1)	WP_207469147.1	WP_207469147.1 NAD-dependent succinate-semialdehyde dehydrogenase 
+6(1)	WP_275104814.1	WP_275104814.1 NAD-dependent succinate-semialdehyde dehydrogenase 
+6(1)	WP_260277805.1	WP_260277805.1 NAD-dependent succinate-semialdehyde dehydrogenase 
+6(1)	WP_216034866.1	WP_216034866.1 NAD-dependent succinate-semialdehyde dehydrogenase 
+
+
+7(1)	WP_149229688.1	WP_149229688.1 MULTISPECIES: anhydro-N-acetylmuramic acid kinase 
+7(1)	WP_063635223.1	WP_063635223.1 anhydro-N-acetylmuramic acid kinase 
+7(1)	WP_045580931.1	WP_045580931.1 anhydro-N-acetylmuramic acid kinase 
+7(1)	WP_209982736.1	WP_209982736.1 anhydro-N-acetylmuramic acid kinase 
+7(1)	WP_425485983.1	WP_425485983.1 anhydro-N-acetylmuramic acid kinase 
+7(1)	WP_098739166.1	WP_098739166.1 anhydro-N-acetylmuramic acid kinase 
+7(1)	WP_085557200.1	WP_085557200.1 anhydro-N-acetylmuramic acid kinase 
+7(1)	WP_200195996.1	WP_200195996.1 anhydro-N-acetylmuramic acid kinase 
+
+
+8(1)	WP_045580932.1	WP_045580932.1 hypothetical protein 
+8(1)	WP_149229687.1	WP_149229687.1 MULTISPECIES: hypothetical protein 
+8(1)	WP_063635224.1	WP_063635224.1 phytanoyl-CoA dioxygenase family protein 
+8(1)	WP_200195994.1	WP_200195994.1 hypothetical protein 
+8(1)	WP_098739165.1	WP_098739165.1 MULTISPECIES: hypothetical protein 
+8(1)	WP_174470877.1	WP_174470877.1 hypothetical protein 
+8(1)	WP_209982738.1	WP_209982738.1 phytanoyl-CoA dioxygenase family protein 
+
+
+9(1)	WP_307354411.1	WP_307354411.1 NAD(P)H-hydrate dehydratase 
+9(1)	WP_247893705.1	WP_247893705.1 NAD(P)H-hydrate dehydratase 
+9(1)	WP_244592728.1	WP_244592728.1 NAD(P)H-hydrate dehydratase 
+9(1)	WP_246193645.1	WP_246193645.1 MULTISPECIES: NAD(P)H-hydrate dehydratase 
+9(1)	WP_246307109.1	WP_246307109.1 NAD(P)H-hydrate dehydratase 
+9(1)	WP_245636616.1	WP_245636616.1 NAD(P)H-hydrate dehydratase 
+9(1)	WP_085555025.1	WP_085555025.1 NAD(P)H-hydrate dehydratase 
+
+
+10(1)	WP_216034865.1	WP_216034865.1 GlsB/YeaQ/YmgE family stress response membrane protein 
+10(1)	WP_207469149.1	WP_207469149.1 MULTISPECIES: GlsB/YeaQ/YmgE family stress response membrane protein 
+10(1)	WP_260277804.1	WP_260277804.1 GlsB/YeaQ/YmgE family stress response membrane protein 
+10(1)	WP_275104815.1	WP_275104815.1 GlsB/YeaQ/YmgE family stress response membrane protein 
+10(1)	WP_103173484.1	WP_103173484.1 MULTISPECIES: GlsB/YeaQ/YmgE family stress response membrane protein 
+10(1)	WP_187792928.1	WP_187792928.1 GlsB/YeaQ/YmgE family stress response membrane protein 
+
+
+11(1)	WP_187792925.1	WP_187792925.1 NAD(P)H-quinone oxidoreductase 
+11(1)	WP_275104818.1	WP_275104818.1 NAD(P)H-quinone oxidoreductase 
+11(1)	WP_377682591.1	WP_377682591.1 NAD(P)H-quinone oxidoreductase 
+11(1)	WP_207469155.1	WP_207469155.1 NAD(P)H-quinone oxidoreductase 
+11(1)	WP_166189460.1	WP_166189460.1 NAD(P)H-quinone oxidoreductase 
+11(1)	WP_188713592.1	WP_188713592.1 NAD(P)H-quinone oxidoreductase 
+
+
+12(1)	WP_207469145.1	WP_207469145.1 P1 family peptidase 
+12(1)	WP_377683589.1	WP_377683589.1 P1 family peptidase 
+12(1)	WP_275104813.1	WP_275104813.1 P1 family peptidase 
+12(1)	WP_188713595.1	WP_188713595.1 P1 family peptidase 
+12(1)	WP_260277806.1	WP_260277806.1 P1 family peptidase 
+12(1)	WP_216034867.1	WP_216034867.1 P1 family peptidase 
+
+
+13(1)	WP_188713591.1	WP_188713591.1 COQ9 family protein 
+13(1)	WP_377786930.1	WP_377786930.1 hypothetical protein 
+13(1)	WP_187792924.1	WP_187792924.1 COQ9 family protein 
+13(1)	WP_275104819.1	WP_275104819.1 COQ9 family protein 
+13(1)	WP_377786927.1	WP_377786927.1 COQ9 family protein 
+13(1)	WP_207469165.1	WP_207469165.1 COQ9 family protein 
+
+
+14(1)	WP_432294458.1	WP_432294458.1 glutathione S-transferase 
+14(1)	WP_183649504.1	WP_183649504.1 glutathione S-transferase 
+14(1)	WP_189489205.1	WP_189489205.1 glutathione S-transferase family protein 
+14(1)	WP_121644625.1	WP_121644625.1 glutathione S-transferase family protein 
+14(1)	WP_119308289.1	WP_119308289.1 glutathione S-transferase N-terminal domain-containing protein 
+
+
+15(1)	WP_189489201.1	WP_189489201.1 23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ 
+15(1)	WP_432294461.1	WP_432294461.1 23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ 
+15(1)	WP_119308286.1	WP_119308286.1 23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ 
+15(1)	WP_121644627.1	WP_121644627.1 23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ 
+15(1)	WP_183649510.1	WP_183649510.1 23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ 
+
+
+16(1)	WP_126153662.1	WP_126153662.1 MULTISPECIES: 30S ribosomal protein S21 
+16(2)	WP_103173489.1	WP_103173489.1 MULTISPECIES: 30S ribosomal protein S21 
+16(1)	WP_022705914.1	WP_022705914.1 MULTISPECIES: 30S ribosomal protein S21 
+
+
+17(1)	WP_121646378.1	WP_121646378.1 hypothetical protein 
+17(1)	WP_189489203.1	WP_189489203.1 hypothetical protein 
+17(1)	WP_162916662.1	WP_162916662.1 hypothetical protein 
+17(1)	WP_183649508.1	WP_183649508.1 phage portal protein 
+
+
+18(1)	WP_200195998.1	WP_200195998.1 hypothetical protein 
+18(1)	WP_098739167.1	WP_098739167.1 hypothetical protein 
+18(1)	WP_149229689.1	WP_149229689.1 MULTISPECIES: hypothetical protein 
+18(1)	WP_174470876.1	WP_174470876.1 hypothetical protein 
+
+
+19(1)	WP_121646377.1	WP_121646377.1 outer membrane protein 
+19(1)	WP_432294455.1	WP_432294455.1 outer membrane protein 
+19(1)	WP_189489206.1	WP_189489206.1 outer membrane protein 
+19(1)	WP_183649494.1	WP_183649494.1 outer membrane protein Omp25 
+
+
+20(1)	WP_189489210.1	WP_189489210.1 excinuclease ABC subunit UvrC 
+20(1)	WP_183649489.1	WP_183649489.1 excinuclease ABC subunit UvrC 
+20(1)	WP_119308290.1	WP_119308290.1 excinuclease ABC subunit UvrC 
+
+
+21(1)	WP_189489208.1	WP_189489208.1 SDR family oxidoreductase 
+21(1)	WP_432294454.1	WP_432294454.1 SDR family oxidoreductase 
+21(1)	WP_183649491.1	WP_183649491.1 SDR family oxidoreductase 
+
+
+22(1)	WP_432294462.1	WP_432294462.1 molybdopterin-containing oxidoreductase family protein 
+22(1)	WP_189489199.1	WP_189489199.1 molybdopterin oxidoreductase family protein 
+22(1)	WP_183649514.1	WP_183649514.1 molybdopterin oxidoreductase family protein 
+
+
+23(1)	WP_002727711.1	WP_002727711.1 hypothetical protein 
+23(1)	WP_068490195.1	WP_068490195.1 hypothetical protein 
+
+
+24(1)	WP_187792923.1	WP_187792923.1 hypothetical protein 
+24(1)	WP_188713590.1	WP_188713590.1 hypothetical protein 
+
+
+25(1)	WP_205563246.1	WP_205563246.1 calcium/sodium antiporter 
+25(1)	WP_121644623.1	WP_121644623.1 calcium/sodium antiporter 
+
+

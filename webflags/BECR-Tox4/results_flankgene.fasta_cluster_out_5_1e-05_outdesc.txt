@@ -1,0 +1,477 @@
+1(1)	WP_231096743.1	WP_231096743.1 flagellar hook-length control protein FliK 
+1(1)	WP_127017227.1	WP_127017227.1 flagellar hook-length control protein FliK 
+1(1)	WP_243140253.1	WP_243140253.1 MotE family protein 
+1(1)	WP_027414598.1	WP_027414598.1 magnesium transporter MgtE N-terminal domain-containing protein 
+1(1)	WP_149543971.1	WP_149543971.1 hypothetical protein 
+1(1)	WP_127580613.1	WP_127580613.1 magnesium transporter MgtE N-terminal domain-containing protein 
+1(1)	WP_134379480.1	WP_134379480.1 flagellar hook-length control protein FliK 
+1(1)	WP_027414599.1	WP_027414599.1 flagellar hook-length control protein FliK 
+1(1)	WP_175560038.1	WP_175560038.1 flagellar hook-length control protein FliK 
+1(1)	WP_046497390.1	WP_046497390.1 flagellar hook-length control protein FliK 
+1(1)	WP_312492559.1	WP_312492559.1 flagellar hook-length control protein FliK 
+1(1)	WP_283914292.1	WP_283914292.1 flagellar hook-length control protein FliK 
+1(1)	WP_068580394.1	WP_068580394.1 flagellar hook-length control protein FliK 
+1(1)	WP_018975031.1	WP_018975031.1 MotE family protein 
+1(1)	WP_235247684.1	WP_235247684.1 MULTISPECIES: flagellar hook-length control protein FliK 
+1(1)	WP_131014461.1	WP_131014461.1 hypothetical protein 
+1(1)	WP_246110657.1	WP_246110657.1 MotE family protein 
+1(1)	WP_013278591.1	WP_013278591.1 MotE family protein 
+1(1)	WP_158081699.1	WP_158081699.1 flagellar hook-length control protein FliK 
+1(1)	WP_147668022.1	WP_147668022.1 flagellar hook-length control protein FliK 
+1(1)	WP_129197124.1	WP_129197124.1 flagellar hook-length control protein FliK 
+1(1)	WP_149733679.1	WP_149733679.1 flagellar hook-length control protein FliK 
+1(1)	WP_012739057.1	WP_012739057.1 MotE family protein 
+1(1)	WP_058303933.1	WP_058303933.1 flagellar hook-length control protein FliK 
+1(1)	WP_255361525.1	WP_255361525.1 MULTISPECIES: flagellar hook-length control protein FliK 
+1(1)	WP_027338692.1	WP_027338692.1 MotE family protein 
+1(1)	WP_073274060.1	WP_073274060.1 MotE family protein 
+1(1)	WP_248624842.1	WP_248624842.1 flagellar hook-length control protein FliK 
+1(1)	WP_054694438.1	WP_054694438.1 MotE family protein 
+1(1)	WP_233147038.1	WP_233147038.1 MotE family protein 
+1(1)	WP_148865574.1	WP_148865574.1 flagellar hook-length control protein FliK 
+1(1)	WP_135869204.1	WP_135869204.1 flagellar hook-length control protein FliK 
+1(1)	WP_013278590.1	WP_013278590.1 flagellar hook-length control protein FliK 
+1(1)	WP_144452427.1	WP_144452427.1 MotE family protein 
+1(1)	WP_248624844.1	WP_248624844.1 MotE family protein 
+1(1)	WP_138127334.1	WP_138127334.1 flagellar hook-length control protein FliK 
+1(1)	WP_221836099.1	WP_221836099.1 MotE family protein 
+1(1)	WP_215830319.1	WP_215830319.1 MotE family protein 
+1(1)	WP_089747202.1	WP_089747202.1 MULTISPECIES: MotE family protein 
+1(1)	WP_073274058.1	WP_073274058.1 flagellar hook-length control protein FliK 
+1(1)	WP_068608337.1	WP_068608337.1 MotE family protein 
+1(1)	WP_058351159.1	WP_058351159.1 flagellar hook-length control protein FliK 
+1(1)	WP_163145095.1	WP_163145095.1 MULTISPECIES: MotE family protein 
+1(1)	WP_132074617.1	WP_132074617.1 MotE family protein 
+1(1)	WP_120406309.1	WP_120406309.1 flagellar hook-length control protein FliK 
+1(1)	WP_129197122.1	WP_129197122.1 MotE family protein 
+1(1)	WP_054694435.1	WP_054694435.1 flagellar hook-length control protein FliK 
+1(1)	WP_088554170.1	WP_088554170.1 flagellar hook-length control protein FliK 
+1(1)	WP_463168238.1	WP_463168238.1 flagellar hook-length control protein FliK 
+1(1)	WP_092450777.1	WP_092450777.1 flagellar hook-length control protein FliK 
+1(1)	WP_211081650.1	WP_211081650.1 flagellar hook-length control protein FliK 
+1(1)	WP_012739058.1	WP_012739058.1 flagellar hook-length control protein FliK 
+1(1)	WP_243119046.1	WP_243119046.1 MotE family protein 
+1(1)	WP_041606011.1	WP_041606011.1 flagellar hook-length control protein FliK 
+1(1)	WP_068694608.1	WP_068694608.1 MotE family protein 
+1(1)	WP_068716622.1	WP_068716622.1 flagellar hook-length control protein FliK 
+1(1)	WP_138127332.1	WP_138127332.1 MotE family protein 
+1(1)	WP_068580397.1	WP_068580397.1 MotE family protein 
+1(1)	WP_090117385.1	WP_090117385.1 flagellar hook-length control protein FliK 
+1(1)	WP_058303932.1	WP_058303932.1 magnesium transporter MgtE N-terminal domain-containing protein 
+1(1)	WP_132014782.1	WP_132014782.1 flagellar hook-length control protein FliK 
+1(1)	WP_131014462.1	WP_131014462.1 flagellar hook-length control protein FliK 
+1(1)	WP_058351158.1	WP_058351158.1 hypothetical protein 
+1(1)	WP_227013953.1	WP_227013953.1 MotE family protein 
+1(1)	WP_127580615.1	WP_127580615.1 flagellar hook-length control protein FliK 
+1(1)	WP_073089630.1	WP_073089630.1 flagellar hook-length control protein FliK 
+1(1)	WP_188128191.1	WP_188128191.1 MotE family protein 
+1(1)	WP_031534488.1	WP_031534488.1 MULTISPECIES: MotE family protein 
+1(1)	WP_068608339.1	WP_068608339.1 flagellar hook-length control protein FliK 
+1(1)	WP_092321697.1	WP_092321697.1 hypothetical protein 
+1(1)	WP_096465189.1	WP_096465189.1 MotE family protein 
+1(1)	WP_068694609.1	WP_068694609.1 flagellar hook-length control protein FliK 
+1(1)	WP_474773033.1	WP_474773033.1 MotE family protein 
+1(1)	WP_078809892.1	WP_078809892.1 MotE family protein 
+1(1)	WP_160643231.1	WP_160643231.1 MotE family protein 
+1(1)	WP_092450775.1	WP_092450775.1 MotE family protein 
+1(1)	WP_229675597.1	WP_229675597.1 flagellar hook-length control protein FliK 
+1(1)	WP_134379478.1	WP_134379478.1 MotE family protein 
+1(1)	WP_242948212.1	WP_242948212.1 flagellar hook-length control protein FliK 
+1(1)	WP_135869203.1	WP_135869203.1 MotE family protein 
+1(1)	WP_231096742.1	WP_231096742.1 MotE family protein 
+1(1)	WP_096465191.1	WP_096465191.1 flagellar hook-length control protein FliK 
+1(1)	WP_149543970.1	WP_149543970.1 flagellar hook-length control protein FliK 
+1(1)	WP_221836096.1	WP_221836096.1 flagellar hook-length control protein FliK 
+1(1)	WP_078809893.1	WP_078809893.1 flagellar hook-length control protein FliK 
+1(1)	WP_132014781.1	WP_132014781.1 hypothetical protein 
+1(1)	WP_294488060.1	WP_294488060.1 hypothetical protein 
+1(1)	WP_147668020.1	WP_147668020.1 MotE family protein 
+1(1)	WP_046497389.1	WP_046497389.1 MotE family protein 
+1(1)	WP_106766067.1	WP_106766067.1 flagellar hook-length control protein FliK 
+1(1)	WP_474773034.1	WP_474773034.1 flagellar hook-length control protein FliK 
+1(1)	WP_068780712.1	WP_068780712.1 MULTISPECIES: MotE family protein 
+1(1)	WP_073089632.1	WP_073089632.1 MotE family protein 
+1(1)	WP_160643233.1	WP_160643233.1 flagellar hook-length control protein FliK 
+1(1)	WP_243140254.1	WP_243140254.1 flagellar hook-length control protein FliK 
+1(1)	WP_027338693.1	WP_027338693.1 flagellar hook-length control protein FliK 
+1(1)	WP_025746589.1	WP_025746589.1 MotE family protein 
+1(1)	WP_003462896.1	WP_003462896.1 MotE family protein 
+1(1)	WP_155701269.1	WP_155701269.1 flagellar hook-length control protein FliK 
+1(1)	WP_260054168.1	WP_260054168.1 flagellar hook-length control protein FliK 
+1(1)	WP_204700062.1	WP_204700062.1 MotE family protein 
+1(1)	WP_015923404.1	WP_015923404.1 MotE family protein 
+1(1)	WP_204700063.1	WP_204700063.1 flagellar hook-length control protein FliK 
+1(1)	WP_463168236.1	WP_463168236.1 magnesium transporter MgtE N-terminal domain-containing protein 
+1(1)	WP_127017228.1	WP_127017228.1 MotE family protein 
+1(1)	WP_106766068.1	WP_106766068.1 kinesin 
+1(1)	WP_132074614.1	WP_132074614.1 flagellar hook-length control protein FliK 
+1(1)	WP_068716620.1	WP_068716620.1 MotE family protein 
+1(1)	WP_211081651.1	WP_211081651.1 MotE family protein 
+1(1)	WP_068780713.1	WP_068780713.1 flagellar hook-length control protein FliK 
+1(1)	WP_003462892.1	WP_003462892.1 flagellar hook-length control protein FliK 
+1(1)	WP_215830318.1	WP_215830318.1 flagellar hook-length control protein FliK 
+1(1)	WP_143106737.1	WP_143106737.1 MotE family protein 
+
+
+2(1)	WP_018975027.1	WP_018975027.1 flagellar basal body rod protein FlgG 
+2(1)	WP_052729670.1	WP_052729670.1 flagellar hook protein FlgE 
+2(1)	WP_027338696.1	WP_027338696.1 flagellar hook protein FlgE 
+2(1)	WP_068716629.1	WP_068716629.1 flagellar hook protein FlgE 
+2(1)	WP_068608344.1	WP_068608344.1 flagellar basal body rod protein FlgG 
+2(1)	WP_068780715.1	WP_068780715.1 MULTISPECIES: flagellar basal body rod protein FlgG 
+2(1)	WP_090117382.1	WP_090117382.1 flagellar basal body rod protein FlgG 
+2(1)	WP_078809896.1	WP_078809896.1 flagellar hook protein FlgE 
+2(1)	WP_054694423.1	WP_054694423.1 flagellar hook-basal body complex protein 
+2(1)	WP_221836090.1	WP_221836090.1 flagellar basal body rod protein FlgG 
+2(1)	WP_027414601.1	WP_027414601.1 flagellar basal body rod protein FlgG 
+2(1)	WP_134379486.1	WP_134379486.1 flagellar hook protein FlgE 
+2(1)	WP_132014785.1	WP_132014785.1 flagellar hook protein FlgE 
+2(1)	WP_073274053.1	WP_073274053.1 flagellar hook protein FlgE 
+2(1)	WP_192868164.1	WP_192868164.1 flagellar hook protein FlgE 
+2(1)	WP_058303936.1	WP_058303936.1 flagellar basal body rod protein FlgG 
+2(1)	WP_048009019.1	WP_048009019.1 MULTISPECIES: flagellar basal body rod protein FlgG 
+2(1)	WP_089747195.1	WP_089747195.1 MULTISPECIES: flagellar hook protein FlgE 
+2(1)	WP_312492557.1	WP_312492557.1 flagellar hook protein FlgE 
+2(1)	WP_132074605.1	WP_132074605.1 flagellar hook protein FlgE 
+2(1)	WP_092281781.1	WP_092281781.1 flagellar hook protein FlgE 
+2(1)	WP_127734578.1	WP_127734578.1 flagellar basal body rod protein FlgG 
+2(1)	WP_463168241.1	WP_463168241.1 flagellar hook protein FlgE 
+2(1)	WP_013278587.1	WP_013278587.1 flagellar hook protein FlgE 
+2(1)	WP_155701272.1	WP_155701272.1 flagellar basal body rod protein FlgG 
+2(1)	WP_204700065.1	WP_204700065.1 flagellar basal-body rod protein FlgF 
+2(1)	WP_068580389.1	WP_068580389.1 flagellar basal body rod protein FlgG 
+2(1)	WP_054694427.1	WP_054694427.1 flagellar basal body protein 
+2(1)	WP_147668028.1	WP_147668028.1 flagellar hook protein FlgE 
+2(1)	WP_068694612.1	WP_068694612.1 flagellar basal body rod protein FlgG 
+2(1)	WP_129197128.1	WP_129197128.1 flagellar hook-basal body complex protein 
+2(1)	WP_058351161.1	WP_058351161.1 flagellar hook protein FlgE 
+2(1)	WP_041688041.1	WP_041688041.1 flagellar hook protein FlgE 
+2(1)	WP_036609361.1	WP_036609361.1 MULTISPECIES: flagellar basal body rod protein FlgG 
+2(1)	WP_106766064.1	WP_106766064.1 flagellar basal body rod protein FlgG 
+2(1)	WP_052216772.1	WP_052216772.1 flagellar hook protein FlgE 
+2(1)	WP_131014465.1	WP_131014465.1 flagellar basal body rod protein FlgG 
+2(1)	WP_127580620.1	WP_127580620.1 flagellar hook-basal body complex protein 
+2(1)	WP_078499341.1	WP_078499341.1 flagellar basal body rod protein FlgG 
+2(1)	WP_003462883.1	WP_003462883.1 flagellar hook-basal body complex protein 
+2(1)	WP_248624836.1	WP_248624836.1 flagellar basal-body rod protein FlgF 
+2(1)	WP_096465197.1	WP_096465197.1 flagellar hook-basal body complex protein 
+2(1)	WP_226984153.1	WP_226984153.1 flagellar hook protein FlgE 
+2(1)	WP_092321705.1	WP_092321705.1 flagellar hook protein FlgE 
+2(1)	WP_120406312.1	WP_120406312.1 flagellar hook-basal body complex protein 
+2(1)	WP_031534496.1	WP_031534496.1 MULTISPECIES: flagellar basal body rod protein FlgG 
+2(1)	WP_231096746.1	WP_231096746.1 flagellar basal body rod protein FlgG 
+2(1)	WP_160643237.1	WP_160643237.1 flagellar basal body rod protein FlgG 
+2(1)	WP_138127340.1	WP_138127340.1 flagellar hook-basal body complex protein 
+2(1)	WP_073089678.1	WP_073089678.1 flagellar hook protein FlgE 
+2(1)	WP_148865568.1	WP_148865568.1 flagellar hook protein FlgE 
+2(1)	WP_127017224.1	WP_127017224.1 flagellar hook protein FlgE 
+2(1)	WP_149733681.1	WP_149733681.1 flagellar hook-basal body complex protein 
+2(1)	WP_156203094.1	WP_156203094.1 flagellar hook protein FlgE 
+2(1)	WP_207647421.1	WP_207647421.1 flagellar hook protein FlgE 
+2(1)	WP_149543968.1	WP_149543968.1 flagellar hook protein FlgE 
+2(1)	WP_135869207.1	WP_135869207.1 flagellar hook-basal body protein 
+2(1)	WP_215830315.1	WP_215830315.1 flagellar hook protein FlgE 
+
+
+3(1)	WP_089747199.1	WP_089747199.1 MULTISPECIES: flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_092321702.1	WP_092321702.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_144452429.1	WP_144452429.1 flagellar hook assembly protein FlgD 
+3(1)	WP_090117384.1	WP_090117384.1 flagellar hook assembly protein FlgD 
+3(1)	WP_069188356.1	WP_069188356.1 MULTISPECIES: flagellar hook assembly protein FlgD 
+3(1)	WP_160643235.1	WP_160643235.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_027338694.1	WP_027338694.1 flagellar hook assembly protein FlgD 
+3(1)	WP_018975029.1	WP_018975029.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_073089628.1	WP_073089628.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_132014783.1	WP_132014783.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_058303934.1	WP_058303934.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_211081649.1	WP_211081649.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_474773035.1	WP_474773035.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_058351160.1	WP_058351160.1 flagellar hook assembly protein FlgD 
+3(1)	WP_031534492.1	WP_031534492.1 MULTISPECIES: flagellar hook assembly protein FlgD 
+3(1)	WP_238988747.1	WP_238988747.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_051330707.1	WP_051330707.1 flagellar hook assembly protein FlgD 
+3(1)	WP_156203092.1	WP_156203092.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_157609513.1	WP_157609513.1 hypothetical protein 
+3(1)	WP_138127336.1	WP_138127336.1 flagellar hook assembly protein FlgD 
+3(1)	WP_068716625.1	WP_068716625.1 flagellar hook assembly protein FlgD 
+3(1)	WP_248624840.1	WP_248624840.1 flagellar hook assembly protein FlgD 
+3(1)	WP_068580392.1	WP_068580392.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_312492558.1	WP_312492558.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_246602619.1	WP_246602619.1 flagellar hook assembly protein FlgD 
+3(1)	WP_134379482.1	WP_134379482.1 flagellar hook assembly protein FlgD 
+3(1)	WP_068608340.1	WP_068608340.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_155701270.1	WP_155701270.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_331000847.1	WP_331000847.1 flagellar hook assembly protein FlgD 
+3(1)	WP_068694610.1	WP_068694610.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_054694432.1	WP_054694432.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_025746591.1	WP_025746591.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_073274057.1	WP_073274057.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_170841285.1	WP_170841285.1 flagellar hook assembly protein FlgD 
+3(1)	WP_132074611.1	WP_132074611.1 flagellar hook assembly protein FlgD 
+3(1)	WP_239550834.1	WP_239550834.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_088554171.1	WP_088554171.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_012739059.1	WP_012739059.1 flagellar hook assembly protein FlgD 
+3(1)	WP_234032946.1	WP_234032946.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_046497393.1	WP_046497393.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_078499339.1	WP_078499339.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_253250651.1	WP_253250651.1 flagellar hook assembly protein FlgD 
+3(1)	WP_147668024.1	WP_147668024.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_223191597.1	WP_223191597.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_120406310.1	WP_120406310.1 flagellar hook assembly protein FlgD 
+3(1)	WP_131014463.1	WP_131014463.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_135869205.1	WP_135869205.1 flagellar hook assembly protein FlgD 
+3(1)	WP_015923402.1	WP_015923402.1 flagellar hook assembly protein FlgD 
+3(1)	WP_078809894.1	WP_078809894.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_048009021.1	WP_048009021.1 MULTISPECIES: flagellar hook assembly protein FlgD 
+3(1)	WP_127580617.1	WP_127580617.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_148865572.1	WP_148865572.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_127017226.1	WP_127017226.1 flagellar hook assembly protein FlgD 
+3(1)	WP_003462890.1	WP_003462890.1 flagellar hook assembly protein FlgD 
+3(1)	WP_013278589.1	WP_013278589.1 flagellar hook assembly protein FlgD 
+3(1)	WP_215830317.1	WP_215830317.1 flagellar hook capping FlgD N-terminal domain-containing protein 
+3(1)	WP_096465193.1	WP_096465193.1 flagellar hook assembly protein FlgD 
+
+
+4(1)	WP_231096747.1	WP_231096747.1 flagellar FlbD family protein 
+4(1)	WP_127017223.1	WP_127017223.1 flagellar FlbD family protein 
+4(1)	WP_215830314.1	WP_215830314.1 flagellar FlbD family protein 
+4(1)	WP_132075091.1	WP_132075091.1 flagellar FlbD family protein 
+4(1)	WP_054694420.1	WP_054694420.1 flagellar FlbD family protein 
+4(1)	WP_138127342.1	WP_138127342.1 flagellar FlbD family protein 
+4(1)	WP_058351162.1	WP_058351162.1 flagellar FlbD family protein 
+4(1)	WP_245579407.1	WP_245579407.1 flagellar FlbD family protein 
+4(1)	WP_092321708.1	WP_092321708.1 flagellar FlbD family protein 
+4(1)	WP_155701273.1	WP_155701273.1 flagellar FlbD family protein 
+4(1)	WP_091744932.1	WP_091744932.1 MULTISPECIES: flagellar FlbD family protein 
+4(1)	WP_073274052.1	WP_073274052.1 flagellar FlbD family protein 
+4(1)	WP_131014466.1	WP_131014466.1 flagellar FlbD family protein 
+4(1)	WP_338035299.1	WP_338035299.1 flagellar FlbD family protein 
+4(1)	WP_018975026.1	WP_018975026.1 flagellar FlbD family protein 
+4(1)	WP_160643239.1	WP_160643239.1 flagellar FlbD family protein 
+4(1)	WP_068694613.1	WP_068694613.1 flagellar FlbD family protein 
+4(1)	WP_058303937.1	WP_058303937.1 flagellar FlbD family protein 
+4(1)	WP_068780716.1	WP_068780716.1 MULTISPECIES: flagellar FlbD family protein 
+4(1)	WP_046497397.1	WP_046497397.1 flagellar FlbD family protein 
+4(1)	WP_068608346.1	WP_068608346.1 flagellar FlbD family protein 
+4(1)	WP_092450783.1	WP_092450783.1 flagellar FlbD family protein 
+4(1)	WP_090117381.1	WP_090117381.1 MULTISPECIES: flagellar FlbD family protein 
+4(1)	WP_015923399.1	WP_015923399.1 flagellar FlbD family protein 
+4(1)	WP_127580622.1	WP_127580622.1 flagellar FlbD family protein 
+4(1)	WP_106766063.1	WP_106766063.1 flagellar FlbD family protein 
+4(1)	WP_132014786.1	WP_132014786.1 flagellar FlbD family protein 
+4(1)	WP_031534498.1	WP_031534498.1 MULTISPECIES: flagellar FlbD family protein 
+4(1)	WP_013278586.1	WP_013278586.1 flagellar FlbD family protein 
+4(1)	WP_068717266.1	WP_068717266.1 flagellar FlbD family protein 
+4(1)	WP_068580388.1	WP_068580388.1 flagellar FlbD family protein 
+4(1)	WP_027414602.1	WP_027414602.1 flagellar FlbD family protein 
+4(1)	WP_025746594.1	WP_025746594.1 flagellar FlbD family protein 
+4(1)	WP_148865566.1	WP_148865566.1 flagellar FlbD family protein 
+4(1)	WP_003462880.1	WP_003462880.1 flagellar FlbD family protein 
+4(1)	WP_017689179.1	WP_017689179.1 MULTISPECIES: flagellar FlbD family protein 
+4(1)	WP_156203095.1	WP_156203095.1 flagellar FlbD family protein 
+4(1)	WP_127734576.1	WP_127734576.1 flagellar FlbD family protein 
+4(1)	WP_078499342.1	WP_078499342.1 flagellar FlbD family protein 
+4(1)	WP_345947209.1	WP_345947209.1 flagellar FlbD family protein 
+4(1)	WP_134379488.1	WP_134379488.1 flagellar FlbD family protein 
+4(1)	WP_149543967.1	WP_149543967.1 flagellar FlbD family protein 
+4(1)	WP_078809897.1	WP_078809897.1 flagellar FlbD family protein 
+4(1)	WP_073089625.1	WP_073089625.1 flagellar FlbD family protein 
+4(1)	WP_304441010.1	WP_304441010.1 MULTISPECIES: flagellar FlbD family protein 
+4(1)	WP_253250650.1	WP_253250650.1 flagellar FlbD family protein 
+4(1)	WP_221836087.1	WP_221836087.1 flagellar FlbD family protein 
+4(1)	WP_147668030.1	WP_147668030.1 MULTISPECIES: flagellar FlbD family protein 
+4(1)	WP_129197130.1	WP_129197130.1 flagellar FlbD family protein 
+4(1)	WP_096465199.1	WP_096465199.1 flagellar FlbD family protein 
+4(1)	WP_048009018.1	WP_048009018.1 MULTISPECIES: flagellar FlbD family protein 
+4(1)	WP_242843540.1	WP_242843540.1 flagellar FlbD family protein 
+4(1)	WP_012739062.1	WP_012739062.1 flagellar FlbD family protein 
+4(1)	WP_294488047.1	WP_294488047.1 flagellar FlbD family protein 
+
+
+5(1)	WP_078809891.1	WP_078809891.1 flagellar export protein FliJ 
+5(1)	WP_015923405.1	WP_015923405.1 flagellar export protein FliJ 
+5(1)	WP_160643229.1	WP_160643229.1 flagellar export protein FliJ 
+5(1)	WP_248624846.1	WP_248624846.1 flagellar export protein FliJ 
+5(1)	WP_031534486.1	WP_031534486.1 MULTISPECIES: flagellar export protein FliJ 
+5(1)	WP_068780711.1	WP_068780711.1 flagellar export protein FliJ 
+5(1)	WP_058351157.1	WP_058351157.1 flagellar export protein FliJ 
+5(1)	WP_003462899.1	WP_003462899.1 flagellar export protein FliJ 
+5(1)	WP_027414597.1	WP_027414597.1 flagellar export protein FliJ 
+5(1)	WP_127017229.1	WP_127017229.1 flagellar export protein FliJ 
+5(1)	WP_211081652.1	WP_211081652.1 flagellar export protein FliJ 
+5(1)	WP_068580399.1	WP_068580399.1 flagellar export protein FliJ 
+5(1)	WP_162463133.1	WP_162463133.1 flagellar export protein FliJ 
+5(1)	WP_054694443.1	WP_054694443.1 flagellar export protein FliJ 
+5(1)	WP_041667333.1	WP_041667333.1 flagellar export protein FliJ 
+5(1)	WP_089747204.1	WP_089747204.1 MULTISPECIES: flagellar export protein FliJ 
+5(1)	WP_131014460.1	WP_131014460.1 flagellar export protein FliJ 
+5(1)	WP_231096741.1	WP_231096741.1 flagellar export protein FliJ 
+5(1)	WP_012739056.1	WP_012739056.1 flagellar export protein FliJ 
+5(1)	WP_129197120.1	WP_129197120.1 flagellar export protein FliJ 
+5(1)	WP_068608335.1	WP_068608335.1 flagellar export protein FliJ 
+5(1)	WP_127580611.1	WP_127580611.1 flagellar export protein FliJ 
+5(1)	WP_127734588.1	WP_127734588.1 flagellar export protein FliJ 
+5(1)	WP_132014780.1	WP_132014780.1 flagellar export protein FliJ 
+5(1)	WP_096465187.1	WP_096465187.1 flagellar export protein FliJ 
+5(1)	WP_092450773.1	WP_092450773.1 flagellar export protein FliJ 
+5(1)	WP_073274062.1	WP_073274062.1 flagellar export protein FliJ 
+5(1)	WP_134379476.1	WP_134379476.1 flagellar export protein FliJ 
+5(1)	WP_025746588.1	WP_025746588.1 flagellar export protein FliJ 
+5(1)	WP_120406308.1	WP_120406308.1 flagellar export protein FliJ 
+5(1)	WP_110468899.1	WP_110468899.1 flagellar export protein FliJ 
+5(1)	WP_149543972.1	WP_149543972.1 flagellar export protein FliJ 
+5(1)	WP_156203089.1	WP_156203089.1 flagellar export protein FliJ 
+5(1)	WP_027338691.1	WP_027338691.1 flagellar export protein FliJ 
+5(1)	WP_092321694.1	WP_092321694.1 flagellar export protein FliJ 
+5(1)	WP_088554169.1	WP_088554169.1 flagellar export protein FliJ 
+5(1)	WP_221836111.1	WP_221836111.1 flagellar export protein FliJ 
+5(1)	WP_078499337.1	WP_078499337.1 flagellar export protein FliJ 
+5(1)	WP_097016458.1	WP_097016458.1 flagellar export protein FliJ 
+5(1)	WP_474773032.1	WP_474773032.1 flagellar export protein FliJ 
+5(1)	WP_058303931.1	WP_058303931.1 flagellar export protein FliJ 
+5(1)	WP_048009024.1	WP_048009024.1 MULTISPECIES: flagellar export protein FliJ 
+5(1)	WP_148865577.1	WP_148865577.1 flagellar export protein FliJ 
+5(1)	WP_204700061.1	WP_204700061.1 flagellar export protein FliJ 
+5(1)	WP_026293559.1	WP_026293559.1 flagellar export protein FliJ 
+5(1)	WP_312492560.1	WP_312492560.1 flagellar export protein FliJ 
+5(1)	WP_246055276.1	WP_246055276.1 flagellar export protein FliJ 
+5(1)	WP_068716618.1	WP_068716618.1 flagellar export protein FliJ 
+5(1)	WP_106766069.1	WP_106766069.1 flagellar export protein FliJ 
+5(1)	WP_073089633.1	WP_073089633.1 flagellar export protein FliJ 
+5(1)	WP_135869202.1	WP_135869202.1 flagellar export protein FliJ 
+
+
+6(1)	WP_171016854.1	WP_171016854.1 flagellar motor switch protein FliM 
+6(1)	WP_215830312.1	WP_215830312.1 flagellar motor switch protein FliM 
+6(1)	WP_138127346.1	WP_138127346.1 flagellar motor switch phosphatase FliY 
+6(1)	WP_160643243.1	WP_160643243.1 flagellar motor switch protein FliM 
+6(1)	WP_131014468.1	WP_131014468.1 flagellar motor switch protein FliM 
+6(1)	WP_144452432.1	WP_144452432.1 flagellar motor switch protein FliM 
+6(1)	WP_052216770.1	WP_052216770.1 flagellar motor switch protein FliM 
+6(1)	WP_048009016.1	WP_048009016.1 MULTISPECIES: flagellar motor switch protein FliM 
+6(1)	WP_017689177.1	WP_017689177.1 MULTISPECIES: flagellar motor switch protein FliM 
+6(1)	WP_031534501.1	WP_031534501.1 MULTISPECIES: flagellar motor switch protein FliM 
+6(1)	WP_058303939.1	WP_058303939.1 flagellar motor switch protein FliM 
+6(1)	WP_073089621.1	WP_073089621.1 flagellar motor switch protein FliM 
+6(1)	WP_068694615.1	WP_068694615.1 flagellar motor switch protein FliM 
+6(1)	WP_127580626.1	WP_127580626.1 flagellar motor switch protein FliM 
+6(1)	WP_135869209.1	WP_135869209.1 MULTISPECIES: flagellar motor switch protein FliM 
+6(1)	WP_147668032.1	WP_147668032.1 flagellar motor switch protein FliM 
+6(1)	WP_221836081.1	WP_221836081.1 flagellar motor switch protein FliM 
+6(1)	WP_068608348.1	WP_068608348.1 flagellar motor switch protein FliM 
+6(1)	WP_231096749.1	WP_231096749.1 flagellar motor switch protein FliM 
+6(1)	WP_068780718.1	WP_068780718.1 MULTISPECIES: flagellar motor switch protein FliM 
+6(1)	WP_078499344.1	WP_078499344.1 flagellar motor switch protein FliM 
+6(1)	WP_096465202.1	WP_096465202.1 flagellar motor switch protein FliM 
+6(1)	WP_281276075.1	WP_281276075.1 MULTISPECIES: hypothetical protein 
+6(1)	WP_240675673.1	WP_240675673.1 flagellar motor switch protein FliM 
+6(1)	WP_027414604.1	WP_027414604.1 flagellar motor switch protein FliM 
+6(1)	WP_003462874.1	WP_003462874.1 flagellar motor switch protein FliM 
+6(1)	WP_134379492.1	WP_134379492.1 flagellar motor switch protein FliM 
+6(1)	WP_092450787.1	WP_092450787.1 flagellar motor switch protein FliM 
+6(1)	WP_106766061.1	WP_106766061.1 flagellar motor switch protein FliM 
+6(1)	WP_090117379.1	WP_090117379.1 flagellar motor switch protein FliM 
+6(1)	WP_149733683.1	WP_149733683.1 flagellar motor switch protein FliM 
+6(1)	WP_155701275.1	WP_155701275.1 flagellar motor switch protein FliM 
+6(1)	WP_018975024.1	WP_018975024.1 flagellar motor switch protein FliM 
+6(1)	WP_068580385.1	WP_068580385.1 flagellar motor switch protein FliM 
+6(1)	WP_132074599.1	WP_132074599.1 flagellar motor switch protein FliM 
+6(1)	WP_073274050.1	WP_073274050.1 flagellar motor switch protein FliM 
+6(1)	WP_156203097.1	WP_156203097.1 flagellar motor switch protein FliM 
+6(1)	WP_046497400.1	WP_046497400.1 flagellar motor switch protein FliM 
+
+
+7(1)	WP_127580624.1	WP_127580624.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_474773036.1	WP_474773036.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_078499343.1	WP_078499343.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_092450785.1	WP_092450785.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_129197132.1	WP_129197132.1 flagellar basal body-associated protein FliL 
+7(1)	WP_144452431.1	WP_144452431.1 flagellar basal body-associated protein FliL 
+7(1)	WP_132074602.1	WP_132074602.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_131014467.1	WP_131014467.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_048009017.1	WP_048009017.1 MULTISPECIES: flagellar basal body-associated protein FliL 
+7(1)	WP_106766062.1	WP_106766062.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_215830313.1	WP_215830313.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_156203096.1	WP_156203096.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_160643241.1	WP_160643241.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_309320700.1	WP_309320700.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_090117380.1	WP_090117380.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_231096748.1	WP_231096748.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_084123958.1	WP_084123958.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_027414603.1	WP_027414603.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_155701274.1	WP_155701274.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_003462877.1	WP_003462877.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_211081647.1	WP_211081647.1 MULTISPECIES: flagellar basal body-associated FliL family protein 
+7(1)	WP_242847509.1	WP_242847509.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_068694614.1	WP_068694614.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_149733682.1	WP_149733682.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_096465200.1	WP_096465200.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_068780717.1	WP_068780717.1 MULTISPECIES: flagellar basal body-associated FliL family protein 
+7(1)	WP_018975025.1	WP_018975025.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_058303938.1	WP_058303938.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_088554176.1	WP_088554176.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_221836083.1	WP_221836083.1 flagellar basal body-associated protein FliL 
+7(1)	WP_068580387.1	WP_068580387.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_054694417.1	WP_054694417.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_068608347.1	WP_068608347.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_073089623.1	WP_073089623.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_135869208.1	WP_135869208.1 flagellar basal body-associated FliL family protein 
+7(1)	WP_031534500.1	WP_031534500.1 MULTISPECIES: flagellar basal body-associated protein FliL 
+7(1)	WP_134379490.1	WP_134379490.1 flagellar basal body-associated protein FliL 
+7(1)	WP_120406315.1	WP_120406315.1 flagellar basal body-associated FliL family protein 
+
+
+8(1)	WP_015923398.1	WP_015923398.1 motility protein A 
+8(1)	WP_097016453.1	WP_097016453.1 motility protein A 
+8(1)	WP_088554174.1	WP_088554174.1 motility protein A 
+8(1)	WP_204700066.1	WP_204700066.1 motility protein A 
+8(1)	WP_092321711.1	WP_092321711.1 motility protein A 
+8(1)	WP_120406313.1	WP_120406313.1 motility protein A 
+8(1)	WP_012739063.1	WP_012739063.1 motility protein A 
+8(1)	WP_148865564.1	WP_148865564.1 flagellar motor protein 
+8(1)	WP_058351163.1	WP_058351163.1 motility protein A 
+8(1)	WP_248624902.1	WP_248624902.1 motility protein A 
+8(1)	WP_013278585.1	WP_013278585.1 motility protein A 
+8(1)	WP_025746595.1	WP_025746595.1 motility protein A 
+8(1)	WP_027338698.1	WP_027338698.1 motility protein A 
+8(1)	WP_068716631.1	WP_068716631.1 motility protein A 
+8(1)	WP_149543966.1	WP_149543966.1 flagellar motor protein 
+8(1)	WP_078809898.1	WP_078809898.1 motility protein A 
+8(1)	WP_089747191.1	WP_089747191.1 MULTISPECIES: motility protein A 
+8(1)	WP_127017222.1	WP_127017222.1 motility protein A 
+8(1)	WP_132014787.1	WP_132014787.1 motility protein A 
+8(1)	WP_294488044.1	WP_294488044.1 motility protein A 
+
+
+9(1)	WP_255361516.1	WP_255361516.1 MULTISPECIES: OmpA/MotB family protein 
+9(1)	WP_092321713.1	WP_092321713.1 OmpA/MotB family protein 
+9(1)	WP_012739064.1	WP_012739064.1 OmpA/MotB family protein 
+9(1)	WP_127017221.1	WP_127017221.1 OmpA family protein 
+9(1)	WP_120406314.1	WP_120406314.1 OmpA/MotB family protein 
+9(1)	WP_088554175.1	WP_088554175.1 OmpA family protein 
+9(1)	WP_092281782.1	WP_092281782.1 OmpA family protein 
+9(1)	WP_248624832.1	WP_248624832.1 flagellar motor protein MotB 
+9(1)	WP_058351164.1	WP_058351164.1 OmpA/MotB family protein 
+9(1)	WP_149543965.1	WP_149543965.1 OmpA/MotB family protein 
+9(1)	WP_425473425.1	WP_425473425.1 OmpA family protein 
+9(1)	WP_078809899.1	WP_078809899.1 OmpA/MotB family protein 
+9(1)	WP_463168243.1	WP_463168243.1 OmpA/MotB family protein 
+9(1)	WP_204700067.1	WP_204700067.1 flagellar motor protein MotB 
+9(1)	WP_013278584.1	WP_013278584.1 flagellar motor protein MotB 
+9(1)	WP_015923397.1	WP_015923397.1 OmpA/MotB family protein 
+9(1)	WP_027338699.1	WP_027338699.1 flagellar motor protein MotB 
+9(1)	WP_132014788.1	WP_132014788.1 OmpA/MotB family protein 
+9(1)	WP_294488042.1	WP_294488042.1 OmpA/MotB family protein 
+9(1)	WP_068716633.1	WP_068716633.1 OmpA/MotB family protein 
+
+
+10(1)	WP_149733677.1	WP_149733677.1 lytic transglycosylase domain-containing protein 
+10(1)	WP_132074620.1	WP_132074620.1 lytic transglycosylase domain-containing protein 
+10(1)	WP_312889781.1	WP_312889781.1 lytic transglycosylase domain-containing protein 
+10(1)	WP_147668018.1	WP_147668018.1 lytic transglycosylase domain-containing protein 
+
+
+11(1)	WP_088554168.1	WP_088554168.1 flagellar protein export ATPase FliI 
+11(1)	WP_129197118.1	WP_129197118.1 flagellar protein export ATPase FliI 
+
+

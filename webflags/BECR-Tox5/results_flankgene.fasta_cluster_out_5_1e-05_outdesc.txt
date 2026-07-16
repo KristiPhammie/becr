@@ -1,0 +1,259 @@
+1(1)	WP_273575545.1	WP_273575545.1 hypothetical protein 
+1(1)	WP_133621759.1	WP_133621759.1 hypothetical protein 
+1(1)	WP_247857893.1	WP_247857893.1 hypothetical protein 
+1(1)	WP_109284226.1	WP_109284226.1 hypothetical protein 
+1(1)	WP_106043034.1	WP_106043034.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_103165407.1	WP_103165407.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_025811510.1	WP_025811510.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_152550935.1	WP_152550935.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_251163204.1	WP_251163204.1 hypothetical protein 
+1(1)	WP_077836225.1	WP_077836225.1 hypothetical protein 
+1(1)	WP_296683539.1	WP_296683539.1 hypothetical protein 
+1(1)	WP_191211579.1	WP_191211579.1 hypothetical protein 
+1(1)	WP_270685540.1	WP_270685540.1 hypothetical protein 
+1(1)	WP_014097097.1	WP_014097097.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_157489044.1	WP_157489044.1 hypothetical protein 
+1(1)	WP_181656816.1	WP_181656816.1 hypothetical protein 
+1(1)	WP_024363443.1	WP_024363443.1 hypothetical protein 
+1(1)	WP_114030143.1	WP_114030143.1 hypothetical protein 
+1(1)	WP_204740990.1	WP_204740990.1 hypothetical protein 
+1(1)	WP_171781765.1	WP_171781765.1 hypothetical protein 
+1(1)	WP_251167211.1	WP_251167211.1 hypothetical protein 
+1(1)	WP_182212118.1	WP_182212118.1 hypothetical protein 
+1(1)	WP_136578371.1	WP_136578371.1 hypothetical protein 
+1(1)	WP_208212853.1	WP_208212853.1 hypothetical protein 
+1(1)	WP_103976989.1	WP_103976989.1 hypothetical protein 
+1(1)	WP_273554804.1	WP_273554804.1 hypothetical protein 
+1(1)	WP_118443075.1	WP_118443075.1 hypothetical protein 
+1(1)	WP_071731765.1	WP_071731765.1 hypothetical protein 
+1(1)	WP_236343060.1	WP_236343060.1 hypothetical protein 
+1(1)	WP_429216408.1	WP_429216408.1 hypothetical protein 
+1(1)	WP_186734845.1	WP_186734845.1 hypothetical protein 
+1(1)	WP_326179957.1	WP_326179957.1 hypothetical protein 
+1(1)	WP_103976987.1	WP_103976987.1 hypothetical protein 
+1(1)	WP_239349507.1	WP_239349507.1 hypothetical protein 
+1(1)	WP_157851729.1	WP_157851729.1 hypothetical protein 
+1(1)	WP_030103808.1	WP_030103808.1 hypothetical protein 
+1(1)	WP_182892659.1	WP_182892659.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_258724744.1	WP_258724744.1 hypothetical protein 
+1(1)	WP_116715979.1	WP_116715979.1 hypothetical protein 
+1(1)	WP_253887175.1	WP_253887175.1 hypothetical protein 
+1(1)	WP_020224856.1	WP_020224856.1 hypothetical protein 
+1(1)	WP_160647842.1	WP_160647842.1 hypothetical protein 
+1(1)	WP_279403089.1	WP_279403089.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_009155413.1	WP_009155413.1 hypothetical protein 
+1(1)	WP_024363444.1	WP_024363444.1 hypothetical protein 
+1(1)	WP_102692160.1	WP_102692160.1 hypothetical protein 
+1(1)	WP_042205288.1	WP_042205288.1 hypothetical protein 
+1(1)	WP_233730153.1	WP_233730153.1 hypothetical protein 
+1(1)	WP_212642296.1	WP_212642296.1 hypothetical protein 
+1(1)	WP_193326966.1	WP_193326966.1 hypothetical protein 
+1(1)	WP_273556805.1	WP_273556805.1 hypothetical protein 
+1(1)	WP_143101788.1	WP_143101788.1 hypothetical protein 
+1(1)	WP_275374551.1	WP_275374551.1 hypothetical protein 
+1(1)	WP_216464264.1	WP_216464264.1 hypothetical protein 
+1(1)	WP_136975269.1	WP_136975269.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_086817807.1	WP_086817807.1 hypothetical protein 
+1(1)	WP_188725377.1	WP_188725377.1 hypothetical protein 
+1(1)	WP_095262225.1	WP_095262225.1 hypothetical protein 
+1(1)	WP_201319378.1	WP_201319378.1 hypothetical protein 
+1(1)	WP_121416523.1	WP_121416523.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_155637963.1	WP_155637963.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_204723020.1	WP_204723020.1 hypothetical protein 
+1(1)	WP_038182656.1	WP_038182656.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_120381532.1	WP_120381532.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_217342747.1	WP_217342747.1 hypothetical protein 
+1(1)	WP_217593343.1	WP_217593343.1 hypothetical protein 
+1(1)	WP_103976986.1	WP_103976986.1 hypothetical protein 
+1(1)	WP_330290789.1	WP_330290789.1 hypothetical protein 
+1(1)	WP_049671128.1	WP_049671128.1 hypothetical protein 
+1(1)	WP_106901413.1	WP_106901413.1 hypothetical protein 
+1(1)	WP_274976070.1	WP_274976070.1 hypothetical protein 
+1(1)	WP_024363442.1	WP_024363442.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_120577952.1	WP_120577952.1 MULTISPECIES: hypothetical protein 
+1(1)	WP_234516899.1	WP_234516899.1 hypothetical protein 
+1(1)	WP_273556003.1	WP_273556003.1 hypothetical protein 
+1(1)	WP_158888831.1	WP_158888831.1 hypothetical protein 
+1(1)	WP_273577398.1	WP_273577398.1 hypothetical protein 
+1(1)	WP_103976988.1	WP_103976988.1 hypothetical protein 
+1(1)	WP_064465448.1	WP_064465448.1 hypothetical protein 
+
+
+2(1)	WP_040925770.1	WP_040925770.1 RHS repeat-associated core domain-containing protein 
+2(1)	WP_217593345.1	WP_217593345.1 hypothetical protein 
+2(1)	WP_280668952.1	WP_280668952.1 MULTISPECIES: LamG-like jellyroll fold domain-containing protein 
+2(1)	WP_133621760.1	WP_133621760.1 hypothetical protein 
+2(1)	WP_111334867.1	WP_111334867.1 RHS repeat-associated core domain-containing protein 
+2(1)	WP_243736172.1	WP_243736172.1 RHS repeat-associated core domain-containing protein, partial 
+2(1)	WP_307728343.1	WP_307728343.1 polymorphic toxin-type HINT domain-containing protein 
+2(1)	WP_052711183.1	WP_052711183.1 polymorphic toxin-type HINT domain-containing protein 
+2(1)	WP_159889372.1	WP_159889372.1 RHS repeat domain-containing protein 
+2(1)	WP_118443072.1	WP_118443072.1 DNRLRE domain-containing protein 
+2(1)	WP_236343063.1	WP_236343063.1 polymorphic toxin-type HINT domain-containing protein 
+2(1)	WP_147612187.1	WP_147612187.1 RHS repeat domain-containing protein, partial 
+2(1)	WP_020224858.1	WP_020224858.1 DUF6531 domain-containing protein 
+2(1)	WP_157617273.1	WP_157617273.1 DNRLRE domain-containing protein 
+2(1)	WP_330290787.1	WP_330290787.1 LamG domain-containing protein 
+2(1)	WP_119336944.1	WP_119336944.1 MULTISPECIES: RHS repeat-associated core domain-containing protein 
+2(1)	WP_182212116.1	WP_182212116.1 RHS repeat-associated core domain-containing protein 
+2(1)	WP_235929964.1	WP_235929964.1 alpha/beta fold hydrolase, partial 
+2(1)	WP_201319380.1	WP_201319380.1 fibronectin type III domain-containing protein, partial 
+2(1)	WP_371928895.1	WP_371928895.1 RHS repeat-associated core domain-containing protein 
+2(1)	WP_081072857.1	WP_081072857.1 MULTISPECIES: RHS domain-containing protein 
+
+
+3(1)	WP_030023890.1	WP_030023890.1 hypothetical protein 
+3(1)	WP_158888833.1	WP_158888833.1 hypothetical protein 
+3(1)	WP_030191085.1	WP_030191085.1 MULTISPECIES: hypothetical protein 
+3(1)	WP_258724742.1	WP_258724742.1 hypothetical protein 
+3(1)	WP_258724743.1	WP_258724743.1 hypothetical protein 
+3(1)	WP_234516901.1	WP_234516901.1 hypothetical protein 
+3(1)	WP_182892658.1	WP_182892658.1 hypothetical protein 
+
+
+4(1)	WP_060559309.1	WP_060559309.1 zinc ABC transporter ATP-binding protein ZnuC 
+4(1)	WP_103976992.1	WP_103976992.1 MULTISPECIES: amino acid ABC transporter ATP-binding protein 
+4(1)	WP_208212856.1	WP_208212856.1 ABC transporter ATP-binding protein 
+4(1)	WP_146553440.1	WP_146553440.1 ATP-binding cassette domain-containing protein 
+4(1)	WP_030888693.1	WP_030888693.1 MULTISPECIES: ABC transporter ATP-binding protein 
+4(1)	WP_024363439.1	WP_024363439.1 MULTISPECIES: amino acid ABC transporter ATP-binding protein 
+4(1)	WP_280668949.1	WP_280668949.1 MULTISPECIES: FHA domain-containing protein 
+
+
+5(1)	WP_159889365.1	WP_159889365.1 IS3 family transposase 
+5(1)	WP_157489045.1	WP_157489045.1 integrase core domain-containing protein 
+5(1)	WP_347474412.1	WP_347474412.1 DDE-type integrase/transposase/recombinase 
+5(1)	WP_156185613.1	WP_156185613.1 IS3 family transposase 
+5(1)	WP_218918414.1	WP_218918414.1 IS3 family transposase 
+5(1)	WP_429977231.1	WP_429977231.1 IS3 family transposase, partial 
+
+
+6(1)	WP_102692165.1	WP_102692165.1 S8 family peptidase 
+6(1)	WP_251167248.1	WP_251167248.1 S8 family serine peptidase 
+6(1)	WP_181020931.1	WP_181020931.1 S8 family peptidase 
+6(1)	WP_049671126.1	WP_049671126.1 S8 family serine peptidase 
+6(1)	WP_051147755.1	WP_051147755.1 S8 family peptidase 
+
+
+7(1)	WP_158888834.1	WP_158888834.1 FG-GAP-like repeat-containing protein 
+7(1)	WP_030023891.1	WP_030023891.1 S1 family peptidase, partial 
+7(1)	WP_030340822.1	WP_030340822.1 FG-GAP-like repeat-containing protein 
+7(1)	WP_258724741.1	WP_258724741.1 S1 family peptidase 
+
+
+8(1)	WP_077836274.1	WP_077836274.1 WXG100 family type VII secretion target 
+8(1)	WP_086815102.1	WP_086815102.1 hypothetical protein 
+8(1)	WP_241561525.1	WP_241561525.1 WXG100 family type VII secretion target 
+8(1)	WP_267061441.1	WP_267061441.1 hypothetical protein 
+
+
+9(1)	WP_190815199.1	WP_190815199.1 NPCBM/NEW2 domain-containing protein 
+9(1)	WP_190472366.1	WP_190472366.1 hypothetical protein 
+9(1)	WP_190472360.1	WP_190472360.1 MULTISPECIES: hypothetical protein 
+
+
+10(1)	WP_030103807.1	WP_030103807.1 tyrosine-type recombinase/integrase, partial 
+10(1)	WP_050704202.1	WP_050704202.1 MULTISPECIES: site-specific tyrosine recombinase XerD 
+10(1)	WP_217593346.1	WP_217593346.1 site-specific integrase 
+
+
+11(1)	WP_024363438.1	WP_024363438.1 amino acid ABC transporter permease 
+11(1)	WP_025219199.1	WP_025219199.1 MULTISPECIES: amino acid ABC transporter permease 
+
+
+12(1)	WP_023857639.1	WP_023857639.1 MULTISPECIES: hydantoinase B/oxoprolinase family protein 
+12(1)	WP_025811503.1	WP_025811503.1 MULTISPECIES: hydantoinase B/oxoprolinase family protein 
+
+
+13(1)	WP_025811512.1	WP_025811512.1 MULTISPECIES: DUF4274 domain-containing protein 
+13(1)	WP_014097101.1	WP_014097101.1 MULTISPECIES: DUF4274 domain-containing protein 
+
+
+14(1)	WP_030340825.1	WP_030340825.1 MBL fold metallo-hydrolase 
+14(1)	WP_030023887.1	WP_030023887.1 MBL fold metallo-hydrolase 
+
+
+15(1)	WP_024127810.1	WP_024127810.1 MULTISPECIES: ParA family protein 
+15(1)	WP_031424776.1	WP_031424776.1 ParA family protein 
+
+
+16(1)	WP_049671129.1	WP_049671129.1 hypothetical protein 
+16(1)	WP_049671125.1	WP_049671125.1 VOC family protein 
+
+
+17(1)	WP_053103750.1	WP_053103750.1 DUF5412 family protein 
+17(1)	WP_049671130.1	WP_049671130.1 DUF5412 family protein 
+
+
+18(1)	WP_069511480.1	WP_069511480.1 MULTISPECIES: amino acid ABC transporter substrate-binding protein 
+18(1)	WP_024363437.1	WP_024363437.1 MULTISPECIES: amino acid ABC transporter substrate-binding protein 
+
+
+19(1)	WP_114030145.1	WP_114030145.1 hypothetical protein 
+19(1)	WP_114030141.1	WP_114030141.1 hypothetical protein 
+
+
+20(1)	WP_091671505.1	WP_091671505.1 DUF6541 family protein 
+20(1)	WP_143101790.1	WP_143101790.1 DUF6541 family protein 
+
+
+21(1)	WP_178116101.1	WP_178116101.1 hypothetical protein 
+21(1)	WP_159889370.1	WP_159889370.1 hypothetical protein 
+
+
+22(1)	WP_190815201.1	WP_190815201.1 Tat pathway signal protein 
+22(1)	WP_190472363.1	WP_190472363.1 MULTISPECIES: hypothetical protein 
+
+
+23(1)	WP_106901418.1	WP_106901418.1 hypothetical protein 
+23(1)	WP_216464265.1	WP_216464265.1 hypothetical protein 
+
+
+24(1)	WP_217593341.1	WP_217593341.1 hypothetical protein 
+24(1)	WP_217593340.1	WP_217593340.1 hypothetical protein 
+
+
+25(1)	WP_248773362.1	WP_248773362.1 MULTISPECIES: DUF6507 family protein 
+25(1)	WP_212642295.1	WP_212642295.1 DUF6507 family protein 
+
+
+26(1)	WP_250932006.1	WP_250932006.1 hypothetical protein 
+26(1)	WP_250931492.1	WP_250931492.1 zincin-like metallopeptidase toxin domain-containing protein 
+
+
+27(1)	WP_270685543.1	WP_270685543.1 C2 family cysteine protease 
+27(1)	WP_270685537.1	WP_270685537.1 hypothetical protein 
+
+
+28(1)	WP_273575547.1	WP_273575547.1 hypothetical protein 
+28(1)	WP_273575549.1	WP_273575549.1 hypothetical protein 
+
+
+29(1)	WP_204723022.1	WP_204723022.1 sigma factor-like helix-turn-helix DNA-binding protein 
+29(1)	WP_274976066.1	WP_274976066.1 sigma-70 family RNA polymerase sigma factor 
+
+
+30(1)	WP_212642294.1	WP_212642294.1 DUF6177 family protein 
+30(1)	WP_274976067.1	WP_274976067.1 DUF6177 family protein 
+
+
+31(1)	WP_274976073.1	WP_274976073.1 hypothetical protein 
+31(1)	WP_274976072.1	WP_274976072.1 hypothetical protein 
+
+
+32(1)	WP_253887178.1	WP_253887178.1 response regulator 
+32(1)	WP_280668957.1	WP_280668957.1 MULTISPECIES: response regulator transcription factor 
+
+
+33(1)	WP_290370422.1	WP_290370422.1 hypothetical protein 
+33(1)	WP_236343064.1	WP_236343064.1 hypothetical protein 
+
+
+34(1)	WP_116715982.1	WP_116715982.1 propionyl-CoA synthetase 
+34(1)	WP_373567313.1	WP_373567313.1 salicylate synthase 
+
+
+35(1)	WP_419836516.1	WP_419836516.1 type VI secretion system tip protein TssI/VgrG 
+35(1)	WP_060086184.1	WP_060086184.1 type VI secretion system Vgr family protein 
+
+
