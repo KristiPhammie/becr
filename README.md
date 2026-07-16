@@ -366,7 +366,7 @@ Quick links:
 [XendoU]: https://KristiPhammie.github.io/becr/html/XendoU.html
 [XendoU.2]: https://KristiPhammie.github.io/becr/html/XendoU.2.html
 [EndoU]: https://KristiPhammie.github.io/becr/html/EndoU.html
-[EndoU.2]: https://KristiPhammie.github.io/becr/html/EndoU.2.html
+[BECR-Tox5]: https://KristiPhammie.github.io/becr/html/EndoU.2.html
 [EndoU.3]: https://KristiPhammie.github.io/becr/html/EndoU.3.html
 [EndoU.4]: https://KristiPhammie.github.io/becr/html/EndoU.4.html
 [BC0920]: https://KristiPhammie.github.io/becr/html/BC0920.html
