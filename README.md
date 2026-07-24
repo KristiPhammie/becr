@@ -2,14 +2,26 @@
 
 This page provides supplemental information for all  BECR-fold proteins identified in our comprehensive classfication study on the BECR superfamily. Each table represents a BECR structural subclass with a protein family in each row. The columns include:
 
-Quick links:
+Toxin Family: Name of toxin family
+Genome Context: Rotifer (PDF) or WebFlaGs collected gene neighborhoods (.pdf, outdesc.txt (description of the gene clusters), operon.tsv)
+Model: PFAM (if available), Citation of original source, or 'This Resource'
+Molx: Annotated representative structure
+
+Quick links for BECR class:
 [Colicin-like](https://kristiphammie.github.io/becr/#colicin-like)
+
 [RelE-like](https://kristiphammie.github.io/becr/#rele-like)
+
 [EndoU-like](https://kristiphammie.github.io/becr/#endou-like)
+
 [RNaseA-like](https://kristiphammie.github.io/becr/#rnasea-like)
+
 [Ntox49-like](https://kristiphammie.github.io/becr/#ntox49-like)
+
 [Barnase-like](https://kristiphammie.github.io/becr/#barnase-like)
+
 [BECR-like](https://kristiphammie.github.io/becr/#becr-like-like)
+
 [Other BECRs](https://kristiphammie.github.io/becr/#other-becrs)
 
 ## Colicin-like
@@ -18,7 +30,7 @@ Quick links:
 |--------------|----------------|----------------|---------------------------------|
 | BECR-Tox1 | [View][BECR-Tox1_gn] | [This Resource][BECR-Tox1] | [A0A417CPW8][BECR-Tox1_molx] |
 | BECR-Tox3 | [View][BECR-Tox3_gn] | [This Resource][BECR-Tox3] | [A0A3C1G575][BECR-Tox3_molx] |
-| BECR-Tox5 | WebFlaGs: [pdf][BECR-Tox5_pdf] [operon.tsv][BECR-Tox5_tsv] [outdesc.txt][BECR-Tox5_txt] | [This Resource][BECR-Tox5] | [A0A1V4H847][BECR-Tox5_molx] |
+| BECR-Tox5 | WebFlaGs: [pdf][BECR-Tox5_pdf] [operon.tsv][BECR-Tox5_tsv] [outdesc.txt][BECR-Tox5_txt] | [This Resource][EndoU.2] | [A0A1V4H847][EndoU.2_molx] |
 | Colicin D | [View][ColicinD_gn] | [PF11429][ColicinD_model] | [1V74][ColicinD_molx] |
 | ColicinD.2 | [View][ColicinD.2_gn] | [This Resource][ColicinD.2] | [A0A212J498][ColicinD.2_molx] |
 | Colicin E5 | [View][ColicinE5_gn] | [PF12106][ColicinE5_model] | [2DFX][ColicinE5_molx] |
@@ -96,8 +108,8 @@ Quick links:
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
-| BECR-Tox6 | [View][BECR-Tox6_gn] | [PF15657][BECR-Tox6_pfam] [This Resource][BECR-Tox6_kristi] | [U2R0G2][PF15657_molx] |
-| BECR-Tox6.2 | [View][BECR-Tox6.2_gn] | [This Resource][BECR-Tox6.2] | [A0A1N7BT64][BECR-Tox6.2_molx] |
+| BECR-Tox6 | [View][EndoVII_gn] | [PF15657][EndoVII_pfam] [This Resource][EndoVII_kristi] | [U2R0G2][PF15657_molx] |
+| BECR-Tox6.2 | [View][EndoVII.2_gn] | [This Resource][EndoVII.2] | [A0A1N7BT64][EndoVII.2_molx] |
 | Ntox7 | [View][Ntox7_gn] | [Nicastro et al., 2025][Ntox7] | [A0A5J5FSA8][Ntox7_molx] |
 | Ntox7.2 | [View][Ntox7.2_gn] | [This Resource][Ntox7.2] | [A0A369YFT7][Ntox7.2_molx] |
 | Ntox7.3 | WebFlaGs: [pdf][Ntox7.3_pdf] [operon.tsv][Ntox7.3_tsv] [outdesc.txt][Ntox7.3_txt] | [This Resource][Ntox7.3] | [A0A7Y4YHE2][Ntox7.3_molx] |
@@ -366,7 +378,7 @@ Quick links:
 [XendoU]: https://KristiPhammie.github.io/becr/html/XendoU.html
 [XendoU.2]: https://KristiPhammie.github.io/becr/html/XendoU.2.html
 [EndoU]: https://KristiPhammie.github.io/becr/html/EndoU.html
-[EndoU.2]: https://KristiPhammie.github.io/becr/html/EndoU.2.html
+[EndoU.2]: https://KristiPhammie.github.io/becr/html/BECR-Tox5.html
 [EndoU.3]: https://KristiPhammie.github.io/becr/html/EndoU.3.html
 [EndoU.4]: https://KristiPhammie.github.io/becr/html/EndoU.4.html
 [BC0920]: https://KristiPhammie.github.io/becr/html/BC0920.html
@@ -480,7 +492,7 @@ Quick links:
 [XendoU_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/XendoU.molx&snapshot-url-type=molx
 [XendoU.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/XendoU.2.molx&snapshot-url-type=molx
 [EndoU_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoU.molx&snapshot-url-type=molx
-[EndoU.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoU.2.molx&snapshot-url-type=molx
+[EndoU.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BECR-Tox5.molx&snapshot-url-type=molx
 [EndoU.3_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoU.3.molx&snapshot-url-type=molx
 [EndoU.4_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoU.4.molx&snapshot-url-type=molx
 [BC0920_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BC0920.molx&snapshot-url-type=molx
