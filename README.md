@@ -3,24 +3,30 @@
 This page provides supplemental information for all  BECR-fold proteins identified in our comprehensive classfication study on the BECR superfamily. Each table represents a BECR structural subclass with a protein family in each row. The columns include:
 
 Toxin Family: Name of toxin family
+
 Genome Context: Rotifer (PDF) or WebFlaGs collected gene neighborhoods (.pdf, outdesc.txt (description of the gene clusters), operon.tsv)
+
 Model: PFAM (if available), Citation of original source, or 'This Resource'
+
 Molx: Annotated representative structure
 
 Quick links for BECR class:
+
 [Colicin-like](https://kristiphammie.github.io/becr/#colicin-like)
 
 [RelE-like](https://kristiphammie.github.io/becr/#rele-like)
 
 [EndoU-like](https://kristiphammie.github.io/becr/#endou-like)
 
-[RNaseA-like](https://kristiphammie.github.io/becr/#rnasea-like)
+[RNase A-like](https://kristiphammie.github.io/becr/#rnase-a-like)
 
 [Ntox49-like](https://kristiphammie.github.io/becr/#ntox49-like)
 
 [Barnase-like](https://kristiphammie.github.io/becr/#barnase-like)
 
 [BECR-like](https://kristiphammie.github.io/becr/#becr-like-like)
+
+[RNase T2-like](https://kristiphammie.github.io/becr/#rnase-t2-like)
 
 [Other BECRs](https://kristiphammie.github.io/becr/#other-becrs)
 
@@ -147,6 +153,9 @@ Quick links for BECR class:
 | STox_55 | [View][STox_55_gn] | [Nicastro et al., 2025][STox_55] | [WP_117405990.1][STox_55_molx] |
 
 ## RNase T2-like
+
+| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
+|--------------|----------------|----------------|---------------------------------|
 
 | RNase T2 | WebFlaGs: [pdf][RNaseT2_pdf] [operon.tsv][RNaseT2_tsv] [outdesc.txt][RNaseT2_txt] | [PF00445][RNaseT2_model] | [2EA1][RNaseT2_molx] |
 
