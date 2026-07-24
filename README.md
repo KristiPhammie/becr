@@ -2,15 +2,12 @@
 
 This page provides supplemental information for all  BECR-fold proteins identified in our comprehensive classfication study on the BECR superfamily. Each table represents a BECR structural subclass with a protein family in each row. The columns include:
 
-Toxin Family
-Genome C
-
 Quick links:
 [Colicin-like](https://kristiphammie.github.io/becr/#colicin-like)
 [RelE-like](https://kristiphammie.github.io/becr/#rele-like)
 [EndoU-like](https://kristiphammie.github.io/becr/#endou-like)
 [RNaseA-like](https://kristiphammie.github.io/becr/#rnasea-like)
-[EndoVII-like](https://kristiphammie.github.io/becr/#endovii-like)
+[Ntox49-like](https://kristiphammie.github.io/becr/#ntox49-like)
 [Barnase-like](https://kristiphammie.github.io/becr/#barnase-like)
 [BECR-like](https://kristiphammie.github.io/becr/#becr-like-like)
 [Other BECRs](https://kristiphammie.github.io/becr/#other-becrs)
@@ -30,11 +27,6 @@ Quick links:
 | CdiA-CT EC869 | [View][CdiA-CT_EC869_gn] | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
 | CdiA-CT NC101 | [View][CdiA-CT_NC101_gn] | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |
 | CdiA-CT 96.154 | [View][CdiA-CT_96.154_gn] | [PF14076][CdiA-CT_96.154_pfam] [This Resource][CdiA-CT_96.154_kristi] | [D9SFT1][CdiA-CT_96.154_molx] |
-| DUF4258.2 | [View][DUF4258.2_gn] | [This Resource][DUF4258.2] | [A0A838VH86][DUF4258.2_molx] |
-| DUF4258.3 | WebFlaGs: [pdf][DUF4258.3_pdf] [operon.tsv][DUF4258.3_tsv] [outdesc.txt][DUF4258.3_txt] | [This Resource][DUF4258.3] | [A0A1F7XZ82][DUF4258.3_molx] |
-| DUF4258.4 | WebFlaGs: [pdf][DUF4258.4_pdf] [operon.tsv][DUF4258.4_tsv] [outdesc.txt][DUF4258.4_txt] | [This Resource][DUF4258.4] | [D2UA17][DUF4258.4_molx] |
-| DUF4258.5 | [View][DUF4258.5_gn] | [This Resource][DUF4258.5] | [A0A268EH04][DUF4258.5_molx] |
-| RNase T2 | WebFlaGs: [pdf][RNaseT2_pdf] [operon.tsv][RNaseT2_tsv] [outdesc.txt][RNaseT2_txt] | [PF00445][RNaseT2_model] | [2EA1][RNaseT2_molx] |
 | MuF-like | [View][MuF-like_gn] | [PF18819][MuF-like_pfam] [This Resource][MuF-like_kristi] | [A0A096XES0][MuF-like_molx] |
 | Ntox35 | [View][Ntox35_gn] | [PF15534][Ntox35] | [A0A1H3F8X0][Ntox35_molx] |
 | Ntox35.2 | [View][Ntox35.2_gn] | [This Resource][Ntox35.2] | [A0A841I6D6][Ntox35.2_molx] |
@@ -45,13 +37,17 @@ Quick links:
 | PBECR4.2 | [View][PBECR4.2_gn] | [This Resource][PBECR4.2] | [A0A2V2DIW2][PBECR4.2_molx] |
 | Ntox19 | [View][Ntox19_gn] | [Nicastro et al., 2025][Ntox19] | [A0A5E7QDQ0][Ntox19_molx] |
 | Ntox49 | [View][Ntox49_gn] | [Nicastro et al., 2025][Ntox49] | [A0A7H0VXI5][Ntox49_molx] |
+| Ntox49.2 | [View][DUF4258.2_gn] | [This Resource][DUF4258.2] | [A0A838VH86][DUF4258.2_molx] |
+| Ntox49.3 | WebFlaGs: [pdf][DUF4258.3_pdf] [operon.tsv][DUF4258.3_tsv] [outdesc.txt][DUF4258.3_txt] | [This Resource][DUF4258.3] | [A0A1F7XZ82][DUF4258.3_molx] |
+| Ntox49.4 | WebFlaGs: [pdf][DUF4258.4_pdf] [operon.tsv][DUF4258.4_tsv] [outdesc.txt][DUF4258.4_txt] | [This Resource][DUF4258.4] | [D2UA17][DUF4258.4_molx] |
+| Ntox49.5 | [View][DUF4258.5_gn] | [This Resource][DUF4258.5] | [A0A268EH04][DUF4258.5_molx] |
 
 
 ## RelE-like
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
-| RelE (E. coli) | [View][RelE_E.coli_gn] | [This Resource][RelE_E.coli] | [4FXI][RelE_E.coli_molx] |
+| RelE (Eschericia coli) | [View][RelE_E.coli_gn] | [This Resource][RelE_E.coli] | [4FXI][RelE_E.coli_molx] |
 | RelE (Methanococcus jannaschii) | [View][RelE_M.jannaschii_gn] | [PF06296][RelE_M.jannaschii] | [3BPQ][RelE_M.jannaschii_pdb_molx] [A0A917YVE8][RelE_M.jannaschii_afdb_molx] |
 | ParE | [View][ParE_gn] | [PF05016][ParE_pfam] [This Resource][ParE_kristi] | [A0A4V1BZU9][ParE_molx] |
 | ParE.2 | [View][ParE.2_gn] | [This resource][ParE.2] | [A0A0C1YHU8][ParE.2_molx] |
@@ -84,24 +80,24 @@ Quick links:
 | BC0920 | [View][BC0920_gn] | [This Resource][BC0920] | [Q813X6][BC0920_molx] |
 | STox_60 | [View][STox_60_gn] | [Nicastro et al., 2025][STox_60] | [WP_029789863.1][STox_60_molx] |
 
-## RNaseA-like
+## RNase A-like
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
 | RNase A | WebFlaGs: [pdf][RNaseA_pdf] [operon.tsv][RNaseA_tsv] [outdesc.txt][RNaseA_txt] | [PF00074][RNaseA_model] | [4WYN][RNaseA_molx] |
-| RNaseA.2 | WebFlaGs: [pdf][RNaseA.2_pdf] [operon.tsv][RNaseA.2_tsv] [outdesc.txt][RNaseA.2_txt] | [This Resource][RNaseA.2] | [A0A3B1IEH8][RNaseA.2_molx] |
+| RNase A.2 | WebFlaGs: [pdf][RNaseA.2_pdf] [operon.tsv][RNaseA.2_tsv] [outdesc.txt][RNaseA.2_txt] | [This Resource][RNaseA.2] | [A0A3B1IEH8][RNaseA.2_molx] |
 | CdiA-CT Ykris | [View][CdiA-CTYkris_gn] | [PF18431][CdiA-CT_Ykris] | [5E3E][CdiA-CT_Ykris_molx] |
 | Ntox41 | [View][Ntox41_gn] | [Zhang et al., 2012][Ntox41] | [A0A0E0USU5][Ntox41_molx] |
 | Ntox41.2 | WebFlaGs: [pdf][Ntox41.2_pdf] [operon.tsv][Ntox41.2_tsv] [outdesc.txt][Ntox41.2_txt] | [This Resource][Ntox41.2] | [A0A1Q4EYU6][Ntox41.2_molx] |
 | Ntox50 | [View][Ntox50_gn] | [PF15542][Ntox50] | [A0AAF0CX04][Ntox50_molx] |
 | Ntox50.2 | [View][Ntox50.2_gn] | [This Resource][Ntox50.2] | [A0A2G6EE91][Ntox50.2_molx] |
 
-## EndoVII-like
+## Ntox49-like
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
-| EndoVII | [View][EndoVII_gn] | [PF15657][EndoVII_pfam] [This Resource][EndoVII_kristi] | [U2R0G2][PF15657_molx] |
-| EndoVII.2 | [View][EndoVII.2_gn] | [This Resource][EndoVII.2] | [A0A1N7BT64][EndoVII.2_molx] |
+| BECR-Tox6 | [View][BECR-Tox6_gn] | [PF15657][BECR-Tox6_pfam] [This Resource][BECR-Tox6_kristi] | [U2R0G2][PF15657_molx] |
+| BECR-Tox6.2 | [View][BECR-Tox6.2_gn] | [This Resource][BECR-Tox6.2] | [A0A1N7BT64][BECR-Tox6.2_molx] |
 | Ntox7 | [View][Ntox7_gn] | [Nicastro et al., 2025][Ntox7] | [A0A5J5FSA8][Ntox7_molx] |
 | Ntox7.2 | [View][Ntox7.2_gn] | [This Resource][Ntox7.2] | [A0A369YFT7][Ntox7.2_molx] |
 | Ntox7.3 | WebFlaGs: [pdf][Ntox7.3_pdf] [operon.tsv][Ntox7.3_tsv] [outdesc.txt][Ntox7.3_txt] | [This Resource][Ntox7.3] | [A0A7Y4YHE2][Ntox7.3_molx] |
@@ -137,6 +133,10 @@ Quick links:
 | STox_4 | [View][STox_4_gn] | [Nicastro et al., 2025][STox_4] | [A0A3Y4H1N0][STox_4_molx] |
 | STox_4.2 | [View][STox_4.2_gn] | [This Resource][STox_4.2] | [A0A7V8VAQ0][STox_4.2_molx] |
 | STox_55 | [View][STox_55_gn] | [Nicastro et al., 2025][STox_55] | [WP_117405990.1][STox_55_molx] |
+
+## RNase T2-like
+
+| RNase T2 | WebFlaGs: [pdf][RNaseT2_pdf] [operon.tsv][RNaseT2_tsv] [outdesc.txt][RNaseT2_txt] | [PF00445][RNaseT2_model] | [2EA1][RNaseT2_molx] |
 
 ## Other BECRs
 
