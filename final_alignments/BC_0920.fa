@@ -1,0 +1,1435 @@
+>UniRef100_UPI0019159993/1-143 EndoU domain-containing protein n=1 Tax=Ktedonobacter sp. SOSP1-85 TaxID=2778367 RepID=UPI0019159993
+----------------GS---------------LANTGNFLTG-----ALDHIFFG----DV---KT-----
+---RKGKS-------------------IFG----GFHYA---------------------------AAN---
+------ALGKIVKVIS-------------TNPD--------GVFTAQ------VNGPG-G------------
+-------------------LPKN-G-NGG------ISTFFPTSMGPQDVVDAINTAYSNAY-----------
+--P----------S--G-FVAGS-----------KNT--------------------YEYTF--TSGPY---
+--TG------MVIDMYIN---------AA----G-K---IISAFPVR
+>UniRef100_A0A2S8V6M8/1-141 Bacterial EndoU nuclease domain-containing protein (Fragment) n=1 Tax=Bacillus sp. MYb78 TaxID=1827288 RepID=A0A2S8V6M8_9BACI
+---------LSTSEIISS---------------LQETENFRSN-----SLKHILEG----EI---N------
+---RRG---------------------EAT----GYHSE---------------------------FL----
+---EN-THGRIIPGTD-------------RNIND------YGAYKAQ------VE-VD-G------------
+-------------------IPKA-V-NGG------YSTFFPKDWHPQQIVDNINEAYS--------------
+--N----------K--I-HMGGN-----------TNI--------------------YDGVG--ID------
+---G------LPIRLFLD---------GN----G-K---IISAFPR-
+>UniRef100_UPI0010367475/1-138 EndoU domain-containing protein n=1 Tax=Bacillus TaxID=1386 RepID=UPI0010367475
+--------------SMWD---------------LKNTEKFSSR-----AIEHIFEG----EI---N------
+---SKG---------------------QAV----GFHTE---------------------------ILT---
+--INN-TRGSIIPGTE-------------QDFNE------YGVYKAK------VK-IN-G------------
+-------------------IPKK-E-NNG------FSTFFPKDWYPQRIIDNINEAYN--------------
+--T----------K--I-HRSGT-----------INI--------------------YDGTG--ID------
+---G------LPIRLYLN---------NN----G-E---ILNAHPI-
+>UniRef100_UPI000E8BA0FF/1-137 EndoU domain-containing protein n=1 Tax=Coprococcus sp. AF16-22 TaxID=2293087 RepID=UPI000E8BA0FF
+-------------SILNS---------------LKNTENFTDS-----AIEHIFEG----QV---N------
+---ARG---------------------KAV----GYHYE---------------------------GI----
+---EG-TSGNVIPGTE-------------SSVNN------FGVYKAQ------VE-VN-G------------
+-------------------IPKT-A-NGG------FSTFYSKNLSPQQVVDAINEAYS--------------
+--N----------C--E-LKLGT-----------RNT--------------------YQGVA--NN------
+---G------MKIDMFLD---------QS----G-K---IISAFPE-
+>UniRef100_A0A173VZ82/1-139 Bacterial EndoU nuclease domain-containing protein n=3 Tax=Bacillota TaxID=1239 RepID=A0A173VZ82_9FIRM
+---GK--------SSLIE---------------LKNTDNFMDS-----TIEHIFEG----NV---R------
+----RG---------------------KAG----GYHYE---------------------------CI----
+---KD-TAGNIVNGTE-------------VLIND------LGVYKAQ------VE-VN-G------------
+-------------------IPKS-G-NGG------YSTFFPKEKSPQDVIDSINEAYN--------------
+--N----------K--V-FVVGS-----------KNS--------------------YIGIS--NN------
+---G------LEIEMYIN---------NN----G-K---IISAFPKE
+>UniRef100_UPI001F4FD4CB/1-139 EndoU domain-containing protein n=1 Tax=Streptococcus parasanguinis TaxID=1318 RepID=UPI001F4FD4CB
+-------------DDLAN---------------LKHTENFTEK-----SLSHIFEG----DI---N------
+---RRG---------------------QAG----GYHYD---------------------------MV----
+---EG-NSGKIIEGTKG------------PALND------AGVYEAK------VE-VN-G------------
+-------------------TLKK-A-NGG------NSTFFPDHMSPQEVVDTINEAYE--------------
+--A----------R--V-FDTNS-----------RNI--------------------YEGIS--KN------
+---G------MKITMYLD---------SN----E-K---IISAFPSS
+>UniRef100_UPI001FDA96A6/1-133 EndoU domain-containing protein n=1 Tax=Streptococcus oricebi TaxID=1547447 RepID=UPI001FDA96A6
+-------------EVLEQ---------------LEHTESFREN-----TVKHIFEG----EV----------
+---RRR---------------------QAK----GYHYV---------------------------NI----
+---EG-TAGEAIPDTR--------------VDLG------NGVYEVD------VK-VN-G------------
+-------------------VIK-----HA------KSTIFPDTMSPQEVVDVINEAYN--------------
+--N----------R--E-YIEGT-----------RNT--------------------YSGTA--KN------
+---G------IKIDMFLD---------KN----G-K---IISAFPSQ
+>UniRef100_UPI0012DE5EA1/1-138 EndoU domain-containing protein n=1 Tax=Streptococcus ruminantium TaxID=1917441 RepID=UPI0012DE5EA1
+-----------RIE-LSK---------------LNNTKNFTEK-----SIKHIFEG----EI---N------
+--PNTK---------------------KAV----GYHYD---------------------------GI----
+---KG-TIGDEIPDTKH------------NINPE------TRVYDAH------IK-VE-G------------
+-------------------TLKT-S-NDA------VSTMFPRDYSPQEVIDSINEAYS--------------
+--N----------R--E-FIRG-------------NT--------------------YQGIS--KS------
+---G------IKITMYLD---------KD----G-K---IISAFPD-
+>UniRef100_A0A4Q4IJH9/1-147 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Sporolactobacillus sp. THM19-2 TaxID=2511171 RepID=A0A4Q4IJH9_9BACL
+----KSNNTSEPITSIDK---------------LKNTDKFRRG-----ALEHILEG----QL---N------
+---ARG---------------------KAV----GYHSE---------------------------SI----
+---PD-TPGRIIPGTE-------------SAPNK------YGVYKAK------IE-VN-N------------
+-------------------IPKT-A-NGG------ESTFFPENWDAQKIVESINEAFE--------------
+--N----------R--Q-FIEGT-----------RNT--------------------FIGEL--SN------
+---G------MQIQMYID--------MKS----G-K---IISSFSI-
+>UniRef100_C3AVP3/1-143 Hypothetical Cytosolic Protein n=5 Tax=Bacillus pseudomycoides TaxID=64104 RepID=C3AVP3_9BACI
+--------VKKFIDSIDD---------------LKDTGNFRDD----RAVKHVFEG----EI---N------
+---ARG---------------------QAV----GYHSE---------------------------VM----
+---PN-SPGRPIPGTE-------------SSPNQ------YGVYRAE------IE-VN-G------------
+-------------------VPKT-S-NGG------ISTFFPKDWDAQEIVNAINEAYR--------------
+--N----------K--Q-FVPGT-----------RNT--------------------YVGDL--PN------
+---G------MEIQMYIN---------GD----G-K---IISAYPL-
+>UniRef100_UPI001FB654CC/1-138 EndoU domain-containing protein n=1 Tax=Clostridium butyricum TaxID=1492 RepID=UPI001FB654CC
+----------SYVKSIDD---------------LKNTENFKDS-----ALKHILEG----EI---N------
+---KRG---------------------KAV----GFHYE---------------------------GF----
+---PT-TKGNIIEGTK-------------SLPDE------LGVYTGR------VE-VS-G------------
+-------------------IPKT-S-NGG------QSTFFPESWTAQDIVDAINQAYV--------------
+--N----------K--T-FVRG-------------NT--------------------YIGTL--PS------
+---G------MKIEMFID--------QYG----N-----IISAYPK-
+>UniRef100_UPI000B00D86B/1-136 EndoU domain-containing protein n=1 Tax=Clostridium saccharobutylicum TaxID=169679 RepID=UPI000B00D86B
+-------------KSISD---------------LKNTDKFRSG-----ALEHILEG----EL---N------
+---ARS---------------------KAV----GFHYE---------------------------GM----
+---PT-AKGNIIPGTE-------------SVPNK------FGVYTAK------VE-VN-G------------
+-------------------VPKT-A-NGG------ISSFYPKTWNAQDMVDEINQAYN--------------
+--N----------R--A-FKSG-------------NE--------------------FYGYA--ST------
+---G------LKIKMYID--------SNT----N-K---IISAFPD-
+>UniRef100_UPI001626882A/1-135 EndoU domain-containing protein n=1 Tax=Listeria TaxID=1637 RepID=UPI001626882A
+-------------AKLNS---------------LKNIEKFKNG-----SLEHIFAG----EV---N------
+---RKG---------------------KAV----GFHSE---------------------------TI----
+---PD-SPGKVIPGTK-------------SKTNK------NGVYEAK------IE-VN-G------------
+-------------------IPKK-S-NKG------KSSFFPENWTAQKIVDEINHAFS--------------
+--N----------K--S-HIDG-------------NI--------------------YLGEA--SN------
+---G------IKIQMYLD---------KQ----D-K---IISAFPI-
+>UniRef100_UPI001D134611/1-135 EndoU domain-containing protein n=1 Tax=Oceanobacillus sp. CFH 90083 TaxID=2592336 RepID=UPI001D134611
+-------------TRIDN---------------LQNTDNFRKG-----SLGHIFEG----EL---N------
+---RKG---------------------QAV----GFHSE---------------------------ST----
+---PN-SSGRVVSGTE-------------SEINK------YGVYEAN------VE-IN-G------------
+-------------------IPKV-G-NSG------KSSFFPKEWDAQIIVDEINHAFS--------------
+--N----------K--I-LIRG-------------NT--------------------YVGRA--SN------
+---G------MEITMYID---------KN----N-Q---IISAFPT-
+>UniRef100_A0A2V3W6W4/1-135 EndoU nuclease-like protein n=1 Tax=Pseudogracilibacillus auburnensis TaxID=1494959 RepID=A0A2V3W6W4_9BACI
+-------------TAITD---------------LEHTEYFRNL-----ALEHILEG----EI---N------
+---KKG---------------------AAV----GFHYD---------------------------RL----
+---PT-KKGEVIEGTE-------------TKPNE------LGVYEAE------VV-VN-H------------
+-------------------VEKT-S-NGG------KSTFFPKDWDTQQVVDAINEAYE--------------
+--S----------K--E-FISG-------------NT--------------------YEGLT--KE------
+---G------MVIRMYVD---------EQ----E-K---IISAFPI-
+>UniRef100_UPI0018847FFD/1-138 EndoU domain-containing protein n=1 Tax=Clostridium chrysemydis TaxID=2665504 RepID=UPI0018847FFD
+-------------NSIAD---------------LQNTENFRHG-----ALKHILEG----EI---N------
+---KRG---------------------KAV----GFHYE---------------------------GF----
+---PG-SKGKVIEGTS-------------SKPNK------YGVYTAE------VE-VD-G------------
+-------------------VKKT-S-NKG------RSTLYPKDWTPQQVVDAINEAYN--------------
+--D----------R--Q-YVKGS-----------KDT--------------------YMGET--KE------
+---G------MQISMYLD--------QKT----G-K---IISAFPM-
+>UniRef100_A0A351F0N5/1-117 Bacterial EndoU nuclease domain-containing protein (Fragment) n=1 Tax=Saprospirales bacterium TaxID=2026790 RepID=A0A351F0N5_9BACT
+--------------------------------------------------QHSKNG----IV----------
+---NRSGVS-------------------------GIH-----------------------------LY----
+----DKDKIKIIKLLK--------------TDQN------TGIFEAE------IA-VL-N------------
+----ERSGK---------FIKKQ---G--------KSSFFPTNWGLQTLILECFSAYM--------------
+--N----------KN-----------------------------------E-IDEFTFHGTT--SS------
+---G------IKLEFVYDNK-------------G-T---FKSVYPI-
+>UniRef100_A0A1B8ZC08/1-117 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Chryseobacterium artocarpi TaxID=1414727 RepID=A0A1B8ZC08_9FLAO
+------------------------------------------------IMQHSLNG----RI----------
+---SSDDVS-------------------------GIH-----------------------------LI----
+-----SEKVKIIEVIK--------------EELD------LGIKKCI------IE-VF-N------------
+----ERTGK---------WILKS---E--------PTTFFPEHWDLQLLINECYFAFS--------------
+--T----------KI-----------------------------------Q-INNYTFQGVT--SQ------
+---G------ITLEFIIKN--------------G-E---LRTVYPL-
+>UniRef100_A0A388Q266/1-120 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Filimonas sp. TaxID=1954253 RepID=A0A388Q266_9BACT
+----------------------------------------------PYMMDHIVHG----EL----------
+---RRGKYV-------------------------GIH-----------------------------FF----
+----QEALHRVEEMTK--------------QPNQ------QGVWEAR------IN-IR-H------------
+----HKTKV---------WGKKE---K--------ASTFFPLSWDHDTLVLKLKEAFA--------------
+--N----------RK-----------------------------------R-MYSYKYVGQT--HC------
+---G------VTISFVFRD--------------Q-K---VVSCFPL-
+>UniRef100_A0A255ZQ09/1-119 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Flavobacterium aurantiibacter TaxID=2023067 RepID=A0A255ZQ09_9FLAO
+------------------------------------------------SWEHIVNG----DF----------
+---KSDGVI-------------------------GMH-----------------------------FF----
+----NPDRIRILEKIS--------------E-ND------QGVVSAL------IE-VK-A------------
+----KNSDC---------WKSPK---K--------AKTLFPFHWTASRLLAELHVAFD--------------
+--S----------K--V-AVTDSK---NK----------------------------FHSVT--DS------
+---G------IKVIFVIVN--------------G-K---MKTVYPI-
+>UniRef100_A0A3P1ATZ4/1-117 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Flavobacterium viscosum TaxID=2488729 RepID=A0A3P1ATZ4_9FLAO
+------------------------------------------------FLNHSFVP----KF----------
+---KNGEIS-------------------------GIH-----------------------------FF----
+----EPTKTRILNIYD--------------M-NL------KGVLDAE------IQ-MY-D------------
+----NENKK---------WI--N---K--------RTTLFPLHWTEGNLLAELELAYL--------------
+--Y----------R--F-PIINKK---NQ----------------------------FGGVT--SK------
+---G------IKVIFIIVN--------------D-I---PKTAYPI-
+>UniRef100_A0A5C6Z236/1-117 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Aequorivita antarctica TaxID=153266 RepID=A0A5C6Z236_9FLAO
+------------------------------------------------TIQHALKP----DF----------
+---KNGQVL-------------------------GLH-----------------------------FY----
+----NLKDTKILEIYQ--------------T-NS------KGVVRAK------IL-KQ-D------------
+----FKTKE---------WY--Q---K--------ETTLFPLHWHIGNLFDELDIAFL--------------
+--Y----------R--F-LIAETK---NK----------------------------YGSVT--PS------
+---G------IKVIFVIVN--------------G-I---GKTVYPI-
+>UniRef100_A0A918MMM9/1-120 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Arenibacter certesii TaxID=228955 RepID=A0A918MMM9_9FLAO
+------------------------------------------------LIEHCTKG----KV----------
+---SKGKIS-------------------------GIH-----------------------------FY----
+----DEKHVKILKVLE--------------KNNV------NGVFEAE------IE-YF-D------------
+----LNSNR---------WTEKE---K--------STTFFPLSWSLNKLFHECLFAVN--------------
+--N----------K--Q-KKENSE---NV----------------------------YVSKT--ES------
+---G------IEVEIIKKQ--------------G-L---LKSIYPL-
+>UniRef100_T2KIC1/1-120 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Formosa agariphila (strain DSM 15362 / KCTC 12365 / LMG 23005 / KMM 3901 / M-2Alg 35-1) TaxID=1347342 RepID=T2KIC1_FORAG
+------------------------------------------------IFEHCIKG----QV----------
+---KKGKVS-------------------------GVH-----------------------------YY----
+----NSERVKILKLIK--------------QNNK------TGIWEAE------IE-FL-D------------
+----KKTNT---------WVKKE---K--------STTFFPRNWSMHQLFHECEFAVE--------------
+--H----------K--Q-KVAGKK---NV----------------------------FISQT--VS------
+---G------IEVEIIIIN--------------D-K---MRSIYPL-
+>UniRef100_A0A2D5KDB5/1-121 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Flavobacteriales bacterium TaxID=2021391 RepID=A0A2D5KDB5_9FLAO
+------------------------------------------------TILHATHG----SV----------
+---KNGKVS-------------------------GVH-----------------------------FY----
+----NNEKMKIVEIIK--------------K-KQ------NGVFQAR------FK-LY-D------------
+----EKTKR---------WIEKE---S--------TSTFFPENWSLKKLFDECGYALS--------------
+--E----------NQCE-LIMDTK---NR----------------------------YKSYT--KS------
+---G------IEVIIIKIN--------------N-N---IKTIYPA-
+>UniRef100_A0A2G2F0C3/1-122 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Fluviicola sp. TaxID=1917219 RepID=A0A2G2F0C3_9FLAO
+------------------------------------------------MITHSTNG----LI----------
+---TKGKIS-------------------------GIH-----------------------------FY----
+----DPEKVRIVEELD--------------FDEK------SEVWEAV------IE-FY-D------------
+----KKKDV---------WRLKD---N--------PSTFFPKKWTVQQLFYECMHALE--------------
+--D----------SDMQ-LVRGAE---HK----------------------------YKSQT--LS------
+---G------IHVYIIKKN--------------N-L---LKTIYPI-
+>UniRef100_UPI0013967B35/1-119 EndoU domain-containing protein n=1 Tax=Flavobacterium sp. LMO8 TaxID=2654244 RepID=UPI0013967B35
+------------------------------------------------SFVHSVSG----TF----------
+---TNENVT-------------------------GIH-----------------------------FY----
+----DELKVRVIEVLE--------------TNE-------NGVWKAK------IE-AF-D------------
+----YRTKK---------WKEKI---K--------PTDFFPKDWDKTKLLEEINFANQ--------------
+--Y----------K--K-LKEGTK---KI----------------------------FESIT--KS------
+---G------VNVIFIVDN--------------E-K---IKTVYPI-
+>UniRef100_UPI0011BF5B8C/1-119 EndoU domain-containing protein n=1 Tax=Psychroflexus gondwanensis TaxID=251 RepID=UPI0011BF5B8C
+------------------------------------------------SCIHASIG----RI----------
+---KNGNVT-------------------------GVH-----------------------------FY----
+----NPERIRIINILK--------------TNET------NKTFLAD------FE-FY-N------------
+----IDNKK---------WIHKK---T--------PSSFFPADWNIATLLMEIKYAYD--------------
+--N----------AN-L-NIDNGK---IK------------------------------SKT--YS------
+---N------IEVELYVKN--------------G-K---LITIYPL-
+>UniRef100_UPI001BDAA19C/1-120 EndoU domain-containing protein n=1 Tax=Aequorivita echinoideorum TaxID=1549647 RepID=UPI001BDAA19C
+------------------------------------------------GFIHATIG----RI----------
+---KIGDLT-------------------------GIH-----------------------------FF----
+----DPDKVRIIETLE--------------KSEK------TSVFKAK------FE-FY-D------------
+----VRTKK---------WIEKK---T--------ASTFFPLNWNLATLLMECKFAFD--------------
+--R----------LNEE-DLNDGK---IK------------------------------SVT--QS------
+---N------IEVEMIIKN--------------G-K---LKSLYPL-
+>UniRef100_UPI001423A6C8/1-120 EndoU domain-containing protein n=1 Tax=Yeosuana marina TaxID=1565536 RepID=UPI001423A6C8
+------------------------------------------------VYLHATTG----KV----------
+---KNRKVT-------------------------GLH-----------------------------YY----
+----DPNKIRIIEEED--------------YDKN------TGVFKAK------IE-FY-D------------
+----KNTNR---------WIPKK---T--------SSTFFPKTWIPTTLFNECDFA----------------
+--------------------NSNK---VKN--------------------E-ETDYVYFSKT--LS------
+---G------IPVKIIIIE--------------G-K---LISIYPI-
+>UniRef100_UPI00202F1194/1-118 EndoU domain-containing protein n=1 Tax=Bacteroides fragilis TaxID=817 RepID=UPI00202F1194
+------------------------------------------------TIQHTIKG----TI----------
+---KKNVLR-------------------------GIH-----------------------------FF----
+----NKEKMQIIQELK--------------KEDQ------NGIWEAK------FK-TL-N------------
+----NINKQ---------WIEKQ-------------STFFPKEWDHTRLYHECNYAID--------------
+--N----------M--T-PCENSQ---YK----------------------------YKSIT--PT------
+---G------IPVEIIIKM--------------N-Q---IVSIYPL-
+>UniRef100_UPI001CA7A005/1-117 EndoU domain-containing protein n=1 Tax=Flavobacterium coralii TaxID=2838017 RepID=UPI001CA7A005
+------------------------------------------------LLEHGTKG----SV----------
+---KDSKSQ-------------------------GGH-----------------------------FY----
+----MPNNIRIIETLK--------------V-DV------KGVLEAK------IA-IR-N------------
+----QNTDK---------WVSKE---K--------ETTLFPLSWDLQKYFDECDYTVK--------------
+--H----------K-----IKIGE---YK----------------------------FSSTT--TC------
+---G------IPVEIILKE--------------G-K---LISIYPL-
+>UniRef100_UPI00146F9683/1-149 EndoU domain-containing protein n=1 Tax=Runella limosa TaxID=370978 RepID=UPI00146F9683
+----------------------------------------------QETIDEIFKG----KI----------
+---SKIPPSEGQTQ---PS-------FKAI----GVHHK--------------------------LAI----
+----SNRTAGFVEGDV--------------RISNITPIDANGIYQAK------VE-IY-HPDL---------
+--IPINGTG---------WKVKY---NQGG-----KSTFFPDKWSQNKVLEEISYAFN--------------
+--R----------K--S-LLTGN-----K----------------------------YKSYT--SN------
+---G------IELHFYLDSS-------------G-N---ISTVFPI-
+>UniRef100_A0A1N6HLE5/1-143 EndoU nuclease n=1 Tax=Chryseobacterium scophthalmum TaxID=59733 RepID=A0A1N6HLE5_9FLAO
+-----------------------------------------------DLIDHIFHG----HL----------
+---RTTLV---RRRGRLPS-------TK------GVHSE--------------------------EFL----
+----DNIINRIKPGSR--------------RPPN--PLD-DEIYHAE------VQ-MK-D------------
+-----VGGN---------WIDKL---APNGNV--IQTTMFPKNWDKQRILEEVAVAWK--------------
+--N----------K--I-VDPSNA---DK----------------------------FIGTT--TN------
+---N------IEVTFYINNT-------------T-R--EIGTAFPI-
+>UniRef100_UPI001656357F/1-145 EndoU domain-containing protein n=1 Tax=Kordia aestuariivivens TaxID=2759037 RepID=UPI001656357F
+-----------------------------------------------ELIEHIFNG----HL----------
+---RSTTIGRGRNRSRVPS-------TK------GIHSE--------------------------DLL----
+----DGIRNRVKPGSR--------------RPPN--PID-DEIYRAQ------VQ-MR-D------------
+-----GNGN---------WIDKL---NRGNNT--ITTTMFPKNWDKQRILEEVAFAFK--------------
+--N----------K--I-RDISKT---VH----------------------------YEGTS--TN------
+---G------MKIIFVIDNN-------------G-I---VKTVYPI-
+>UniRef100_A0A937G1S2/1-160 EndoU domain-containing protein n=1 Tax=Fulvivirga marina TaxID=2494733 RepID=A0A937G1S2_9BACT
+--------------------------------YLKKLDDVVKN---GPLNKHIFEG----DV----------
+---KPVIDPNTGLQKLAP---DGTKMWSVS----GAHSK--------------------------DAL----
+----DPNKLRI-KGEI--------------T-PV-GN----RYYKAK------VE-AK-VEAFTG-ESYSPN
+D-----G-----------WKVKS---K--------ESTFFPDSWSKEKVQAEMAYAFN--------------
+--N----------KT-----------------------------------S-LGGNKYQGTM--SD------
+---G------TNLTIYLDEA-------------G-N---VSSAFPE-
+>UniRef100_UPI00131B9A5F/1-166 EndoU domain-containing protein n=1 Tax=unclassified Flavobacterium TaxID=196869 RepID=UPI00131B9A5F
+--------------------------------FLENFHIIRNS---HELDIEVFKG----RS----------
+---GKKLKKEF--ENLSPPYLDNHYTWEAK----GVHHK--------------------------EALQV--
+--FGTGGKGRIVTGTK--------------V-NI-GPPE-LGYYKAK------VE-VY-NSDF-------PN
+N-----G-G---------WKVKN---SKGG-----MSTFFPDSWSKQKLQEELVVALK--------------
+--N----------KE-----------------------------------Y-QFSNIWHGTM--SD------
+---G------VKIQFHIDN--------------G-V---VKTSFPI-
+>UniRef100_A0A0P0NJ80/1-151 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Pedobacter sp. PACM 27299 TaxID=1727164 RepID=A0A0P0NJ80_9SPHI
+------------------------------------------------MIEEVFKGKCVGKL----------
+---KEGATD-----------LYINYKWRVV----GVHHI--------------------------DAL----
+----DEIGARMIGPKR--------------NIGD--NIA-SGYYTCK------VE-VY-DVAFKGASSI---
+----DGAIG---------WKVKA---H--------LSTFFPDEWTALKVKREMALAYS--------------
+--K----------KVYS-YSQNGT---DI----------------------------FKGVM--SD------
+---G------VECIFYIRN--------------G-K---ITSAHPS-
+>UniRef100_A0A5C1HZS5/1-145 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Mucilaginibacter rubeus TaxID=2027860 RepID=A0A5C1HZS5_9SPHI
+------------------------------------------------LQIEIFEG----RP----------
+---TRILK------DGGDPLLERDYIKDSK----GVHAI--------------------------EAL----
+----VKDKVEIIENSK--------------R-DV-GPTG-LGYYEAK------IR-IW-NEEMF-----KPQ
+------------------FIKKS---SNKG-----YSTFFPDSWSKQRKQQEMALAFK--------------
+--N----------RR-----------------------------------YIKRLGAYKGKM--SD------
+---G------EECILFINN--------------N-V---IITMHPS-
+>UniRef100_UPI00094BB9A0/1-137 EndoU domain-containing protein n=1 Tax=Tenacibaculum agarivorans TaxID=1908389 RepID=UPI00094BB9A0
+-------------------------------------------------NDHTFKG----DV----------
+---TITGKNA-----------AGDNIYKVT----GIHSN--------------------------KAF----
+----LDGTVRIKPGTQ--------------IQDL-GD----GFYKAK------VE-------------KQIK
+GFINDQGTN---------WKVKN---N--------KSTFFPDSWSTEKIQAEIAHAFK--------------
+--N----------KT-----------------------------------L-ELGNKFSGFT--TT------
+---G------HKITMFLDEL-------------G-N---IKTAFPN-
+>UniRef100_A0A2A4SWM8/1-139 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Candidatus Peregrinibacteria bacterium TaxID=2030811 RepID=A0A2A4SWM8_9BACT
+-----------------------------------------------DLDDHIFKG----HL----------
+---RTTGKG-----------------WKAT----GVHHV--------------------------SAM----
+----DGGKVRL-AGEK--------------I-DL-GN----GFYKSK------IQ-MY-GDDLYKIEKNNPQ
+KLLENKG-----------WKNKQ---E--------MSTFFPDSWSKKKIIEGIGDAYK--------------
+--N----------IT-----------------------------------F-D-GKRYFGNT--NG------
+---G------LRIEFRLNQS-------------K-E---IESAFPN-
+>UniRef100_UPI001F507715/1-131 EndoU domain-containing protein n=1 Tax=Lysinibacillus sphaericus TaxID=1421 RepID=UPI001F507715
+------------------------------------------SIITPEMKEKILLG----QR--KNP-----
+---NKN---------------------EII----GGHSS---------------------------------
+-----------------------------TINNS------HSNYATE-----VIK-INPDGT----------
+--------------KDIKYITQF---PDGNLSKIKNSTTFPEGWSDLKILDSITDIGN--------------
+--SPSISI-----R-------------------GRDG-----------------ATLHRGIV----------
+--DG------VEIDVIKI---------------GDT---VVSGYPT-
+>UniRef100_UPI002283D912/1-124 EndoU domain-containing protein n=1 Tax=Avibacterium sp. 21-586 TaxID=2911534 RepID=UPI002283D912
+------------------------------------------------DIEHILKG----HL---N------
+---NRG---------------------NAV----GYHHE-PSGTQAR--------------------V----
+-----------TQYTS--------------PPNA------QGVYKGK------VA-LQ-GKD----------
+------SNQWV--------PKR--A----------ESTFFPKSWSEARVKYEITEAYK--------------
+--K-----R----------PNNLPKD-KGF----------------------------TATT--PS------
+---G------IPIKFVPPTDKIEQWRA----------------WPL-
+>UniRef100_A0A963GHV0/1-142 DUF637 domain-containing protein n=1 Tax=Rhodocyclaceae bacterium TaxID=1898103 RepID=A0A963GHV0_9RHOO
+--------------------------------------LLDDN---KFDFNHVLAG----DL---K------
+---KNG---------------------TGS----GYHAEFAAKGNAR--------------------IK---
+---PG----TRIQY------------------NS------NGTYQAE------VQ-IW-NPDW-----VNP-
+--IDGKKGAWVDKLTYGGKPQR--------------STFFPPSWSEARVRYEVSEAFK--------------
+--A------------------GVP-G-GSF----------------------------AGTS--PA------
+---G------IRIQF--------HWDSTN------Q---RTTFYPR-
+>UniRef100_UPI000780A88C/1-141 CdiA family toxin C-terminal domain-containing protein n=1 Tax=Paenibacillus pabuli TaxID=1472 RepID=UPI000780A88C
+------------------------------------------------FEDHII------NV---QGIVR--
+---KKN---------------------KGVV---GGHNR----------------------ENFEKAFTDEG
+WNLED----CIIYERK--------------HPYI------DGITELK----YGIPALDREGN----------
+----IIVGE-------LKSIPKP------------KTVYDPQKISDADIIKWGKEAME--------------
+--N---------GK--------------------------------------VDGRVVRGSS--SN------
+---G------LEFEGYIDETT------------G-K---VTNVFPI-
+>UniRef100_UPI001AA0A6C7/1-154 WXG100 family type VII secretion target n=1 Tax=Bacillus sp. SY8(2021) TaxID=2819290 RepID=UPI001AA0A6C7
+---------------LNS---------------IKNENVF-----EPGYDTHLI------EV---QGVER--
+---KKN---------------------KGIV---GGHNL----------------------KNFEQVFIDNG
+WDIEQ----CIISKIE--------------HPSI------KGIYEIK----YGLPALDREKN----------
+----IIPGE-------LKNIRTP------------KTVYDPNIISDKQILEWGKEAMN--------------
+--N---------GK--------------------------------------INGREITGYA--SN------
+---G------LKFQGFIDEST------------G-E---ITNFFPS-
+>UniRef100_UPI00211C97D8/1-131 EndoU domain-containing protein n=1 Tax=Priestia aryabhattai TaxID=412384 RepID=UPI00211C97D8
+-----------------------------------------------STYSHLFDG----QI---Q------
+---DDGSLG-------------------------GLHYK---------------------------GVD---
+---------MINPLTN------VE-HEIRNSMNP----Q-TKVVDAK------ISKIGKDANGHSV------
+-----------------KYIKRN------------PSTMFPRHMSPGEVIDSVNEAYI--------------
+--D----------AKYT-----------------------------------GKGNQWRGVS--SK------
+---G------LPVILYLDD--------------NYR---IISAFPD-
+>UniRef100_A0A354GTD5/1-123 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Planctomycetales bacterium TaxID=2053591 RepID=A0A354GTD5_9BACT
+-------------------------------------------------EEHIFEG----KI---N------
+---RSG---------------------RAV----GFHHR-AGGQNPP-------------------TA----
+---------RVARIVD--------------PPNA------QGLYRAE------VE-IL-DPA----------
+------TSS---------WVAKG-S----------ASTFFPDAWAQNQVLSEIDGAFG--------------
+--N---PI-----------LTRGN----YW----------------------------EGVT--PS------
+---G------LRIGGYL---------DAA----G-D---INTAFPI-
+>UniRef100_A0A2W4VY65/1-123 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Pseudanabaena frigida TaxID=945775 RepID=A0A2W4VY65_9CYAN
+-------------------------------------------------QVHIFQG----EI---N------
+---RKG---------------------LAV----GYHHR-PNGKDSN-------------------NA----
+---------KMVKLTG--------------LPNS------QGVYIGR------VE-IR-NPA----------
+------NGQ---------WVSKL-S----------SSTFFPDRFSQAQVLSEIQGAFA--------------
+--S---AN-----------KTKE-----PW----------------------------QGTS--PS------
+---G------LKIEGYY---------NKA----TNT---ITTAYPI-
+>UniRef100_UPI000A74F02A/1-123 EndoU domain-containing protein n=1 Tax=Neisseria mucosa TaxID=488 RepID=UPI000A74F02A
+-------------------------------------------------MEHIFQG----EI---N------
+---RKG---------------------QAT----GFHHE-GSIGHNT-------------------RA----
+---------RITNITQ--------------KQNL------HGVYVGN------VE-IF-DST----------
+------KGK---------WIKKT-I----------ASSFYPKTWSRSRVISEIKSAYH--------------
+--N---GC-----------IIGN-----KF----------------------------SGVS--TS------
+---G------VVISGYV---------NQK----GYD---INTAYPI-
+>UniRef100_UPI0021BD282F/1-119 EndoU domain-containing protein n=1 Tax=Serratia fonticola TaxID=47917 RepID=UPI0021BD282F
+-------------------------------------------------AKHIFHG----EI---N------
+---NSG---------------------KAV----GFHHE-RGLGHQG-------------------KA----
+---------RVTEITQ--------------PPNE------LGVYKGK------VE-IF-NPA----------
+------TGL---------WVPKQ-F----------ESTFFPKEWDRAKVLSEVKAAKA--------------
+--N---SV-----------MVTSA----KW----------------------------RGTS--PS------
+---G------VTIEGY-----------------G-N---INTAFPV-
+>UniRef100_A0A8E2STN8/1-126 Type IV secretion protein Rhs n=1 Tax=Burkholderia sp. AU28863 TaxID=2015352 RepID=A0A8E2STN8_9BURK
+----------------------------------------------KINSEHVFHG----EI---N------
+---SRG---------------------RAV----GFHHE-GSIGHVG-------------------KA----
+---------RVAGVTS--------------PENA------QGVYRGK------VE-IF-DPR----------
+------TGT---------WVAKG-P----------ESSFFPKSWNRQQVMSEIRSAFD--------------
+--N---GV-----------VSPNG----KW----------------------------EGVS--RS------
+---G------VKIEGWL---------NGG----G-D---INTAYPI-
+>UniRef100_A0A6G8RVS6/1-128 DUF4150 domain-containing protein n=1 Tax=Acinetobacter shaoyimingii TaxID=2715164 RepID=A0A6G8RVS6_9GAMM
+-----------------------------------------GL---SF-IKHIFHG----EI---N------
+---KKG---------------------KAV----GFHHQ-GSIGHNG-------------------KA----
+---------RIVSIIS--------------PPNG------QGFFKAK------VE-IF-NSK----------
+------TGQ---------WVSKI-A----------PSTFFPDSWSRKKVLDEINSAFS--------------
+--S--CGN-----------VGKSE----KW----------------------------SGVS--ST------
+---G------TRIDGYT---------DKF----G-N---IATAFPK-
+>UniRef100_A0A1C3RLH6/1-130 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Candidatus Terasakiella magnetica TaxID=1867952 RepID=A0A1C3RLH6_9PROT
+-------------------------------------------------LTHIFKG----EI---N------
+---KQS---------------------RAV----GFHAR-PFGKDPE-------------------GA----
+---------ELSEIRS--------------GPNQ------YGVYTGS------AE-IF-DPE----------
+------GEE---------WKPKN------------FSSFFPDLMTQNKVVEAILAAYK--------------
+--K---AK-----------VNKRG----KW----------------------------RGRS--SY------
+---G------FSIEGWLCPKGG-TSTCPD----G-A---INTAYPI-
+>UniRef100_A0A1G8VEA8/1-127 EndoU nuclease n=1 Tax=Ferrimonas sediminum TaxID=718193 RepID=A0A1G8VEA8_9GAMM
+-------------------------------------------------IGHVITG----EI---N------
+---KKG---------------------RAV----GFHSR-SGGKDPQ-------------------GA----
+---------RLIRVTA--------------QPNS------KGIYRGQ------VA-LC-N------------
+------GQG---------WTDKR-A----------NSTFYPDSWSHDQVVDAIIKAYR--------------
+--A---SD-----------QPEYG----KW----------------------------SG-T--VD------
+---G------ITIEGYMCNQGQ-SH-CPK----G-N---INTAYPI-
+>UniRef100_A0A917C1H7/1-125 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Terasakiella brassicae TaxID=1634917 RepID=A0A917C1H7_9PROT
+-------------------------------------------------LTHVFEG----EI---N------
+---KKG---------------------KAV----GFHSR-FDSKDPA-------------------GA----
+---------RVVKVTA--------------GPNA------KGLYTAD------IE-VC-N------------
+------GHS---------WKGK-------------FSSFFPDAMNQQQVMDLILKAHQ--------------
+--A---AG-----------NPMSG----KW----------------------------GA-T--VD------
+---G------ITVNGYMCPDNS-QT-CPK----G-A---INTAYPV-
+>UniRef100_A0A1W9M4T3/1-121 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Desulfobulbaceae bacterium A2 TaxID=1934250 RepID=A0A1W9M4T3_9DELT
+-------------------------------------------------LRHIFQG----EI---N------
+---RHG---------------------KPT----GFHSR-PGGRDPE-------------------GA----
+---------YVLHGES--------------PPNR------VGVYTAR------VA-VR-DGR----------
+------GGP---------WREK-------------FSSFFPDQFDREQVVAAILHAWQ--------------
+--H---RD-----------SGKEQ----PW----------------------------RGPS--GH------
+---G------FDIQGYL---------SPQ----G-G---IQTAFPV-
+>UniRef100_A0A2G6N9U0/1-121 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Deltaproteobacteria bacterium TaxID=2026735 RepID=A0A2G6N9U0_UNCDE
+-------------------------------------------------LTHVFMG----EI---N------
+---RKG---------------------KPV----GYHSR-PGGKDPD-------------------NA----
+---------RVVKILA--------------RSNC------HGVYTAR------VA-LF-DSA----------
+------AGA---------WKEK-------------FSSFFPDNLAKKEVVEAILHAWK--------------
+--N---KE-----------KGRQR----PW----------------------------QGPS--GL------
+---G------FTIQGYL---------NKR----G-N---ITTAFPL-
+>UniRef100_A0A432QCH6/1-121 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Desulfobulbus sp. TaxID=895 RepID=A0A432QCH6_9DELT
+-------------------------------------------------LGHIFEG----AI---N------
+---SRG---------------------RPT----GFHSR-PNGKDPR-------------------YA----
+---------RLKRIKG--------------RPNH------SGVYTAE------IE-VY-DPR----------
+------AKK---------WKKK-------------FSTLFPDSMSREQVVKTILYAWK--------------
+--H---RK-----------SGKSK----KW----------------------------EGPS--GK------
+---G------FPIQGYL---------NKR----G-N---INTAYPV-
+>UniRef100_A0A7C3HDL3/1-121 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Gammaproteobacteria bacterium TaxID=1913989 RepID=A0A7C3HDL3_9GAMM
+-------------------------------------------------VTHIFQG----EI---N------
+---RRG---------------------KPT----GYHAL-FNGKKVE-------------------TA----
+---------RIVRVKS--------------KPNK------AGVYTAE------VE-IL-DKK----------
+------SGK---------WKRK-------------FSTMYPDKMKAPEILKAVQYAYK--------------
+--H---RK-----------KGRDT----PW----------------------------RGPS--GH------
+---G------FPIEGYL---------LKN----G-K---INTAYPI-
+>UniRef100_A0A522D0G1/1-117 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Spirochaetes bacterium TaxID=2202144 RepID=A0A522D0G1_UNCSP
+-------------------------------------------------LTHIFHG----EI---N------
+---EHG---------------------RPV----GYHSR-PGGGDPG-------------------DA----
+---------GVLEKIQ--------------GPNR------KNVYMAQ------VW-V---------------
+------GAK---------DRKK-------------ISTFFPDSMKKEEVIQAVLHAYR--------------
+--N---RT-----------SFKAY----KF----------------------------NGPS--GR------
+---G------FTIEGYV---------MDN----G-D---INTAYPI-
+>UniRef100_A0A1Y5TY72/1-121 Ribonuclease n=1 Tax=Oceanibacterium hippocampi TaxID=745714 RepID=A0A1Y5TY72_9PROT
+-------------------------------------------------VGHIFEG----EI---N------
+---RAG---------------------RPG----GFHHR-PDGRDLA-------------------NA----
+---------RLARRLA--------------GPND------AGIYTGR------VE-IR-RDD----------
+------SAP---------WQEK-------------FSSFFPDRLARDEVLALIRRAFR--------------
+--A---AG-----------TRDGR----KW----------------------------RGPS--GH------
+---G------FEIEGWI---------DRQ----G-R---IVTAYPL-
+>UniRef100_A0A2D8HM05/1-121 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Sneathiella sp. TaxID=1964365 RepID=A0A2D8HM05_9PROT
+-------------------------------------------------LTHIFEG----EI---N------
+---RSG---------------------KPV----GFH---VAPKEPM-------------------GAK---
+--------SRIRKVMS--------------GPNR------AGVYTAM------VE-IY-DPG----------
+------ERR---------WKEK-------------FSSFFPDDFSRQQVIDSILFALA--------------
+--N---NM-----------LPKGA----RW----------------------------RGPS--GH------
+---G------FLIEGYR---------YSS----G-D---VNTAYPL-
+>UniRef100_UPI00146D3C88/1-121 EndoU domain-containing protein n=1 Tax=Sneathiella chinensis TaxID=349750 RepID=UPI00146D3C88
+-------------------------------------------------LKHILDG----EI---S------
+---RSG---------------------KPT----GFHHR-AGGRDTD-------------------TK----
+---------RLKQRLS--------------GPNK------AGVYTAI------VE-IY-DPD----------
+------TGH---------WKQK-------------FSSLFPDRFNRDQLVGAILNAYQ--------------
+--Q---DS-----------LPDRR----KW----------------------------RGPS--GH------
+---G------FQIEGYL---------LPD----G-R---IITAYPL-
+>UniRef100_A0A1Y5DZH1/1-123 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Alphaproteobacteria bacterium 46_93_T64 TaxID=1856292 RepID=A0A1Y5DZH1_9PROT
+-------------------------------------------------LIHIFQG----QI---N------
+---RSG---------------------KPT----GFHHI-DILRTPP-------------------PKA---
+--------TRLQKILS--------------TPNK------TGVYTAI------IE-IW-DAK----------
+------TRQ---------WKTK-------------FSSMFPNRFSKEKVIQTILYAFK--------------
+--N---NK-----------LKNGR----KW----------------------------RGRS--GN------
+---G------FEIEGYL---------LKD----G-R---IITAYPI-
+>UniRef100_UPI00146DAF2C/1-121 EndoU domain-containing protein n=1 Tax=Sneathiella limimaris TaxID=1964213 RepID=UPI00146DAF2C
+-------------------------------------------------LTHIFEG----EI---N------
+---KRG---------------------KAT----GFHHV-SNPEEPQ-------------------KA----
+---------RIQKILS--------------GPNR------LGIYTAI------VE-IF-GPA----------
+------DKL---------WKSK-------------FSSMFPNDVSKPTIVGLILKAFQ--------------
+--D---SE-----------KRNAG----KW----------------------------RGKS--GA------
+---G------YFIEGYL---------LPN----G-K---IVTAYPI-
+>UniRef100_UPI00187B4046/1-121 EndoU domain-containing protein n=1 Tax=Sneathiella sp. P13V-1 TaxID=2697366 RepID=UPI00187B4046
+-------------------------------------------------LTHIFLG----EI---N------
+---KKG---------------------KAT----GLHHL-KGGQPTQ-------------------NA----
+---------RLKKILS--------------TANR------FGIYTAM------IQ-IR-DLK----------
+------NNT---------WKEK-------------FSSMFPNTYSKQQVLDVILKAYR--------------
+--N---AD-----------LRKGQ----KW----------------------------GGPS--GK------
+---G------YRIEGYL---------LRD----G-R---IITAYPI-
+>UniRef100_A0A510JC80/1-121 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Pseudoleptotrichia goodfellowii TaxID=157692 RepID=A0A510JC80_9FUSO
+--------------------------------------------------KRVLGR----FI---S------
+---LSN---------------------QII----GGHTA---------------------------F-----
+------GNVIEREIIR-------------TYP--------TGTYDAE------IF-MQ-DPN----------
+-----NPSN---------LLQKT-N-NNG------ISTMFPRDWTPNRVKVEVDFSYK--------------
+--N----------K--V-YFYDNR---------GILK--------------------WKGIT--PS------
+---G------VNVEGYTT---------P-----------NVTVYPK-
+>UniRef100_UPI001C66290A/1-118 EndoU domain-containing protein n=1 Tax=Pseudoleptotrichia goodfellowii TaxID=157692 RepID=UPI001C66290A
+---------------------------------------------------HIINA----EM---K------
+----NG---------------------KVK----GGHTT---------------------------L-----
+------GNVKVKQVTK-------------RYP--------SGVYEAE------IE-IQ-DPK----------
+-----NPNN---------FIPKS-N-NSG------KSTMFPEHWTADRIKVEVDIAFK--------------
+--N----------K--T-MTGT-------------YM--------------------WQGKT--PS------
+---G------VQIEGYID---------KN----G-N---ITSVYPI-
+>UniRef100_UPI001EEC11A3/1-118 EndoU domain-containing protein n=1 Tax=Vibrio vulnificus TaxID=672 RepID=UPI001EEC11A3
+---------------------------------------------------HILSG----EV---K------
+---PNG---------------------NVV----GGHST---------------------------AT----
+------GRVRVIPGSS-------------SAPNA------QGVYKAK------IE-VP-NPN----------
+-----NPGQ---------FLQKT-N-NGG------YSTMFPDTWSADRVKVEVGAAYK--------------
+--N----------R--I-VVGN--------------K--------------------WQGTT--PS------
+---G------VKVEGYLN---------P-----------KTTVYPI-
+>UniRef100_UPI001B8D414B/1-115 EndoU domain-containing protein n=1 Tax=Leptotrichia sp. oral taxon 218 TaxID=712361 RepID=UPI001B8D414B
+---------------------------------------------------HIISG----EI---N------
+---RYG---------------------DPV----GGHST---------------------------LT----
+------PTVRIINDLG-------------VTS--------NGVRKNN------IE-IF-N-S----------
+-----RTNQ---------WLPKR-Y----------INTMFPEWWTGNRIKVENDTAYK--------------
+--L----------R--T-QHPTN-----------QSK--------------------WEGIT--PS------
+---G------IKVEGFEY---------P-----------RTTVFPK-
+>UniRef100_A0A1V2VCE3/1-124 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Herbaspirillum sp. VT-16-41 TaxID=1953765 RepID=A0A1V2VCE3_9BURK
+------------------------------------------------DIDHAIGA----DY---S------
+---KAG---------------------KPT----GGHSL---------------------------VN----
+------GDVRIVPGTE-------------SAPDA------SGVYKAT------IQ-VP-DPQ----------
+-----NPGQ---------WITKT-S-NGS------ENSMFPKNWDAARIRDEVNAAWSSA------------
+--E----------R--K-ILPD-------------GK--------------------WSART--PS------
+---G------VQVEGYVS---------P-----------RTTVYPV-
+>UniRef100_A0A259KQ06/1-126 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Burkholderiales bacterium 39-55-53 TaxID=1970500 RepID=A0A259KQ06_9BURK
+-------------------------------------------------IEHVVGA----DF---NR-----
+---RTG---------------------LPT----GGHTL---------------------------LS----
+------GDVRVIPGSE-------------SAPDA------TGVYRAH------VQ-MA-DPS----------
+-----RPGQ---------WVTKT-DRNGKP----MQNTMFPKAWNAERVASELDAAWNSP------------
+--N----------K--T-IRGD--------------K--------------------WSALT--PS------
+---G------VRVEGYTA---------P-----------RVTAYPV-
+>UniRef100_A0A4R7RJT9/1-123 EndoU nuclease-like protein n=1 Tax=Prosthecobacter fusiformis TaxID=48464 RepID=A0A4R7RJT9_9BACT
+-------------------------------------------------FDHIIGA----EI---N------
+---PKG---------------------KAT----GGHSL---------------------------VN----
+------GDVRIIPGTE-------------GPPNA------SGIYEAG------VE-MK-HPS----------
+-----KSET---------WIAKT-S-NGG------RNTMFPKNWSAGQIQAEVEAAWNSP------------
+--S----------K--I-INGQ--------------R--------------------WQAVS--PS------
+---G------AKIEGFIN---------P-------K---RITAYPK-
+>UniRef100_C9MUR3/1-122 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Leptotrichia hofstadii F0254 TaxID=634994 RepID=C9MUR3_9FUSO
+------------------------------------------------DYDHVIGG----DE---N------
+---SQG---------------------KVT----GGHSL---------------------------LR----
+------GDVRIVKKI--------------GNPAK------NGVYRAS------IE-VK---K----------
+-----KDGT---------WQAKT-S-NGG------VNTMFPESWDEARIIDEINSAWEN-------------
+--R----------K--D-VKGRD-----------NNM--------------------WQGIS--KS------
+---G------VVIRGYKS---------P-----------RITAYPV-
+>UniRef100_A0A2V4E2S9/1-128 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Gilliamella apicola TaxID=1196095 RepID=A0A2V4E2S9_9GAMM
+-----------------------------------------------MNTDHILNG----EI---KT-----
+--YRDG---------------------TKV----GTGGHYLKDPNIQ--------------------V----
+-----------YKWTG--------------EADA------NGVTKGY------IK-VR-DPA----------
+------TGNWY--------KKK--G----------ETTFFPKHWSKRQTEMEIKSAFE--------------
+--NSKPH-P----------KNN-----EMW----------------------------IGTS--SS------
+---G------IEMQG--------FYKIPN----G-T---GATAWPI-
+>UniRef100_UPI001EFC13D9/1-128 EndoU domain-containing protein n=1 Tax=Massilia sp. 9096 TaxID=1500894 RepID=UPI001EFC13D9
+-----------------------------------------------VRYDHILDG----GV---NT-----
+--LKDG---------------------SKV----GTGGHYLRSSSVR--------------------V----
+-----------TEVIG--------------EADA------NGVSVGR------IE-VR-DPD----------
+------TGQWV--------PKK--A----------ETSFYPETWSKRQVTLEIEGAFK--------------
+--NSVPN-P----------ANS-----SQW----------------------------MGTS--PS------
+---G------VPIMG--------YYGKPA----G-T---GATAWPV-
+>UniRef100_I8QUK5/1-140 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Frankia sp. QA3 TaxID=710111 RepID=I8QUK5_9ACTN
+---------------------------------------EISE---KV-FQHILHG----EW---N------
+---KKG---------------------RPV----GFHSA-PDGQPPPD------------------------
+---------RRITSIE--------------DRKS------DGTYHAD------VE-FR-HPT----------
+------TGE---------WKRKDVP----------EHTMFPNHWPEQKVRDAVQKTYE--------------
+--KIYDNV-----------IEPRL----GN---NESLPKKSLR--DSYD-----------------------
+---G------VLIQLYV---------SPD----G-E---LRTAFPI-
+>UniRef100_UPI00222853BE/1-147 EndoU domain-containing protein n=1 Tax=Frankia gtarii TaxID=2950102 RepID=UPI00222853BE
+-----------------T---------------DVPPAPEIEE---KV-FQHILRG----EW---N------
+---KRG---------------------RPV----GFHSA-PDGHPPPD------------------------
+---------RRISQII--------------TQNS------DGTYQAR------PE-FL-HPV----------
+------TGQ---------WQEKKVQ----------GHTMFPDSWSSDKVRKAVDSTYK--------------
+--ELYKTV-----------IAPAL----AA---DSTPDRRSLR--HAYD-----------------------
+---G------VDIQIYV---------SPK----G-E---LRTAFPP-
+>UniRef100_UPI00200D5474/1-136 EndoU domain-containing protein n=1 Tax=Frankia sp. AgKG'84/4 TaxID=573490 RepID=UPI00200D5474
+----------------------------------------------KV-YTHILHG----EW---N------
+---RRG---------------------SPV----GFHSA-PEGQAPPD------------------------
+---------RRLAEVN--------------RVLD------NGTYQAR------PE-FR-HPT----------
+------TGE---------WQEKRAE----------LHTMFPDSWSGEKVRTAVTTAYD--------------
+--QVYRDV-----------VAPAL----AK---GEKIERDSLR--HTYE-----------------------
+---G------VKMQLYV---------SPQ----G-D---LRTAFPI-
+>UniRef100_UPI00200CEF4D/1-138 EndoU domain-containing protein n=1 Tax=Frankia sp. AgKG'84/4 TaxID=573490 RepID=UPI00200CEF4D
+---------------------------------------EIRE---KV-YEHILHG----EW---N------
+---KRG---------------------KPV----GFHSA-PDGQPPTD------------------------
+---------RRITAAG--------------TRDA------NGAYSAE------VE-FR-HPT----------
+------TGQ---------WARKDVP----------KHTMFPDSWSADDIRTAVQSAYE--------------
+--KAYDRD-----------IAPAL---------RDGLKPGRIY--ESHN-----------------------
+---G------LLMQLYV---------DQD----G-R---LKTAFPT-
+>UniRef100_UPI001E30AAEB/1-140 EndoU domain-containing protein n=1 Tax=Frankia sp. QA3 TaxID=710111 RepID=UPI001E30AAEB
+---------------------------------------PIPE---KT-FNHLLDG----EW---S------
+---RKG---------------------RPV----GFHSA-PGGVPPPD------------------------
+---------RRFTWTG--------------EPSR------SGEYEAK------VE-FW-DES----------
+------AAE---------WRPKKVP----------THTMFPDSWNAEKVREAVEETYG--------------
+--EVYDQK-----------IAPAL----EE---GRDVSKEILV--GSHD-----------------------
+---G------VQIQFYV---------GPD----G-T---VRTAFPI-
+>UniRef100_Q0RU12/1-136 Bacterial EndoU nuclease domain-containing protein n=2 Tax=Frankia TaxID=1854 RepID=Q0RU12_FRAAA
+----------------------------------------------KA-FNHVLNG----EW---S------
+---RKG---------------------KPV----GFHSA-PEGVPPEG------------------------
+---------RRVSWAA--------------EPTV------EGAYGAK------VE-FR-NES----------
+------TGE---------WREKKVR----------QHTMFPDFWSTEKVRGAVQSAYD--------------
+--EVYDTQ-----------ISPAL----RA---GSDLSKTKWT--GSYE-----------------------
+---G------VHIRFYV---------EPD----G-S---VRTAFPV-
+>UniRef100_UPI00201081BF/1-136 EndoU domain-containing protein n=1 Tax=Frankia sp. Ag45/Mut15 TaxID=573489 RepID=UPI00201081BF
+----------------------------------------------KV-FTHILDG----EW---N------
+---KKG---------------------RPT----GFHSA-PDGVAPPD------------------------
+---------RRLTRIG--------------DPSP------EGVYRAK------VD-FL-EPG----------
+------SGE---------WREKKVP----------KHTMFPDSWSREKVREAVQKSYE--------------
+--DVYDST-----------LAPML----KR---GENLVGEQWR--GSYE-----------------------
+---G------VHIKFFV---------GQD----G-A---VRTAFPD-
+>UniRef100_A0A2M8PPJ8/1-128 Bacterial EndoU nuclease domain-containing protein (Fragment) n=1 Tax=Phototrophicales bacterium TaxID=2364211 RepID=A0A2M8PPJ8_9CHLR
+----------------------------------------------GNARTHILNG----EI-SGN------
+---------------------------SHV----GLHTE---------------------------------
+---------RFLGANT----------TVHQRTDA----DGNGVYGAR------IT-LN-NNQP---------
+-----------------NRQPK-------------NSLMFPTSWDEYDIADAVQNAMN------TIQPAIHG
+LRN-----------------------------------------------G------YSGPG--LN------
+---G------FRIAMRFSD-------NNNRS-FA-T---LETAFPLE
+>UniRef100_A0A947MYI7/1-127 EndoU domain-containing protein n=1 Tax=Patescibacteria group bacterium TaxID=2052139 RepID=A0A947MYI7_9BACT
+---------------YTH-----------------------------INVAHILDA----DI---N------
+---SIGRP---------------------S----GGH--------VH------------------SILK---
+------REDIAIEALE-------------GID-S------NGVIKVK------LT-ML-DPK----------
+------TGE---------IVKKG-V----------PHTFFPSSWSERQVIEAIDEAFR--------------
+--S------------------------PNIEWLKPDK--------------------WESTI----------
+--GN------IKIQGYVDN-N------------G-K---ITSAFPL-
+>UniRef100_UPI0022580B83/1-134 EndoU domain-containing protein n=1 Tax=Streptomyces sp. NBC_00809 TaxID=2975838 RepID=UPI0022580B83
+----------------EH------------------------------TFEHVLQG----EL-KYD------
+---RNGNP-------------------KVS----GYHFR-PGSRDLN------------------SYMV---
+------KVPRIIE-----------------IDHK------TGLTTGN------VW-MR-DPR----------
+------TGE---------MVMKR-A----------KTTFFPPGWTEKQVRRAMEKSFE--------------
+--N------------------------GRVVDPATNK--------------------WRGVW----------
+--KG------ITFEGYFDPIT------------G-D---AKTIYPL-
+>UniRef100_A0A4R5AUU0/1-136 Bacterial EndoU nuclease domain-containing protein n=2 Tax=Actinomadura darangshiensis TaxID=705336 RepID=A0A4R5AUU0_9ACTN
+-----------------------------------------------HFRDHVFGG----HV----------
+---K-------------------PGMPKAS----GYHYR-PGGKDFPGR-----------------------
+---------RLKPGS-------------KVTDPT------TGAYRAK------PE-FF-DKTMNPP------
+------HG---------AWKPKN-GPNGG------ESSFYPDHWTPAQVDAAVPGAFN--------------
+--N----------ASPV------P----------GMP------------------NKWRGTY---N------
+---N------VVIEGFYNN---------T----G-G---FTHGWPV-
+>UniRef100_A0A1H3MPW6/1-136 EndoU nuclease n=2 Tax=Asanoa ishikariensis TaxID=137265 RepID=A0A1H3MPW6_9ACTN
+-----------------------------------------------RGLDHVFRG----DV----------
+---R-------------------PSKPTGS----GYHYR-PGGQDIPGR-----------------------
+---------RLRPGS-------------VTRDTR------TGVYTGR------PE-YF-DPALDPP------
+------QG---------RWKPKG-G-NDG------VSSFFPDHWTPAQVDAAIAGAFR--------------
+--N----------HTHV------A----------GTT------------------NMWEGRY---S------
+---G------IVIQGYFDPA--------S----G-A---LRHGWPV-
+>UniRef100_A0A3D9ZE84/1-132 EndoU nuclease-like protein n=2 Tax=Asanoa ferruginea TaxID=53367 RepID=A0A3D9ZE84_9ACTN
+-----------------------------------------------WARDHVFKG----HI----------
+---K-------------------PGAPTGS----GFHYR-PGGQDWPGR-----------------------
+---------RIKTST-------------VTRDPD------TGLYQAE------VE-YF-DRSV-PP------
+------DG---------AWRPKS-G-HGG------VSTFFPDHWSPSEVDNAVNTAFH--------------
+--R----------SSPV------P----------GT-------------------DRWRGDY---R------
+---G------ITIEGFYHQ--------------G-G---VGHGWPV-
+>UniRef100_UPI001EE47E2A/1-134 EndoU domain-containing protein n=1 Tax=Micromonospora sp. STR1s_6 TaxID=2806100 RepID=UPI001EE47E2A
+------------------------------------------------RRSHVFRG----DV----------
+---RRPAN--------------NPNHPYGS----GYHYR-PGGQDFPDR-----------------------
+---------RIVPGS-------------INQPRP------NGPYSAR------PE-YF-D----PV------
+------TG---------RWLPKG-G-NGG------VSTFFPDHWTPAQVDAAIPTAFQ--------------
+--R----------ATAI------P----------GS-------------------NMWEGFY---R------
+---G------VRIEGWYGP---------N----G-T---LGNGWPT-
+>UniRef100_A0A1G7DYG6/1-136 EndoU nuclease n=1 Tax=Glycomyces harbinensis TaxID=58114 RepID=A0A1G7DYG6_9ACTN
+-----------------------------------------------WGLEHIITG----DS----------
+---KLG-----------------QRRRKGT----GYHYR-PGGSDMPGR-----------------------
+---------RTDLTG-------------STQYP-------NGVYTGK------PE-YF-DHQSTPP------
+-----------------KWKKKG-G-NGG------VSTYFPDSWSPQQVDDAVAQAYK--------------
+--N----------GSIN------P----------ADP------------------GKWSGTH---N------
+---G------VKIEGFVDPS-------KP----H-G---YTHGWPS-
+>UniRef100_A0A8G1N093/1-131 EndoU domain-containing protein n=1 Tax=Glycomyces sp. TRM65418 TaxID=2867006 RepID=A0A8G1N093_9ACTN
+-----------------------------------------------WGARHVLQG----------------
+--------------------HENRGKNFGS----GYHAR-PGGSDMPGR-----------------------
+---------RIK-PN-------------SRKDIG------NGVYEAE------PE-FY-DSSRVP-------
+-----------------PWKGKK-G---G------SSTFFPDDWSPEKIDNSIGKAFG--------------
+--G----------SSPH------P----------TDP------------------NKWVGRA---N------
+---G------IVIEGFYDTS-------KP----G-G---YSHGWPS-
+>UniRef100_A0A4S8P2D0/1-134 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Glycomyces paridis TaxID=2126555 RepID=A0A4S8P2D0_9ACTN
+-----------------------------------------------DMLHHALVG----DT----------
+---R-------------------PGRNSGS----GYHWR-PGGNDFDGR-----------------------
+---------RIRPGT-------------HRPVGD------GGVYQAE------PE-FL-DPGPPP-------
+-----------------FWKPKG-G-NNG------VSTFFPDSWDGPEVDRNIASAFR--------------
+--K----------SQPH------P----------NDP------------------NMWVGES---N------
+---G------VKISGYYDNA-------NG----R-G---YTHGFPS-
+>UniRef100_A0A6L5GHM8/1-131 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Glycomyces albidus TaxID=2656774 RepID=A0A6L5GHM8_9ACTN
+-----------------------------------------------DRLIHALKG----DM----------
+---R-------------------PNHNGGT----GYHYR-PGGKDWDGR-----------------------
+---------RIEPGS-------------QRPVGN------NGVYEAR------PG-YQ-RPDGT--------
+------------------WQPKA-G-NNG------ISTFFPDDWTPSQVNDAISRAYR--------------
+--N----------SAPD------P----------ANP------------------NSWIGHS---N------
+---G------VRITGFYDN--------NK----P-G---YTHGYPH-
+>UniRef100_A0A1G6V8F0/1-135 EndoU nuclease n=1 Tax=Glycomyces harbinensis TaxID=58114 RepID=A0A1G6V8F0_9ACTN
+-----------------------------------------------ERLRHQQVG----GI----------
+---TYSKK---------------DNALTAT----GYHHR-PGGVDHPGR-----------------------
+---------RI--GP-------------VGDRWD------NGVYSAT------IE-IK-NPKPPP-------
+-----------------PWVPKL-T-TDG------KSTFFPNDWSAERIDDATSEAFR--------------
+--T----------S--V------S----------KDAA----------------KGTWKGFA---D------
+---G------VWIEGRYDP--------AT----G-N---IGHGFPS-
+>UniRef100_UPI000DD4C9D2/1-138 EndoU domain-containing protein n=1 Tax=Glycomyces dulcitolivorans TaxID=2200759 RepID=UPI000DD4C9D2
+-----------------------------------------------RELNHQQRG----EI----------
+---KTDRN---------------TGERYGS----GYHHR-PGGQDHDGR-----------------------
+---------RT--TD-------------MTDKHP------NGTYSGK------VE-FK-NGSPPP-------
+-----------------EYIPK--Q-GDG------TSAFFPDDWPADKVDRATSEAFE--------------
+--G----------ARKN------A----------DD-------------------GTWSGSYTDSN------
+---GQ----VVKISGWYDP--------KT----G-D---IGHGYPS-
+>UniRef100_A0A426UXR1/1-135 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Glycomyces terrestris TaxID=2493553 RepID=A0A426UXR1_9ACTN
+------------------------------------------------SLRHQQRG----EL----------
+---KWSAR---------------EGGYRGS----GYHHR-PGGNDYPGR-----------------------
+---------RI--DP-------------PVSRHT------NGVYEAR------PE-FQ-NPSPPP-------
+-----------------PFVPK--K-NGT------VNTFFPDDWSPQKVDRATTEAFK--------------
+--N----------GRKF------I----------DDQG----------------VPRWEGEF---D------
+---G------VKIKGGWDP--------DT----G-K---IGHGYPA-
+>UniRef100_A0A841FLC0/1-136 Bacterial EndoU nuclease domain-containing protein n=2 Tax=Phytomonospora endophytica TaxID=714109 RepID=A0A841FLC0_9ACTN
+-----------------------------------------------EALRHTMEGN---RT----------
+---KTD-----------------DYKKR-T----GGHYR-PGGKDFPGR-----------------------
+---------RT--DP-------------PTKTHP------SGAYEAR------TE-FL-VHDPGPP------
+--------P------TDTWKVKA-G-NGG------KSTFFPDDWTPGKIDNAISDAFK--------------
+--N----------GTKN-----------------AD-------------------GSWSGTG--PD------
+---G------LPIVGFWDT--------AS----G-A---IKHGYPS-
+>UniRef100_UPI0022D7553F/1-137 EndoU domain-containing protein n=1 Tax=Glycomyces luteolus TaxID=2670330 RepID=UPI0022D7553F
+------------------------------------------------SLRHQMRG----EV----------
+---KTYNVARRN--------QPPDYQKRGT----GYHYR-PGGHDLPGR-----------------------
+---------RT---T-------------ITKRHP------NGVYEGT------PE-FQ-NSKPPP-------
+-----------------DWVPKN-G-N-G------KSAFFPDSWGPRKVDDATSSAFK--------------
+--N----------GTKN-----------------ED-------------------GTWSGVY---D------
+---G------VKINGFWDP--------KT----G-K---IGHGFPA-
+>UniRef100_UPI001E45A78B/1-149 EndoU domain-containing protein n=1 Tax=Glycomyces amatae TaxID=2881355 RepID=UPI001E45A78B
+-----------------------------------------------HQLKHMLQGS---SG----------
+---TTHFNGLRS--------GPGKYGTR-T----GYHYR-PGGQDIPGR-----------------------
+---------RIL-PP-------------PNKTHP------SGAYDVR------TQ-FE-VDQSKGK------
+------DGS------KMVWTDKK-G-PGG------SSTFYPDHWTPQQIDGAVSGAFK--------------
+--N----------GTLD------P----------AK-------------------GTWKGVG--PD------
+---G------LKIEGRYDP--------NS----G-G---IVTAYPV-
+>UniRef100_UPI0011AD9845/1-126 EndoU domain-containing protein n=1 Tax=Micromonospora endolithica TaxID=230091 RepID=UPI0011AD9845
+-----------------------------------------------ERLRHTFQG----ET----------
+---HT----------------------R-K----GYHYR-PGGQDFENR-----------------------
+---------RIG-QV-------------LRRDNT------TGVYEAK------VE-FY-KDPPG--------
+-----------------QWMPKV-G-Q-G------RSTFFPDDWTPGQVDAAVTSAFK--------------
+--D----------PATQ------R---------LPD-------------------GSWLGEA---N------
+---G------VPIMGYYDL--------NT----G-A---LKHGFPY-
+>UniRef100_A0A317KEQ8/1-126 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Micromonospora globispora TaxID=1450148 RepID=A0A317KEQ8_9ACTN
+-----------------------------------------------ERLRHTLVG----------------
+-----------------------ERDGRAS----GWHHR-PGGIDPPGA-----------------------
+---------KLL--------------EVTERDPK------TGIYRGE------VA-ML-NRRT---------
+-------G---------EWRQKR-G----------GSTFFPDHWTPEQADNAVTRAFE--------------
+--S----------PGVV-----------------KNPK----------------EGRWSATF---R------
+---G------IDLEGFYDP--------ET----G-A---LRHGYPV-
+>UniRef100_A0A132NJM7/1-124 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Carbonactinospora thermoautotrophica TaxID=1469144 RepID=A0A132NJM7_9ACTN
+------------------------------------------------MIDHILKG----EI----------
+---KNGRLV-------------------------GYHHR-PGGRDAPNR-----------------------
+---------KTVEKEWV--------------DQR------EGIYRGE------VW-GR-EAP----------
+-------GK--------DWVKKR-N----------ISTFFPDHWTREQVEHAVRRAWE--------------
+--N----------AEIV------D----------ETK------------------RQWRGYY---R------
+---G------LEFEGYYDA---------D----G-N---VTTAYVT-
+>UniRef100_A0A561WIP2/1-137 EndoU nuclease-like protein n=1 Tax=Actinoplanes teichomyceticus TaxID=1867 RepID=A0A561WIP2_ACTTI
+-----------------------------------------------RRYEHIFYG----HT----------
+---NMNAR---------------PRP-RGS----GFHHR-FLGQNPPGA-----------------------
+---------RVRLDANG--------NEIILRTDV------SGTYRAR------VD-IL-GPD----------
+-------G---------NWHQKN-G----------SSTFFPDNWTPQRVAEAIDDAFR--------------
+--N----------STPH------P----------EEP------------------GKWIGE---SN------
+---G------LEIQGFYNDAN-PNF--------------WSSAWPT-
+>UniRef100_UPI0009DE5FFC/1-137 EndoU domain-containing protein n=1 Tax=Dactylosporangium aurantiacum TaxID=35754 RepID=UPI0009DE5FFC
+-----------------------------------------------PRYQHVFRG----H-----------
+----VVRK---------------PHGLRGS----GYHHR-HNGWNPPGA-----------------------
+---------RVRRDADG--------MELILERNP------SGTYRAR------VD-VQ-AAD----------
+-------G---------TWHPKD-G----------SSTFFPDNWHPQRVENAIKDAFA--------------
+--N----------RTPH------P----------TNP------------------RRWRGQ---SD------
+---G------LVIEGSYD-----NFPTTT------S---WNSAWPI-
+>UniRef100_A0A4R4MEA4/1-135 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Actinomadura sp. KC216 TaxID=2530370 RepID=A0A4R4MEA4_9ACTN
+-----------------------------------------------PRYQHIFLG----N-----------
+----VNRR---------------AN--KGT----GFHHR-YQGKNPPTA-----------------------
+---------RVRRDANG--------NELKDPPNS------HGAYRAK------VD-VR-DED----------
+-------G---------TWYRKN-G----------KSSFFPDSWTPKQVDEAINTAFK--------------
+--N----------ATPD------P----------ANP------------------NKWVGNL--PN------
+---G------MQIQGFYSG----NL--KK------G---WYSAWPV-
+>UniRef100_A0A1H3MGU4/1-131 EndoU nuclease n=1 Tax=Asanoa ishikariensis TaxID=137265 RepID=A0A1H3MGU4_9ACTN
+-----------------------------------------------RRHHHVFRG----EV----------
+----RGTA---------------PRGPQGS----GWHHR-FMGQDPPDR-----------------------
+---------RVVR---------------VTRQGV------DGTYAAD------VE-MR-GGPA---------
+-------G---------AWYPKP-A----------GSSFFPDNWTPQRVDRAINDAFD--------------
+--S----------GGTI------P---------GTGG------------------RRWRGM---AD------
+---G------VLIEGSYHR----NG--RT----------WNSGWPI-
+>UniRef100_UPI001941ED72/1-132 EndoU domain-containing protein n=1 Tax=Asanoa siamensis TaxID=926357 RepID=UPI001941ED72
+-----------------------------------------------GKHHHVYRG----EV----------
+----RSSR---------------RTGLRGT----GWHHR-FMGQDPPDR-----------------------
+---------KVIR---------------ITSRGI------GGTYTAD------VA-MR-GGTT---------
+------KN---------TWYIKP-G----------GSSFFPDNWTPQRVNRAIREAYA--------------
+--N----------STPV------P---------NTNN------------------RRWRGV---SN------
+---G------LLIEGSYSR----KS--KT----------WDSAWPI-
+>UniRef100_A0A5D0U5U8/1-137 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Actinomadura syzygii TaxID=1427538 RepID=A0A5D0U5U8_9ACTN
+-----------------------------------------------RRHHHIFRG----EI----------
+----RTAR---------------GGPLQGQRVPGGYHHR-FMGQDWPDR-----------------------
+---------RIGN---------------VTATGP------HGTYRAR------VQ-MR-DDN----------
+-------G---------QWVDKP-F----------PSTFFPDNWTPQSVDGTIRKAFD--------------
+--G----------HTVT------QFD------RHGNP------------------RRWQGT---AD------
+---G------IVVEGSFHR----NG--RD----------WDSGWPV-
+>UniRef100_A0A6I4MH29/1-130 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Actinomadura physcomitrii TaxID=2650748 RepID=A0A6I4MH29_9ACTN
+-----------------------------------------------GGRHHVFRG----EV----------
+----RNVR---------------GRP-----TPTGYHHR-FLGRDDADR-----------------------
+---------RVTV---------------LDRDPH------TGVYRGD------VQ-MK-GPN----------
+-------G---------QWITKP-Q----------GSTFFPDNWSPQRVNSAIERAFA--------------
+--N----------NPTV----------------SPDG------------------RRWSNM---VD------
+---G------VLIQGSFKR----NG--KK----N-G---WDSAWPV-
+>UniRef100_UPI00069628DC/1-136 EndoU domain-containing protein n=1 Tax=Nitriliruptor alkaliphilus TaxID=427918 RepID=UPI00069628DC
+---------------------------------------------APGTVTHLFHG----HV----------
+---RTTK----------------SGVPRAT----GFHHR-GSIGSQSRA-----------------------
+---------RVRRDADGT-------DRILQRDPG------TGVYRAE------VE-IF-DGQ----------
+-----------------SWVPKK-A----------PSTFFPDHWSRQQVLDEVRGASR--------------
+--N----------AVSH------QG------------------------------NLHRGVG--PG------
+---G------LTIEFAVGP---------D----G-S---IRTAYPI-
+>UniRef100_F2JKK1/1-136 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Cellulosilyticum lentocellum (strain ATCC 49066 / DSM 5427 / NCIMB 11756 / RHM5) TaxID=642492 RepID=F2JKK1_CELLD
+----------------------------------HSPYEF-----LDDTVEHIFNG----KV----------
+---EK----------------IGAPNQYVT----GWHYQ--AEFNPQGN-----------------------
+---------KIT--------------KLVEGPDE------YGTIIAE------VE-I---------------
+-----------------QGIPKK-Q----------PSTFFSSQYTTEEVVDMIMQAHM--------------
+--N----------KARV------P----------GTR------------------NCFRGVA--DN------
+---G------MCIEMFLAG----DG-TNI----A-D---VITAYPI-
+>UniRef100_UPI0020C540CE/1-135 EndoU domain-containing protein n=1 Tax=Brevibacillus sp. MS2.2 TaxID=2738981 RepID=UPI0020C540CE
+----------------------------------RQPYEF-----LDNTAEHIFKG----EV----------
+---K---------------------NAKAS----GWHYA--DEVLSPGN-----------------------
+---------EII--------------EIVREADK------YGTKIGR------VK-I---------------
+-----------------NGVEKT-E----------YSSFFSNKYTPDEVVDKIMEAHM--------------
+--H----------KSRQLDSLGRP----------TNR--------------------YRGQA--DN------
+---G------MTIEMYLAG----DG-TNI----K-D---IITAYPL-
+>UniRef100_U5E689/1-135 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Nocardia asteroides NBRC 15531 TaxID=1110697 RepID=U5E689_NOCAS
+---------------------------------LADVPPFWSD---NQTWIHIFKG----EL----------
+---KKG--------------------MHAK----GYHHR-PGGRDRY-------------------GV----
+---------KVTHRTA---------------PNR------DGVYQGN------VH-LS--------------
+---RWVGGE---------WVTKV-G----------RSTFFPDTWSSAQVRRAVESAMR--------------
+--N----------G--T-HEEGNL---------------------------------WIGVY----------
+--RG------IKIGGFID--------LDT----G-R---IITAFPI-
+>UniRef100_A0A2N1QF84/1-141 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Tenericutes bacterium HGW-Tenericutes-2 TaxID=2013845 RepID=A0A2N1QF84_9BACT
+---------------LDD-----------------------------RFQEHIFLG----QV----------
+---SKG---------------------KPS----GFHHN-----------------------NKETTLH---
+---ND----SIIEFAQLCSK--------------------KGKIVTQNTQKYILE-IY--------------
+------------------CRVKG-T-KRPLK----YSTMFNYEWSRDRVLQIIKETCNFGVT----------
+--NLYTKCI----KNYK---------------------------------I------YYNNN----------
+---GMTKEEKIIIAVSVTK----------------T---IKTAFPI-
+>UniRef100_A0A6L5H4R5/1-120 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Streptococcus mitis TaxID=28037 RepID=A0A6L5H4R5_STRMT
+------------------------------------------S---SRALEHVFLG----EI---S------
+---RAG---------------------SPK----GYHCN--------------------------RNL----
+---GD-ENAEVLPDTKAIIS--------------------GNIFEYM------VR----SKN----------
+-----------------THILKE-S-NRG------YSTFFPETWSRQQVLDMIEHSCRLV------------
+--D-------------------------------------------------PTSGVYI-CN----------
+---N------ILVKIVERN----------------RD--IITFYPV-
+>UniRef100_UPI0012DF5A3F/1-122 EndoU domain-containing protein n=1 Tax=Streptococcus ruminantium TaxID=1917441 RepID=UPI0012DF5A3F
+------------------------------------------P---QQMLEHVFWG----EI--DS------
+---NDG---------------------CPK----GFHCN--------------------------REL----
+---GD-ERAEVVTETRAIIS--------------------GGVFECK------VR----SRS----------
+-----------------NGRLKR-L-NDG------YSTFFPESFTRQDILDCLHNSIQID------------
+--D-------------------------------------------------ILHQVNLGGE----------
+---D------IYINVHCRN----------------RE--IITFYPI-
+>UniRef100_A0A0F3IVN8/1-134 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Elstera litoralis TaxID=552518 RepID=A0A0F3IVN8_9PROT
+-------------------------------------------------QEHVFCG----EI---T------
+---G-G---------------------TPK----GYHSA--------------------------TVIP---
+---PA-AGKTVVSISG-IAP------------IS------NGLY-----------------N----------
+------ATPRFSN-----GSTK-------------LSTFFPNACTQAQIVTSVQYAYA--------------
+--HNGGPV-----A--------------PWGISGMSAPPTGGA------------AYCLNSA--GQ------
+---A------FEIRMGTIG---------S----GSS-LKINTAFPR-
+>UniRef100_A0A7Y9L1B8/1-133 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Duganella sp. 1224 TaxID=2587052 RepID=A0A7Y9L1B8_9BURK
+-------------------------------------------------QLHIFCG----EI---A------
+---GNG---------------------DPK----GYHSK--------------------------VYLP---
+---PT----NVVAFTGPAAP------------VA------NGIY-----------------T----------
+------SQVYFNN-----LTDK-------------FSTFFPDSCNQAQILASVRYAFA--------------
+--N---PI-----A--L-PGAGT----VGWGV-GPSAPAAPGG------------LYCRGTN--GN------
+---P------FNIRLGILA---------N----GN----INTAFPN-
+>UniRef100_A0A653TTV6/1-161 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Pseudomonas sp. 8BK TaxID=2653164 RepID=A0A653TTV6_9PSED
+-------------------------------------------------QRHIFCG----EI---N------
+---AGG---------------------NAV----GYHSR-PNGHDALLGTRPGSPVAAQITAGQRFIVP---
+---PG------NNHPAPYRY------------VG------NGVRVFNV-------------A----------
+------TNAWVLK-------AG-------------PSTFYPDSCSQQEVVASIRYAYM--------------
+--HPYSAA-----P--A-GPNNP--------FSGPSAPSLDAP------------GYCTGAG--GQ------
+---P------FTVG-GYLNLI------------GGQ-WVVNSAYPI-
+>UniRef100_UPI001C1EDF15/1-161 EndoU domain-containing protein n=1 Tax=Pseudomonas sp. CVAP#3 TaxID=2849095 RepID=UPI001C1EDF15
+-------------------------------------------------QRHIFCG----EI---N------
+---AGG---------------------NAV----GFHSR-PAGHDPSLGNGPAAPLAARTFGALVFIVP---
+---PG------LNNPQPYRY------------MN------NGVQIFNT-------------G----------
+------TNAWQAK-------AG-------------PSTFFPESCTQQAVVESIRYAYM--------------
+--HLLSSV-----T--P-PPAAA--------FYGPSAPAINAP------------GYCVGEN--GY------
+---P------FTIS-GYLNNI------------GGL-WWVNTAFPI-
+>UniRef100_A0A6S5RUU8/1-173 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Pseudomonas otitidis TaxID=319939 RepID=A0A6S5RUU8_9PSED
+-------------------------------------------------QRHIFCG----EV---N------
+---AGG---------------------AAT----GFHSR-PNSHDPRLGVGPMAPFAAQITAGVQYIVQ---
+---PG------INHPGPYRY------------LG------RGIQVAN--------------A----------
+------AGVMVPK-------AA-------------PSTFFPDSCSQVQVIASIRYAYT--------------
+--HPFKDVGPFVPP--P-PPGGPARPPYANFFAGPSAPSIGAV------------GYCTGEG--GN------
+---P------FTVG-GYIKQV------------AGL-WTLSTVYPI-
+>UniRef100_UPI001428B6E2/1-158 EndoU domain-containing protein n=2 Tax=Pseudomonas psychrotolerans TaxID=237610 RepID=UPI001428B6E2
+-------------------------------------------------QRHIFCG----EI---N------
+---VSG---------------------NAT----GFHAQ-PGGHSPTIGAAAGSPVAADITGGSAYIVQ---
+---PG------TAHPGPYRY------------KA------N-VRIRN--------------A----------
+------GGAFIPK-------LS-------------PSTFFPNDCSKDQIIASIRYAYQ--------------
+--HPYKSV----------TPTGSD-------FNGPSAPYVSAT------------DYCLGEN--GY------
+---P------FTVG-GFLNQI------------GGV-WILNSAFPI-
+>UniRef100_UPI001C8B8523/1-162 EndoU domain-containing protein n=1 Tax=Chromobacterium vaccinii TaxID=1108595 RepID=UPI001C8B8523
+-------------------------------------------------LEHIFCG----EI---N------
+---AAG---------------------AAV----GFHAR-PGGHNPVLGAGPAAPLAAQITGGVDYIVL---
+---PG------AAHPGPYRY------------VG------GGIQVYDA-------------A----------
+------AGAWVAK-----GGAG-------------SSTFYPDACNRAQIMASVRYAYT--------------
+--HAIIAA----------PPAGGQ-------FVGPSAPSVGAA------------AYCTGEN--GT------
+---V------FSIA-GFLNLI------------GGM-WRVNTAYPL-
+>UniRef100_UPI000812A959/1-172 EndoU domain-containing protein n=1 Tax=Pseudomonas TaxID=286 RepID=UPI000812A959
+-------------------------------------------------QRHIFCG----EI---N------
+---AAG---------------------NAV----GFHSR-PGNHDPQVGPLALDPVAARTIGPRTYMVP---
+---YG------LNPPNDYRY------------AN------ANVEVLNV-------------A----------
+------TGTWVAK-------AG-------------PSTFFPDSCTQQQVVTSIRYAFM--------------
+--HLSSGL-----V--M-GGGNSQ------IFFGPSAPTVIAV---------VPNPYCVDEQ--GL------
+---A------FTVG-GYLNGIP-PA-PGA----ALV-WWVNSAFPI-
+>UniRef100_A0A653TWI4/1-148 Bacterial EndoU nuclease domain-containing protein n=2 Tax=Pseudomonas sp. 8BK TaxID=2653164 RepID=A0A653TWI4_9PSED
+-------------------------------------------------QRHVFCG----EL---R------
+---ANN---------------------TAT----GYHSR-PGGHDPILAPAVL---AARVTGA----VA---
+---QS------AHYPDVYR--------------G------VGIQVRQ--------------V----------
+------LGAWFNK------QPN-------------FSTFFPDHCTQAQVVASIGYAYS--------------
+--QDPQVA--------------------SAPFHGPSAPNAGAP------------LYCTSND--GS------
+---L------LQVQ-GYLNSI------------GGN-WIVNTAYPQ-
+>UniRef100_UPI0008FFFC51/1-147 EndoU domain-containing protein n=1 Tax=Atopomonas hussainii TaxID=1429083 RepID=UPI0008FFFC51
+-------------------------------------------------QRHVFCG----EV---R------
+----NN---------------------AGK----GFHAR-PGGQDPILVEGEG---AARVTGQ----LA---
+---PS------VQYPGVYR--------------G------DDVQVRQ--------------V----------
+------VGPWVNK------QPP-------------YSTFFPDHCSQAQVVASIGYAYS--------------
+--QNPRQV--------------------AGAFNGPSAPILGAQ------------THCTGTA--GE------
+---V------LQLR-GYLNLI------------GGT-WILNTAYPL-
+>UniRef100_A0A7W6RWN7/1-135 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Roseospira goensis TaxID=391922 RepID=A0A7W6RWN7_9PROT
+-------------------------------------------------AAHIFCG----EI---N------
+---AGG---------------------HAV----GFHSR-PGGQNP-------------------VTV----
+---------NHTNNTQAT--------------GT------PGVYNIRQ-----FN-I---FP----------
+------PGQPQNA-----RVKA-------------VSTMFPDHCSQANVLAAIRNAQA--------------
+--NPAGAQ-----P--------------QGGFRGPSG------------------NSCQDTN--GN------
+---D------FTIQGFYAP--------NN----PNL---IRTAYPN-
+>UniRef100_A0A925KWT2/1-129 EndoU domain-containing protein n=1 Tax=Rhodospirillales bacterium TaxID=2026786 RepID=A0A925KWT2_9PROT
+-------------------------------------------------NQHIFCG----EV----------
+---SSG---------------------KGK----GFHSR-PGGLNP-------------------ASV----
+----------ANTGTPAAIV-----------GAP------AGIYNLRN-----FN-I---------------
+-------TQGGVT-----RTKA-------------ISTMYPDACAQADVLAAIRNAVA--------------
+--TGVRGA-----N---------------GQFTGSSG------------------THCQAG---GA------
+---P------FNIIG-YLD--------GA----GEV---I-TAWPN-
+>UniRef100_A0A976WQA4/1-136 EndoU domain-containing protein n=4 Tax=Pseudomonas TaxID=286 RepID=A0A976WQA4_9PSED
+-------------------------------------------------QQHVFCG----EVQVQA------
+---AGN---------------------RAK----GFHSR-PNGQSP-------------------ATVT---
+---FT----AATTNTPR---------------GP------AGIYVLRN-----FN-I---------------
+-------TQNGAT-----GTKT-------------VSTMFPDTCSQANVVAAIQNAYN--------------
+--NRTGLV-----N---------------GEFHGPSG------------------ASCQAGN-PAA------
+---S------FNIVG-YMN--------AS----GTV---VTTAYPD-
+>UniRef100_UPI001648D35E/1-130 EndoU domain-containing protein n=1 Tax=Pseudomonas sp. RW10S2 TaxID=459637 RepID=UPI001648D35E
+-------------------------------------------------AQHIFCG----EV---S------
+---APD---------------------VAK----GFHSR-PGGINP-------------------DSV----
+------------SNAPAGTH------------GA------GDIYTLKN-----FT-I---------------
+-------AEGARS-----GTKS-------------ISTMFPDRCTETQVIAAVRNAYA--------------
+--TKVQDA-----S--N-----------KSKYVGSSG------------------TECQKGT-PAA------
+---A------FDIVF-YLN--------------GDL---INTAYPK-
+>UniRef100_UPI000381E71B/1-128 EndoU domain-containing protein n=1 Tax=Kiloniella laminariae TaxID=454162 RepID=UPI000381E71B
+-------------------------------------------------RKHIFCG----EV----------
+---GNN---------------------RAK----GFHSR-PGGQNP-------------------VTV----
+----------NTDDADVVQHR----VLVNGVEVP------SGLYNLRD-----FE-I---------------
+-------TDHGVT-----AVKA-------------ISTMYPDHCSYNDVLTAIAYASN--------------
+--NQNRL----------------------------SG------------------GTCLTDQ--GE------
+---E------FPIQIYWLN--------G-------Y---INTAFPI-
+>UniRef100_A0A7C3VT66/1-138 Bacterial EndoU nuclease domain-containing protein n=2 Tax=Oscillatoriales TaxID=1150 RepID=A0A7C3VT66_9CYAN
+-------------------------------------------------HAHIFCG----EI---N------
+---QQG---------------------RLV----GFHAR-PRGQNPS-------------------TV----
+---------RQFTITQ--------------AANA------QGIYGGE------WT-YA-GSP----------
+------------------QATK-------------FSTMFPDRCTREQILNSIAHAEA--------------
+--N-RVQC-----------PAGAP----SWAWCGLNRPANNNQ----------PNRFCPANN--GT------
+---T------YTIAGAT---------NRD----N-K---INTAFPL-
+>UniRef100_A0A1E5QQY2/1-134 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Desertifilum sp. IPPAS B-1220 TaxID=1781255 RepID=A0A1E5QQY2_9CYAN
+-------------------------------------------------QLHIFCG----E----S------
+---QGD---------------------RLL----GLHSR-PNGQNPP-------------------TV----
+---------AQLQITQ--------------PPNA------QGIYGVQ------WR-HRDGS-----------
+-------------------ASK-------------FSTFFPDRCSKQQVLNSIAYAAT--------------
+--H-PIAC-----------PATAP----RWAWCGRNSPRENSQ------------QFCQANN--GT------
+---P------FAIAGAR---------LRD----G-R---INTAFPI-
+>UniRef100_A0A357A999/1-137 Bacterial EndoU nuclease domain-containing protein n=2 Tax=Cyanobacteria TaxID=1117 RepID=A0A357A999_9CYAN
+-------------------------------------------------QTHIFCG----EW--DS------
+---RRG---------------------RPK----GFHSQ-PNGISPR-------------------TV----
+---------ANFQITQ--------------RANA------QGIYGAT------WG-YA-GQA----------
+------------------GRTK-------------FSTMFPDRCTQQEVLNSILYAAA--------------
+--H-RQSC-----------PGSAP----DWAWCGRSAPAAAAQ------------GYCNGDD--NN------
+---V------FTIAGAS---------LRN----G-N---INTAFPL-
+>UniRef100_UPI001AEF16B8/1-137 EndoU domain-containing protein n=1 Tax=Candidatus Thiothrix anitrata TaxID=2823902 RepID=UPI001AEF16B8
+-------------------------------------------------YDHIFCG----EL---N------
+---KKG---------------------RVV----GFHSR-PQGYDPQ-------------------TV----
+---------ANLRITQ--------------KPNK------QGIYSGQ------WE-WG-GNK----------
+------------------SGNK-------------FSTFFPDHCTPEQVINTIGYAAN--------------
+--N-QRDC-----------PKSAP----NWAWCGANAPKQDQS-----------DAYCRSVD--GT------
+---P------YLIAGAL---------SSR----G-G---VNTAFPL-
+>UniRef100_A0A1H7K4L4/1-139 EndoU nuclease n=2 Tax=Nitrosovibrio tenuis TaxID=1233 RepID=A0A1H7K4L4_9PROT
+-------------------------------------------------QKHVFCG----EW---K------
+---D-N---------------------RPK----GFHSR-PGGVNPI-------------------TV----
+---------KAFTVQD--------------FPDT------TGVYSGK------WS-YT-NAA----------
+------------------GRRK-------------FSSMFPDNCSTEQVLNSISHASA--------------
+--YPERNC-----------PEGSP----RWVKCGKNRPGSDTK--EKLS------GYCTYNE--E-------
+---F------FLIGFAA---------PKD----N-K---INTAFPI-
+>UniRef100_A0A1K1M306/1-139 EndoU nuclease n=2 Tax=Nitrosovibrio sp. Nv17 TaxID=1855339 RepID=A0A1K1M306_9PROT
+-------------------------------------------------QAHVFCG----EE---S------
+---E-G---------------------RAK----GLHAR-PGGKNPA-------------------TV----
+---------RDFTIQD--------------FPDS------TGIYSGR------WS-HV-RSP----------
+------------------GRGK-------------FSSMFPDDCSVEQILKSVAHASS--------------
+--HPERSC-----------PPGAP----GWIRCGRNRPADPAA--GGLA------NYCSRDG--T-------
+---F------FLIGFSE---------PWN----G-R---INTAFPI-
+>UniRef100_A0A8I1TQB8/1-139 EndoU domain-containing protein n=1 Tax=Nitrosospira sp. TaxID=38080 RepID=A0A8I1TQB8_9PROT
+-------------------------------------------------QRHVFCG----EW---S------
+---G-G---------------------RPK----GFHSR-PAAANPP-------------------TI----
+---------REFKVQD--------------PPDP------AGIYTGK------WT-HG-NDP----------
+------------------ARYK-------------FSSMFPDTCSMEQVLHSISYASA--------------
+--HPDASC-----------PVASP----AWARCGKNRPARVVG--AGLA------GYCGNSE--V-------
+---L------FAIGFAA---------PKN----N-R---INTAFPI-
+>UniRef100_A0A1H9M0B1/1-143 EndoU nuclease n=1 Tax=Nitrosomonas sp. Nm51 TaxID=133720 RepID=A0A1H9M0B1_9PROT
+-------------------------------------------------LRHVFCG----EW---N------
+---R-S---------------------RPK----GFHSR-PGGINPD-------------------TV----
+---------AVFAVQD--------------KANA------AGVYTGR------WS-HK-ADP----------
+------------------NKNK-------------FSSMFPDNCSARQVLNSIAHAVA--------------
+---HTFQC-----------PAGAP----DWTQCGFNKPREASS--ADPAVE-KNEQYCSQND--K-------
+---L------FTIGFAP---------PRN----G-R---INTAFPL-
+>UniRef100_A0A2V3WAL4/1-142 EndoU nuclease-like protein n=2 Tax=Nitrosomonas sp. Nm84 TaxID=200124 RepID=A0A2V3WAL4_9PROT
+-------------------------------------------------QQHIFCG----EW---S------
+---H-N---------------------RPK----GFHSR-PGGNNPS-------------------TV----
+---------AHLTVQS--------------KPNA------AGIYTSR------WS-YK-DHS----------
+------------------DKNK-------------FSSMFPDHCTLSQVLNSISYATA--------------
+--SSSTKC-----------PSGSP----DWTQCGKNKPENKSA--ANQ--D-ENLQYCSKDG--K-------
+---F------FTIGFAP---------AKQ----G-K---INTAFPI-
+>UniRef100_UPI001FC8285F/1-138 EndoU domain-containing protein n=1 Tax=Nitrosomonas sp. PY1 TaxID=1803906 RepID=UPI001FC8285F
+-------------------------------------------------QQHIFCG----EW---H------
+---R-D---------------------RPK----GFHSR-PDGKNPT-------------------SI----
+---------AWLSIQS--------------KPNK------AGIYTVR------WS-HV-RNP----------
+------------------KKEK-------------FSSMFPDQCTKQQVLNSIRYAAR--------------
+---HTVRC-----------PSNSP----NWLQCGQNKPSITTE-------K-ENPQFCNYNN--N-------
+---L------FTIGVAF---------DDN----N-K---VNTAFPI-
+>UniRef100_UPI000939C7C8/1-155 EndoU domain-containing protein n=1 Tax=Thalassospira sp. TSL5-1 TaxID=1544451 RepID=UPI000939C7C8
+-------------------------------------------------LEHIFCG----EI---N------
+---RKN---------------------RFT----GFHAR-PQGRNPA-------------------TI----
+---------ARVVVEAG-------------SENA------NGIYEAT------VY-WN-MDR----------
+------DGDARPA-----NASK-------------FSTLFPDDCSRDQIIASILYASR--------------
+--HALPSC-----------PAGAP----GWTQCGLNRPDGQGDSNGAET-A-KAHQYCVGKD--PSS-----
+---R------FTIAFAP---------HN-----G-R---LNTAFPL-
+>UniRef100_UPI000A1E961F/1-149 EndoU domain-containing protein n=1 Tax=Thalassospira mesophila TaxID=1293891 RepID=UPI000A1E961F
+-------------------------------------------------LEHVFCG----EV---N------
+---AKN---------------------RFV----GFHSR-PGGLNPA-------------------TI----
+---------STVTVTAG-------------SENG------NGIYDAT------VF-WN-TAR----------
+------PGAAKPS-----NPSK-------------FSTLFPDDCDQDQIEQSITYAAD--------------
+--HLEAAC-----------PAGSP----TWTKCGYNRPD------PLPT-G-DAGKYCVGKD--ASR-----
+---R------FSVAMAI---------AG-----T-T---INTAFPI-
+>UniRef100_UPI0003B768AE/1-144 EndoU domain-containing protein n=1 Tax=Thalassospira lucentensis TaxID=168935 RepID=UPI0003B768AE
+-------------------------------------------------LDHVFCG----EI---R------
+---SNG---------------------SAT----GFHAR-PNAINPA-------------------TV----
+---------AGVEVTQ--------------SPNA------NGIYAGT------VR-L--RNR----------
+------NGD---------DPQK-------------FSSLFPDACSMEQVTASILYAFE--------------
+--H-RQAC-----------PAGSP----GWWQCGANRPEG-----GGLI-G-EDVKFCVGAA--PKS-----
+---R------FLIAMGL---------LKD----G-R---INTAFPL-
+>UniRef100_UPI00215DBE9C/1-149 EndoU domain-containing protein n=1 Tax=Thalassospira profundimaris TaxID=502049 RepID=UPI00215DBE9C
+-------------------------------------------------LAHVFCG----EV---K------
+---SNG---------------------RAA----GFHAR-PGGVNPA-------------------TI----
+---------TSVEITQ--------------PANT------SGVYAGM------VT-F--AKP----------
+------DASAGASSE-RRDPVK-------------FSSIFPDSCSFDQIVASILSAHD--------------
+--N-RTDC-----------PAGSP----GWWQCGLNRPKD-----AAL-----SAGLCVGDD--PDG-----
+---V------FTIAIGL---------LRD----G-R---INTAFPL-
+>UniRef100_A0A545TGS3/1-139 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Aliikangiella marina TaxID=1712262 RepID=A0A545TGS3_9GAMM
+-------------------------------------------------NDHVFCG----EI---R------
+---N-G---------------------NAK----GFHSR-PDGDNPA-------------------TV----
+---------TNFNITQ--------------APNA------AGVYGGI------VT-L---NI----------
+------HGA---------TAQK-------------FSTMFPDSCTQEEVDNSISYAAV--------------
+--N-QIAC-----------PAAAP----NWAVCGYSRPDPVL--------P-TQGPYCEGDD--ES------
+---R------LTVAMGL---------TAN----G-N---VNTGFPV-
+>UniRef100_UPI000A1D6F67/1-139 EndoU domain-containing protein n=1 Tax=Thalassospira sp. MCCC 1A03138 TaxID=1470576 RepID=UPI000A1D6F67
+-------------------------------------------------GDHVFCG----EI---N------
+---SKG---------------------KAV----GFHSR-PGGNNPAG-----------------GGI----
+---------TNVVITQ--------------PANP------MGIYN--------IS-F---QK----------
+------NG----------VQKS-------------ISTMFPDSCSQDEVVNSILYAEA--------------
+--N-QEAC-----------PAGAP----GWVVCGKNRPDPVM--------A-TQGPYCEGDD--DSN-----
+---R------FYIAVGV---------NG-----G-S---INTAFPL-
+>UniRef100_K2LXR2/1-145 Bacterial EndoU nuclease domain-containing protein n=2 Tax=Thalassospira profundimaris TaxID=502049 RepID=K2LXR2_9PROT
+-------------------------------------------------IPHVFCG----EI---E------
+---GN----------------------KAK----GFHSR-PGGINPG-------------------SV----
+---------ADVKITQ--------------PPNA------SGVYGGI------VT-L--VNP----------
+------DGP---------NLSK-------------FSTIFPDTCNLLEVVRSILHAYE--------------
+--N-QVAC-----------PTGAP----QWASCGFNRPED-----GSE----TGTEYCVGPS--EDA-----
+---R------FYIAFAT---------LSHGEYAG-K---INTAFPL-
+>UniRef100_A0A1I1YAG9/1-140 EndoU nuclease n=2 Tax=Nitrosomonas sp. Nm166 TaxID=1881054 RepID=A0A1I1YAG9_9PROT
+-------------------------------------------------QRHVFCG----EV---G------
+---KKN---------------------KAK----GFHAM-PDGNAPS-------------------NY----
+---------INSSPAD--------------PANG------AGVYTLKQI---QLR-FA-GKQ----------
+------------------YEKS-------------FSSIFPQHCSQTQVSKSIVYSLI--------------
+--NRTGAC-------------ASP----GWASCGPNAP-KDGG-----------NEYCLAAN--GA------
+---H------FDIATAV---------LPGNK--T-R---INTGFPI-
+>UniRef100_A0A2G2PU48/1-141 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Thalassobium sp. TaxID=2030825 RepID=A0A2G2PU48_9RHOB
+-------------------------------------------------QHHIFCG----EP---A------
+---KGN---------------------NAK----GFHSM-PQNQPPS-------------------DY----
+---------ISSQKGD--------------SPNA------SGIYTLKRI---ALS-FN-KNT----------
+------------------HIKS-------------FSSMFPDHCTQAQVNASIVYSQQ--------------
+--NASGNC-------------ANP----GWAKCGPNAPDNDNG-----------NKYCKGFP--AK------
+---H------FEIATAV---------LPDDN--S-K---INTGFPI-
+>UniRef100_A0A3B0Z3I3/1-139 Bacterial EndoU nuclease domain-containing protein n=1 Tax=hydrothermal vent metagenome TaxID=652676 RepID=A0A3B0Z3I3_9ZZZZ
+-------------------------------------------------QPHIFCG----ET---N------
+---RKG---------------------RVV----GFHAT-PDGQPPS-------------------TY----
+---------LNADIAD--------------KPNT------QGIYTLRNI---QLQ-LK-SKQ----------
+------------------R-KG-------------FSSMFPQHCSAEQIMQSIVYSIQ--------------
+--QNQGKC-------------TAP----GWASCGPSNP-EILD-----------AKFCSGRD--GR------
+---S------YQIASAR---------LRDNP--Q-R---INTAFPI-
+>UniRef100_A0A255YVV6/1-129 Bacterial EndoU nuclease domain-containing protein n=2 Tax=Niveispirillum lacus TaxID=1981099 RepID=A0A255YVV6_9PROT
+-------------------------------------------------LRHVLCG----EI---K------
+---KNG---------------------DVV----GMHSR--------------------------TLID---
+---TA----P-IKEMQPQPT------------QP------NGLY-----------------S----------
+------ARVIFEN-----GRSK-------------NSTFYPDNCSVAQVTRSILYAVN--------------
+--NSHGPG-----K--------------PWGKLGCSAPATPDS------------SYCTGPG--GE------
+---R------FVIRFAVFD---------D----GR----INTAFPQ-
+>UniRef100_A0A6N7JKD7/1-131 Bacterial EndoU nuclease domain-containing protein n=2 Tax=Niveispirillum sp. SYP-B3756 TaxID=2662178 RepID=A0A6N7JKD7_9PROT
+------------------------------------------------NLRHILCG----EI---K------
+---KNG---------------------DPV----GLHSK--------------------------ALVS---
+---TS----KIIAGIDAQPT------------QP------DGLY-----------------G----------
+------ATIRFDN-----GTSK-------------FSTFYPDNCTPAQITASIRHAFA--------------
+--NQSGPA-----K--------------PWGFLGCSAPAVPTA------------EQCTGPK--GQ------
+---R------FVIRFGLNK---------E----GD----INTAFPL-
+>UniRef100_A0A7H1N2B1/1-129 EndoU domain-containing protein n=1 Tax=Defluviicoccus vanus TaxID=111831 RepID=A0A7H1N2B1_9PROT
+-------------------------------------------------RRHVFCG----EI----------
+---NHG---------------------RSK----GLHSM--------------------------QLLA---
+---TS----AVVSRVEAPRG------------DR------QGIY-----------------T----------
+------AIVVFTN-----GQRK-------------LSTFFPDHCTVEQVTQSIYHAGT--------------
+--HDAVPH-----P--------------AWGFIGLSAPTAGAP------------GFCLDAD--QR------
+---P------FEIRFGRLK---------D----GR----INTAFPN-
+>UniRef100_A0A952KEN6/1-140 EndoU domain-containing protein n=1 Tax=Inquilinus limosus TaxID=171674 RepID=A0A952KEN6_9PROT
+-------------------------------------------------LSHIFCG----EI---G------
+---RNG---------------------DPK----GFHSR--------------------------AVAL---
+---PT----GAVDRVEDGRH------------HG------GETY-----------------D----------
+------GTVIYSN-----GRRK-------------RSTFYPDDCSAEAILRSVLYAYR--------------
+--NQTGDH-----P--------------AWGVLGPSAPEGAASD-GG---G-QGDGYCRDAR--GR------
+---P------FEIRIGTIRRR------GQ----DA----INTAFPN-
+>UniRef100_UPI000695EEF1/1-132 EndoU domain-containing protein n=1 Tax=Thalassospira sp. HJ TaxID=1616823 RepID=UPI000695EEF1
+-------------------------------------------------ETHIFCG----EY--LS------
+---S-----------------------KVK----GFHSR-PGGTNPT-------------------TV----
+---------SNVTVTV--------------QPDA------RGIYEIT------FS-MN--------------
+------------------GKSK-------------SSTMFPDSCSKDQVVKSVLYAYA--------------
+--N---KA-----------SNSAC----TWGECGPNRPDPKPTD------G-TETQYCNADN--DA------
+---L------FNISLG----------------KP-Y---VNTAFPN-
+>UniRef100_UPI000C6E5085/1-134 EndoU domain-containing protein n=1 Tax=Thalassospira marina TaxID=2048283 RepID=UPI000C6E5085
+-------------------------------------------------QRHIFCG----EI----------
+-----G-------------------RYGAS----GFHSR-PNGELPN-------------------TII---
+---FD-------NYTSALVLSHWN-----QNLNQWDQ---NGIYELNN-----FL-I-DDGV----------
+----QRSN-------------KG------------RSTMFPDYCTQQNVLDAIAYAA---------------
+--------------------QHND---------------------------------LSGPS------CLTV
+QGQE------FEITVHWLR-------DQN----G---WYINSAYPR-
+>UniRef100_A0A3D9HS85/1-134 EndoU nuclease-like protein n=1 Tax=Aestuariispira insulae TaxID=1461337 RepID=A0A3D9HS85_9PROT
+-------------------------------------------------QRHIFCG----EV----------
+-----R-------------------DFRAV----GFHAQ-PNGETPN-------------------TVD---
+---FD-------NLT-------WDITYRIRVANQWVA---NGIYEMRD-----FL-IAEDG-----------
+-----DTNV---------AYAKY------------RSTMFPDHCSKEDVLNAIAYAA---------------
+-------------------VTPQG---------------------------------LSGQT------CLTS
+QGLQ------FPVVVFW---------DQN----G---DYVDTAYPY-
+>UniRef100_UPI001B3906C2/1-154 EndoU domain-containing protein n=1 Tax=Pseudoalteromonas luteoviolacea TaxID=43657 RepID=UPI001B3906C2
+-------------------------------------------------QRHIFCG----EV---RI-----
+---VSG-------------------NLVAK----GFHSQ-PLAERPI-------------------TND---
+---GD----LHINYVDI-----FNTNPVLPGADQ--------LYTSIN-----VR-V-LNG-----------
+------ENY---------IPKNG------------NSTMFPNQCTQEQVINSIRYAFNIAVDLGD-------
+LPN---------DRN-V-FNQKSG---------------------------------PGGGN------YCYA
+NGAP------FTIRGYRNQ-------IEG----A---YIINTAFPI-
+>UniRef100_UPI0014837A2E/1-142 hypothetical protein n=1 Tax=Vibrio ostreicida TaxID=526588 RepID=UPI0014837A2E
+-------------------------------------------------QHNIYCG----EA-KQD------
+---SFG--------------------------GIGFYSM-PNNFAPS-------------------TLT---
+------SVGAAFDESE------------------------FGIYTLRT-----IN-LAVGGR----------
+------------------TVVKA------------FSTMFPVSCSVSQINASIVHARI--------------
+-AN-QGGCE----S-------------VSWAECGLSAPEDNPS-----------DQYCLGHN----------
+---GQ----SFTIATATLPH------EPN------K---ISTGFPV-
+>UniRef100_UPI00087B5B80/1-144 EndoU domain-containing protein n=1 Tax=Pseudomonas chlororaphis TaxID=587753 RepID=UPI00087B5B80
+-------------------------------------------------TKHIFCG----QV---T------
+---TSN---------------------NAE----GFHSA-PGGINPS-------------------TV----
+---------NATTKTS--------------IPGS------TDIYKYEK-----FG-IR-NDV----------
+------QSP---------WMTK--P----------TSTMFPDTCTGDQVIASIEYATS--------------
+--M-MGAC-----------ISNSPNE-----RCGRSGPFNDKS-----------GDYCTSIS-SGG------
+---S------FNLKVIL---------------SGNDNKYIISAYPD-
+>UniRef100_UPI002352EBD4/1-134 EndoU domain-containing protein n=1 Tax=Elstera cyanobacteriorum TaxID=2022747 RepID=UPI002352EBD4
+-------------------------------------------------QTHVFCG----EI---S------
+---SKG---------------------DVK----GYHSE--------------------------VIVP---
+---PK-AGNTVVSVVG-QKS------------VN------GDIF-----------------A----------
+------GYPKFSN-----GKSK-------------YSTFFPKSCTQAQIIASALYVAS--------------
+--T-GSPA-----H--------------DWGVVGLSAPATGGS------------TYCLN-Q--GA------
+---A------FPMKVDPKK---------D----KAGQLILNTAFPL-
+>UniRef100_A0A2E7K7A5/1-123 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Gimesia sp. TaxID=2024833 RepID=A0A2E7K7A5_9PLAN
+-------------------------------------------------------------M---NPSTPTG
+---YSG---------------------DIS----GFHHI---GTNPRRH-----------------------
+---------TIVPGTK-------------STLDA------NKIYTAK-------------------------
+----------------WLGYEKT-G-NGK------LSSFFPDSWSRSKVEHAICQAAGSAIVR---------
+--N-------------S-LVKSSK---NRY--------------------K------FSAQV----------
+--HG------ITIEGYLTA--------------SKK--TIVTAYPI-
+>UniRef100_A0A5D4M7A5/1-123 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Rossellomorea vietnamensis TaxID=218284 RepID=A0A5D4M7A5_9BACI
+-----------------------------------------IS-----VIHHIMVG----EI---N------
+---SRG---------------------HAV----GFHHE-GDLSKGKS-----------------EVI----
+---EA----TRKAK------------------DD------HGIYEAG------VI-IF-G------------
+----------I--------QKR--G----------ASSFYPSSYSPEEVLNGIKEAYN--------------
+--------K----------KNRVKY--RLY----------------------------EATL--AN------
+---G------IIIHF---------YQDEDAD-YG-K---IVTAYPK-
+>UniRef100_A0A198A4H0/1-135 Intein C-terminal splicing domain-containing protein n=1 Tax=Paenibacillus oryzisoli TaxID=1850517 RepID=A0A198A4H0_9BACL
+----------------------------------QMAKYFAPN-----TKKHILEG----EI---N------
+---SKG---------------------DAV----GFHHE-GSSSIAR--------------------I----
+---VG----TPTPV------------------NA------YGVYEAT------VE-IF-DGT----------
+--------NYV--------RKK--A----------TSTFFPKSWSSDDVLNAIFEVYA--------------
+--NAQPAIK----------QNGTEFI-QKW----------------------------QGTH--SS------
+---G------VKIEF---------WVGLN----G-E---ITTAYPI-
+>UniRef100_UPI0022E16959/1-123 EndoU domain-containing protein n=1 Tax=Bacillus cereus group sp. Bc015 TaxID=3018123 RepID=UPI0022E16959
+----------------ES------------------------------TVEHLFVG----EI---N------
+---RRG---------------------NAV----GFHHD---------------------------GE----
+--FAK-GISQILPNTI-------------TSEDS------NKVYKAE------VE-IK-G------------
+-------------------EKK-----EK------ESSFFPIDWTSKQVLDNILHAYS--------------
+--N----------K--K-KITE-------------NL--------------------FEGTT--SD------
+---G------ITVHFYLHE------SNHN----G-K---IKTAYPL-
+>UniRef100_UPI001F41EEFC/1-124 EndoU domain-containing protein n=1 Tax=Membranihabitans sp. C281 TaxID=2904244 RepID=UPI001F41EEFC
+-----------------------------------NVSYITSS-----TVQHIFRG---------S------
+-GS--G----------------------------GVHHI--------------------------SALI---
+---ADSDTYKIHSRLS------MS----------------KGCYRAT---------VY--------------
+------------------------K-NGTPMS--SIKDFFPDDWDEYKVIEEIKEAWN--------------
+--N----------KSYV----------------GGNT--------------------YDGYA--SN------
+---G------KRIRMFIANEG-----TSS----E-R---IISAFPQ-
+>UniRef100_A0A958X228/1-123 EndoU domain-containing protein n=1 Tax=Saprospiraceae bacterium TaxID=2202734 RepID=A0A958X228_9BACT
+-----------------------------------NVPYINQN-----TIEHIFRG---------D------
+-GTPGG----------------------------GKHHI--------------------------SALI---
+---AD-DSYKLVERVP------TQ----------------AGCYKAK---------IL--------------
+------------------------K-PDGQFL--YNKDFFPDDWDELKLVDELKVAWE--------------
+--N----------KTLK----------PEW---GSGT--------------------YLGTT--SE------
+---G--------IPVIIQ--------TDN----G-K---IKSAYPK-
+>UniRef100_UPI001F4198A6/1-122 EndoU domain-containing protein n=1 Tax=Bacillus sp. GM_Baccil_2 TaxID=2937369 RepID=UPI001F4198A6
+--------------------------------------IYKNN----GSVEHIFHG----NV---N------
+---RRG---------------------EAG----GFHHE---------------------------SMP---
+------SKGKIRSITE--------------EPNE------HGVYKAE------VE-VN-G------------
+-------------------IPKE-----F------ESSFFPKDWNRVEVLQAVKEAYN--------------
+--N----------K--E-YT-GR-----------GNK--------------------YIGRT--SH------
+---G------IEIMMFID---------SR----N-R---VISAFPL-
+>UniRef100_A0A1I1SVH5/1-124 LXG domain of WXG superfamily protein n=1 Tax=Bacillus sp. 491mf TaxID=1761755 RepID=A0A1I1SVH5_9BACI
+--------------------------------------IYKNN----GTVEHIFHG----NI---N------
+---YKG---------------------EAG----GYHHK---------------------------SMM---
+------GEGEILRITK--------------KPNK------YGVYEAK------VT-VN-G------------
+-------------------VVKG-----P------TSTFFPDTWDRAQVLNCINEAYQ--------------
+--N----------A--Q-FVKGS-----------TNT--------------------YIGRS--AN------
+---G------MKIQMFLD--------KST----G-R---IISAFPI-
+>UniRef100_UPI00232AF753/1-121 EndoU domain-containing protein n=1 Tax=Bacillus sp. BP-3 TaxID=3022773 RepID=UPI00232AF753
+--------------------------------------IFLNN----KSVEHLFHG----NF---N------
+---RYR---------------------EAG----GYHHE---------------------------SMM---
+------GEGKIKPGTE-------------STPNR------FGVYTAE------IE-VS-G------------
+-------------------VPKS-----S------PSTFFPKHWDRTQVLEAIHEAYN--------------
+--N----------K--R-RI--N-----------GNL--------------------YSGRT--SA------
+---G------MEIRLVL----------IN----D-K---IITVYPM-
+>UniRef100_A0A150KIE6/1-123 Bacterial EndoU nuclease domain-containing protein n=4 Tax=Weizmannia coagulans TaxID=1398 RepID=A0A150KIE6_WEICA
+----------------------------------DKPGIF-NS----GTFEHIFRG----EV---N------
+---KKR---------------------KAV----GYHHE---------------------------SMM---
+------G-GKIVEVTD--------------PPNQ------YGVYRAI------VE-IE-G------------
+-------------------KNKK-----V------PSTFFPKDWNRVQVTEAIKEAYN--------------
+--N----------K--K-LI--K-----------DNL--------------------YEGTL--KS------
+---G------MKIQMRID---------PQ----G-K---IKTAYPL-
+>UniRef100_UPI0006A9AA23/1-122 EndoU domain-containing protein n=1 Tax=Priestia koreensis TaxID=284581 RepID=UPI0006A9AA23
+-----------------------------------------TG----HTVEHVFHG----QV---N------
+---RHG---------------------RAV----GYHHE---------------------------SMM---
+------GGGEILSITH--------------PPDS------RGIYQAE------IA-VN-S------------
+-------------------LRKR-----F------DSTFFPKDWDRVQVLNAINEAYE--------------
+--N----------K--R-MIRNR-----------HGDI------------------FYVGTT--SD------
+---G------LKIKMYLD---------EG----E-K---ISTAFPL-
+>UniRef100_UPI001FB8A6D8/1-128 EndoU domain-containing protein n=1 Tax=Bacillus cereus TaxID=1396 RepID=UPI001FB8A6D8
+--GG------------------------------NVPYSF-DS----SLMEHLFHG----EL---K------
+---QKWWG------------------LKAV----GYHHE---------------------------SMM---
+------GGGEIVRITH--------------APNS------AGVYRAK------VK-VD-G------------
+-------------------ETKN-----A------LSSFFPKDWDRVQVLDSIKEAYD--------------
+--N----------K--I-QV--D-----------TVR--------------------YVRQT--SH------
+---V------FKVEIII----------QN----N-E---IITAYPV-
+>UniRef100_A0A1A5XKH3/1-118 Bacterial EndoU nuclease domain-containing protein n=2 Tax=Brevibacillus sp. WF146 TaxID=319501 RepID=A0A1A5XKH3_9BACL
+------------------------------------DSIF-GP----NAMEHIFHG----NI---S------
+---KKG---------------------V-S----GYHHQ---------------------------SMM---
+------SQATLSNIN---------------TPNQ------YGVYKDT------VT-IN-G------------
+-------------------KSE-------------FSTFFPDSWNRTEVINAIKEVYS--------------
+--G----------V--K-IN--G-----------KGW--------------------YQGKT--SQ------
+---G------MEIKMWIN---------EN----N-Q---IETSFPL-
+>UniRef100_UPI001CFD6142/1-119 polymorphic toxin-type HINT domain-containing protein n=1 Tax=Metabacillus litoralis TaxID=152268 RepID=UPI001CFD6142
+-----------------------------------NIGTF-GS----KTIEHIFHG----RT---D------
+---GVK---------------------V-S----GYHHK---------------------------NIN---
+------SPYTLSNVS---------------SPNQ------FGVYKAR------VT-FN-G------------
+-------------------QSK-------------FSTFFPENWNRTDVLNAIKEAKT--------------
+--N----------V--T-VS--G-----------PGW--------------------YEGTT--PS------
+---G------MKIRMWIN---------NN----G-L---IDTAFPI-
+>UniRef100_A0A2P1TNC7/1-146 Bacterial EndoU nuclease domain-containing protein n=2 Tax=Clostridium botulinum TaxID=1491 RepID=A0A2P1TNC7_CLOBO
+EIGG---------DAIKGGSKAKNLYKLASKEWIESDSII-SI----KALKHIFHG----NT---N------
+---WKG---------------------LPS----GYHKA---------------------------SIM---
+------SKAKISNVS---------------NPDK------FGVYKAT------VE-MN-G------------
+-------------------KTK-------------FSTFFPDSWSRVDVINSIKEAYR--------------
+--G----------I--K-LD--K-----------VGW--------------------YIGKT--SS------
+---G------MEIKMWLN---------DK----G-L---VNTAFPI-
+>UniRef100_UPI00227F55CB/1-133 EndoU domain-containing protein n=1 Tax=Priestia megaterium TaxID=1404 RepID=UPI00227F55CB
+---GI-----NDQDAV-----------------VKSEGKY-NT----GTMKHIYHG----EI---N------
+---RRG---------------------KAV----GYHHE---------------------------SMM---
+------G-GKIIPGTE-------------KEPDK------NGVYEAK------VE-ID-G------------
+-------------------KRKV-----A------KSSFFPKEWNRVDVLRAIDDAYQ--------------
+--N----------K--K-QI--G-----------SNK--------------------YIAET--SS------
+---R------IKIEMFLN---------KD----G-S---IATAYPL-
+>UniRef100_UPI001C54FAB8/1-130 EndoU domain-containing protein n=1 Tax=unclassified Gemella TaxID=2624949 RepID=UPI001C54FAB8
+-------------LKISD---------------LKNTNNFASH-----AITHIFHG----EI---N------
+---RRG---------------------EAV----GYHHE---------------------------GL----
+---PD-GKGKILQITG--------------KEDS------KGIYRAK------VQ-VD-N------------
+-------------------VEK-----KA------QSTFFPKKMSAQEVIDAVDEAFK--------------
+--N----------K--K-QISD-------------AL--------------------YEGTG--K-------
+---G------LTIQMYLD---------NK----G-K---IATAFPI-
+>UniRef100_UPI000B3028FB/1-134 EndoU domain-containing protein n=1 Tax=Paenibacillus kribbensis TaxID=172713 RepID=UPI000B3028FB
+-------------KWLES---------------LQNTENFKQGT-KENGLNHIFDG----EV---L------
+---KNG---------------------NAN----GFHYE---------------------------GM----
+---PS-SNGKIVGNID--------------PPNE------FGVYQAN------IE-IN-G------------
+-------------------VLK-----GP------KSTFFPKKWTPQQVIDSVNEAFN--------------
+--N----------K--V-IIKN-------------NK--------------------YIGKT--ST------
+---G------MEIEFIL----------RN----D-K---IISAYPV-
+>UniRef100_UPI001F569A37/1-133 WXG100 family type VII secretion target n=1 Tax=Bacillus cereus group sp. BfR-BA-01380 TaxID=2920324 RepID=UPI001F569A37
+---------------YSH---------------LKNLDNFKIGT-KEDALKHIFYG----EV---T------
+---KKG---------------------KAV----GFHYE---------------------------GM----
+---EG-SKGKIVGEIE--------------GPNN------LGVYRAN------VE-ID-G------------
+-------------------EKK-----NG------KSTFFPKSMTEQQIIDCINEAYE--------------
+--N----------K--E-LVQG-------------RF--------------------YTGTA--SN------
+---G------MTIEMQIN---------GK----G-Q---ITSAYPI-
+>UniRef100_UPI0005E4C04D/1-132 minor capsid protein n=1 Tax=Paeniclostridium sordellii TaxID=1505 RepID=UPI0005E4C04D
+--------------NLDR---------------LKNTENFASK----ERIKHILEG----NI---N-----K
+----RG---------------------YAG----GYHLE---------------------------NL----
+---PT-AKGKII-GEK-------------TKEDN------NGIYKAK------IE-ID-G------------
+-------------------IEK-----KD------KSSFFPKEWTPQQVIDAINEAYN--------------
+--N----------K--I-PINIQ-----------KTK--------------------FKGIC--KS------
+---G------INIEMYV----------ID----D-K---ITTAFPK-
+>UniRef100_UPI001FB146CF/1-137 EndoU domain-containing protein n=1 Tax=Clostridium tetani TaxID=1513 RepID=UPI001FB146CF
+--------------NLDR---------------LKHTENFASK----NTIKHILEG----EL---N-----K
+NNPRRI---------------------KAV----GFHME---------------------------NI----
+---PT-KKGEIIESTR-------------SKIDK------NGVYSAK------VI-ID-G------------
+-------------------VPK-----TA------KSTFFPTNMTPQQVVNAINEAYY--------------
+--N----------R--V-LVSKK-----------APK--------------------FRGTS--KT------
+---G------ITIDMYV----------VN----D-K---ITTAYPI-
+>UniRef100_A0A1E8YTH2/1-130 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Globicatella sp. HMSC072A10 TaxID=1739315 RepID=A0A1E8YTH2_9LACT
+-------------FDTDD---------------LKRTHIFIKN-----GLEHIFFG----SI---N------
+---REG---------------------KAT----GYHYE---------------------------GL----
+----A-PDVTIIESTR-------------SKTDR------HGVYRAK------IT-ID-G------------
+-------------------EPK-----KA------YSSFFPQEWTPQEVVDAINEAYK--------------
+--N----------S--E-HVSG-------------NI--------------------FEGES--Q-------
+---G------IKIQMYLT---------ND----D-K---IISAFPI-
+>UniRef100_A0A8T8I8X6/1-132 EndoU domain-containing protein n=1 Tax=Carnobacteriaceae bacterium zg-C25 TaxID=2821731 RepID=A0A8T8I8X6_9LACT
+-------------QKLSS---------------LQHTEHFLKN-----AIVHIFEG----EI---N------
+---RNG---------------------QAV----GYHYE---------------------------GL----
+---NT-SKAKIVENTR-------------SKTDK------NGVYRAK------IT-ID-G------------
+-------------------KEK-----NA------FSSFFPNTWPIQQVVDTINEAYD--------------
+--N----------R--Q-HQSG-------------NI--------------------YNGTT--KS------
+---G------ITVQMYLT---------DD----N-K---IISAFPL-
+>UniRef100_A0A1M6SD33/1-143 EndoU nuclease n=1 Tax=Fibrobacter sp. UWEL TaxID=1896209 RepID=A0A1M6SD33_9BACT
+-----------PAAILNQ---------------LENTQSFTKE-----ALNHIFRG----EV---N------
+---EKG---------------------ELK----GYHHE---------------------------GV----
+---RG-NTARIIPGSK-------------TAPDK------NGVYYGK------VM-KE-Y------------
+-------------------HGKILV-KAQ------ESSFFPRNWSPQQVVNEINHSYS--------------
+--N----------A--T-PVNPHR----------PTI--------------------LEGVS--LS------
+---G------ITIRIIVH--------KNT----G-K---IRTAFPIR
+>UniRef100_A0A1M6UBS5/1-134 EndoU nuclease n=1 Tax=Fibrobacter intestinalis TaxID=28122 RepID=A0A1M6UBS5_9BACT
+---PK--------EVLSS---------------LGNTEHFTEG-----TAKHIFEG----TI---N------
+---DKG---------------------KAV----GYHYE---------------------------GI----
+---RN-TGGRIIPGTK-------------TLPDK------HGVYEGN------VA-VN-G------------
+-------------------VTK-----KV------ASSFFPREWSPQQVVNAINEAYG--------------
+--N----------K--V-NNFG-------------NR--------------------YKGYS--Q-------
+---G------IQIEMFLT---------PE----G-K---IKSAYPIK
+>UniRef100_R2SUX7/1-137 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Enterococcus moraviensis ATCC BAA-383 TaxID=1158609 RepID=R2SUX7_9ENTE
+---------------LDAD-------------GLRNTQYFDPN---AKGIEHIYSG----EV---N------
+---RRG---------------------NAV----GFHTE---------------------------SF----
+---PG-SPGKVIPGTG-------------TLPDV------NGIYTGK------VT-VN-G------------
+-------------------IPKG-G-NNG------ESTFFPSSWHPQMVVDAINQAYL--------------
+--N----------R--T-QVNG-------------NE--------------------YKGYY--Q-------
+---G------IEIHMYLD--------RDT----G-L---IRSAFPV-
+>UniRef100_A0A1G6WDK0/1-136 EndoU nuclease n=1 Tax=Sanguibacter gelidistatuariae TaxID=1814289 RepID=A0A1G6WDK0_9MICO
+-------------EALDA---------------LASTETF--T---AHGTEHVLSG----EI---N------
+---RKG---------------------AAV----GYHST---------------------------AL----
+---GDLAAGQILPGTA-------------SAADG------HGLYEAQ------VS-VS-G------------
+-------------------TNKT-S-NDG------YSTFFPASWTAQQVVDAINEAYG--------------
+--S----------R--V-SSGD-------------GG--------------------YDGVT--SG------
+---G------ITVHMYLD---------DS----D-L---ITTAYPV-
+>UniRef100_A0A6H9WRU3/1-133 EndoU domain-containing protein n=2 Tax=Pseudoclavibacter sp. CFCC 13611 TaxID=2615178 RepID=A0A6H9WRU3_9MICO
+--------------GLSR---------------LQGTDHFTRN-----ALTHIFSG----EI---S------
+---RAG---------------------KAV----GYHSQ---------------------------AF----
+---TG-TKGAVVGGTE-------------TPPDT------QGVYTAQ------VT-VD-G------------
+-------------------RAKA-G-NRG------FSTFYPTSMSAQQVVDAINEAYD--------------
+--S----------R--R--AQG-------------DA--------------------FVGRG--G-------
+---G------LTIQMALD---------DR----G-R---IITAYPVQ
+>UniRef100_A0A1G4VB60/1-135 EndoU nuclease n=1 Tax=Ruminococcaceae bacterium P7 TaxID=1200751 RepID=A0A1G4VB60_9FIRM
+-------------ADVKK---------------LKNTGHFAKN-----TLEHIFDG----TI---N------
+---SKG---------------------KAT----GYHYD---------------------------GI----
+---SD-SKGSIIAGTE-------------SKPDE------HGVYTAK------VE-VD-G------------
+-------------------VKK-----NG------FSSFYPDDWTPQQVVDAINEAYDYAT-----------
+-SS----------K--G-IRDG-------------DL--------------------WIGYA--G-------
+---D------LEINMYLN---------NS----K-Q---ITTAYPI-
+>UniRef100_A0A1I4HTM8/1-135 EndoU nuclease n=1 Tax=Lachnospiraceae bacterium KH1T2 TaxID=1855374 RepID=A0A1I4HTM8_9FIRM
+-------------SDLNS---------------LENTDIFVKS-----AIEHIFNG----TI---N------
+---KKG---------------------QAT----GYHYD---------------------------GI----
+---ID-SDGKIVDGTK-------------SVPDS------EGIYKAQ------VE-VK-G------------
+-------------------IPKS-G-NKG------YSSFYPDDMSPQDVINSINEAYN--------------
+--D----------R--E-HYTG-------------NI--------------------YAGES--NN------
+---G------MLIEMYLT---------DD----D-K---IISAFPI-
+>UniRef100_A0A1E5L256/1-136 Bacterial EndoU nuclease domain-containing protein n=2 Tax=Enterococcus rivorum TaxID=762845 RepID=A0A1E5L256_9ENTE
+-------------DDLKK---------------LKNTDVFTDK-----SLKHVFEG----EL---T------
+---KRG----------------------AS----GYHVD---------------------------TI----
+---DG-SIGKIIDGTK-------------TAPNK------YGVYEAK------VE-VD-G------------
+-------------------VLKG-G-NGG------KSTFFPDDWSSQKVVDSINEAYK--------------
+--N----------R--K-FEVGS-----------FNT--------------------YTGVT--KE------
+---G------FTISMFIG---------KD----G-K---IISAFPK-
+>UniRef100_UPI002090B638/1-137 EndoU domain-containing protein n=1 Tax=Bacillus vallismortis TaxID=72361 RepID=UPI002090B638
+-------------KLIAQ---------------LSYVENFRPK-----ALEHIFEG----EV---S------
+---YRE---------------------AAV----GYHYE---------------------------GL----
+---DD-TAGKVISGTK-------------TDKNE------HGVYKGK------VE-VN-G------------
+-------------------KKKF-S-NNG------FSTFFPEEWTPQQVVDSINEAYE--------------
+--N----------K--E-FIPGT-----------KNT--------------------YEGRT--KD------
+---N------LRIRMFID---------SN----G-K---IISSFPI-
+>UniRef100_UPI00098CA627/1-134 EndoU domain-containing protein n=1 Tax=Clostridium felsineum TaxID=36839 RepID=UPI00098CA627
+-------------SSISN---------------LKNVGNFRGG-----ALNHILEG----QI---N------
+---GSG---------------------MAT----GYHYE---------------------------NF----
+---PN-AKGEIIEETK-------------SKPNE------FGIYKGK------VK-IG-T------------
+-------------------VIKR-A-K---------SSFFPEDWSAQRVVDSINEAYS--------------
+--N----------R--E-FVKGT-----------NNT--------------------FVGET--KN------
+---G------MQIKMFIN---------KN----K-K---IISAFPI-
+>UniRef100_A0A1H9TVU1/1-134 EndoU nuclease n=1 Tax=Isobaculum melis TaxID=142588 RepID=A0A1H9TVU1_9LACT
+-------------VELSE---------------LKHTENFQNG-----ALAHIFEG----DI---N------
+---RKG---------------------KAV----GFHYE---------------------------GEK---
+--IKT-VRGETIEGTV-------------SQPNK------EGVYHGK------VK-ID-D------------
+-------------------ITK-----NG------FSTFFPKEWTAQEVVDQINQAYE--------------
+--N----------K--T-FVTG-------------NT--------------------YVGVA--AS------
+---G------IKIEMYLN---------QK----D-Q---IISAFPK-
+>UniRef100_UPI0006933ED5/1-135 EndoU domain-containing protein n=1 Tax=Paenibacillus pasadenensis TaxID=217090 RepID=UPI0006933ED5
+-------------YDIAK---------------LQNTSRFRAG-----ALEHILEG----EL---N------
+---RRG---------------------RGV----GYHYE---------------------------GM----
+---PT-ARGRVIPGTE-------------SPPNA------HGVYQAQ------VE-ID-G------------
+-------------------VPKT-G-KQG------MSTFFPKDMSPQQIVDSINEAFA--------------
+--N----------Q--R-HVTG-------------NT--------------------YTGTT--SS------
+---G------MRVDMYLD---------RS----G-S---IISAFPH-
+>UniRef100_A0A242AQJ2/1-137 LXG domain-containing protein n=1 Tax=Enterococcus sp. 7F3_DIV0205 TaxID=1834189 RepID=A0A242AQJ2_9ENTE
+-------------FDLSD---------------LKNTSNFQNN----NALAHIFQG----NL---N------
+---RRG---------------------NAG----GYHSE---------------------------FI----
+---PN-TPGSIVPGTK-------------TPPNT------SGIYEGQ------VT-VN-G------------
+-------------------IPKS-G-NQG------VSSFFPEHWDPQFVVSIINGAYQ--------------
+--N----------R--S-PVPNS-----------RNT--------------------FRGLS--N-------
+---G------IWVDMYID---------SN----G-K---IISAFPS-
+>UniRef100_A0A1M5RD00/1-145 EndoU nuclease n=1 Tax=Fibrobacter sp. UWCM TaxID=1896208 RepID=A0A1M5RD00_9BACT
+-------------GDLET---------------LEHTELFESN-----LIKHIFNG----EV---KTASAGK
+-GKTRL---------------------EAT----GYHTE---------------------------VI----
+---RN-AEGRIIPGTK-------------SELNE------KGVYQGR------VT-VN-G------------
+-------------------IRKR-T-MGG------MSTFFPEHWSPQHIVNAINEAYA--------------
+--N----------K--R-LKTNT-----------LNM--------------------YEGSS--SE------
+---G------VRIRMRVN---------AN----G-K---IVNVYPL-
+>UniRef100_UPI00225E5E7D/1-137 EndoU domain-containing protein n=1 Tax=Tumebacillus sp. DT12 TaxID=2995335 RepID=UPI00225E5E7D
+---------------YRN---------------LQNTQNFRPS-----AIKHIMEG----DL---N------
+---ARG---------------------QAG----GYHYE---------------------------NI----
+---PN-TPGKLISGTE-------------STPDP------FGVYKGR------VE-VN-G------------
+-------------------VSKI-S-NGG------RSTFFPKDMSPQEIINSINEAFS--------------
+--S----------K--R-LVRG-------------NV--------------------YSGTV--QSGPK---
+--AG------MVIEMFLD---------TG----G-K---IISAYPK-
+>UniRef100_UPI0006D84DE9/1-134 EndoU domain-containing protein n=1 Tax=Clostridium massiliamazoniense TaxID=1347366 RepID=UPI0006D84DE9
+-------------SDVSH---------------LKNTSNFLPS-----AIKHIFFG----TV----------
+---KDG---------------------KAE----GFHYA---------------------------NI----
+---KN-SSSCIISGTE-------------SAPNA------FGVFKAK------AE-ID-G------------
+-------------------KVKS-D-DNG------YSTFFPNSMSPQKVIDSINEAYS--------------
+--N----------A--Q-NIHG-------------NI--------------------YVGKA--KN------
+---G------MKIEMYLT---------SD----G-K---IISAFPK-
+>UniRef100_A0A3D0X4S7/1-136 Bacterial EndoU nuclease domain-containing protein n=1 Tax=Selenomonas sp. TaxID=2053611 RepID=A0A3D0X4S7_9FIRM
+-------------TVIKS---------------LKHTENFTKS-----AINHIFIG----DV----------
+---KNG---------------------AAS----GCHYA---------------------------KI----
+---DN-PDREILLDTK-------------EFIGK------QGVYRAK------VK-LQ-G------------
+-------------------NMKK-G-NKG------YSTFFPDDMTPQEVVDAINEAFD--------------
+--S----------K--V-FVPGS-----------KNS--------------------YVGNS--SK------
+---G------LEIEMYIG---------KE----G-K---IISAFPR-
+>UniRef100_UPI001C2BF6BB/1-123 EndoU domain-containing protein n=1 Tax=Brevibacillus sp. HB2.2 TaxID=2738846 RepID=UPI001C2BF6BB
+-----------------------------------STQSFRAN-----AQGHILQG----S-----------
+---------------------------NGG----GFHWL---------------------------AG----
+---SN-GAARIVPGTK-------------SSANQ------FGVYEAQ------VE-FN-G------------
+-------------------VLKN-G-NNG------KSTFFPDNWTRDQVLNGINEAYS--------------
+--N----------K--A-LVQG-------------NT--------------------YRGTT--SS------
+---G------MVIEMYLD---------SA----G-K---IISAFPK-

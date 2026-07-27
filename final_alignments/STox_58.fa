@@ -1,0 +1,764 @@
+>WP_210807662.1/1-108 HNH/endonuclease VII fold putative polymorphic toxin [Ideonella paludis]
+--------TVALRAALSDAGVSWRDSMSQV-----------R-EVQLY--------D-KGEDGSVRRPLVR-
+ADGTPVR-VLEYKFETA-NGR---------------------I---VVTDHAAGHMV---NGRFVEKGHFNV
+MKEV-----D-------LPDGKVERVKVP-GVKPHY----
+>FD01543154_02323/1-117 Rhs-family protein
+----FKSRNEAFRAAKRDAGIPMNQQPDRIFNSKTGFFSDHR-NVPMT--------D---SRKNP---IFD-
+NNGNQVW-TREYQFTRA-DGS-----------KI------------IIQDHSAGHSYAD--GVGNQGSHLNV
+RPIE-----N-------TRTG-----SVP-GTFDHYEF--
+>EJC8736637.1/1-113 PAAR domain-containing protein [Salmonella enterica]
+--------NEAFRAAKRDAGIPMNQQPDRIFNSKTGFFSDHR-NVPMT--------D---SRKNP---IFD-
+NNGNQVW-TREYQFTRA-DGS-----------KI------------IIQDHSAGHSYAD--GVGNQGSHLNV
+RPIE-----N-------TRTG-----SVP-GTFDHYEF--
+>EGM6689263.1/1-112 sugar-binding protein [Salmonella enterica subsp. enterica serovar Poona]
+--------NEAFRAAKRDAGIPMNQQPDRIFNSKTGFFSDHR-NVPMT--------D---SRKNP---IFD-
+NNGNQVW-TREYQFTRA-DGS-----------KI------------IIQDHSAGHSYAD--GVGNQGSHLNV
+RPIE-----N-------TRTG-----SVP-GTFDHYE---
+>EBY9457038.1/1-111 type IV secretion protein Rhs [Salmonella enterica subsp. enterica serovar Mississippi]
+--------NEAFRAAKRDAGIPMNQQPDRIFNSKTGFFSDHR-NVPMT--------D---SRKNP---IFD-
+NNGNQVW-TREYQFTRA-DGS-----------KI------------IIQDHSAGHSYAD--GVGNQGSHLNV
+RPIE-----N-------TRTG-----SVP-GTFDHY----
+>NUU69040.1/1-112 RHS domain-containing protein [Enterobacteriaceae bacterium BIT-l23]
+--------NAAFRAAKRDAGIPMGQRPDKVFNPKTGFEGEYK-SVRMT--------N---SNGDN---ILT-
+DSGDIIW-TREYQFSTA-GGK-----------KV------------IIQDHAAGHYSPD--SVGNQGAHFNV
+RPSE-----N-------TRTG-----SVL-GTLEHYS---
+>WP_230514553.1/1-109 HNH/endonuclease VII fold putative polymorphic toxin [Samsonia erythrinae]
+--------NEAFRGAKRDAGIPMSQQPDKVFNEKTGQMGQYN-QVRMT--------D---SDGES---VLG-
+ADGKPIW-TREYQFSRE-DGS-----------KI------------IIQDHSAGHYYGE-NGVGDQGPHFNV
+RPST-----N-------TRTG-----KVP-GTR-------
+>WP_171851526.1/1-112 HNH/endonuclease VII fold putative polymorphic toxin [Dickeya dadantii]
+--------NEAFRAAKRDAKIPMNQQPDRVFNEETGQLGQYN-QVRMT--------N---SEGES---ILG-
+KDGKPIW-TREYKFTRQ-DGS-----------KV------------IIQDHSAGHYYGE-GGVGDQGSHLNI
+RPID-----N-------TRTG-----KVP-GTRGHY----
+>WP_250468133.1/1-113 HNH/endonuclease VII fold putative polymorphic toxin, partial [Caballeronia sp. GAFFF2]
+--------KGAFRQAKRDLGIPLSQQPDRVLNEKTGQMSPYN-QVMMT--------G---SDGSP---VLD-
+KSNQPIW-TREYQFTRS-DGS-----------VV------------LIQDHGAGHYYGE-GGVGDQGPHFNV
+RPCS-----N-------PRTG-----KVS-GTQAHYS---
+>WP_071819801.1/1-115 HNH/endonuclease VII fold putative polymorphic toxin [Erwinia pyrifoliae]
+--------KEALRAAKRDAGIPASNQPGNIFNIRNQRVQQYN-SVKMT--------D---RNGNP---VLHP
+STKQPLW-TREYQYTRS-DGT-----------KI------------VIQDHSAGHEFGQ-GGIGDQGPHFNV
+RPFD-----N-------TRTG-----SVA-GTIDHYSY--
+>APR38906.1/1-113 hypothetical protein BTO02_26340 [Paraburkholderia sp. SOS3]
+--------NAAFRAARRDAQIPVSQKPEMVFNQKNQRMQQYD-QVMMT--------D---RNGNP---VLNP
+STKQPVW-TREYHYTNS-DGS-----------KI------------VIQDHSVGHEFGQ-GGVGDQGPHLNV
+RPYD-----N-------TRTG-----SVP-GTLDHY----
+>WP_236350335.1/1-113 HNH/endonuclease VII fold putative polymorphic toxin [Aeromonas veronii]
+--------RGAFRNAKRDSNIPVSQSPDRVFNTRTQRFEEYD-EVLMT--------D---RNKVP---VLN-
+DHGGLVY-TKEYHFTRE-DGS-----------KV------------VIQDHSAGHRYGPEGTEGNQGSHFNV
+RPIE-----N-------KRTG-----KVD-GTKEHY----
+>WP_032902638.1/1-117 HNH/endonuclease VII fold putative polymorphic toxin, partial [Pseudomonas fluorescens]
+--------KGAFREAKRDANIPMAQQPDVITAPRSGTKKQYS-IVKMS--------D---INGKA---ILD-
+SSGKPIH-TRVYQYTRA-DGS-----------KV------------LIQDHSAGHKFGAPNGVGNQGAHFNL
+RPFD-----T-------PRTG-----SVP-GTKDHYVFKD
+>WP_256592905.1/1-114 HNH/endonuclease VII fold putative polymorphic toxin, partial [Pseudomonas sp. 2822-17]
+--------KGAFRAAKRDANIPMSQQPDVFTNARSGVKKQYK-IVKMS--------D---INEKA---ILD-
+SSGKPIQ-TRVYQYTRA-DGS-----------KV------------LIQDHSAGHNFGAQDGAGDQGSHFNL
+RPFD-----T-------PRTG-----KVP-GTKDHYK---
+>WP_231124421.1/1-113 HNH/endonuclease VII fold putative polymorphic toxin [Pseudomonas tolaasii]
+--------KGAFREAKRDANIPMSQQPDVLIDSDSGLGKQYE-IVKMT--------D---INGRK---TLN-
+SYGKPIN-TRQYQYTRA-DGS-----------IV------------LIQDHSAGHKFGAKDGQGDQGAHFNL
+RPID-----T-------PRTG-----KIP-GTKDHY----
+>WP_177133201.1/1-113 DUF6531 domain-containing protein, partial [Pseudomonas yamanorum]
+--------KGAFRQAKRAAKIPMRQDPDMVVDPRTGAVKQYE-IVKMT--------D---KNGES---ILN-
+DAGKPIK-TRVYKYTKS-DGS-----------EV------------LIQDHSAGHRFGSKGGTGDQGAHFNL
+RPIE-----K-------PRNG-----NVP-GAKEHY----
+>WP_246208364.1/1-114 HNH/endonuclease VII fold putative polymorphic toxin, partial [Pseudomonas karstica]
+--------KGAFRQAKRDANIPMAQEPDMVMNPNTRRVKQYG-VVKMT--------D---FNGES---ILD-
+DSGKPTN-TRVYQYTRA-DGS-----------KV------------LIQDHSAGHRYGRKDGTGDQGAHFNL
+RPIN-----K-------PRNG-----KVP-GVKEHYS---
+>WP_179944679.1/1-113 HNH/endonuclease VII fold putative polymorphic toxin, partial [Pseudomonas fluorescens]
+--------KGAFRQAKRDAHIPMSQSPDVMTHPKTGRTTQYK-KENMT--------D---LNDKK---ILS-
+ATGHPIE-TRVYQFTRK-DGS-----------QV------------LIQDHSAGHEFGRSDGVGNKTTHFNL
+RPIE-----Q-------PRNG-----KVF-GAETHY----
+>WP_205900041.1/1-113 HNH/endonuclease VII fold putative polymorphic toxin, partial [Pseudomonas viridiflava]
+--------KGAFRQAKRDAHIPMNQRPDVMVHPKTGRTTQYK-IENMT--------D---LSDRK---ILN-
+ASGQPIE-TRVYQFTRE-NGS-----------QV------------LIQDHSAGHKFGRADGIGDQTTHFNL
+RPIE-----Q-------PRNG-----KVT-GAESHY----
+>WP_130925963.1/1-113 DUF6531 domain-containing protein, partial [Pseudomonas cedrina]
+--------KGAFREAKRDAGIPMAQNPDMIVDPDTGKTKQYA-IEKMT--------D---KNEKR---ILD-
+DNGIPID-TRVYQYTRS-DGS-----------KI------------LIQDHSAGHKFGRVDGIGDHPPHFNL
+RPID-----K-------PRKG-----YIE-GAKKHY----
+>WP_178115028.1/1-113 HNH/endonuclease VII fold putative polymorphic toxin, partial [Pseudomonas sp. SWRI 103]
+--------KGAFREAKRDAGIPMAQSPDMVVDPDTGKTKQYA-IEKMT--------D---KNEKR---ILD-
+DNGMPID-TRVYQFTRS-DGS-----------KI------------LIQDHSAGHKFGRVDGIGDHPPHFNL
+RPID-----K-------PRKG-----YIE-GAKRHY----
+>WP_150652932.1/1-105 DUF6531 domain-containing protein [Pseudomonas fluorescens]
+--------RGAFRQAKVDAGIPKGQQPDIQTDEVSGRQKQFT-YVNMT--------D---RKGNN---ILD-
+SSGKPII-TREYRFTRE-DGF-----------IL------------TLQDHSAGHKYGDINNRGDQGPHINI
+RPAH-----D-------TRNG-----K-------------
+>WP_177433296.1/1-113 HNH/endonuclease VII fold putative polymorphic toxin, partial [Pseudomonas sp. Sample_14]
+--------RGAFRKAKLDSGIPKGQQPDIQVDEVSGKQKQFT-YANMT--------D---RKGNN---ILD-
+SSGMPII-TREYKYTRE-DGF-----------IL------------ILQDHSAGHKYGDINNRGDQGPHINV
+RPAD-----D-------RRNG-----KVK-NTSDHY----
+>WP_244142477.1/1-113 HNH/endonuclease VII fold putative polymorphic toxin [Pseudomonas allokribbensis]
+--------RGAFRQAKADAGIPRGQQPDIQIDKVNGRQRQYT-YTNMT--------N---KSGKN---ILS-
+STGMPIP-TRQYMFTRE-DGF-----------IV------------ILQDHTAGHKFGATNKKGDQGPHFNV
+RPAD-----D-------PRNG-----KVE-NTHEHY----
+>WP_234206585.1/1-113 HNH/endonuclease VII fold putative polymorphic toxin [Pseudomonas kribbensis]
+--------RGAFRQAKADAGIPKGQQPDVQFDEISGKPGQFI-YINMT--------D---INGRS---ILN-
+DSGIPIR-TRQYMYTRE-DGF-----------KL------------ILQDHSAGHKFGDPRKTGDQGPHFNI
+RPAA-----N-------PRTG-----KVK-NTDEHY----
+>WP_248285767.1/1-113 HNH/endonuclease VII fold putative polymorphic toxin, partial [Pseudomonas paraglycinae]
+--------RGAFRQAKADAGIPKGQQPDVQFDEVSGKPGQFI-YINMT--------D---INGKS---ILN-
+DSGIPIR-TRQYMYTRQ-DGF-----------KL------------ILQDHSAGHKFGDARKIGDQGPHFNI
+RPAA-----N-------PRTG-----KVK-NTDEHY----
+>WP_258700704.1/1-116 HNH/endonuclease VII fold putative polymorphic toxin [Pseudomonas sp. B21-015]
+--------NGAFRQAKSEAGIPRAQQPDPVYDPTTGKTQQYK-YVRMT--------D---KAGES---ILN-
+NEGKPIL-TREYQYTRA-DGS-----------KV------------IIQDHSAGHQYHESGNKGDQKAHFNL
+RPIE-----N-------TRTG-----KVL-GAKDHYYFK-
+>WP_244914229.1/1-116 HNH/endonuclease VII fold putative polymorphic toxin [Pseudomonas frederiksbergensis]
+--------SGEFRQAKSEAGIPRSQQPDPVYDPTTGKTKQYK-YVRIT--------D---KAGES---ILN-
+TEGKPIL-TREYQYTRA-DGP-----------KV------------IIQDHSAGHQYHEPGNKGDQKAHFNL
+RPIE-----N-------TRTG-----KVL-GAKDHYYFK-
+>WP_248283130.1/1-113 HNH/endonuclease VII fold putative polymorphic toxin, partial [Pseudomonas syringae]
+--------SGAFKQAKSEAGIPKSQHPDQIYDPTTGKTQQYR-YVRMT--------D---RAGES---ILN-
+SEGKPTL-TREYQYTRG-DGS-----------KI------------IIQDHSAGHQYHEANKVGDQKAHFNL
+RPIE-----N-------PRTG-----KVP-GAKDHY----
+>WP_225919900.1/1-113 HNH/endonuclease VII fold putative polymorphic toxin, partial [Pseudomonas khorasanensis]
+--------SGAFRQAKTEAGIPRSQHPDRVFDPTTGKTQQYK-YARMT--------D---KAGES---ILN-
+SEGKPIL-TREYQFTRA-DGS-----------KV------------IIQDHSAGHQFHESGNKGDQTAHFNL
+RPIE-----N-------PRTG-----KVP-GAKDHY----
+>WP_217828423.1/1-113 HNH/endonuclease VII fold putative polymorphic toxin, partial [Pseudomonas marvdashtae]
+--------HGAFRGAKLDAGIPKAQQPDLVYDATTGKTHQYS-YARMT--------N---SSGES---VLN-
+SEGKPIL-AREYQFTRP-DDS-----------KV------------IIQDHSAGHQFKQPNNRGDQKAHFNL
+RPIE-----N-------RRTG-----KIS-NTKEHY----
+>WP_248134142.1/1-113 HNH/endonuclease VII fold putative polymorphic toxin, partial [Pseudomonas sp. W2Jun17]
+--------SGAFRQAKLDAKIPMSQHPDTVFDQEKGGYGQFR-HVRMK--------D---MRGRE---ILN-
+NDGKPIL-TREYEFTRA-NSQ-----------KI------------VIQEHSAGHKFGAPGGLGDQGAHFNL
+RPIG-----D-------TRHG-----KLK-GAKDHY----
+>WP_200909408.1/1-114 HNH/endonuclease VII fold putative polymorphic toxin, partial [Pseudomonas libanensis]
+--------SGAFRQAKLDAKIPMSQHPDTVFDQEKGGYGQFR-HVRMK--------D---MRGRE---ILN-
+NDGKPIL-TREYEFTRA-TSQ-----------KI------------VIQEHSAGHKFGAPGGLGDQGAHFNL
+RPIG-----D-------TRHG-----KLK-GAKGHYN---
+>WP_248842906.1/1-113 HNH/endonuclease VII fold putative polymorphic toxin, partial [Pseudomonas trivialis]
+--------NGAFKQAKADAGIPRAQHPDAVLDPRMGKTRQYS-LVSMR--------D---QQKNE---ILD-
+MQGRPVM-TREYEFTRA-DGS-----------KI------------LIQDHGAGHKFGAPNGEGDQTAHFNL
+RPKN-----R-------PRNG-----KLG-GAKDHY----
+>MBC3243003.1/1-113 type IV secretion protein Rhs [Pseudomonas lurida]
+--------NGAYKQAKADAGIPRVQHPDAVVDPRLGTMRQYS-LVSMR--------D---QQRNE---ILD-
+AQGRPVM-TREYEFTRM-DGS-----------KV------------LIQDHGAGHKFSTPDGKGDQAAHFNL
+RPKF-----R-------PRNG-----KLD-GAKDHY----
+>WP_256731996.1/1-97 RHS domain-containing protein, partial [Pseudomonas tolaasii]
+--------NGAFKQAKADAGIPRTQHPDPAFDPRLGKTRQYS-LVSMR--------D---KQNNE---VVN-
+ERGMPVM-TREYEFTRA-NGT-----------KV------------LIQDHGAGHKFFAPEGHGDQPPHFNL
+RP--------------------------------------
+>WP_205880132.1/1-108 HNH/endonuclease VII fold putative polymorphic toxin, partial [Lampropedia aestuarii]
+--------NGAFNQAKRDAGFPRSQHPDTIKDTRTGLFGQSR-SVSMT--------D---SNKNK---ILG-
+PDGKPIM-TREYEFTRP-NGE-----------KV------------IIQEHSAGHQYPD--GIGNQGPHFNV
+RPTN-----N-------PRTG-----KVP-GTK-------
+>FD01845351_04304/1-110 Rhs-family protein
+TTYEGSSRRDAFRQAKRDAGIPMSQQPKSI-----------T-RPDLL--------D---GSGNR---ILN-
+SKGQPVK-TRQYEFIDG-EGR-----------PV------------FIQEHSLGHEKAT-SGH-GAEPHFNV
+RPPE-----N-------LNTG-----SVP-GTHGHYNF--
+>ATP99325.1/1-100 hypothetical protein CS349_18795 [Salmonella enterica subsp. enterica serovar Tennessee]
+--------RDAFRQAKRDAGIPMSQQPKSI-----------T-RPDLL--------D---GSGNR---ILN-
+SKGQPVK-TRQYEFIDG-EGR-----------PV------------FIQEHSLGHEKAT-SGH-GAEPHFNV
+RPPE-----N-------LNTG-----SVP-GTHGHY----
+>MCA2028735.1/1-101 type IV secretion protein Rhs [Enterobacter sp. K16B]
+--------RDAFRQAKRDAGIPMNQHPRTI-----------S-RPDLL--------D---GEGNK---ILN-
+SKGLPIK-TRQYEFRDS-NNK-----------PV------------FIQEHSLGHDKAT-SGH-GAEPHFNV
+RPPQ-----N-------LNTG-----SVP-GTHGHYN---
+>WP_223849482.1/1-105 HNH/endonuclease VII fold putative polymorphic toxin [Dickeya solani]
+--------RDAFRQAKRDAGIPMSQQPRSV-----------T-RPDLL--------D---GNGNV---MLD-
+KNGLPIK-TRQYEFLNN-KGE-----------KI------------FIQEHSLGHTKAT-PLH-GADPHFNV
+RPSD-----PIT--GVALDTK-----TPP-GVHGHY----
+>WP_240492619.1/1-106 HNH/endonuclease VII fold putative polymorphic toxin, partial [Photorhabdus namnaonensis]
+--------RDALRQAKRDAGIPNNQQPFEI-----------S-RVDLG--------D---GYGGN---IRN-
+AKGVPVQ-TRQYHYRDK-QGS-----------VV------------VIQEHSLGHAKAT-PLH-GAEPHFNV
+RPVD-----KVN--GKILDTG-----SVP-DTHGHYN---
+>WP_258165613.1/1-100 HNH/endonuclease VII fold putative polymorphic toxin [Photorhabdus luminescens]
+--------RDALRQAKRDAGIPNSQHPFEI-----------S-KAKLK--------D---GYGDF---IRD-
+SKGVAIE-ARQYHFKDK-NGS-----------TV------------IIQEHSLGHAKAT-PLH-GAEPHFNV
+RPPD-----N-------LNTG-----DVP-GTHGHY----
+>WP_225309808.1/1-92 HNH/endonuclease VII fold putative polymorphic toxin [Erwinia billingiae]
+-----------------DAGIPNNQHPYQV-----------S-RAELG--------D---GYGDR---VRD-
+KNGIPLK-TRQYHFKDQ-NGS-----------SV------------VIQEHSLGHAKAT-PLH-GAEPHFNV
+RPAK-----N-------MKTG-----DIP-GTHGHYN---
+>WP_223193439.1/1-100 HNH/endonuclease VII fold putative polymorphic toxin, partial [Pectobacterium carotovorum]
+--------RDAFREAKRDAGIPNNQQPSKV-----------D-RVDLL--------D---GDGNK---IIN-
+DKGMPIQ-AREYHYTNK-DGV-----------PV------------VIQEHSLGHSKAT-PLH-GADPHFNV
+RPID-----N-------LKTG-----SFP-GTHGHY----
+>WP_235862499.1/1-101 HNH/endonuclease VII fold putative polymorphic toxin [Vibrio gazogenes]
+--------KDALRQAKRDAGVPMSQQP-KV-----------E-HVDLL--------N---GYGEK---VLD-
+KNGLPVR-AREYHYTNM-NGE-----------HV------------VIQEHSLGHTKVT-PLH-GLEPHFNV
+RQVD-----QHT--GEVLNTS-----NFP-GTH-------
+>WP_232125579.1/1-103 HNH/endonuclease VII fold putative polymorphic toxin [Tenacibaculum finnmarkense]
+--------KAAFRQAKRDAEIPMSQQPFKV-----------E-RPDLD--------D---GYGN----LIM-
+KDGVPVT-SREYHFKNR-HGK-----------TV------------IIQEHSLGHTKAT-PNH-GKEPHYNT
+RDLD-----G-L--GEVNRTG-----SYP-GTHGHY----
+>WP_028670624.1/1-100 RHS repeat protein [Saccharospirillum impatiens]
+--------RDAFRQAKRDSGIPMSQQPNQV-----------L-LPELE--------D---GYGKR---VLN-
+EDGIPVT-FREYYFVNQ-DGV-----------SV------------SIQEHSLGHIKAT-INH-GAEAHFNV
+RPIE-----N-------LNTG-----SFP-GTHGHY----
+>OQS31026.1/1-99 hypothetical protein B0T40_23720 [Chromobacterium haemolyticum]
+--------REALRQAKRYARIPMNQQP-KI-----------S-REDLE--------D---GYGNV---VLG-
+PNHEPVT-TRNYHHTNI-DGE-----------KV------------IIQEHSTGHQKAT-PCH-GADPHFNV
+RPID-----N-------PRTG-----SVP-GTHGHY----
+>WP_230370832.1/1-100 HNH/endonuclease VII fold putative polymorphic toxin [Paludibacterium denitrificans]
+--------REALRQAKRDARIPMNQRP-KV-----------M-REDLE--------D---GHGNT---VLG-
+PNYEPVT-TRNYHYTNI-DGK-----------PV------------IIQEHSMGHEKAT-PCH-GAEPHFNV
+RPIS-----N-------PKTG-----SFP-KTHGHYN---
+>WP_253851882.1/1-100 HNH/endonuclease VII fold putative polymorphic toxin [Pantoea sp. OXWO6B1]
+--------RDAFRQAKRDAGIPNNQQPTKI-----------L-RPELR--------D---GNGNV---VIG-
+KDNLPIR-TREYHFENK-DNK-----------TV------------LIQEHSLGHQKAP-PGH-GAEPHFNT
+RTIE-----R-------PDAG-----NFP-GTHGHY----
+>WP_257211061.1/1-101 HNH/endonuclease VII fold putative polymorphic toxin, partial [Erwinia amylovora]
+--------RDALRQAKRDAGIPNNQQPSKI-----------V-RPELR--------D---GNGNI---MIG-
+KNNQPIR-TREYHFVNK-DNK-----------TV------------LIQEHSLGHQKAV-PGH-GAEPHFNT
+RSID-----R-------PDAG-----NFP-ETHGHYN---
+>WP_225776139.1/1-99 HNH/endonuclease VII fold putative polymorphic toxin [Pseudomonas sp. Marseille-Q5115]
+--------RDAFRQAKRDAEIPYAQSG-QV-----------D-RVHLL--------D---GNGEK---IKY-
+PNGQVVT-TRQYHYINK-NGD-----------RV------------VIQEHSWGHSKAT-AGH-GAEPHFNT
+RAAQ-----D-------LKVH-----NFP-GTHGHY----
+>WP_149285780.1/1-97 HNH/endonuclease VII fold putative polymorphic toxin [Halomonas sp. Y2R2]
+--------RDALRQAKRDAGVPNAQQP-EV-----------R-HTPLR--------D---GNGQK---IIG-
+SDGAPVM-TREYHYTNT-DGS-----------PV------------MIQEHSLGHVKAE-PLR-GAEPHFNV
+RPID-----N-------PNTG-----HVP-GTHG------
+>POR06591.1/1-98 hypothetical protein BOH68_11020 [Cobetia sp. MM1IDA2H-1]
+--------RDALRQAKRDAGIPNSQDP-SV-----------E-YAYLK--------D---GSGSK---ILN-
+DDGSPVM-TREYHYNTN-NGD-----------PV------------IIQEHSLGHEKAV-PLR-GAEPHFNL
+RPSD-----N-------PTTG-----SVM-NYHGH-----
+>NJP02317.1/1-99 hypothetical protein [Pseudomonas quercus]
+--------RDAFRQAKRDAGIPNTQSP-TV-----------E-REYLK--------D---GYGNM---VKN-
+SKGAVVK-TRDYYFTNN-KGK-----------KI------------IIQKHSIGHSKAV-PLR-GADPHFNV
+RPID-----R-------PMTG-----NVR-GTHGHY----
+>OQR26376.1/1-96 hypothetical protein BWR59_31500 [Pseudomonas sp. Bc-h]
+--------KDAFKQARQDAGIPASQLPYDV-----------K-KPFLD--------N---GYGEY---IV--
+KKGHIVT-TREYYFVNS-KGE-----------RV------------IIQDHSYGHLKAE-PHR-GAEPHLNV
+RPLS-----N-------PRTG-----YLK-GTH-------
+>KGN81960.1/1-100 hypothetical protein HW49_03425 [Porphyromonadaceae bacterium COT-184 OH4590]
+--------RDTFRQAKRDADIPMNQQPINV-----------Y-REPLL--------D---GGGNK---IIG-
+KDGKIVY-TRNYVFKNT-KSE-----------TI------------VIKEHSLGHTKAT-SGH-GAEPHFNV
+RPIN-----N-------TQTG-----YVE-STYGHY----
+>KFA58460.1/1-100 Rhs-family protein [Gilliamella apicola]
+--------RDAFRQAKRDAGIPMSQQPSNI-----------Y-KRPLK--------D---GSGGY---VRN-
+SNGSIVE-TRNYEFKGK-NNE-----------II------------TIQEHSLGHTKAT-PGH-GAEPHFNV
+RPID-----N-------LNTG-----HVE-GTHGHY----
+>WP_202113548.1/1-101 MULTISPECIES: HNH/endonuclease VII fold putative polymorphic toxin [unclassified Gilliamella]
+--------RDAFRQAKRDARIPMSQQPSNI-----------Y-KRPLK--------D---GSGGY---VRN-
+SNGSIVE-TRNYEFKGK-NNE-----------II------------TIQEHSLGHTKAT-PGH-GAEPHFNV
+RPID-----N-------LNTG-----HVE-DTHGHYN---
+>EFL45875.1/1-100 RHS repeat-associated core domain protein, partial [Prevotella disiens FB035-09AN]
+--------RDAFRQAKRDAGIPMGQQPKKV-----------Y-YTDLM--------D---GHGKP---VMG-
+KNNNPIQ-TRNYEFADN-NSE-----------TI------------TFQEHSLGHIKSN-PGDPASKPHFNI
+RDSN-------------LGTG-----HVD-GTHGHY----
+>WP_212514968.1/1-89 HNH/endonuclease VII fold putative polymorphic toxin, partial [Aeromonas popoffii]
+--------RAAFRQAKRDAGIPMSQQPVDI-----------T-SPDLK--------D---GYGGY---VHN-
+PDGSRAK-VREYHYINQ-NGY-----------RI------------VLQEHSLGHEKAT-PKH-GKEPHFNI
+RLVD-----KNS----------------------------
+>WP_252413497.1/1-87 HNH/endonuclease VII fold putative polymorphic toxin, partial [Aeromonas veronii]
+--------REAFRQAKRDAGIPMTQQPVNI-----------T-KPELL--------D---GNGRV---IMG-
+TNNQPIT-TRQYEFINA-KGE-----------SV------------FIQEHSLGHAKAT-PRH-GLEPHFNI
+RPSD-----N------------------------------
+>WP_241831213.1/1-87 HNH/endonuclease VII fold putative polymorphic toxin [Salinivibrio kushneri]
+--------KEAFRQAKRDAGVPMSQRPTEI-----------D-QPELR--------D---GNKAI---IIG-
+EDGLPIK-TRQYKFVNN-KGE-----------TV------------FIQEHSLGHAKSS-PRH-GDAPHFNV
+RPAD-----P------------------------------
+>WP_166830329.1/1-86 HNH/endonuclease VII fold putative polymorphic toxin [Iodobacter sp. HSC-16F04]
+--------RDALRQAKRDAGGPMSQQP-TM-----------G-RDDLL--------D---GNHQR---IIG-
+TDGKPVT-SRTYTYTNT-DGK-----------QV------------IIQEHSLGHEKAT-PLH-GSDPHFNV
+RPPE-----N------------------------------
+>SPE76265.1/1-83 hypothetical protein FLACOL_00243 [Flavobacterium columnare]
+--------REALRQAKRDAGIPNNQHPSRV-----------Y-KEVLE--------D---GYGSP---VIG-
+KNGTPVQ-TRNYEFKNA-KGE-----------TI------------TIQEHSLGHTKAT-PNH-GAEPHFNV
+R---------------------------------------
+>WP_237397855.1/1-84 HNH/endonuclease VII fold putative polymorphic toxin [Gilliamella sp. Lep-s35]
+--------RDAFRQAKRDARIPMSQQPSNI-----------Y-KRPLK--------D---GSGGY---VRN-
+SNGSIVE-TRNYEFKGK-NNE-----------II------------TIQEHSLGHTKAT-PGH-GAEPHFNV
+RP--------------------------------------
+>WP_120129117.1/1-78 DUF6531 domain-containing protein [Pseudomonas sp. LS-2]
+--------RDAFRQAKRDAGVPVTAAPTRL-----------Y-KTQLD--------D---GYGNA---VM--
+QNGKVVM-TRNYEYLNI-KFN-----------KI------------TIQEHSYGHSKAT-YLH-GAEPH---
+----------------------------------------
+>WP_246871602.1/1-83 HNH/endonuclease VII fold putative polymorphic toxin [Pantoea ananatis]
+--------RDAFRQARRDAGIPNNQQPTKI-----------L-RPELR--------D---GNGNV---VIG-
+KDNLPIR-TREYHFENK-DNK-----------TV------------LIQGHSSGHQKAT-PGH-GAEPHFNT
+R---------------------------------------
+>WP_242452918.1/1-83 HNH/endonuclease VII fold putative polymorphic toxin, partial [Photobacterium damselae]
+--------REAFRQAKKDAGIPMSSQANKV-----------K-NVDLTDAN----GN----------PILD-
+SSYNVIS-TREYHFESI-YNE-----------KV------------VIQEHSLGHSDYP--NSASSRPHFNV
+R---------------------------------------
+>WP_217847151.1/1-89 HNH/endonuclease VII fold putative polymorphic toxin, partial [Pseudomonas khorasanensis]
+--------RAAFQDAKRDARIPMSAEPMEV-----------N-HVALTKIG----EH---GVGKQ--NVLD-
+ADGNIVY-TREYHYKNI-DNE-----------RV------------VIQEHSYGHEDFP-SDHASHKPHFNV
+R---------------------------------------
+>WP_186612645.1/1-89 RHS domain-containing protein, partial [Pseudomonas sp. SWRI154]
+--------RAAFREAKRDAKIPTSADPINV-----------N-HIPLTKTG----EN---GVGKQ--NVLD-
+TEGRTVY-TREYHYQNI-DND-----------RV------------VIQEHSWGHQDYP-SDHASHKPHFNV
+R---------------------------------------
+>TGC27252.1/1-83 hypothetical protein CW310_17050 [Pseudomonas citronellolis]
+--------QAALRAAKADARVPVSAEPVKV-----------G-RVPLEES------------GRM---LLD-
+SNGVPIM-TREYHYTNI-DGT-----------RV------------VIQEHSRGHKEFS-EESAAGKPHFNV
+R---------------------------------------
+>WP_193557486.1/1-82 HNH/endonuclease VII fold putative polymorphic toxin, partial [Pseudomonas rhizoryzae]
+--------REAFRKAKQDAGIPVTAPPLKI-----------G-RVELERA------------GET---VYE-
+-NHRPVL-TREYHYQNI-HGE-----------NV------------VIQEHSRGHIEFP-AETAAGQPHFNV
+R---------------------------------------
+>WP_094183060.1/1-103 HNH/endonuclease VII fold putative polymorphic toxin [Vibrio sp. V15_P4S5T153]
+--------KEAFREAKRDAGIPNNQKP-MV-----------D-RVELLD------EN---EFGKKV-KVLD-
+KNGNPVQ-VRQYHYTNT-KGD-----------KI------------VIQEHSLGHSKAT-PLH-GDVPHFNV
+RPAS-----N-------LNTG-----SYD-GTHGHY----
+>WP_176440610.1/1-103 HNH/endonuclease VII fold putative polymorphic toxin, partial [Vibrio sp. V17_P4S1T151]
+--------KEAFREAKRDAGIPNNQKP-MV-----------D-RVELLD------EN---EFGKKV-KVLD-
+KNGNPVQ-VRQYHYTNT-KGD-----------KI------------VIQEHSLGHSKAT-PLH-GDVPHFNV
+RPAS-----N-------LNTG-----SYD-GTHGHY----
+>WP_037330863.1/1-108 HNH/endonuclease VII fold putative polymorphic toxin, partial [Salinivibrio socompensis]
+--------KEAFRQAKRDAGVPNNQKP-MV-----------D-KVDLKD------ND---KFGNKV-KVLD-
+KNGLPIK-TRQYHYTNT-RGE-----------KV------------VIQEHSLGHSTAT-ARH-GGAPHFNV
+RQVD-----KST--GEVLDTS-----TFP-GTHGHY----
+>WP_046028144.1/1-89 HNH/endonuclease VII fold putative polymorphic toxin, partial [Vibrio vulnificus]
+--------KEAFREAKRDADVPNNQKP-VV-----------D-KVDLTD------HD---EFGNKF-VVRD-
+EKGLAIK-TRQYHYTNI-HGE-----------KV------------VIQEHSLGHGKSA-PRH-GDAPHFNV
+RQVD------------------------------------
+>WP_136438784.1/1-103 HNH/endonuclease VII fold putative polymorphic toxin [Tenacibaculum maritimum]
+--------RAAFRQAKRDAGIPMNQQPFKR-----------S-RVDLTE-K----KN---GIAHK---IYD-
+DKGMPIK-VRQNHFRQS-DGK-----------EI------------IIQEHSIGHTNAN-PNH-GKEPHFNV
+RPST-----N-------PETG-----SVD-YTHGHY----
+>WP_249182735.1/1-100 HNH/endonuclease VII fold putative polymorphic toxin, partial [Neisseria sp. Marseille-Q1983]
+--------REAFRRAKKDSNIPNSLQPTKI-----------R-RVLLD--------D---GYGNK---VLY-
+SNYQPIQ-VREYFYEIP-GRK-----------TI------------VIQEHSLGHIKAE-INK-GREPHFNV
+RPES-----N-------TNTG-----SVS-GTYGHY----
+>WP_143315223.1/1-87 fibronectin type III domain-containing protein [Clostridium sp. HBUAS56017]
+--------REAFRQAKQDAGIPKSSQYKTH-----------E-----------YVYD---GTSEN-------
+--------RTVYEFTV--DGK-----------KK------------YIIEHAEDK--------MGRGPHFHG
+ADDV---KGNP------FEKG-----RYN-QYDGHYPED-
+>WP_233812078.1/1-62 HNH/endonuclease VII fold putative polymorphic toxin [Cytobacillus sp. CY-G]
+--------NGAFRDAKRRAGIPNSTQHKKP-----------V-----------NVYD---GTTEN-------
+--------RRVYEFEI--DGM-----------KK------------YIIEHREDK--------FGRGPHFH-
+----------------------------------------
+>MCH2041021.1/1-73 HNH/endonuclease VII fold putative polymorphic toxin [Saccharospirillaceae bacterium]
+--------RSEFRKAKEAAGIPKSAQYHKH-----------K-----------YVYD-----TEN-------
+--------RTVYSFKV--DGK-----------NK------------YVILHENDKGF---DGSKPRGKHFHA
+ADDK---KGD------------------------------
+>WP_159102677.1/1-76 hypothetical protein [Flectobacillus major]
+---------EAFNKAKEQNGIPKSQQPKQQ----------YKTPDKNT--------------GKP-------
+--------LRTYEYRNS-KGE-----------KVI-----------IRKDNPVTYPD---G--GKQGEHYNA
+GKVK----DN----------------TE------------
+>WP_163264986.1/1-76 RHS repeat-associated core domain-containing protein [Dysgonomonas sp. 216]
+---------EALRNAKDQNGIPRSQQPDKT----------SIVRDKNT--------------GKP-------
+--------LKQYEYTNS-KGE-----------KVL-----------IRKDNPVKYPD---G--GSQGKHYNA
+GKIE----EK----------------TD------------
+>WP_199141458.1/1-71 RHS repeat-associated core domain-containing protein [Pedobacter sp. ASV12]
+---------EAYRNAKDQNGVPRSQQPEKT----------FKVQEKGT--------------NKS-------
+--------LKVSQYTNS-KGK-----------KVQ-----------IRKDNARLYKD---G--GSQGEHFNA
+GEA-------------------------------------
+>MCH4897176.1/1-89 RHS repeat-associated core domain-containing protein [Marinilabiliaceae bacterium JC040]
+--------KEAFRKAKDQNGIPRNQQPYEK----------KIIRDINT--------------GKP-------
+--------LNLYKFINS-KKE-----------IIF-----------IRKDIPVNYKD---G--GSQGPHFNA
+GKVE----KN----------------AVSYKLKQHHNYKK
+>CAF1366362.1/1-84 unnamed protein product [Adineta steineri]
+---------EAFRNAKDQNGIGRSQSPTRQ----------YYIPDKHNP-------------NQG-------
+--------LRQYDFINH-YGQ-----------KIS-----------IRKDIPIKYPD---G--GQQGPHYNA
+GPSG----GK---------------------LRQHHNFPL
+>MBX2921176.1/1-93 hypothetical protein [Chitinophagaceae bacterium]
+--------KEALNNAKEQNSIPRSQQPDKT----------IK---PNTPEG-----DKAGLDNRN-------
+--------VRQYEYTNS-KGE-----------KVI-----------VREDKPAQYNS---GGTGDQGPHFNA
+GKAS----DN----------------KL----KQHHYWDY
+>NDP22425.1/1-91 hypothetical protein [Paludibacter sp.]
+---------EAFGKAKDANGIPRSQQPDKT----------IK---PNSPEG-----KEVGLDNRN-------
+--------IKQYEYTNS-KGE-----------KVT-----------IRQDKPAQYGDP--SGKGNQSEHYNA
+GKTN----EN----------------LS----KQHHYY--
+>MBR9908482.1/1-91 hypothetical protein [Gammaproteobacteria bacterium]
+----------ALRQAKDANGIPRSAQPDKT----------IK---PGTPEG-----NAAGLDSRN-------
+--------VKQYEYTNG-AGE-----------KIT-----------IRQDKAASYGQ---GGKGDQKPHFNA
+EPSK----EG----------------KL----KQHHYYED
+>MBQ8630040.1/1-90 hypothetical protein [Prevotella sp.]
+---------KAFRNAKDQNGVPKSQQPDRT----------IK---PNTEAG-----NAAGLRDDN-------
+--------IVQYEFTNS-KGE-----------KVI-----------IRQDKTTTYPD---G--GVQPPHYNA
+GKSS----DN----------------KL----RQHHYYYE
+>MBE6227018.1/1-73 hypothetical protein [Bacteroidales bacterium]
+---------EAFRKAKDQNGVPRSQQPDKM----------IK---PNTLED-----NEYRLDNRN-------
+--------VKIYEFTNS-KGE-----------TVL-----------IRQDKSVNYGD------GYQPEHFNA
+----------------------------------------
+>PSR15420.1/1-87 hypothetical protein C7N36_00155 [Bacteroidetes bacterium]
+--------KAAFREAKRDNGIPVSQQPIDVIRPND------K--------------D---KWDEY---GLDR
+SKNRALY--RFVVFLLGLFGF-------SEEREI------------HIREDS-DYSYGAVDGRGDQREHFN-
+----------------------------------------
+>WP_061147915.1/1-76 HNH/endonuclease VII fold putative polymorphic toxin [Caballeronia arvi]
+--------SGAFNEAKRNAGVPVSQQPVEV-----------R-PN--V--------D---------------
+RQGNVQP-GYQYVYEVP-SEG-------GRTKEV------------IIRDDAGGHNFGT-NDPQNRGAHFN-
+----------------------------------------
+>WP_246791933.1/1-76 HNH/endonuclease VII fold putative polymorphic toxin [Burkholderia perseverans]
+--------RGAFNAAKRAVGVPVGQQPSVV-----------R-PN--I--------E---------------
+KRGNLQP-GLQYEFNVR-DSK-------GRIKTV------------VIRDDAAGHYYGE-SDPQNRGPHFN-
+----------------------------------------
+>WP_229694407.1/1-76 hemagglutinin repeat-containing protein [Enterobacter cloacae]
+--------NGAFREAKRESGIPVTQQPDRV-----------T-PN--Y--------D---------------
+RRGNLQP-GITYEFDVR-NPN-------GTVSTI------------KIRDDAAGHFFGA-NDSQNRGSHFN-
+----------------------------------------
+>WP_241609302.1/1-76 HNH/endonuclease VII fold putative polymorphic toxin, partial [Rosenbergiella australiborealis]
+--------AGAFNEAKRKSGIPTSRQPDRV-----------T-EN--Y--------D---------------
+RRGNKQP-GKVYEFDVI-NQQ-------GKPETI------------KIRDDAKGHFFGD-NDSQNRGPHFN-
+----------------------------------------
+>NVK20814.1/1-78 hypothetical protein [Methylocystaceae bacterium]
+--------SGAFKQAKRDMGIPVSQQPNRV-----------L-PN--I--------D---------------
+KRGNVQP-GKIYEYDII-DPN-----AVGGKRTV------------KIRDDAEGHLSLD-DPSQNRGPHFN-
+----------------------------------------
+>WP_072895270.1/1-72 HNH/endonuclease VII fold putative polymorphic toxin [Sphingobium sp. YR657]
+--------RGAFGAAKRDNGIARSQQPSKV-----------G-PN--T--------D---------------
+RRGDVQP-GRTYEYKKP-DGS-----------TT------------TIRDDAAGHRYPD-NPSQNRGSHFN-
+----------------------------------------
+>GFI37509.1/1-68 hypothetical protein IMSAGC015_01696 [Lachnospiraceae bacterium]
+--------KGAFKEAKRKNGIPVSEQPKKV-----------S-TN--V--------D---------------
+KRGNPQP-GRNYEFDN----------------KV------------SIRDDAAGHIYPD-NPTQNRGPHFN-
+----------------------------------------
+>WP_238142782.1/1-83 HNH/endonuclease VII fold putative polymorphic toxin, partial [Streptococcus suis]
+--------KGAFNEAKRKNGIPTSQNPDRV-----------G-PN--L--------D---------------
+KRGNRQP-GRSYEFDRI-QD--------GETVTV------------TIRDDAGGHVYKD-DPSQNRGPHFND
+DGGN-----H-------YD---------------------
+>WP_049800511.1/1-84 hemagglutinin repeat-containing protein [Ralstonia solanacearum]
+--------QGAFNEAKRQNGIPVSQQPSNV-----------Y-PN--T--------D---------------
+RRGNPQP-GYIYEFTVP-APG-------GGEQKV------------RIRDDAAGHFFGD-GDAQNRGPHFND
+PKDN-----H-------YD---------------------
+>HHZ19513.1/1-76 hypothetical protein [Firmicutes bacterium]
+--------RGAFREAKRRSGIPTSQQPRKV-----------T-PA--V--------D---------------
+KRGNRIQ-GRDYDFGD----------------GK------------VIRDHSGGHRYPD-DPTQNRGPHFND
+IYGN-----H-------YD---------------------
+>WP_225740521.1/1-67 HNH/endonuclease VII fold putative polymorphic toxin [Leptospira interrogans]
+--------RGAFREAKRNSGIPVSQQP-KT-----------T-PA--K--------D---------------
+KRGNKIP-GRDYDFGD----------------GK------------VIRDHSGGHKYPD-NPNQNRGPHIN-
+----------------------------------------
+>AQZ49179.1/1-68 type IV secretion protein Rhs [Paenibacillus larvae subsp. pulvifaciens]
+--------RGAFREAKRNSGVPVTQQPEKV-----------S-PA--V--------D---------------
+RRGNRIP-GRDYDFGN----------------GK------------VIREHSGGHIFPD-DPSQNRGPHFN-
+----------------------------------------
+>WP_221263010.1/1-73 polymorphic toxin-type HINT domain-containing protein [Sphingomonas kyeonggiensis]
+--------SAAFRQAKRDAGIPVNQQPKSV-----------G-PN--V--------N---------------
+KQGKVVQ-GREYVFSKP-DGS-----------TV------------RIREDAGGH------PEHGLGPHFNI
+NGSK-----T------------------------------
+>MBS5023611.1/1-67 hypothetical protein [Firmicutes bacterium]
+--------NAAYRAAKRHAGIPMSEQPIKV-------------------------VQ-----------SVDR
+L-GKVIP-GRTYIFKNG----------------T------------QIMEHSAGHIFEN---GINMTRHFNI
+----------------------------------------
+>MBQ7145466.1/1-67 hypothetical protein [Lachnospiraceae bacterium]
+--------NAAFRAAKRDLGIPMREQPVVT-------------------------SS-----------ITYE
+T-GKPVT-LRTYSYSEG---------------RI------------SIRDDCLGHSFSD---GGGLGPHFN-
+----------------------------------------
+>WP_204723362.1/1-68 HNH/endonuclease VII fold putative polymorphic toxin, partial [Fastidiosibacter lacustris]
+--------KAAFREAKEKAGIPRSQQPSNT-----------Y-HEKIR--------D---------------
+QQGHVE--GRVYEFKIA-DES-----------TA------------TIREHTLGHKFG------NHGSHFN-
+----------------------------------------
+>WP_214496365.1/1-67 MULTISPECIES: RHS domain-containing protein, partial [unclassified Pseudomonas]
+--------NGAFKRAKAIAEIPKTQHPKLV-----------S-RVKIT--------D---------------
+QERYME--GRVYTFELK--KR-----------QI------------EIREHSLGHEKG------NLGPHFN-
+----------------------------------------
+>MBN2993702.1/1-79 RHS domain-containing protein [Pseudomonas cedrina subsp. fulgida]
+--------NGAFRRAKKIGGVPMHQHPERI-----------Y-REPLT--------D---------------
+QDRYIE--SRIYEFKLR--GR-----------KV------------EIREHSLGHTKG------NHAPHFNT
+KILV-----N-------DKKAP----L-------------
+>MBV4488938.1/1-77 hypothetical protein [Pseudomonas khorasanensis]
+--------KAAFRHAKRVGGVPLSQQPSRS-----------Y-KEVLT--------D---------------
+QPSRVM--SRVYEYNLK-DGR-----------IV------------TIREHSLGHVKG------NEGPHFNT
+EVTG-----S-------TGT--------------------
+>WP_082060465.1/1-92 HNH/endonuclease VII fold putative polymorphic toxin [Photobacterium gaetbulicola]
+--------SGAFKEAKLKAGVPRNQHPDKV-----------Y-KEKIR--------D---------------
+QDGHVE--GRVYEFKRQ-DGS-----------TA------------TIREHSLGHKLD------NHGPHFNS
+EVRS-----A-------DGIKQ----SLG-GNGDSHTYFN
+>AKT48764.1/1-97 hypothetical protein ADJ70_07115 [Olsenella sp. oral taxon 807]
+--------RAAFRQAKRDLGIPVSRQPDKV-------------------------HK-----------VIKD
+IHGKVIPGGRGYQFNTG---------------VIIGENGSPKALHRDIFDHPNGHVFPD---GGRVGPHFNT
+QVVD----KD----------------KVT-WGKEHY----
+>WP_138486885.1/1-87 HNH/endonuclease VII fold putative polymorphic toxin [[Pseudomonas] nosocomialis]
+--------SGALNDAKKDLGIPKAQHPEAV-----------N-HVPMT--------D---LNGKA---ILG-
+SDGRRIM-TREYVYARP-DGS-----------KV------------IIQEHSVG----Q-GGVGDQGPHFNV
+RPPE-----N-------PRT--------------------
+>WP_256606963.1/1-88 HNH/endonuclease VII fold putative polymorphic toxin [Methylomonas sp. WSC-7]
+--------SGALNEAKRDLGIPRSQHPESV-----------S-RVPMT--------K---SDGSW---IVG-
+ENGKPIM-TREYTYKRP-DGS-----------SV------------VIQDHYAGHQFGE-GGIGDQGAHFNV
+RPPE-----N------------------------------
+>NML34253.1/1-83 hypothetical protein [Paraburkholderia antibiotica]
+--------NGAFRQAKRDAGIPMSQQPDSI-----------T-HVPMT--------S---KGCQV---ICG-
+--NKRVL-TREYQYTRS-DGT-----------VV------------VIQDHGAGHDFGE-GGVGNQGPHFNV
+RP--------------------------------------
+>WP_257377989.1/1-87 HNH/endonuclease VII fold putative polymorphic toxin [Snodgrassella alvi]
+--------KSALGAAKRETGLAMNQHPIVV-----------K-KVPLT--------D---RKGHL---VMD-
+DNYRPLE-SRKYHFVQH-NGS-----------KV------------VIQEHFAGHIYGLKGTPGNQGSHFNI
+RPL-------------------------------------
+>OFV31786.1/1-104 hypothetical protein HMPREF3139_08495 [Neisseria sp. HMSC15G01]
+--------HATFRMAKRQLGIPNSMQPTAV-----------R-RVPIVEKKH----D---RIGIVT-YKKD-
+SLGRTLF-STEYLFIV--NGK-----------------------GYVIQDHSVGHNFGDLNGIGNQHAHFNL
+KKLNL----NTY-----TTNG-----TID-----------
+>QNT58534.1/1-90 hemagluttinin repeat family protein [Neisseria musculi]
+------------RAEKMRLGIPTTMQPTAV-----------R-RVPLMEKDYFTGKD---R------QKTD-
+SIRQPIF-ATEYLFII--NGK-----------------------NYVIQNHSAGHDFGELSGRGNQAAHFNS
+KQLEL----T------------------------------
+>MBK6837348.1/1-88 hypothetical protein [Bacteroidetes bacterium]
+--------REAFRNAKTDAKIGRNQHPHKV-----------E-HVPLE--------D---GYGDF---VRD-
+ANGKPIQ-TREYHFTNS-SGE-----------NV------------VIQEHSLGHTKG------DVGPHFNV
+RPAS-----DTKG--------------------GH-----
+>WP_113759404.1/1-99 HNH/endonuclease VII fold putative polymorphic toxin [Brevibacillus laterosporus]
+--------DGALNQAKRDAGIPRSQQPEAVKK---------E-PMRSA--------E---YEGGH---VIKD
+GNGRVIK-TREYYYTNT-KGE-----------KI------------IIQDHGAGHV------KGGQGPHFNV
+RPAD-----K-------PRTG-----KFP-GTEDHY----
+>MCB2343328.1/1-99 hypothetical protein [Clostridium estertheticum]
+--------NGALNRAKRDAGISKSQHPDVVKN---------E-YMRTA--------T---YEGGN---VIKD
+VNGNPIK-TREYYYKNQ-NGE-----------TV------------IIQDHSAGHA------KGNQGPHFNV
+RPAD-----N-------SRTG-----SVS-GTQEHY----
+>WP_239815345.1/1-99 T7SS effector LXG polymorphic toxin [Bacillus atrophaeus]
+--------KGAFKEAKRDAGILRAQQPESINR---------V-EMRTA--------P---HEGGR---VIKD
+KNGKIIR-TREYTFTNN-KGE-----------KI------------IIQDHSAGHE------KGGQGPHFNV
+RPID-----N-------TRTG-----KVP-GTKEHY----
+>WP_228109687.1/1-98 polymorphic toxin-type HINT domain-containing protein [Terrisporobacter petrolearius]
+--------KGAFRKAKRDAGISKSQQPYKIGS---------D-YMRTA--------E---HEGSK---IILG
+KNNKPIK-TREYYFIND-KGK-----------KI------------IIQDHGAGHL------KGGQGPHFNV
+RPAN-----N-------KRTG-----KVE-GTKSH-----
+>WP_206925245.1/1-83 HNH/endonuclease VII fold putative polymorphic toxin [Terrisporobacter petrolearius]
+--------KGAFREAKRDVGIYKSQQPYESGS---------D-HMRTA--------E---HEGSK---IILG
+KNNKPIK-TREYNFINY-KGK-----------KI------------IIQDNGAKHL------KGGQGPHFNV
+IP--------------------------------------
+>MCI8777345.1/1-96 hypothetical protein [Oscillospiraceae bacterium]
+--------KEAFNQAKRDANIPRTQQPLKVEK---------V-PMTSS--------L---SEGGH---ALKD
+SKGKVIM-TREYHFKNR-NGD-----------RI------------IIQDHSAGHV------KGGQGSHFNV
+RPID-----N-------PRTG-----KVP-NTK-------
+>WP_118251260.1/1-89 MULTISPECIES: HNH/endonuclease VII fold putative polymorphic toxin [Vagococcus]
+--------KGALNQAKRDANIPKGQHPDSVIK---------K-PMTKP--------D---FMGGG---VLKD
+SSGKVIM-TREYNYTNI-NGE-----------KI------------IIQDHSAGHA------LSGQGAHFIV
+RPID-----K-------PRN--------------------
+>MBD3231405.1/1-99 hypothetical protein [Candidatus Dependentiae bacterium]
+--------RAAFRQAKRDANIPVSQQPEKV------KIE--D-MSLSE--------S---RGGKK---IKD-
+KYGNIIK-TKEYYYKNK-NDD-----------KI------------IIQDHGAGHKL------GNQGPHFNV
+RPIN-----N-------RRTG-----DVD-GTKKHY----
+>WP_204965487.1/1-99 HNH/endonuclease VII fold putative polymorphic toxin [Megamonas funiformis]
+--------KQAFRDAKRDAKISMMSQPIKI-----------E-HVFLK--------EAMYKGGHA---IKD-
+DKGNLIK-TREYHFYNH-TGE-----------KI------------IIQEHSAGHK------KGNQPAHFHI
+RPEN-----N-------TRTG-----KIL-GTKKHY----
+>MBQ3422938.1/1-99 hypothetical protein [Romboutsia sp.]
+--------NGALNQAKKDANILRTQHPDDV-----------V-KVKMT--------EAESRGGHV---IKD-
+ENGNMVE-CREYYYTNR-EGE-----------KV------------IIQEHVYPH-------VGSPGPHFNV
+RPST-----D-------PRNG-----VFE-GTKEHYQ---
+>WP_063370961.1/1-97 HNH/endonuclease VII fold putative polymorphic toxin [Pseudoalteromonas luteoviolacea]
+--------SGAMTQAKKDAKVPRTQRPLSV-----------D-KVKMT--------D---GNGQT---MKD-
+SQGNVVY-TREYTHQTT-NGK-----------TV------------VIQDHSAGHE------KGGQGPHLNV
+RPIE-----N-------TRTG-----KVE-GTKAHYE---
+>WP_025866160.1/1-96 HNH/endonuclease VII fold putative polymorphic toxin [Prolixibacter bellariivorans]
+--------GGALGQLKRDVKIPRSQQPENV-----------A-KEPLR------------SKGKT---VLG-
+GDGKPVM-TTEYTHTTT-DGN-----------KV------------VIQDHSAGHT------IGNVGPHYNV
+RPES-----N-------TRTG-----KVS-GARTHYE---
+>WP_169429778.1/1-91 HNH/endonuclease VII fold putative polymorphic toxin [Pseudomonas fluorescens]
+--------------AKENKSVPFS----------------VP-FSLMT--------D---KSGES---ILN-
+SDGKPVL-TREYQFTRA-DGS-----------KV------------VIQDHSAGHQYNEPGNKGDQTAHFNL
+RPIE-----N-------TRTG-----KVP-GARDHY----
+>WP_223186587.1/1-94 HNH/endonuclease VII fold putative polymorphic toxin [Streptomyces sp. CBMA29]
+-----------------DAGVPPGAEPLEV-----------R-LTPSTTP-----------GGKQ---ILD-
+DTYQPVMFHEEVHYSES-LDD-----------FI------------VFQDHHTGHSFGDPNGIGDQPPHVHV
+RPID-----N-------PRTG-----QVP-GCEEHY----
+>WP_122399227.1/1-102 DUF6531 domain-containing protein [Streptomyces triticirhizae]
+--------AAAREQALRDADVPDGAEPLEV-----------R-LTPATTP-----------QGRQ---ILD-
+ENYQPVMFREEVHLNNR--DE-----------LV------------VYQDHHTGHQYGDPNGVGDQPPHVHV
+RPWE-----D-------QRNG-----QIP-GCEEHY----
+>WP_015803273.1/1-100 DUF6531 domain-containing protein [Actinosynnema mirum]
+--------DEARQQALADAGVPPGSEPLET-----------R-VTPSTTP-----------GGRQ---VMQ-
+D-HQPVFFPEEVYLNNR--DE-----------LI------------VFQDHYTGHQFGE-GGVGDQPPHVHV
+RPYD-----N-------PRNG-----QVP-GAEEHY----
+>WP_051385779.1/1-99 DUF6531 domain-containing protein [Actinokineospora inagensis]
+-----------KQQALRDAGVPEGAEPLDA-----------Y-TVPSTTP-----------SGRQ---ILD-
+ENYQPVRFPEEVYENAN--GD-----------LI------------VFQDHYTGHDFGDPNGVGNQPPHVHV
+RPYD-----D-------PRGG-----QIP-GAQEHY----
+>WP_243340618.1/1-100 polymorphic toxin-type HINT domain-containing protein [Streptomyces sp. AP-93]
+----------AKKRALSEAGVPEGAEPLDV-----------R-QVPSTTP-----------RGKQ---IMD-
+EDHQPVFFAEEDHLTEA--GD-----------LV------------TYQDHYTGHSFGAPDGVGDQRPHVHV
+RPFD-----D-------PRHG-----IIP-GVEPHY----
+>MBB4921916.1/1-96 RHS repeat-associated protein [Kitasatospora kifunensis]
+--------AEAKRQALRDAGVADDAVPLDE-----------D-WVPSTDR-----------SGKQ---ILD-
+ENYQPVYFHQEYYETTS--GD-----------II------------VYQDHYTGHSFGDPNGVGDQPPHVHV
+RPLD-----D-------PRNG-----VLP-----------
+>WP_241028403.1/1-104 HNH/endonuclease VII fold putative polymorphic toxin [Streptomyces verrucosisporus]
+--------EGAKAQALRDAGIPEGAEPIEV-----------NDWVPATGP------D--WQGGKQ---LLD-
+DNHQPIFYREEYYETPS--GD-----------LI------------VYQDHWFGHQ--KPGEPGYQPPHVHV
+RPFD-----D-------PRNG-----QLP-GCEEHY----
+>WP_063838115.1/1-96 HNH/endonuclease VII fold putative polymorphic toxin [Streptomyces yangpuensis]
+---------------LRDAGVPEGLEPTNS-----------YPYTKATKP------E--YQGGGQ---LMG-
+PN-GPIYYLEEWYELPN--GD-----------MV------------VFQDHWFGHQ--KPGEPGYQPPHVHV
+RPWH-----N-------TRNG-----QID-GAEEHY----
+>WP_158813309.1/1-103 DUF6531 domain-containing protein [Streptomyces rimosus]
+--------DEARRQAFRDAGIPEGAECYDS-----------W-MDPYTTP------E--YAGSKQ---ILD-
+ENYNPIYFPAELHLTES--GD-----------EV------------IFQDHYTGHR--NPGEEGYQPPHLHI
+RPAS-----D-------PRNG-----VYE-GCEEHY----
+>WP_228731365.1/1-100 HNH/endonuclease VII fold putative polymorphic toxin [Clostridium zeae]
+--------SASLREIKRQLDIPMSQQPISQ-----------K-MVPLT--------D---SNGNW---ILN-
+ENKQPVM-TRELTYDV--NGK-----------KI------------VIQDHSAGHDFGE-GGIGDQPSHHNV
+RPAE-----N-------TRTG-----KVE-GMEDHY----
+>KWF78107.1/1-100 hypothetical protein WL93_25635 [Burkholderia diffusa]
+--------RSSLRDIRRQLGIPLSQQPISQ-----------Q-MVPLT--------D---SSGNW---FIG-
+DNVEPVM-ARELTYQV--GGK-----------NV------------VIQDHSAGHIFGE-GGIGDQPSHHNV
+RPEE-----N-------TRTG-----KIR-GMDDHY----
+>BBQ01384.1/1-100 hypothetical protein BSFA1_65120 [Burkholderia sp. SFA1]
+--------SASLRAIKRQLGISMSQHPVGQ-----------R-MVPLT--------D---SSGNW---ILN-
+ANKKPIQ-TRELTYSV--NGK-----------NV------------VIQDHSAGHYYGQ-DGVGDQPSHHNV
+RPEG-----D-------ERTG-----KVD-GMDDHY----
+>WP_098820784.1/1-100 HNH/endonuclease VII fold putative polymorphic toxin, partial [Bacillus wiedmannii]
+--------GASLKEIKRQLNILRFQHPISQ-----------K-MVPLT--------D---SNGKR---ILN-
+DNKQPIM-TRELTYEV--KGQ-----------KI------------IIQDHSEGHKFGE-GGIGDQPPHHNV
+RPEY-----N-------TRTG-----QVD-GMEDHY----
+>MBJ8433001.1/1-101 RHS domain-containing protein [Acinetobacter pittii]
+--------RASLRDIRKKLGIPMSQQPIRQ-----------K-MVPLT--------D---KNGKR---ILN-
+QNNMPIM-TRELTYNV--KGK-----------EI------------VIQDHSAGHDFGEADGKDNQPSHHNV
+RPAE-----K-------TRTG-----TVD-GMDDHF----
+>RDY26821.1/1-107 hypothetical protein CG710_021410 [Lachnotalea glycerini]
+--------KEALGQIKQDLGIPKTQQPVSQ-----------K-MEKML--------D---EHKKP---IV--
+VNGEFVY-SRELTYSV--SGK--TDAGGNPIKQV------------IIQDHSYGHSYS--DGIGNQSSHFNV
+RPDN-----N-------PKTG-----GVN-GTKEHY----
+>SCJ88312.1/1-107 Uncharacterised protein [uncultured Eubacterium sp.]
+--------KEALNQIKNDLGINKSQHPESQ-----------Q-MVMLL--------D---EFNNP---IV--
+NNGKIIM-SREMKYKV--NNK--TDGAGNFIEYV------------YIQDHSYGHKYS--NGIGNQTAHFNV
+RPET-----N-------IKTG-----TVK-GTKNHY----
+>WP_207647696.1/1-108 HNH/endonuclease VII fold putative polymorphic toxin, partial [Clostridium frigidicarnis]
+--------KQALSEINKDLGISKSQHPLEQ-----------K-MVPLL--------D---ENKKR---ILD-
+ANNNFVE-TRELTYSV--QGK--FDVQGNPIDKV------------VIQDHSYGHYYN--SGIGNQPSHFNV
+RPST-----N-------TKNG-----AVQ-GMKDHY----
+>WP_094184845.1/1-108 HNH/endonuclease VII fold putative polymorphic toxin [Acetivibrio straminisolvens]
+--------KQALNTIKKDLGIPKSQKPDGQ-----------N-MVPLV--------D---ENGNM---ILG-
+QNKNFVY-SRELTYSV--NGK--FDAQGNPISSV------------VIQDHSYGHTYS--SGTGNQPLHFNV
+RPST-----N-------PKND-----KVL-GIKEHY----
+>MCI5603748.1/1-109 HNH/endonuclease VII fold putative polymorphic toxin [Clostridiales bacterium]
+--------RTALNNIKQDLGLNANESPVSQ-----------N-MVMLR--------N---ANGDP---II--
+YNGQIIY-SREMTYDV--RGKGIKNEHNEIIDYV------------VVQDHSYGHTYT--NGVGNQPSHFNV
+RPIT-----N-------TQNG-----KVS-GMKGHY----
+>MBR6716979.1/1-94 PKD domain-containing protein [Oscillospiraceae bacterium]
+--------KEALNQIKEDLGIPRSQQPISQ-----------E-MVKLH--------D---VDGSA---IPK-
+PEGGIRY-SRELTYDA--RGLGLVDQNNNPLDTI------------VIQDHSYGHTYE--SGIGNQPSHFNV
+RP--------------------------------------
+>VEI57052.1/1-107 Cell wall-associated polypeptide CWBP200 [Pasteurella multocida]
+--------REALRAAKRDAGIPMSQQPIDV-----------K-SVPMT--------D---RNGRR---IFD-
+ANHNPIN-TREYHYITR-TGE-----------RI------------VFQEHSAGHQYGPPGTLGNQGPHFNP
+RVYESSTGNA-------SRNE-----SFS-GMAEHY----
+>WP_187229838.1/1-94 HNH/endonuclease VII fold putative polymorphic toxin [Escherichia marmotae]
+--------NAALRAAKRDAGIPMGQQPTTV-----------N-KVPLT--------D---KNGHQ---LMD-
+ANHNPIS-TREYHYTRP-DGS-----------KI------------VIQEHSAGHSYGP---PGNQGPHFNP
+REYDPISGAG-------SRN--------------------
+>WP_156287090.1/1-108 PAAR domain-containing protein [Erwinia sp. J780]
+--------KEAFRAAKRDAGIPMNQHPIAV-----------K-KVQLT--------D---REGHV---IKD-
+SNFNILE-SREYHYTRS-DGS-----------RV------------VIQEHSAGHTYGPPGTPGNQGPHFNP
+RPFDPNTGNG-------SRNG-----SIN-GSYDHYD---
+>QMM54210.1/1-108 type IV secretion protein Rhs [Enterobacter sp. RHB15-C17]
+--------KAALRAAKRDAGIPMHQHPAAV-----------K-KIQLT--------D---RDGHA---IKD-
+SDFNILE-SREYHYTRP-DGS-----------RV------------VIQEHSAGHTYGPPDTPGNQGPHFNP
+RPFDPKTGNG-------SRNG-----SLS-GSYDHYE---
+>WP_100114040.1/1-108 HNH/endonuclease VII fold putative polymorphic toxin [Snodgrassella alvi]
+--------RAAFRQIKREAGIPMHQHPLKM-----------V-KIELT--------D---RNGHK---ILD-
+SNHKPIK-TREYHYRTP-DGS-----------VL------------VVQDHSAGHIFGPPGTKGNQGPHFNP
+RPVNPDDGNG-------SRTK-----PFP-GLHDHYE---
+>WP_258953907.1/1-108 HNH/endonuclease VII fold putative polymorphic toxin, partial [Yersinia similis]
+--------NAAFRGAKRDAGIPINQHPDKI-----------D-KIPLT--------D---MNGKR---IFD-
+FNRKPIE-TREYHFTHP-DGS-----------KV------------VIQEHSAGHIYGPQGTPGNQGPHFNI
+RPFDPETRAG-------SRNG-----KIP-GTFEHYE---
+>WP_240042440.1/1-108 HNH/endonuclease VII fold putative polymorphic toxin [Photorhabdus khanii]
+--------KDAFRAAKRDAEIPMNQHPNAI-----------K-EVPLT--------D---MNKHQ---IMD-
+ANYNPIL-TREYHFARP-DGS-----------KI------------TIQEHSAGHIYGPSGTLGNQGPHFNI
+RPLDPIDGNA-------ARNG-----KVP-GTSEHYE---
+>WP_236358224.1/1-107 DUF6531 domain-containing protein [Pseudomonas sp. KNUC1026]
+--------RAALRAAKKDAGILKNA------------VAQMR-YAPLT--------D---RNGKQ---VIG-
+KNGMPVQ-TREYFYQNR-HGK-----------TV------------VIQEHSQGHIYGPPGTQGNQGAHFNV
+REYDPL---N----PAAYRNK-----TFP-GVFDHYE---
+>APQ12258.1/1-108 hypothetical protein BJP27_12375 [Pseudomonas psychrotolerans]
+--------REAFKNAKRDAQIPTSDQPIEA-----------K-RVPLEIHG----KQ------------LI-
+NENGVVQ-TREYHYLNL-QNQ-----------RV------------VIQEHSYGHPEFS-SNDASSKPHFNV
+REYD-----PVTRNAKRTTTL-----NLQ-SVASHYVF--
+>MCB9228351.1/1-106 hypothetical protein [Deltaproteobacteria bacterium]
+--------KDAFGAAKRDLGIPKGQQPDAV-----------K-SVALE--------D---KWGKK---ILD-
+SNGKVVN-TREYHFTRS-DGS-----------KV------------VIQEHSAGHKFGQ-GGVGDQGPHYNV
+RPYDTKSGNA-------ARNG-----AVD-GTKDHY----
+>EIX6435747.1/1-102 type IV secretion protein Rhs [Salmonella enterica]
+--------NEAFRAAKRDAGIPMSQQPSKV-----------E-LVPLT--------D---RSGRS---ILG-
+SDHLPIK-TREYTFTRP-NGE-----------SI------------VIQDHSPGHVYGPPGTPGNQGPHINV
+RP-----GSD-------TRNG-----TVP-GTLEHY----
+>AKH63576.1/1-102 hypothetical protein VY86_09750 [Photorhabdus thracensis]
+--------KAALRAAKKDAGIPMVQQPSHV-----------E-LVPLT--------D---RNGRN---ILG-
+ENHLPIK-TREYTFTRP-NRE-----------NI------------VIQDHSPGHIYGPPGTPGNQGPHFNV
+RP-----IGD-------TRNG-----SVA-GTLEHY----
+>WP_159481718.1/1-101 DUF6531 domain-containing protein [Streptomyces caniferus]
+--------RGAFRAAKRDLGIKKGQAPDYV-----------A-HVDME--------T---AKGAK---VL--
+KDGMPIP-TRESHYTLA-DGR-----------KV------------VIQDHSAGHIYGPPGTPGNQGRHFNV
+RPGD-----D-------TRNG-----KVP-GTSEHY----
+>WP_019930283.1/1-101 HNH/endonuclease VII fold putative polymorphic toxin [Nocardia sp. BMG111209]
+--------NEAFRDAKRDLDIPMSQHPDSV-----------A-RVRLQ--------D---KWGQS---ILD-
+DNGMPIY-TREYSFTRP-DGS-----------RV------------VIQDHGAGHYYGP-GDPGNQGPHLNV
+RP-----DWN-------TRTG-----KID-GTQEHY----
+>WP_075100026.1/1-99 HNH/endonuclease VII fold putative polymorphic toxin, partial [Streptococcus acidominimus]
+--------SEAFRSAKRDAGIPNSQHPKKV-----------D-RAPMT--------D---MNGKQ---QLD-
+SEFRPIN-TREYHYENK-DGK-----------II------------VIQEHSAGHTYGPEGTVGNQGAHFNI
+RPID-----D-------LRNG-----KID-GTR-------
+>WP_209307168.1/1-102 HNH/endonuclease VII fold putative polymorphic toxin, partial [Streptococcus acidominimus]
+--------SEAFRSAKRDAGIPNSQHPKKV-----------D-RAPMT--------D---MNGKQ---QLD-
+SEFRHIN-TREYHYENK-DGK-----------II------------VIQEHSAGHTYGPEGTVGNQGAHFNI
+RPID-----D-------LRNG-----KID-GTRSHY----
+>WP_253441554.1/1-101 hemagglutinin repeat-containing protein [Pseudomonas nitroreducens]
+--------SDAFNSAKKDLGIPRYKEPDSI-----------D-RALMQ--------D---INGKN---ILD-
+ANGRPIW-TREYTFKRS-DGS-----------VV------------VIQEHSAGHQYGQ-GGVGDQGAHFNV
+RPIE-----N-------TRTG-----SVP-GTKDHY----
+>WP_237321594.1/1-102 HNH/endonuclease VII fold putative polymorphic toxin [Streptomyces sp. JJ36]
+--------SAAFREAKRDLGIPMTQNPESI-----------S-RVPMT--------D---KFGSA---IMG-
+DNGQPIM-TREYVFTRG-DGS-----------KV------------IIQDHAAGHQFGE-GGVGDQGRHFNV
+RPFD-----N-------PRTG-----KVP-GTAQHYE---
+>MBP2337383.1/1-102 RHS repeat-associated protein [Saccharothrix coeruleofusca]
+--------NAAFREAKRDLGIPMGRQPVEV-----------N-KVPMT--------D---RNGSQ---VMD-
+GNGRRVM-TREYTFEQD-GGN-----------LV------------IIQDHSYGHRFGE-GGVGDQGAHLNV
+RPHE-----N-------PRTG-----KIP-GTAQHYE---
+>WP_135275834.1/1-101 HNH/endonuclease VII fold putative polymorphic toxin [Photobacterium damselae]
+--------NGALRQAKKDAGILRSQHPERI-----------N-RVPLT--------D---KNGKS---IIG-
+EDGRPIM-TREYYYTNR-DGK-----------KI------------VIQDHGAGHNFGQ-GGIGDQGPHFNI
+RPIE-----N-------TRTG-----TVS-GTLKHY----
+>WP_077002909.1/1-101 HNH/endonuclease VII fold putative polymorphic toxin, partial [Variovorax sp. KK3]
+--------SGALGEAKRDLGVPRTQHPDSV-----------S-RVPMT--------D---QNGKS---VLG-
+LDGKPIM-TREYTYTRP-DGT-----------NA------------VVQDHGAGHQFRQ-GGVGDQGPHFNV
+RPPE-----N-------TRGG-----SIP-GTKDHY----
+>MBI1906571.1/1-99 PAAR/RHS domain-containing protein [Rhodocyclales bacterium]
+-----------LNEAKRDLGIPRFQHPENV-----------A-RVPLT--------D---RNGKA---ILG-
+ADGKPIM-TREYTYTMP-DGG-----------KV------------VVQDHSAGHKFGE-GGVGDQGSHFNV
+RPPE-----N-------TRTG-----SVP-GAQDHYN---
+>WP_257890972.1/1-101 HNH/endonuclease VII fold putative polymorphic toxin [Rhodococcus sp. USK10]
+--------NSALNQAKQDAGIPRSQHPFEV-----------N-RIPMT--------D---RFDRN---ILG-
+DNGLPIM-TRECSYQLP-DGR-----------VI------------IIQDHGAGHMFGE-GGIGDQGPHFNV
+RPDG-----D-------TRSG-----NVP-GTLEHY----
+>WP_137876678.1/1-101 DUF6531 domain-containing protein [Rhodococcus sp. Q]
+--------NVAFNEAKQDAGIPRSQQPFDL-----------T-RPEMT--------D---MNGKK---ILG-
+DDGLPIR-TRQYYYLRE-DGQ-----------VV------------VIQDHGAGHYFGE-DGVGDQGPHFNV
+RPLG-----E-------ERHG-----SLP-GTRDHY----
+>WP_144279451.1/1-103 HNH/endonuclease VII fold putative polymorphic toxin [Chitinimonas arctica]
+--------GEAFREAKRDSRIPVSQAPDEV-----------R-SVRMT--------D---RSGRP---ILD-
+ENGQPTW-SREYTFTNS-RGQ-----------KI------------VIQDHGTGHKFGQ-GGVGDQGPHFNV
+RPID-----N-------TRTG-----KVS-GTQEHYLY--
+>OFZ80127.1/1-103 hypothetical protein A2583_16260 [Bdellovibrionales bacterium RIFOXYD1_FULL_53_11]
+--------SHAFGGAKRDLGIPANQKPLQV-----------R-LVPLT--------D---RNERA---IID-
+SNGKPQL-SREYIYKRPSNGK-----------LV------------VIQEHSAGHHFGEKGGVGDQGPHFNV
+RPVE-----D-------TRHG-----RIE-GTRDHY----
+>WP_095975691.1/1-103 HNH/endonuclease VII fold putative polymorphic toxin [Melittangium boletus]
+--------TGAFKKAKRDAGIPKRQQPERV----------DT-EVPMM--------D---KFGRT---IKD-
+KNGKPIM-TREYHYKRA-DGK-----------EI------------VIQDHSSGHQFGEPGGVGDQGPHLNV
+RPAI-----D-------TRNG-----KVP-GTAAHY----
+>WP_034839929.1/1-101 HNH/endonuclease VII fold putative polymorphic toxin [Endozoicomonas numazuensis]
+--------NGAFRQAKRDAEIPVSQRPFST-----------R-KVEMT--------D---MNGHV---VKD-
+AGGKIIM-TLEYYFKNT-NGK-----------TV------------VIQDHSAGHVFNQ-GGIGDQGAHFNV
+RPVE-----N-------TRTG-----QVP-GTKSHY----
+>RLP05966.1/1-96 hypothetical protein D9T14_13030, partial [Propionibacterium australiense]
+--------RDALRSAKRDAGVPMSEQPSSV-----------E-RVNMT--------D---KFDRN---VLD-
+SDGLPIS-TREYHYTGQ-GHD-----------PV------------VIQDHAAGHVFDD---GGSVGQHFNV
+RPPE-----N-------TRTG-----KVP-GTY-------
+>WP_121588374.1/1-99 HNH/endonuclease VII fold putative polymorphic toxin [Propionibacterium australiense]
+--------RDALRSAKRDAGVPMSEQPSSV-----------E-RVNMT--------D---KFDRN---VLD-
+SDGLPIS-TREYHYTGQ-GHD-----------PV------------VIQDHAAGHVFDD---GGSVGQHFNV
+KPPE-----N-------TRTG-----KVP-GTYSHY----
+>WP_192962634.1/1-99 polymorphic toxin-type HINT domain-containing protein [Propionibacterium acidifaciens]
+--------SAAFRSAKRDAGVPMSEQPSLV-----------S-NVDMT--------D---KFDRH---ILD-
+DNGLPIS-TREYHYTGQ-GHD-----------PV------------MIQDHAAGHVFDD---DGRVGQHFNV
+RDPQ-----S-------PRHG-----NPD-GTHKHY----
+>MCH2110822.1/1-102 HNH/endonuclease VII fold putative polymorphic toxin [Polyangiaceae bacterium]
+--------RAALRQAKRDANVPTSAQPDAT-----------A-RPFLR--------D---SQTRK---VIG-
+PDGQPVK-TYQYEYTTK-DGQ-----------KV------------LIQDYSAGHAHGE-GGVGDQGPHFNV
+RPPE-----N-------PNTG-----KVP-GTKAHYE---
+>MCE2967590.1/1-96 hypothetical protein [Phycisphaeraceae bacterium]
+--------NGAFRQAKRDAGIPMNQHPDRV-----------T-RTPLK--------D---QNGNK---RIG-
+PDGRPIM-AREYEF----DRH-----------KI------------VIQDHGAGHQFNDGGTVG---PHFNV
+RPSD-----N-------TKHG-----TVP-ATPPHY----
+>SFH94811.1/1-100 RHS repeat-associated core domain-containing protein [Selenomonas ruminantium]
+--------RAAFRHAKRDAGINVSSQPVKV-----------E-RVKYY--------D---EFGEA---RKG-
+KNGQLIW-SRQYYYKNN-RGK-----------TI------------IIQEHQDGHVFVD--GKGTQGPHFNV
+RPEN-----N-------PHTG-----TVE-GALKHY----
+>OCG72780.1/1-100 hypothetical protein A9G42_11755 [Gilliamella apicola]
+--------KEAFRAAKKDAGIPMNQSPTKV-----------G-KVYLL--------D---KNQNK---IFDP
+ITKKPIM-SREYHFTRS-DGK-----------HI------------IIQEHSLGHDF---GGIGDQGPHFNL
+RELT--------------RDGV---IQLK-GALEHY----
+>MBZ0216968.1/1-97 hypothetical protein [Fimbriimonadaceae bacterium]
+--------GQALKAARIDAGITRADKFDVV-----------R-EVYTN------------KWGKV---VLD-
+DLGAPIM-TRNYVYTQR---------------GI------------IIQEHPA-HFFGR-GVNGNIGAHFNV
+RPLD-----N-------LRHG-----IVR-GTKPHYD---
