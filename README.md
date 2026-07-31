@@ -20,8 +20,6 @@ Quick links for BECR class:
 
 [RNase A-like](https://kristiphammie.github.io/becr/#rnase-a-like)
 
-[Ntox49-like](https://kristiphammie.github.io/becr/#ntox49-like)
-
 [Barnase-like](https://kristiphammie.github.io/becr/#barnase-like)
 
 [BECR-like](https://kristiphammie.github.io/becr/#becr-like-like)
@@ -110,7 +108,14 @@ Quick links for BECR class:
 | Ntox50 | [View][Ntox50_gn] | [PF15542][Ntox50] | [A0AAF0CX04][Ntox50_molx] |
 | Ntox50.2 | [View][Ntox50.2_gn] | [This Resource][Ntox50.2] | [A0A2G6EE91][Ntox50.2_molx] |
 
-## Ntox49-like
+## Barnase-like
+
+| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
+|--------------|----------------|----------------|---------------------------------|
+| Barnase | [View][Barnase_gn] | [This Resource][Barnase] | [1B20][Barnase_molx] |
+| Tox-Ribonuclease | [View][Tox-Ribonuclease_gn] | [Nicastro et al., 2025][Tox-Ribonuclease] | [A0A744A5J7][Tox-Ribonuclease_molx] |
+
+## BECR-like
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
@@ -134,18 +139,6 @@ Quick links for BECR class:
 | STox_58 | [View][STox_58_gn] | [Nicastro et al., 2025][STox_58] | [A0A5X8N7M2][STox_58_molx] |
 | STox_59 | [View][STox_59_gn] | [Nicastro et al., 2025][STox_59] | [A0A6X8NAU9][STox_59_molx] |
 | YeeF | [View][YeeF_gn] | [This resource][YeeF_model] | [O31506][YeeF_molx] |
-
-## Barnase-like
-
-| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
-|--------------|----------------|----------------|---------------------------------|
-| Barnase | [View][Barnase_gn] | [This Resource][Barnase] | [1B20][Barnase_molx] |
-| Tox-Ribonuclease | [View][Tox-Ribonuclease_gn] | [Nicastro et al., 2025][Tox-Ribonuclease] | [A0A744A5J7][Tox-Ribonuclease_molx] |
-
-## BECR-like
-
-| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
-|--------------|----------------|----------------|---------------------------------|
 | STox_1 | [View][STox_1_gn] | [Nicastro et al., 2025][STox_1] | [FD01543133_03431][STox_1_molx] |
 | STox_3 | [View][STox_3_gn] | [Nicastro et al., 2025][STox_3] | [A0A3Z2V253][STox_3_molx] |
 | STox_4 | [View][STox_4_gn] | [Nicastro et al., 2025][STox_4] | [A0A3Y4H1N0][STox_4_molx] |
