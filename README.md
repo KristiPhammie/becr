@@ -159,7 +159,6 @@ Quick links for BECR class:
 | BECR-Tox2 | [Rotifer][BECR-Tox2_gn] WebFlaGs: [pdf][BECR-Tox2_pdf] [operon.tsv][BECR-Tox2_tsv] [outdescription.txt][BECR-Tox2.txt] | [This Resource][BECR-Tox2] | [A0A352X7W3][BECR-Tox2_molx] |
 | STox_37 | [Rotifer][STox_37_gn] | [Nicastro et al., 2025][STox_37_gian] [This Resource][STox_37] | [A0A1M6MZG2][STox_37_molx] |
 | PBECR5 | [Rotifer][PBECR5_gn] | [PF18814][PBECR5_model] | [A0A396QF16][PBECR5_molx] |
-| Ntox48 | [Rotifer][Ntox48_gn] | [Zhang et al., 2012][Ntox48] | [A0A0H3KAY5][Ntox48_molx] |
 | CdiA-CT ECL | [Rotifer][CdiA-CT_ECL_gn] | [PF14426][CdiA-CT_ECL_pfam] [This Resource][CdiA-CT_ECL_kristi] | [4NTQ][CdiA-CT_ECL_molx] |
 | Ntox18.st1 | [Rotifer][Ntox18.st1_gn] | [Nicastro et al., 2025][Ntox18.st1] | [A0A3Y4H1N0][Ntox18.st1_molx] |
 | Ntox18.st2 | [Rotifer][Ntox18.st2_gn] | [Nicastro et al., 2025][Ntox18.st2] | [A0A7T8FFU2][Ntox18.st2_molx] |
