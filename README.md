@@ -69,7 +69,7 @@ Quick links for BECR class:
 | ParE.2 | [View][ParE.2_gn] | [This resource][ParE.2] | [A0A0C1YHU8][ParE.2_molx] |
 | ParE.3 | [View][ParE.3_gn] | [This resource][ParE.3] | [A0A938YUV1][ParE.3_molx] |
 | ParE-like | [View][ParE-like_gn] | [PF15781][ParE-like_pfam] [This Resource][ParE-like_kristi] | [A0A0L6U2N9][ParE-like_molx] |
-| YoeB | [View][YoeB_gn] | [PF06769][YoeB_pfam] [This Resource][YoeB_kristi] | [2A6R][YoeB_molx] |
+| YoeB | [View][YoeB_gn] | [PF06769][https://github.com/KristiPhammie/becr/blob/main/html/YoeB.fa] (Raw .fa provided due to file size) [This Resource][YoeB_kristi] | [2A6R][YoeB_molx] |
 | YafO | [View][YafO_gn] | [PF13957][YafO] | [A0A3E0TU91][YafO_molx] |
 | YhaV | [View][YhaV_gn] | [PF11663][YhaV_pfam] [This Resource][YhaV_kristi] | [A0A1Y2R202][YhaV_molx] |
 | HigB | [View][HigB_gn] | [PF09907][HigB_pfam] [This Resource][HigB_kristi] | [B8F451][HigB_molx] |
