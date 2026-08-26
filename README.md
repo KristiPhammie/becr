@@ -61,7 +61,7 @@ Insert Rxiv link
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
-| RNase T2 | <div style="width:100px">WebFlaGs: [pdf][RNaseT2_pdf] [operon.tsv][RNaseT2_tsv] [outdesc.txt][RNaseT2_txt]</div> | <div style="width:150px">[PF00445][RNaseT2_model]</div> | <div style="width:100px">[2EA1][RNaseT2_molx]</div> |
+| <div style="width:50px">RNase T2</div> | <div style="width:100px">WebFlaGs: [pdf][RNaseT2_pdf] [operon.tsv][RNaseT2_tsv] [outdesc.txt][RNaseT2_txt]</div> | <div style="width:150px">[PF00445][RNaseT2_model]</div> | <div style="width:150px">[2EA1][RNaseT2_molx]</div> |
 
 ## EndoU-like
 
