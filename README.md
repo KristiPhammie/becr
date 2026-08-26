@@ -1,12 +1,12 @@
 ## Supplementary Material for BECR-fold Families
 
-<p style="text-align: justify;">This page provides supplemental information for all  BECR-fold proteins identified in our comprehensive classfication study on the BECR superfamily. Each table represents a BECR structural subclass with a protein family in each row. The columns include:</p>
+<p style="text-align: justify;">This page provides supplemental information for all  BECR-fold proteins identified in our comprehensive classfication study on the BECR superfamily. Each table represents a BECR structural group with a protein family in each row. The columns include:</p>
 
 Toxin Family: Name of toxin family
 
-Genome Context: Rotifer (PDF) or WebFlaGs collected gene neighborhoods (.pdf, outdesc.txt (description of the gene clusters), operon.tsv)
-Model: PFAM (if available), Citation of original source, or 'This Resource'
-mol*: Annotated representative structure
+Genome Context: [Rotifer](https://github.com/leepusp/rotifer.git) (PDF) or [WebFlaGs](https://server.atkinson-lab.com/webflags) collected gene neighborhoods (.pdf, outdesc.txt (description of the gene clusters), operon.tsv)
+Model: [PFAM](https://www.ebi.ac.uk/interpro/entry/pfam/#table) (if available), Citation of original source, or 'This Resource'
+[molstar](https://molstar.org/): Annotated representative structure
 
 [Colicin-like](https://kristiphammie.github.io/becr/#colicin-like)
 
