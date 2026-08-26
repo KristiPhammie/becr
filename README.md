@@ -31,7 +31,7 @@ Insert Rxiv link
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
-| <div style="width:150px">BECR-Tox1</div> | [View][BECR-Tox1_gn] | [This Resource][BECR-Tox1] | [A0A417CPW8][BECR-Tox1_molx] |
+| <div style="width:300px">BECR-Tox1</div> | [View][BECR-Tox1_gn] | [This Resource][BECR-Tox1] | [A0A417CPW8][BECR-Tox1_molx] |
 | BECR-Tox3 | [View][BECR-Tox3_gn] | [This Resource][BECR-Tox3] | [A0A3C1G575][BECR-Tox3_molx] |
 | BECR-Tox5 | WebFlaGs: [pdf][BECR-Tox5_pdf] [operon.tsv][BECR-Tox5_tsv] [outdesc.txt][BECR-Tox5_txt] | [This Resource][EndoU.2] | [A0A1V4H847][EndoU.2_molx] |
 | Colicin D | [View][ColicinD_gn] | [PF11429][ColicinD_model] | [1V74][ColicinD_molx] |
