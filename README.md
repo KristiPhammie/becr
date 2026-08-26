@@ -5,12 +5,8 @@ This page provides supplemental information for all  BECR-fold proteins identifi
 Toxin Family: Name of toxin family
 
 Genome Context: Rotifer (PDF) or WebFlaGs collected gene neighborhoods (.pdf, outdesc.txt (description of the gene clusters), operon.tsv)
-
 Model: PFAM (if available), Citation of original source, or 'This Resource'
-
-Molx: Annotated representative structure
-
-Quick links for BECR class:
+mol*: Annotated representative structure
 
 [Colicin-like](https://kristiphammie.github.io/becr/#colicin-like)
 
@@ -38,7 +34,7 @@ Quick links for BECR class:
 | Colicin D | [View][ColicinD_gn] | [PF11429][ColicinD_model] | [1V74][ColicinD_molx] |
 | ColicinD.2 | [View][ColicinD.2_gn] | [This Resource][ColicinD.2] | [A0A212J498][ColicinD.2_molx] |
 | Colicin E5 | [View][ColicinE5_gn] | [PF12106][ColicinE5_model] | [2DFX][ColicinE5_molx] |
-| CdiA-CT Kp342 | [View][CdiA-CT_Kp342_gn] | [This Resource][CdiA-CT_Kp342] | [6CP9][CdiA-CT_Kp342_molx] |
+| CdiA-CT<sup>Kp342</sup> | [View][CdiA-CT_Kp342_gn] | [This Resource][CdiA-CT_Kp342] | [6CP9][CdiA-CT_Kp342_molx] |
 | CdiA-CT EC3006 | [View][CdiA-CT_EC3006_gn] | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
 | CdiA-CT EC869 | [View][CdiA-CT_EC869_gn] | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
 | CdiA-CT NC101 | [View][CdiA-CT_NC101_gn] | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |
@@ -149,7 +145,6 @@ Quick links for BECR class:
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
-
 | RNase T2 | WebFlaGs: [pdf][RNaseT2_pdf] [operon.tsv][RNaseT2_tsv] [outdesc.txt][RNaseT2_txt] | [PF00445][RNaseT2_model] | [2EA1][RNaseT2_molx] |
 
 ## Other BECRs
