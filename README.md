@@ -1,28 +1,32 @@
-## Supplementary Material for BECR-fold Families
+# Supplementary Material for BECR-fold Families
 
-<p style="text-align: justify;">This page provides supplemental information for all  BECR-fold proteins identified in our comprehensive classfication study on the BECR superfamily. Each table represents a BECR structural group with a protein family in each row. The columns include:</p>
+## 📰 Citation
 
-Toxin Family: Name of toxin family
+Insert Rxiv link
 
-Genome Context: [Rotifer](https://github.com/leepusp/rotifer.git) (PDF) or [WebFlaGs](https://server.atkinson-lab.com/webflags) collected gene neighborhoods (.pdf, outdesc.txt (description of the gene clusters), operon.tsv)
-Model: [PFAM](https://www.ebi.ac.uk/interpro/entry/pfam/#table) (if available), Citation of original source, or 'This Resource'
-[molstar](https://molstar.org/): Annotated representative structure
+---
 
-[Colicin-like](https://kristiphammie.github.io/becr/#colicin-like)
+## 🔎 How to Use This Resource <a id="how-to-use"></a>
 
-[RelE-like](https://kristiphammie.github.io/becr/#rele-like)
+<p style="text-align: justify;">This page provides supplemental information for all  BECR-fold proteins identified in our comprehensive classfication study on the BECR superfamily. Each table represents a BECR structural group with a protein family in each row.</p>
 
-[EndoU-like](https://kristiphammie.github.io/becr/#endou-like)
+-[Colicin-like](https://kristiphammie.github.io/becr/#colicin-like)
+-[RNase T2-like](https://kristiphammie.github.io/becr/#rnase-t2-like)
+-[EndoU-like](https://kristiphammie.github.io/becr/#endou-like)
+-[RNase A-like](https://kristiphammie.github.io/becr/#rnase-a-like)
+-[RelE-like](https://kristiphammie.github.io/becr/#rele-like)
+-[Barnase-like](https://kristiphammie.github.io/becr/#barnase-like)
+-[BECR-like](https://kristiphammie.github.io/becr/#becr-like-like)
+-[Other BECRs](https://kristiphammie.github.io/becr/#other-becrs)
 
-[RNase A-like](https://kristiphammie.github.io/becr/#rnase-a-like)
+Each table contains the following information for each protein family:
 
-[Barnase-like](https://kristiphammie.github.io/becr/#barnase-like)
+- **Toxin Family**: Name of toxin family.
+- **Genome Context**: Gene neighborhoods collected with either[Rotifer](https://github.com/leepusp/rotifer.git) (PDF) or [WebFlaGs](https://server.atkinson-lab.com/webflags)
+- **Model**: [PFAM](https://www.ebi.ac.uk/interpro/entry/pfam/#table) (if available), Citation of original source, or 'This Resource'
+- **Molstar**[Mol*](https://molstar.org/): Annotated representative structure
 
-[BECR-like](https://kristiphammie.github.io/becr/#becr-like-like)
-
-[RNase T2-like](https://kristiphammie.github.io/becr/#rnase-t2-like)
-
-[Other BECRs](https://kristiphammie.github.io/becr/#other-becrs)
+---
 
 ## Colicin-like
 
