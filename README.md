@@ -6,7 +6,7 @@ Insert Rxiv link
 
 ---
 
-## 🔎 How to Use This Resource <a id="how-to-use"></a>
+## 🔎 Contents of This Resource <a id="how-to-use"></a>
 
 <p style="text-align: justify;">This page provides supplemental information for all  BECR-fold proteins identified in our comprehensive classfication study on the BECR superfamily. Each table represents a BECR structural group with a protein family in each row.</p>
 
@@ -19,12 +19,11 @@ Insert Rxiv link
 - [BECR-like](https://kristiphammie.github.io/becr/#becr-like-like)
 - [Other BECRs](https://kristiphammie.github.io/becr/#other-becrs)
 
-Each table contains the following information for each protein family:
+<p style="font-size: 0.75;">Each table contains the following information for each protein family:
 
-- **Toxin Family**: Name of toxin family.
-- **Genome Context**: Gene neighborhoods collected with either[Rotifer](https://github.com/leepusp/rotifer.git) (PDF) or [WebFlaGs](https://server.atkinson-lab.com/webflags)
+- **Genome Context**: Gene neighborhoods collected with either [Rotifer](https://github.com/leepusp/rotifer.git) (PDF) or [WebFlaGs](https://server.atkinson-lab.com/webflags)
 - **Model**: [PFAM](https://www.ebi.ac.uk/interpro/entry/pfam/#table) (if available), Citation of original source, or 'This Resource'
-- **Molstar**[Mol*](https://molstar.org/): Annotated representative structure
+- **Molstar**: [Mol*](https://molstar.org/) Annotated representative structure</p>
 
 ---
 
