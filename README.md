@@ -21,9 +21,9 @@ Insert Rxiv link
 
 <p style="font-size: 0.75;">Each table contains the following information for each protein family:
 
-- **Genome Context**: Gene neighborhoods collected with either [Rotifer](https://github.com/leepusp/rotifer.git) (PDF) or [WebFlaGs](https://server.atkinson-lab.com/webflags)
-- **Model**: [PFAM](https://www.ebi.ac.uk/interpro/entry/pfam/#table) (if available), Citation of original source, or 'This Resource'
-- **Molstar**: [Mol*](https://molstar.org/) Annotated representative structure</p>
+- **Genome Context**: Gene neighborhoods collected with either [Rotifer](https://github.com/leepusp/rotifer.git) or [WebFlaGs](https://server.atkinson-lab.com/webflags)
+- **Alignment**: The source of the multiple sequence alignments used to construct a profile HMM used in this study. [PFAM](https://www.ebi.ac.uk/interpro/entry/pfam/#table) (if available), Citation of original publication, or from our work
+- **Molstar**: [Mol*](https://molstar.org/) annotated representative structure </p>
 
 ---
 
@@ -31,7 +31,7 @@ Insert Rxiv link
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
-| BECR-Tox1 | [View][BECR-Tox1_gn] | [This Resource][BECR-Tox1] | [A0A417CPW8][BECR-Tox1_molx] |
+| <div style="width:150px">BECR-Tox1</div> | [View][BECR-Tox1_gn] | [This Resource][BECR-Tox1] | [A0A417CPW8][BECR-Tox1_molx] |
 | BECR-Tox3 | [View][BECR-Tox3_gn] | [This Resource][BECR-Tox3] | [A0A3C1G575][BECR-Tox3_molx] |
 | BECR-Tox5 | WebFlaGs: [pdf][BECR-Tox5_pdf] [operon.tsv][BECR-Tox5_tsv] [outdesc.txt][BECR-Tox5_txt] | [This Resource][EndoU.2] | [A0A1V4H847][EndoU.2_molx] |
 | Colicin D | [View][ColicinD_gn] | [PF11429][ColicinD_model] | [1V74][ColicinD_molx] |
