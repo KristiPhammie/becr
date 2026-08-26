@@ -1,6 +1,6 @@
 ## Supplementary Material for BECR-fold Families
 
-This page provides supplemental information for all  BECR-fold proteins identified in our comprehensive classfication study on the BECR superfamily. Each table represents a BECR structural subclass with a protein family in each row. The columns include:
+<p style="text-align: justify;">This page provides supplemental information for all  BECR-fold proteins identified in our comprehensive classfication study on the BECR superfamily. Each table represents a BECR structural subclass with a protein family in each row. The columns include:</p>
 
 Toxin Family: Name of toxin family
 
@@ -32,13 +32,13 @@ mol*: Annotated representative structure
 | BECR-Tox3 | [View][BECR-Tox3_gn] | [This Resource][BECR-Tox3] | [A0A3C1G575][BECR-Tox3_molx] |
 | BECR-Tox5 | WebFlaGs: [pdf][BECR-Tox5_pdf] [operon.tsv][BECR-Tox5_tsv] [outdesc.txt][BECR-Tox5_txt] | [This Resource][EndoU.2] | [A0A1V4H847][EndoU.2_molx] |
 | Colicin D | [View][ColicinD_gn] | [PF11429][ColicinD_model] | [1V74][ColicinD_molx] |
-| ColicinD.2 | [View][ColicinD.2_gn] | [This Resource][ColicinD.2] | [A0A212J498][ColicinD.2_molx] |
+| Colicin D.2 | [View][ColicinD.2_gn] | [This Resource][ColicinD.2] | [A0A212J498][ColicinD.2_molx] |
 | Colicin E5 | [View][ColicinE5_gn] | [PF12106][ColicinE5_model] | [2DFX][ColicinE5_molx] |
 | CdiA-CT<sup>Kp342</sup> | [View][CdiA-CT_Kp342_gn] | [This Resource][CdiA-CT_Kp342] | [6CP9][CdiA-CT_Kp342_molx] |
-| CdiA-CT EC3006 | [View][CdiA-CT_EC3006_gn] | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
-| CdiA-CT EC869 | [View][CdiA-CT_EC869_gn] | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
-| CdiA-CT NC101 | [View][CdiA-CT_NC101_gn] | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |
-| CdiA-CT 96.154 | [View][CdiA-CT_96.154_gn] | [PF14076][CdiA-CT_96.154_pfam] [This Resource][CdiA-CT_96.154_kristi] | [D9SFT1][CdiA-CT_96.154_molx] |
+| CdiA-CT<sup>EC3006</sup> | [View][CdiA-CT_EC3006_gn] | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
+| CdiA-CT<sup>EC869</sup> | [View][CdiA-CT_EC869_gn] | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
+| CdiA-CT<sup>NC101</sup> | [View][CdiA-CT_NC101_gn] | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |
+| CdiA-CT <sup>96.154</sup> | [View][CdiA-CT_96.154_gn] | [PF14076][CdiA-CT_96.154_pfam] [This Resource][CdiA-CT_96.154_kristi] | [D9SFT1][CdiA-CT_96.154_molx] |
 | MuF-like | [View][MuF-like_gn] | [PF18819][MuF-like_pfam] [This Resource][MuF-like_kristi] | [A0A096XES0][MuF-like_molx] |
 | Ntox35 | [View][Ntox35_gn] | [PF15534][Ntox35] | [A0A1H3F8X0][Ntox35_molx] |
 | Ntox35.2 | [View][Ntox35.2_gn] | [This Resource][Ntox35.2] | [A0A841I6D6][Ntox35.2_molx] |
@@ -59,8 +59,8 @@ mol*: Annotated representative structure
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
-| RelE (Eschericia coli) | [View][RelE_E.coli_gn] | [This Resource][RelE_E.coli] | [4FXI][RelE_E.coli_molx] |
-| RelE (Methanococcus jannaschii) | [View][RelE_M.jannaschii_gn] | [PF06296][RelE_M.jannaschii] | [3BPQ][RelE_M.jannaschii_pdb_molx] [A0A917YVE8][RelE_M.jannaschii_afdb_molx] |
+| RelE (*Eschericia coli*) | [View][RelE_E.coli_gn] | [This Resource][RelE_E.coli] | [4FXI][RelE_E.coli_molx] |
+| RelE (*Methanococcus jannaschii*) | [View][RelE_M.jannaschii_gn] | [PF06296][RelE_M.jannaschii] | [3BPQ][RelE_M.jannaschii_pdb_molx] [A0A917YVE8][RelE_M.jannaschii_afdb_molx] |
 | ParE | [View][ParE_gn] | [PF05016][ParE_pfam] [This Resource][ParE_kristi] | [A0A4V1BZU9][ParE_molx] |
 | ParE.2 | [View][ParE.2_gn] | [This resource][ParE.2] | [A0A0C1YHU8][ParE.2_molx] |
 | ParE.3 | [View][ParE.3_gn] | [This resource][ParE.3] | [A0A938YUV1][ParE.3_molx] |
@@ -98,7 +98,7 @@ mol*: Annotated representative structure
 |--------------|----------------|----------------|---------------------------------|
 | RNase A | WebFlaGs: [pdf][RNaseA_pdf] [operon.tsv][RNaseA_tsv] [outdesc.txt][RNaseA_txt] | [PF00074][RNaseA_model] | [4WYN][RNaseA_molx] |
 | RNase A.2 | WebFlaGs: [pdf][RNaseA.2_pdf] [operon.tsv][RNaseA.2_tsv] [outdesc.txt][RNaseA.2_txt] | [This Resource][RNaseA.2] | [A0A3B1IEH8][RNaseA.2_molx] |
-| CdiA-CT Ykris | [View][CdiA-CTYkris_gn] | [PF18431][CdiA-CT_Ykris] | [5E3E][CdiA-CT_Ykris_molx] |
+| CdiA-CT<sup>Ykris</sup> | [View][CdiA-CTYkris_gn] | [PF18431][CdiA-CT_Ykris] | [5E3E][CdiA-CT_Ykris_molx] |
 | Ntox41 | [View][Ntox41_gn] | [Zhang et al., 2012][Ntox41] | [A0A0E0USU5][Ntox41_molx] |
 | Ntox41.2 | WebFlaGs: [pdf][Ntox41.2_pdf] [operon.tsv][Ntox41.2_tsv] [outdesc.txt][Ntox41.2_txt] | [This Resource][Ntox41.2] | [A0A1Q4EYU6][Ntox41.2_molx] |
 | Ntox50 | [View][Ntox50_gn] | [PF15542][Ntox50] | [A0AAF0CX04][Ntox50_molx] |
