@@ -119,6 +119,10 @@ Insert Rxiv link
 |--------------|----------------|----------------|---------------------------------|
 | Barnase | [View][Barnase_gn] | [This Resource][Barnase] | [1B20][Barnase_molx] |
 | Tox-Ribonuclease | [View][Tox-Ribonuclease_gn] | [Nicastro et al., 2025][Tox-Ribonuclease] | [A0A744A5J7][Tox-Ribonuclease_molx] |
+| RNase T1 | [Rotifer][RNaseT1_gn] | [This Resource][RNaseT1_model] | [1B2M][RNaseT1_molx] |
+| RNaseT1.2 | WebFlaGs: [pdf][RNaseT1.2_pdf] [operon.tsv][RNaseT1.2_tsv] [outdescription.txt][RNaseT1.2_txt] | [This Resource][RNaseT1.2] | [A0A0B1NYA6][RNaseT1.2_molx] |
+| RNaseT1.3 | WebFlaGs: [pdf][RNaseT1.3_pdf] [operon.tsv][RNaseT1.3_tsv] [outdescription.txt][RNaseT1.3_txt] | [This Resource][RNaseT1.3] | [A0A9W9CSS5][RNaseT1.3_molx] |
+| Sarcin | [View][Sarcin_gn] | [This Resource][Sarcin_model] [Full This Resource][Sarcin_full_model] | [1DE3][Sarcin_molx] |
 
 ## BECR-like
 
@@ -160,10 +164,6 @@ Insert Rxiv link
 | CdiA-CT ECL | [Rotifer][CdiA-CT_ECL_gn] | [PF14426][CdiA-CT_ECL_pfam] [This Resource][CdiA-CT_ECL_kristi] | [4NTQ][CdiA-CT_ECL_molx] |
 | Ntox18.st1 | [Rotifer][Ntox18.st1_gn] | [Nicastro et al., 2025][Ntox18.st1] | [A0A3Y4H1N0][Ntox18.st1_molx] |
 | Ntox18.st2 | [Rotifer][Ntox18.st2_gn] | [Nicastro et al., 2025][Ntox18.st2] | [A0A7T8FFU2][Ntox18.st2_molx] |
-| RNase T1 | [Rotifer][RNaseT1_gn] | [This Resource][RNaseT1_model] | [1B2M][RNaseT1_molx] |
-| RNaseT1.2 | WebFlaGs: [pdf][RNaseT1.2_pdf] [operon.tsv][RNaseT1.2_tsv] [outdescription.txt][RNaseT1.2_txt] | [This Resource][RNaseT1.2] | [A0A0B1NYA6][RNaseT1.2_molx] |
-| RNaseT1.3 | WebFlaGs: [pdf][RNaseT1.3_pdf] [operon.tsv][RNaseT1.3_tsv] [outdescription.txt][RNaseT1.3_txt] | [This Resource][RNaseT1.3] | [A0A9W9CSS5][RNaseT1.3_molx] |
-| Sarcin | [View][Sarcin_gn] | [This Resource][Sarcin_model] [Full This Resource][Sarcin_full_model] | [1DE3][Sarcin_molx] |
 
 ## Undetermined
 
