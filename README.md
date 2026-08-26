@@ -119,8 +119,8 @@ Quick links for BECR class:
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
-| BECR-Tox6 | [View][EndoVII_gn] | [PF15657][EndoVII_pfam] [This Resource][EndoVII_kristi] | [U2R0G2][PF15657_molx] |
-| BECR-Tox6.2 | [View][EndoVII.2_gn] | [This Resource][EndoVII.2] | [A0A1N7BT64][EndoVII.2_molx] |
+| BECR-like-Tox1 | [View][EndoVII_gn] | [PF15657][EndoVII_pfam] [This Resource][EndoVII_kristi] | [U2R0G2][PF15657_molx] |
+| BECR-like-Tox1.2 | [View][EndoVII.2_gn] | [This Resource][EndoVII.2] | [A0A1N7BT64][EndoVII.2_molx] |
 | Ntox7 | [View][Ntox7_gn] | [Nicastro et al., 2025][Ntox7] | [A0A5J5FSA8][Ntox7_molx] |
 | Ntox7.2 | [View][Ntox7.2_gn] | [This Resource][Ntox7.2] | [A0A369YFT7][Ntox7.2_molx] |
 | Ntox7.3 | WebFlaGs: [pdf][Ntox7.3_pdf] [operon.tsv][Ntox7.3_tsv] [outdesc.txt][Ntox7.3_txt] | [This Resource][Ntox7.3] | [A0A7Y4YHE2][Ntox7.3_molx] |
