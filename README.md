@@ -50,8 +50,8 @@ Each table contains the following information for each protein family:
 | PBECR3.2 | [View][PBECR3.2_gn] | [This Resource][PBECR3.2] | [A0A4U8UI43][PBECR3.2_molx] |
 | PBECR4 | [View][PBECR4_gn] | [PF18813][PBECR4_model] | [A0A417QTL2][PBECR4_molx] |
 | PBECR4.2 | [View][PBECR4.2_gn] | [This Resource][PBECR4.2] | [A0A2V2DIW2][PBECR4.2_molx] |
-| Ntox19 | [View][Ntox19_gn] | [Nicastro et al., 2025][Ntox19] | [A0A5E7QDQ0][Ntox19_molx] |
-| Ntox49 | [View][Ntox49_gn] | [Nicastro et al., 2025][Ntox49] | [A0A7H0VXI5][Ntox49_molx] |
+| Ntox19 | [View][Ntox19_gn] | [Nicastro et al., 2026][Ntox19] | [A0A5E7QDQ0][Ntox19_molx] |
+| Ntox49 | [View][Ntox49_gn] | [Nicastro et al., 2026][Ntox49] | [A0A7H0VXI5][Ntox49_molx] |
 | Ntox49.2 | [View][DUF4258.2_gn] | [This Resource][DUF4258.2] | [A0A838VH86][DUF4258.2_molx] |
 | Ntox49.3 | WebFlaGs: [pdf][DUF4258.3_pdf] [operon.tsv][DUF4258.3_tsv] [outdesc.txt][DUF4258.3_txt] | [This Resource][DUF4258.3] | [A0A1F7XZ82][DUF4258.3_molx] |
 | Ntox49.4 | WebFlaGs: [pdf][DUF4258.4_pdf] [operon.tsv][DUF4258.4_tsv] [outdesc.txt][DUF4258.4_txt] | [This Resource][DUF4258.4] | [D2UA17][DUF4258.4_molx] |
@@ -61,7 +61,7 @@ Each table contains the following information for each protein family:
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
-| <div style="width:50px">RNase T2</div> | <div style="width:100px">WebFlaGs: [pdf][RNaseT2_pdf] [operon.tsv][RNaseT2_tsv] [outdesc.txt][RNaseT2_txt]</div> | <div style="width:150px">[PF00445][RNaseT2_model]</div> | <div style="width:150px">[2EA1][RNaseT2_molx]</div> |
+| RNase T2 | WebFlaGs: [pdf][RNaseT2_pdf] [operon.tsv][RNaseT2_tsv] [outdesc.txt][RNaseT2_txt] | [PF00445][RNaseT2_model] | [2EA1][RNaseT2_molx] |
 
 ## EndoU-like
 
@@ -73,7 +73,7 @@ Each table contains the following information for each protein family:
 | EndoU.3 | WebFlaGs: [pdf][EndoU.3_pdf] [operon.tsv][EndoU.3_tsv] [outdesc.txt][EndoU.3_txt] | [This Resource][EndoU.3] | [A0A1V2YJU1][EndoU.3_molx] |
 | EndoU.4 | WebFlaGs: [pdf][EndoU.4_pdf] [operon.tsv][EndoU.4_tsv] [outdesc.txt][EndoU.4_txt] | [This Resource][EndoU.4] | [UPI002E2B26D7][EndoU.4_molx] |
 | BC0920 | [View][BC0920_gn] | [This Resource][BC0920] | [Q813X6][BC0920_molx] |
-| STox_60 | [View][STox_60_gn] | [Nicastro et al., 2025][STox_60] | [WP_029789863.1][STox_60_molx] |
+| STox_60 | [View][STox_60_gn] | [Nicastro et al., 2026][STox_60] | [WP_029789863.1][STox_60_molx] |
 
 ## RNase A-like
 
@@ -118,7 +118,7 @@ Each table contains the following information for each protein family:
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
 | Barnase | [View][Barnase_gn] | [This Resource][Barnase] | [1B20][Barnase_molx] |
-| Tox-Ribonuclease | [View][Tox-Ribonuclease_gn] | [Nicastro et al., 2025][Tox-Ribonuclease] | [A0A744A5J7][Tox-Ribonuclease_molx] |
+| Tox-Ribonuclease | [View][Tox-Ribonuclease_gn] | [Nicastro et al., 2026][Tox-Ribonuclease] | [A0A744A5J7][Tox-Ribonuclease_molx] |
 | RNase T1 | [Rotifer][RNaseT1_gn] | [This Resource][RNaseT1_model] | [1B2M][RNaseT1_molx] |
 | RNaseT1.2 | WebFlaGs: [pdf][RNaseT1.2_pdf] [operon.tsv][RNaseT1.2_tsv] [outdescription.txt][RNaseT1.2_txt] | [This Resource][RNaseT1.2] | [A0A0B1NYA6][RNaseT1.2_molx] |
 | RNaseT1.3 | WebFlaGs: [pdf][RNaseT1.3_pdf] [operon.tsv][RNaseT1.3_tsv] [outdescription.txt][RNaseT1.3_txt] | [This Resource][RNaseT1.3] | [A0A9W9CSS5][RNaseT1.3_molx] |
@@ -130,40 +130,40 @@ Each table contains the following information for each protein family:
 |--------------|----------------|----------------|---------------------------------|
 | BECR-like-Tox1 | [View][EndoVII_gn] | [PF15657][EndoVII_pfam] [This Resource][EndoVII_kristi] | [U2R0G2][PF15657_molx] |
 | BECR-like-Tox1.2 | [View][EndoVII.2_gn] | [This Resource][EndoVII.2] | [A0A1N7BT64][EndoVII.2_molx] |
-| Ntox7 | [View][Ntox7_gn] | [Nicastro et al., 2025][Ntox7] | [A0A5J5FSA8][Ntox7_molx] |
+| Ntox7 | [View][Ntox7_gn] | [Nicastro et al., 2026][Ntox7] | [A0A5J5FSA8][Ntox7_molx] |
 | Ntox7.2 | [View][Ntox7.2_gn] | [This Resource][Ntox7.2] | [A0A369YFT7][Ntox7.2_molx] |
 | Ntox7.3 | WebFlaGs: [pdf][Ntox7.3_pdf] [operon.tsv][Ntox7.3_tsv] [outdesc.txt][Ntox7.3_txt] | [This Resource][Ntox7.3] | [A0A7Y4YHE2][Ntox7.3_molx] |
 | Ntox36 | [View][Ntox36_gn] | [Zhang et al., 2012][Ntox36_zhang] [This Resource][Ntox36] | [Q7NP45][Ntox36_molx] |
-| Ntox47.st1 | [View][Ntox47.st1_gn] | [Nicastro et al., 2025][Ntox47.st1.gian] [This Resource][Ntox47.st1.kristi] | [A0A740SFH9][Ntox47.st1_molx] |
-| Ntox47.st2 | [View][Ntox47.st2_gn] | [Nicastro et al., 2025][Ntox47.st2.gian] | [A0A747XMS3][Ntox47.st2_molx] |
-| Stox_2 | [View][STox_2_gn] | [Nicastro et al., 2025][Stox_2] | [WP_212722943.1][Stox_2_molx] |
-| STox_6 | [View][STox_6_gn] | [Nicastro et al., 2025][STox_6] | [A0A748UZW8][STox_6_molx] |
-| STox_11 | [View][STox_11_gn] | [Nicastro et al., 2025][STox_11] [This Resource][STox_11_kristi] | [A0A4V1G7W5][STox_11_molx] |
+| Ntox47.st1 | [View][Ntox47.st1_gn] | [Nicastro et al., 2026][Ntox47.st1.gian] [This Resource][Ntox47.st1.kristi] | [A0A740SFH9][Ntox47.st1_molx] |
+| Ntox47.st2 | [View][Ntox47.st2_gn] | [Nicastro et al., 2026][Ntox47.st2.gian] | [A0A747XMS3][Ntox47.st2_molx] |
+| Stox_2 | [View][STox_2_gn] | [Nicastro et al., 2026][Stox_2] | [WP_212722943.1][Stox_2_molx] |
+| STox_6 | [View][STox_6_gn] | [Nicastro et al., 2026][STox_6] | [A0A748UZW8][STox_6_molx] |
+| STox_11 | [View][STox_11_gn] | [Nicastro et al., 2026][STox_11] [This Resource][STox_11_kristi] | [A0A4V1G7W5][STox_11_molx] |
 | STox_11.2 | [View][STox_11.2_gn] | [This Resource][STox_11.2] | [A0A7X0PHU6][STox_11.2_molx] |
 | STox_11.3 | [View][STox_11.3_gn] | [This Resource][STox_11.3] | [A0A939KTB7][STox_11.3_molx] |
 | STox_32 | [View][STox_32_gn] | [This Resource][STox_32_kristi] | [UPI00217D55C6][STox_32_molx] |
-| STox_39 | [View][STox_39_gn] | [Nicastro et al., 2025][STox_39] [This Resource][STox_39_kristi] | [A0A5T2NHZ2][STox_39_molx] |
+| STox_39 | [View][STox_39_gn] | [Nicastro et al., 2026][STox_39] [This Resource][STox_39_kristi] | [A0A5T2NHZ2][STox_39_molx] |
 | STox_39.2 | [View][STox_39.2_gn] | [This Resource][STox_39.2] | [A0A937AZC2][STox_39.2_molx] |
-| STox_57 | [View][STox_57_gn] | [Nicastro et al., 2025][STox_57] | [A0A3S4HEL1][STox_57_molx] |
-| STox_58 | [View][STox_58_gn] | [Nicastro et al., 2025][STox_58] | [A0A5X8N7M2][STox_58_molx] |
-| STox_59 | [View][STox_59_gn] | [Nicastro et al., 2025][STox_59] | [A0A6X8NAU9][STox_59_molx] |
+| STox_57 | [View][STox_57_gn] | [Nicastro et al., 2026][STox_57] | [A0A3S4HEL1][STox_57_molx] |
+| STox_58 | [View][STox_58_gn] | [Nicastro et al., 2026][STox_58] | [A0A5X8N7M2][STox_58_molx] |
+| STox_59 | [View][STox_59_gn] | [Nicastro et al., 2026][STox_59] | [A0A6X8NAU9][STox_59_molx] |
 | YeeF | [View][YeeF_gn] | [This resource][YeeF_model] | [O31506][YeeF_molx] |
-| STox_1 | [View][STox_1_gn] | [Nicastro et al., 2025][STox_1] | [FD01543133_03431][STox_1_molx] |
-| STox_3 | [View][STox_3_gn] | [Nicastro et al., 2025][STox_3] | [A0A3Z2V253][STox_3_molx] |
-| STox_4 | [View][STox_4_gn] | [Nicastro et al., 2025][STox_4] | [A0A3Y4H1N0][STox_4_molx] |
+| STox_1 | [View][STox_1_gn] | [Nicastro et al., 2026][STox_1] | [FD01543133_03431][STox_1_molx] |
+| STox_3 | [View][STox_3_gn] | [Nicastro et al., 2026][STox_3] | [A0A3Z2V253][STox_3_molx] |
+| STox_4 | [View][STox_4_gn] | [Nicastro et al., 2026][STox_4] | [A0A3Y4H1N0][STox_4_molx] |
 | STox_4.2 | [View][STox_4.2_gn] | [This Resource][STox_4.2] | [A0A7V8VAQ0][STox_4.2_molx] |
-| STox_55 | [View][STox_55_gn] | [Nicastro et al., 2025][STox_55] | [WP_117405990.1][STox_55_molx] |
+| STox_55 | [View][STox_55_gn] | [Nicastro et al., 2026][STox_55] | [WP_117405990.1][STox_55_molx] |
 
 ## Other BECRs
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
 | BECR-Tox2 | [Rotifer][BECR-Tox2_gn] WebFlaGs: [pdf][BECR-Tox2_pdf] [operon.tsv][BECR-Tox2_tsv] [outdescription.txt][BECR-Tox2.txt] | [This Resource][BECR-Tox2] | [A0A352X7W3][BECR-Tox2_molx] |
-| STox_37 | [Rotifer][STox_37_gn] | [Nicastro et al., 2025][STox_37_gian] [This Resource][STox_37] | [A0A1M6MZG2][STox_37_molx] |
+| STox_37 | [Rotifer][STox_37_gn] | [Nicastro et al., 2026][STox_37_gian] [This Resource][STox_37] | [A0A1M6MZG2][STox_37_molx] |
 | PBECR5 | [Rotifer][PBECR5_gn] | [PF18814][PBECR5_model] | [A0A396QF16][PBECR5_molx] |
 | CdiA-CT ECL | [Rotifer][CdiA-CT_ECL_gn] | [PF14426][CdiA-CT_ECL_pfam] [This Resource][CdiA-CT_ECL_kristi] | [4NTQ][CdiA-CT_ECL_molx] |
-| Ntox18.st1 | [Rotifer][Ntox18.st1_gn] | [Nicastro et al., 2025][Ntox18.st1] | [A0A3Y4H1N0][Ntox18.st1_molx] |
-| Ntox18.st2 | [Rotifer][Ntox18.st2_gn] | [Nicastro et al., 2025][Ntox18.st2] | [A0A7T8FFU2][Ntox18.st2_molx] |
+| Ntox18.st1 | [Rotifer][Ntox18.st1_gn] | [Nicastro et al., 2026][Ntox18.st1] | [A0A3Y4H1N0][Ntox18.st1_molx] |
+| Ntox18.st2 | [Rotifer][Ntox18.st2_gn] | [Nicastro et al., 2026][Ntox18.st2] | [A0A7T8FFU2][Ntox18.st2_molx] |
 
 ## Undetermined
 
