@@ -19,11 +19,11 @@ Insert Rxiv link
 - [BECR-like](https://kristiphammie.github.io/becr/#becr-like-like)
 - [Other BECRs](https://kristiphammie.github.io/becr/#other-becrs)
 
-<p style="font-size: 0.75;">Each table contains the following information for each protein family:
+<p style="font-size: 0.50;">Each table contains the following information for each protein family:</p>
 
-- **Genome Context**: Gene neighborhoods collected with either [Rotifer](https://github.com/leepusp/rotifer.git) or [WebFlaGs](https://server.atkinson-lab.com/webflags)
+- <p style="font-size: 0.50;">**Genome Context**: Gene neighborhoods collected with either [Rotifer](https://github.com/leepusp/rotifer.git) or [WebFlaGs](https://server.atkinson-lab.com/webflags)</p>
 - **Alignment**: The source of the multiple sequence alignments used to construct a profile HMM used in this study. [PFAM](https://www.ebi.ac.uk/interpro/entry/pfam/#table) (if available), Citation of original publication, or from our work
-- **Molstar**: [Mol*](https://molstar.org/) annotated representative structure </p>
+- **Molstar**: [Mol*](https://molstar.org/) annotated representative structure
 
 ---
 
@@ -31,7 +31,7 @@ Insert Rxiv link
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
-| <span style="display:inlind-block;width:100px">BECR-Tox1</span> | [View][BECR-Tox1_gn] | <div style="width:150px">[This Resource][BECR-Tox1]</div> | <div style="width:150px">[A0A417CPW8][BECR-Tox1_molx]</div> |
+| <span style="display:inlind-block;width:25px">BECR-Tox1</span> | [View][BECR-Tox1_gn] | <span style="display:inlind-block;width:100px">[This Resource][BECR-Tox1]</span> | <div style="width:100px">[A0A417CPW8][BECR-Tox1_molx]</div> |
 | BECR-Tox3 | [View][BECR-Tox3_gn] | [This Resource][BECR-Tox3] | [A0A3C1G575][BECR-Tox3_molx] |
 | BECR-Tox5 | WebFlaGs: [pdf][BECR-Tox5_pdf] [operon.tsv][BECR-Tox5_tsv] [outdesc.txt][BECR-Tox5_txt] | [This Resource][EndoU.2] | [A0A1V4H847][EndoU.2_molx] |
 | Colicin D | [View][ColicinD_gn] | [PF11429][ColicinD_model] | [1V74][ColicinD_molx] |
