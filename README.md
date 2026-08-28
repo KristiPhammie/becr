@@ -31,31 +31,31 @@ Each table contains the following information for each protein family:
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
-| <span style="display:inlind-block;width:25px">BECR-Tox1 this is working</span> | [View][BECR-Tox1_gn] | <span style="display:inlind-block;width:100px">[This Resource][BECR-Tox1]</span> | <div style="width:100px">[A0A417CPW8][BECR-Tox1_molx]</div> |
-| BECR-Tox3 | [View][BECR-Tox3_gn] | [This Resource][BECR-Tox3] | [A0A3C1G575][BECR-Tox3_molx] |
+| <span style="display:inlind-block;width:25px">BECR-Tox1</span> | [Rotifer][BECR-Tox1_gn] | <span style="display:inlind-block;width:100px">[This Resource][BECR-Tox1]</span> | [A0A417CPW8][BECR-Tox1_molx] |
+| BECR-Tox3 | [Rotifer][BECR-Tox3_gn] | [This Resource][BECR-Tox3] | [A0A3C1G575][BECR-Tox3_molx] |
 | BECR-Tox5 | WebFlaGs: [pdf][BECR-Tox5_pdf] [operon.tsv][BECR-Tox5_tsv] [outdesc.txt][BECR-Tox5_txt] | [This Resource][EndoU.2] | [A0A1V4H847][EndoU.2_molx] |
-| Colicin D | [View][ColicinD_gn] | [PF11429][ColicinD_model] | [1V74][ColicinD_molx] |
-| Colicin D.2 | [View][ColicinD.2_gn] | [This Resource][ColicinD.2] | [A0A212J498][ColicinD.2_molx] |
-| Colicin E5 | [View][ColicinE5_gn] | [PF12106][ColicinE5_model] | [2DFX][ColicinE5_molx] |
-| CdiA-CT<sup>Kp342</sup> | [View][CdiA-CT_Kp342_gn] | [This Resource][CdiA-CT_Kp342] | [6CP9][CdiA-CT_Kp342_molx] |
-| CdiA-CT<sup>EC3006</sup> | [View][CdiA-CT_EC3006_gn] | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
-| CdiA-CT<sup>EC869</sup> | [View][CdiA-CT_EC869_gn] | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
-| CdiA-CT<sup>NC101</sup> | [View][CdiA-CT_NC101_gn] | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |
-| CdiA-CT <sup>96.154</sup> | [View][CdiA-CT_96.154_gn] | [PF14076][CdiA-CT_96.154_pfam] [This Resource][CdiA-CT_96.154_kristi] | [D9SFT1][CdiA-CT_96.154_molx] |
-| MuF-like | [View][MuF-like_gn] | [PF18819][MuF-like_pfam] [This Resource][MuF-like_kristi] | [A0A096XES0][MuF-like_molx] |
-| Ntox35 | [View][Ntox35_gn] | [PF15534][Ntox35] | [A0A1H3F8X0][Ntox35_molx] |
-| Ntox35.2 | [View][Ntox35.2_gn] | [This Resource][Ntox35.2] | [A0A841I6D6][Ntox35.2_molx] |
-| PBECR1 | [View][PBECR1_gn] | [PF18809][PBECR1_model] | [A0A1F6M7H8][PBECR1_molx] |
-| PBECR3 | [View][PBECR3_gn] | [PF18812][PBECR3_model] | [A0A0B7GSS4][PBECR3_molx] |
-| PBECR3.2 | [View][PBECR3.2_gn] | [This Resource][PBECR3.2] | [A0A4U8UI43][PBECR3.2_molx] |
-| PBECR4 | [View][PBECR4_gn] | [PF18813][PBECR4_model] | [A0A417QTL2][PBECR4_molx] |
-| PBECR4.2 | [View][PBECR4.2_gn] | [This Resource][PBECR4.2] | [A0A2V2DIW2][PBECR4.2_molx] |
-| Ntox19 | [View][Ntox19_gn] | [Nicastro et al., 2026][Ntox19] | [A0A5E7QDQ0][Ntox19_molx] |
-| Ntox49 | [View][Ntox49_gn] | [Nicastro et al., 2026][Ntox49] | [A0A7H0VXI5][Ntox49_molx] |
-| Ntox49.2 | [View][DUF4258.2_gn] | [This Resource][DUF4258.2] | [A0A838VH86][DUF4258.2_molx] |
+| Colicin D | [Rotifer][ColicinD_gn] | [PF11429][ColicinD_model] | [1V74][ColicinD_molx] |
+| Colicin D.2 | [Rotifer][ColicinD.2_gn] | [This Resource][ColicinD.2] | [A0A212J498][ColicinD.2_molx] |
+| Colicin E5 | [Rotifer][ColicinE5_gn] | [PF12106][ColicinE5_model] | [2DFX][ColicinE5_molx] |
+| CdiA-CT<sup>Kp342</sup> | [Rotifer][CdiA-CT_Kp342_gn] | [This Resource][CdiA-CT_Kp342] | [6CP9][CdiA-CT_Kp342_molx] |
+| CdiA-CT<sup>EC3006</sup> | [Rotifer][CdiA-CT_EC3006_gn] | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
+| CdiA-CT<sup>EC869</sup> | [Rotifer][CdiA-CT_EC869_gn] | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
+| CdiA-CT<sup>NC101</sup> | [Rotifer][CdiA-CT_NC101_gn] | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |
+| CdiA-CT <sup>96.154</sup> | [Rotifer][CdiA-CT_96.154_gn] | [PF14076][CdiA-CT_96.154_pfam] [This Resource][CdiA-CT_96.154_kristi] | [D9SFT1][CdiA-CT_96.154_molx] |
+| MuF-like | [Rotifer][MuF-like_gn] | [PF18819][MuF-like_pfam] [This Resource][MuF-like_kristi] | [A0A096XES0][MuF-like_molx] |
+| Ntox35 | [Rotifer][Ntox35_gn] | [PF15534][Ntox35] | [A0A1H3F8X0][Ntox35_molx] |
+| Ntox35.2 | [Rotifer][Ntox35.2_gn] | [This Resource][Ntox35.2] | [A0A841I6D6][Ntox35.2_molx] |
+| PBECR1 | [Rotifer][PBECR1_gn] | [PF18809][PBECR1_model] | [A0A1F6M7H8][PBECR1_molx] |
+| PBECR3 | [Rotifer][PBECR3_gn] | [PF18812][PBECR3_model] | [A0A0B7GSS4][PBECR3_molx] |
+| PBECR3.2 | [Rotifer][PBECR3.2_gn] | [This Resource][PBECR3.2] | [A0A4U8UI43][PBECR3.2_molx] |
+| PBECR4 | [Rotifer][PBECR4_gn] | [PF18813][PBECR4_model] | [A0A417QTL2][PBECR4_molx] |
+| PBECR4.2 | [Rotifer][PBECR4.2_gn] | [This Resource][PBECR4.2] | [A0A2V2DIW2][PBECR4.2_molx] |
+| Ntox19 | [Rotifer][Ntox19_gn] | [Nicastro et al., 2026][Ntox19] | [A0A5E7QDQ0][Ntox19_molx] |
+| Ntox49 | [Rotifer][Ntox49_gn] | [Nicastro et al., 2026][Ntox49] | [A0A7H0VXI5][Ntox49_molx] |
+| Ntox49.2 | [Rotifer][DUF4258.2_gn] | [This Resource][DUF4258.2] | [A0A838VH86][DUF4258.2_molx] |
 | Ntox49.3 | WebFlaGs: [pdf][DUF4258.3_pdf] [operon.tsv][DUF4258.3_tsv] [outdesc.txt][DUF4258.3_txt] | [This Resource][DUF4258.3] | [A0A1F7XZ82][DUF4258.3_molx] |
 | Ntox49.4 | WebFlaGs: [pdf][DUF4258.4_pdf] [operon.tsv][DUF4258.4_tsv] [outdesc.txt][DUF4258.4_txt] | [This Resource][DUF4258.4] | [D2UA17][DUF4258.4_molx] |
-| Ntox49.5 | [View][DUF4258.5_gn] | [This Resource][DUF4258.5] | [A0A268EH04][DUF4258.5_molx] |
+| Ntox49.5 | [Rotifer][DUF4258.5_gn] | [This Resource][DUF4258.5] | [A0A268EH04][DUF4258.5_molx] |
 
 ## RNase T2-like
 
@@ -68,12 +68,12 @@ Each table contains the following information for each protein family:
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
 | XendoU | WebFlaGs: [pdf][XendoU_pdf] [operon.tsv][XendoU_tsv] [outdesc.txt][XendoU_txt] | [PF09412][XendoU] | [2C1W][XendoU_molx] |
-| XendoU.2 | [View][XendoU.2_gn] | [This Resource][XendoU.2] | [A0A1Z4JKT7][XendoU.2_molx] |
-| EndoU | [View][EndoU_gn] | [PF14436][EndoU] | [5HKQ][EndoU_molx] |
+| XendoU.2 | [Rotifer][XendoU.2_gn] | [This Resource][XendoU.2] | [A0A1Z4JKT7][XendoU.2_molx] |
+| EndoU | [Rotifer][EndoU_gn] | [PF14436][EndoU] | [5HKQ][EndoU_molx] |
 | EndoU.3 | WebFlaGs: [pdf][EndoU.3_pdf] [operon.tsv][EndoU.3_tsv] [outdesc.txt][EndoU.3_txt] | [This Resource][EndoU.3] | [A0A1V2YJU1][EndoU.3_molx] |
 | EndoU.4 | WebFlaGs: [pdf][EndoU.4_pdf] [operon.tsv][EndoU.4_tsv] [outdesc.txt][EndoU.4_txt] | [This Resource][EndoU.4] | [UPI002E2B26D7][EndoU.4_molx] |
-| BC0920 | [View][BC0920_gn] | [This Resource][BC0920] | [Q813X6][BC0920_molx] |
-| STox_60 | [View][STox_60_gn] | [Nicastro et al., 2026][STox_60] | [WP_029789863.1][STox_60_molx] |
+| BC0920 | [Rotifer][BC0920_gn] | [This Resource][BC0920] | [Q813X6][BC0920_molx] |
+| STox_60 | [Rotifer][STox_60_gn] | [Nicastro et al., 2026][STox_60] | [WP_029789863.1][STox_60_molx] |
 
 ## RNase A-like
 
@@ -81,78 +81,78 @@ Each table contains the following information for each protein family:
 |--------------|----------------|----------------|---------------------------------|
 | RNase A | WebFlaGs: [pdf][RNaseA_pdf] [operon.tsv][RNaseA_tsv] [outdesc.txt][RNaseA_txt] | [PF00074][RNaseA_model] | [4WYN][RNaseA_molx] |
 | RNase A.2 | WebFlaGs: [pdf][RNaseA.2_pdf] [operon.tsv][RNaseA.2_tsv] [outdesc.txt][RNaseA.2_txt] | [This Resource][RNaseA.2] | [A0A3B1IEH8][RNaseA.2_molx] |
-| CdiA-CT<sup>Ykris</sup> | [View][CdiA-CTYkris_gn] | [PF18431][CdiA-CT_Ykris] | [5E3E][CdiA-CT_Ykris_molx] |
-| Ntox41 | [View][Ntox41_gn] | [Zhang et al., 2012][Ntox41] | [A0A0E0USU5][Ntox41_molx] |
+| CdiA-CT<sup>Ykris</sup> | [Rotifer][CdiA-CTYkris_gn] | [PF18431][CdiA-CT_Ykris] | [5E3E][CdiA-CT_Ykris_molx] |
+| Ntox41 | [Rotifer][Ntox41_gn] | [Zhang et al., 2012][Ntox41] | [A0A0E0USU5][Ntox41_molx] |
 | Ntox41.2 | WebFlaGs: [pdf][Ntox41.2_pdf] [operon.tsv][Ntox41.2_tsv] [outdesc.txt][Ntox41.2_txt] | [This Resource][Ntox41.2] | [A0A1Q4EYU6][Ntox41.2_molx] |
-| Ntox50 | [View][Ntox50_gn] | [PF15542][Ntox50] | [A0AAF0CX04][Ntox50_molx] |
-| Ntox50.2 | [View][Ntox50.2_gn] | [This Resource][Ntox50.2] | [A0A2G6EE91][Ntox50.2_molx] |
+| Ntox50 | [Rotifer][Ntox50_gn] | [PF15542][Ntox50] | [A0AAF0CX04][Ntox50_molx] |
+| Ntox50.2 | [Rotifer][Ntox50.2_gn] | [This Resource][Ntox50.2] | [A0A2G6EE91][Ntox50.2_molx] |
 
 
 ## RelE-like
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
-| RelE (*Eschericia coli*) | [View][RelE_E.coli_gn] | [This Resource][RelE_E.coli] | [4FXI][RelE_E.coli_molx] |
-| RelE (*Methanococcus jannaschii*) | [View][RelE_M.jannaschii_gn] | [PF06296][RelE_M.jannaschii] | [3BPQ][RelE_M.jannaschii_pdb_molx] [A0A917YVE8][RelE_M.jannaschii_afdb_molx] |
-| ParE | [View][ParE_gn] | [PF05016][ParE_pfam] [This Resource][ParE_kristi] | [A0A4V1BZU9][ParE_molx] |
-| ParE.2 | [View][ParE.2_gn] | [This resource][ParE.2] | [A0A0C1YHU8][ParE.2_molx] |
-| ParE.3 | [View][ParE.3_gn] | [This resource][ParE.3] | [A0A938YUV1][ParE.3_molx] |
-| ParE-like | [View][ParE-like_gn] | [PF15781][ParE-like_pfam] [This Resource][ParE-like_kristi] | [A0A0L6U2N9][ParE-like_molx] |
-| YoeB | [View][YoeB_gn] | [PF06769](https://github.com/KristiPhammie/becr/blob/main/html/YoeB.fa) (Raw .fa provided due to file size) [This Resource][YoeB_kristi] | [2A6R][YoeB_molx] |
-| YafO | [View][YafO_gn] | [PF13957][YafO] | [A0A3E0TU91][YafO_molx] |
-| YhaV | [View][YhaV_gn] | [PF11663][YhaV_pfam] [This Resource][YhaV_kristi] | [A0A1Y2R202][YhaV_molx] |
-| HigB | [View][HigB_gn] | [PF09907][HigB_pfam] [This Resource][HigB_kristi] | [B8F451][HigB_molx] |
-| HigB-like | [View][HigB-like_gn] | [PF05015][HigB-like_pfam] | [A0A7H0SQA8][HigB-like_molx] |
-| BrnT | [View][BrnT_gn] | [PF04365][BrnT_pfam] [This Resource][BrnT_kristi] | [7VD7][BrnT_pdb_molx] [I4B9V8][BrnT_afdb_molx] |
-| BrnT.2 | [View][BrnT.2_gn] | [This Resource][BrnT.2] | [A0A1J5E5S5][BrnT.2_molx] |
-| BrnT.3 | [View][BrnT.3_gn] | [This Resource][BrnT.3] | [A0A8J2XEI7][BrnT.3_molx] |
-| MqsR | [View][MqsR_gn] | [PF15723][MqsR] | [3HI2][MqsR_molx] |
-| MqsR.2 | [View][MqsR.2_gn] | [This Resource][MqsR.2] | [A0A9X7T5T6][MqsR.2_molx] |
-| MqsR.3 | [View][MqsR.3_gn] | [This Resource][MqsR.3] | [A0A953XSG8][MqsR.3_molx] |
-| YafQ | [View][YafQ_gn] | [PF15738][YafQ] | [4LS4][YafQ_pdb_molx] [L8LVU0][YafQ_afdb_molx] |
+| RelE (*Eschericia coli*) | [Rotifer][RelE_E.coli_gn] | [This Resource][RelE_E.coli] | [4FXI][RelE_E.coli_molx] |
+| RelE (*Methanococcus jannaschii*) | [Rotifer][RelE_M.jannaschii_gn] | [PF06296][RelE_M.jannaschii] | [3BPQ][RelE_M.jannaschii_pdb_molx] [A0A917YVE8][RelE_M.jannaschii_afdb_molx] |
+| ParE | [Rotifer][ParE_gn] | [PF05016][ParE_pfam] [This Resource][ParE_kristi] | [A0A4V1BZU9][ParE_molx] |
+| ParE.2 | [Rotifer][ParE.2_gn] | [This resource][ParE.2] | [A0A0C1YHU8][ParE.2_molx] |
+| ParE.3 | [Rotifer][ParE.3_gn] | [This resource][ParE.3] | [A0A938YUV1][ParE.3_molx] |
+| ParE-like | [Rotifer][ParE-like_gn] | [PF15781][ParE-like_pfam] [This Resource][ParE-like_kristi] | [A0A0L6U2N9][ParE-like_molx] |
+| YoeB | [Rotifer][YoeB_gn] | [PF06769](https://github.com/KristiPhammie/becr/blob/main/html/YoeB.fa) (Raw .fa provided due to file size) [This Resource][YoeB_kristi] | [2A6R][YoeB_molx] |
+| YafO | [Rotifer][YafO_gn] | [PF13957][YafO] | [A0A3E0TU91][YafO_molx] |
+| YhaV | [Rotifer][YhaV_gn] | [PF11663][YhaV_pfam] [This Resource][YhaV_kristi] | [A0A1Y2R202][YhaV_molx] |
+| HigB | [Rotifer][HigB_gn] | [PF09907][HigB_pfam] [This Resource][HigB_kristi] | [B8F451][HigB_molx] |
+| HigB-like | [Rotifer][HigB-like_gn] | [PF05015][HigB-like_pfam] | [A0A7H0SQA8][HigB-like_molx] |
+| BrnT | [Rotifer][BrnT_gn] | [PF04365][BrnT_pfam] [This Resource][BrnT_kristi] | [7VD7][BrnT_pdb_molx] [I4B9V8][BrnT_afdb_molx] |
+| BrnT.2 | [Rotifer][BrnT.2_gn] | [This Resource][BrnT.2] | [A0A1J5E5S5][BrnT.2_molx] |
+| BrnT.3 | [Rotifer][BrnT.3_gn] | [This Resource][BrnT.3] | [A0A8J2XEI7][BrnT.3_molx] |
+| MqsR | [Rotifer][MqsR_gn] | [PF15723][MqsR] | [3HI2][MqsR_molx] |
+| MqsR.2 | [Rotifer][MqsR.2_gn] | [This Resource][MqsR.2] | [A0A9X7T5T6][MqsR.2_molx] |
+| MqsR.3 | [Rotifer][MqsR.3_gn] | [This Resource][MqsR.3] | [A0A953XSG8][MqsR.3_molx] |
+| YafQ | [Rotifer][YafQ_gn] | [PF15738][YafQ] | [4LS4][YafQ_pdb_molx] [L8LVU0][YafQ_afdb_molx] |
 | gp49 | WebFlaGs: [pdf][gp49_pdf] [operon.tsv][gp49_tsv] [outdesc.txt][gp49_txt] | [PF05973][gp49_pfam] [This Resource][gp49_kristi] | [7AWK][gp49_pdb_molx] [Q2RNU1][gp49_afdb_molx] |
-| RegB | [View][RegB_gn] | [PF10715][RegB] | [2HX6][RegB_molx] |
+| RegB | [Rotifer][RegB_gn] | [PF10715][RegB] | [2HX6][RegB_molx] |
 
 ## Barnase-like
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
-| Barnase | [View][Barnase_gn] | [This Resource][Barnase] | [1B20][Barnase_molx] |
-| Tox-Ribonuclease | [View][Tox-Ribonuclease_gn] | [Nicastro et al., 2026][Tox-Ribonuclease] | [A0A744A5J7][Tox-Ribonuclease_molx] |
+| Barnase | [Rotifer][Barnase_gn] | [This Resource][Barnase] | [1B20][Barnase_molx] |
+| Tox-Ribonuclease | [Rotifer][Tox-Ribonuclease_gn] | [Nicastro et al., 2026][Tox-Ribonuclease] | [A0A744A5J7][Tox-Ribonuclease_molx] |
 | RNase T1 | [Rotifer][RNaseT1_gn] | [This Resource][RNaseT1_model] | [1B2M][RNaseT1_molx] |
 | RNaseT1.2 | WebFlaGs: [pdf][RNaseT1.2_pdf] [operon.tsv][RNaseT1.2_tsv] [outdescription.txt][RNaseT1.2_txt] | [This Resource][RNaseT1.2] | [A0A0B1NYA6][RNaseT1.2_molx] |
 | RNaseT1.3 | WebFlaGs: [pdf][RNaseT1.3_pdf] [operon.tsv][RNaseT1.3_tsv] [outdescription.txt][RNaseT1.3_txt] | [This Resource][RNaseT1.3] | [A0A9W9CSS5][RNaseT1.3_molx] |
-| Sarcin | [View][Sarcin_gn] | [This Resource][Sarcin_model] [Full This Resource][Sarcin_full_model] | [1DE3][Sarcin_molx] |
+| Sarcin | [Rotifer][Sarcin_gn] | [This Resource][Sarcin_model] [Full This Resource][Sarcin_full_model] | [1DE3][Sarcin_molx] |
 
 ## BECR-like
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
-| BECR-like-Tox1 | [View][EndoVII_gn] | [PF15657][EndoVII_pfam] [This Resource][EndoVII_kristi] | [U2R0G2][PF15657_molx] |
-| BECR-like-Tox1.2 | [View][EndoVII.2_gn] | [This Resource][EndoVII.2] | [A0A1N7BT64][EndoVII.2_molx] |
-| Ntox7 | [View][Ntox7_gn] | [Nicastro et al., 2026][Ntox7] | [A0A5J5FSA8][Ntox7_molx] |
-| Ntox7.2 | [View][Ntox7.2_gn] | [This Resource][Ntox7.2] | [A0A369YFT7][Ntox7.2_molx] |
+| BECR-like-Tox1 | [Rotifer][EndoVII_gn] | [PF15657][EndoVII_pfam] [This Resource][EndoVII_kristi] | [U2R0G2][PF15657_molx] |
+| BECR-like-Tox1.2 | [Rotifer][EndoVII.2_gn] | [This Resource][EndoVII.2] | [A0A1N7BT64][EndoVII.2_molx] |
+| Ntox7 | [Rotifer][Ntox7_gn] | [Nicastro et al., 2026][Ntox7] | [A0A5J5FSA8][Ntox7_molx] |
+| Ntox7.2 | [Rotifer][Ntox7.2_gn] | [This Resource][Ntox7.2] | [A0A369YFT7][Ntox7.2_molx] |
 | Ntox7.3 | WebFlaGs: [pdf][Ntox7.3_pdf] [operon.tsv][Ntox7.3_tsv] [outdesc.txt][Ntox7.3_txt] | [This Resource][Ntox7.3] | [A0A7Y4YHE2][Ntox7.3_molx] |
-| Ntox36 | [View][Ntox36_gn] | [Zhang et al., 2012][Ntox36_zhang] [This Resource][Ntox36] | [Q7NP45][Ntox36_molx] |
-| Ntox47.st1 | [View][Ntox47.st1_gn] | [Nicastro et al., 2026][Ntox47.st1.gian] [This Resource][Ntox47.st1.kristi] | [A0A740SFH9][Ntox47.st1_molx] |
-| Ntox47.st2 | [View][Ntox47.st2_gn] | [Nicastro et al., 2026][Ntox47.st2.gian] | [A0A747XMS3][Ntox47.st2_molx] |
-| Stox_2 | [View][STox_2_gn] | [Nicastro et al., 2026][Stox_2] | [WP_212722943.1][Stox_2_molx] |
-| STox_6 | [View][STox_6_gn] | [Nicastro et al., 2026][STox_6] | [A0A748UZW8][STox_6_molx] |
-| STox_11 | [View][STox_11_gn] | [Nicastro et al., 2026][STox_11] [This Resource][STox_11_kristi] | [A0A4V1G7W5][STox_11_molx] |
-| STox_11.2 | [View][STox_11.2_gn] | [This Resource][STox_11.2] | [A0A7X0PHU6][STox_11.2_molx] |
-| STox_11.3 | [View][STox_11.3_gn] | [This Resource][STox_11.3] | [A0A939KTB7][STox_11.3_molx] |
-| STox_32 | [View][STox_32_gn] | [This Resource][STox_32_kristi] | [UPI00217D55C6][STox_32_molx] |
-| STox_39 | [View][STox_39_gn] | [Nicastro et al., 2026][STox_39] [This Resource][STox_39_kristi] | [A0A5T2NHZ2][STox_39_molx] |
-| STox_39.2 | [View][STox_39.2_gn] | [This Resource][STox_39.2] | [A0A937AZC2][STox_39.2_molx] |
-| STox_57 | [View][STox_57_gn] | [Nicastro et al., 2026][STox_57] | [A0A3S4HEL1][STox_57_molx] |
-| STox_58 | [View][STox_58_gn] | [Nicastro et al., 2026][STox_58] | [A0A5X8N7M2][STox_58_molx] |
-| STox_59 | [View][STox_59_gn] | [Nicastro et al., 2026][STox_59] | [A0A6X8NAU9][STox_59_molx] |
-| YeeF | [View][YeeF_gn] | [This resource][YeeF_model] | [O31506][YeeF_molx] |
-| STox_1 | [View][STox_1_gn] | [Nicastro et al., 2026][STox_1] | [FD01543133_03431][STox_1_molx] |
-| STox_3 | [View][STox_3_gn] | [Nicastro et al., 2026][STox_3] | [A0A3Z2V253][STox_3_molx] |
-| STox_4 | [View][STox_4_gn] | [Nicastro et al., 2026][STox_4] | [A0A3Y4H1N0][STox_4_molx] |
-| STox_4.2 | [View][STox_4.2_gn] | [This Resource][STox_4.2] | [A0A7V8VAQ0][STox_4.2_molx] |
-| STox_55 | [View][STox_55_gn] | [Nicastro et al., 2026][STox_55] | [WP_117405990.1][STox_55_molx] |
+| Ntox36 | [Rotifer][Ntox36_gn] | [Zhang et al., 2012][Ntox36_zhang] [This Resource][Ntox36] | [Q7NP45][Ntox36_molx] |
+| Ntox47.st1 | [Rotifer][Ntox47.st1_gn] | [Nicastro et al., 2026][Ntox47.st1.gian] [This Resource][Ntox47.st1.kristi] | [A0A740SFH9][Ntox47.st1_molx] |
+| Ntox47.st2 | [Rotifer][Ntox47.st2_gn] | [Nicastro et al., 2026][Ntox47.st2.gian] | [A0A747XMS3][Ntox47.st2_molx] |
+| Stox_2 | [Rotifer][STox_2_gn] | [Nicastro et al., 2026][Stox_2] | [WP_212722943.1][Stox_2_molx] |
+| STox_6 | [Rotifer][STox_6_gn] | [Nicastro et al., 2026][STox_6] | [A0A748UZW8][STox_6_molx] |
+| STox_11 | [Rotifer][STox_11_gn] | [Nicastro et al., 2026][STox_11] [This Resource][STox_11_kristi] | [A0A4V1G7W5][STox_11_molx] |
+| STox_11.2 | [Rotifer][STox_11.2_gn] | [This Resource][STox_11.2] | [A0A7X0PHU6][STox_11.2_molx] |
+| STox_11.3 | [Rotifer][STox_11.3_gn] | [This Resource][STox_11.3] | [A0A939KTB7][STox_11.3_molx] |
+| STox_32 | [Rotifer][STox_32_gn] | [This Resource][STox_32_kristi] | [UPI00217D55C6][STox_32_molx] |
+| STox_39 | [Rotifer][STox_39_gn] | [Nicastro et al., 2026][STox_39] [This Resource][STox_39_kristi] | [A0A5T2NHZ2][STox_39_molx] |
+| STox_39.2 | [Rotifer][STox_39.2_gn] | [This Resource][STox_39.2] | [A0A937AZC2][STox_39.2_molx] |
+| STox_57 | [Rotifer][STox_57_gn] | [Nicastro et al., 2026][STox_57] | [A0A3S4HEL1][STox_57_molx] |
+| STox_58 | [Rotifer][STox_58_gn] | [Nicastro et al., 2026][STox_58] | [A0A5X8N7M2][STox_58_molx] |
+| STox_59 | [Rotifer][STox_59_gn] | [Nicastro et al., 2026][STox_59] | [A0A6X8NAU9][STox_59_molx] |
+| YeeF | [Rotifer][YeeF_gn] | [This resource][YeeF_model] | [O31506][YeeF_molx] |
+| STox_1 | [Rotifer][STox_1_gn] | [Nicastro et al., 2026][STox_1] | [FD01543133_03431][STox_1_molx] |
+| STox_3 | [Rotifer][STox_3_gn] | [Nicastro et al., 2026][STox_3] | [A0A3Z2V253][STox_3_molx] |
+| STox_4 | [Rotifer][STox_4_gn] | [Nicastro et al., 2026][STox_4] | [A0A3Y4H1N0][STox_4_molx] |
+| STox_4.2 | [Rotifer][STox_4.2_gn] | [This Resource][STox_4.2] | [A0A7V8VAQ0][STox_4.2_molx] |
+| STox_55 | [Rotifer][STox_55_gn] | [Nicastro et al., 2026][STox_55] | [WP_117405990.1][STox_55_molx] |
 
 ## Other BECRs
 
@@ -438,106 +438,106 @@ Each table contains the following information for each protein family:
 
 
 <!-- Molx snapshots -->
-[BECR-Tox1_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BECR-Tox1.molx&snapshot-url-type=molx
-[BECR-Tox3_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BECR-Tox3.molx&snapshot-url-type=molx
-[BECR-Tox4_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BECR-Tox4.molx&snapshot-url-type=molx
-[ColicinD_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinD.molx&snapshot-url-type=molx
-[ColicinD.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinD.2.molx&snapshot-url-type=molx
-[ColicinE5_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinE5.molx&snapshot-url-type=molx
-[CdiA-CT_Kp342_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_Kp342.molx&snapshot-url-type=molx
-[CdiA-CT_EC3006_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_EC3006.molx&snapshot-url-type=molx
-[CdiA-CT_EC869_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_EC869.molx&snapshot-url-type=molx
-[CdiA-CT_NC101_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_NC101.molx&snapshot-url-type=molx
-[CdiA-CT_96.154_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_96.154.molx&snapshot-url-type=molx
-[DUF4258.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/DUF4258.2.molx&snapshot-url-type=molx
-[DUF4258.3_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/DUF4258.3.molx&snapshot-url-type=molx
-[DUF4258.4_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/DUF4258.4.molx&snapshot-url-type=molx
-[DUF4258.5_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/DUF4258.5.molx&snapshot-url-type=molx
-[RNaseT2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseT2.molx&snapshot-url-type=molx
-[MuF-like_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/MuF-like.molx&snapshot-url-type=molx
-[Ntox35_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox35.molx&snapshot-url-type=molx
-[Ntox35.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox35.2.molx&snapshot-url-type=molx
-[PBECR1_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR1.molx&snapshot-url-type=molx
-[PBECR3_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR3.molx&snapshot-url-type=molx
-[PBECR3.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR3.2.molx&snapshot-url-type=molx
-[PBECR4_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR4.molx&snapshot-url-type=molx
-[PBECR4.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR4.2.molx&snapshot-url-type=molx
-[Ntox19_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox19.molx&snapshot-url-type=molx
-[Ntox49_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox49.molx&snapshot-url-type=molx
-[RelE_E.coli_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_E.coli.molx&snapshot-url-type=molx
-[RelE_M.jannaschii_pdb_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_M.jannaschii_pdb.molx&snapshot-url-type=molx
-[RelE_M.jannaschii_afdb_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_M.jannaschii_afdb.molx&snapshot-url-type=molx
-[ParE_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ParE.molx&snapshot-url-type=molx
-[ParE.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ParE.2.molx&snapshot-url-type=molx
-[ParE.3_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ParE.3.molx&snapshot-url-type=molx
-[ParE-like_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ParE-like.molx&snapshot-url-type=molx
-[YoeB_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YoeB.molx&snapshot-url-type=molx
-[YafO_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YafO.molx&snapshot-url-type=molx
-[YhaV_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YhaV.molx&snapshot-url-type=molx
-[HigB_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/HigB.molx&snapshot-url-type=molx
-[HigB-like_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/HigB-like.molx&snapshot-url-type=molx
-[BrnT_pdb_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BrnT_pdb.molx&snapshot-url-type=molx
-[BrnT_afdb_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BrnT_afdb.molx&snapshot-url-type=molx
-[BrnT.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BrnT.2.molx&snapshot-url-type=molx
-[BrnT.3_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BrnT.3.molx&snapshot-url-type=molx
-[MqsR_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/MqsR.molx&snapshot-url-type=molx
-[MqsR.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/MqsR.2.molx&snapshot-url-type=molx
-[MqsR.3_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/MqsR.3.molx&snapshot-url-type=molx
-[YafQ_pdb_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YafQ_pdb.molx&snapshot-url-type=molx
-[YafQ_afdb_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YafQ_afdb.molx&snapshot-url-type=molx
-[gp49_pdb_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/gp49_pdb.molx&snapshot-url-type=molx
-[gp49_afdb_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/gp49_afdb.molx&snapshot-url-type=molx
-[RegB_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RegB.molx&snapshot-url-type=molx
-[XendoU_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/XendoU.molx&snapshot-url-type=molx
-[XendoU.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/XendoU.2.molx&snapshot-url-type=molx
-[EndoU_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoU.molx&snapshot-url-type=molx
-[EndoU.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BECR-Tox5.molx&snapshot-url-type=molx
-[EndoU.3_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoU.3.molx&snapshot-url-type=molx
-[EndoU.4_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoU.4.molx&snapshot-url-type=molx
-[BC0920_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BC0920.molx&snapshot-url-type=molx
-[STox_60_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_60.molx&snapshot-url-type=molx
-[RNaseA_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseA.molx&snapshot-url-type=molx
-[RNaseA.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseA.2.molx&snapshot-url-type=molx
-[CdiA-CT_Ykris_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_Ykris.molx&snapshot-url-type=molx
-[Ntox41_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox41.molx&snapshot-url-type=molx
-[Ntox41.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox41.2.molx&snapshot-url-type=molx
-[Ntox50_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox50.molx&snapshot-url-type=molx
-[Ntox50.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox50.2.molx&snapshot-url-type=molx
-[PF15657_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PF15657.molx&snapshot-url-type=molx
-[EndoVII.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoVII.2.molx&snapshot-url-type=molx
-[Ntox7_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox7.molx&snapshot-url-type=molx
-[Ntox7.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox7.2.molx&snapshot-url-type=molx
-[Ntox7.3_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox7.3.molx&snapshot-url-type=molx
-[Ntox36_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox36.molx&snapshot-url-type=molx
-[Ntox47.st1_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox47.st1.molx&snapshot-url-type=molx
-[Ntox47.st2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox47.st2.molx&snapshot-url-type=molx
-[Stox_2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Stox_2.molx&snapshot-url-type=molx
-[STox_6_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_6.molx&snapshot-url-type=molx
-[STox_11_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_11.molx&snapshot-url-type=molx
-[STox_11.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_11.2.molx&snapshot-url-type=molx
-[STox_11.3_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_11.3.molx&snapshot-url-type=molx
-[STox_32_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_32.molx&snapshot-url-type=molx
-[STox_39_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_39.molx&snapshot-url-type=molx
-[STox_39.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_39.2.molx&snapshot-url-type=molx
-[STox_57_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_57.molx&snapshot-url-type=molx
-[STox_58_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_58.molx&snapshot-url-type=molx
-[STox_59_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_59.molx&snapshot-url-type=molx
-[YeeF_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YeeF.molx&snapshot-url-type=molx
-[Barnase_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Barnase.molx&snapshot-url-type=molx
-[Tox-Ribonuclease_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Tox-Ribonuclease.molx&snapshot-url-type=molx
-[STox_1_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_1.molx&snapshot-url-type=molx
-[STox_3_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_3.molx&snapshot-url-type=molx
-[STox_4_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_4.molx&snapshot-url-type=molx
-[STox_4.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_4.2.molx&snapshot-url-type=molx
-[STox_55_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_55.molx&snapshot-url-type=molx
-[BECR-Tox2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BECR-Tox2.molx&snapshot-url-type=molx
-[STox_37_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_37.molx&snapshot-url-type=molx
-[PBECR5_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR5.molx&snapshot-url-type=molx
-[Ntox48_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox48.molx&snapshot-url-type=molx
-[CdiA-CT_ECL_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_ECL.molx&snapshot-url-type=molx
-[Ntox18.st1_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox18.st1.molx&snapshot-url-type=molx
-[Ntox18.st2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox18.st2.molx&snapshot-url-type=molx
-[RNaseT1_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNase_T1.molx&snapshot-url-type=molx
-[RNaseT1.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseT1.2.molx&snapshot-url-type=molx
-[RNaseT1.3_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseT1.3.molx&snapshot-url-type=molx
-[Sarcin_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Sarcin.molx&snapshot-url-type=molx
+[BECR-Tox1_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BECR-Tox1.molx&snapshot-url-type=molx
+[BECR-Tox3_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BECR-Tox3.molx&snapshot-url-type=molx
+[BECR-Tox4_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BECR-Tox4.molx&snapshot-url-type=molx
+[ColicinD_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinD.molx&snapshot-url-type=molx
+[ColicinD.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinD.2.molx&snapshot-url-type=molx
+[ColicinE5_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ColicinE5.molx&snapshot-url-type=molx
+[CdiA-CT_Kp342_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_Kp342.molx&snapshot-url-type=molx
+[CdiA-CT_EC3006_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_EC3006.molx&snapshot-url-type=molx
+[CdiA-CT_EC869_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_EC869.molx&snapshot-url-type=molx
+[CdiA-CT_NC101_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_NC101.molx&snapshot-url-type=molx
+[CdiA-CT_96.154_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_96.154.molx&snapshot-url-type=molx
+[DUF4258.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/DUF4258.2.molx&snapshot-url-type=molx
+[DUF4258.3_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/DUF4258.3.molx&snapshot-url-type=molx
+[DUF4258.4_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/DUF4258.4.molx&snapshot-url-type=molx
+[DUF4258.5_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/DUF4258.5.molx&snapshot-url-type=molx
+[RNaseT2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseT2.molx&snapshot-url-type=molx
+[MuF-like_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/MuF-like.molx&snapshot-url-type=molx
+[Ntox35_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox35.molx&snapshot-url-type=molx
+[Ntox35.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox35.2.molx&snapshot-url-type=molx
+[PBECR1_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR1.molx&snapshot-url-type=molx
+[PBECR3_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR3.molx&snapshot-url-type=molx
+[PBECR3.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR3.2.molx&snapshot-url-type=molx
+[PBECR4_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR4.molx&snapshot-url-type=molx
+[PBECR4.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR4.2.molx&snapshot-url-type=molx
+[Ntox19_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox19.molx&snapshot-url-type=molx
+[Ntox49_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox49.molx&snapshot-url-type=molx
+[RelE_E.coli_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_E.coli.molx&snapshot-url-type=molx
+[RelE_M.jannaschii_pdb_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_M.jannaschii_pdb.molx&snapshot-url-type=molx
+[RelE_M.jannaschii_afdb_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RelE_M.jannaschii_afdb.molx&snapshot-url-type=molx
+[ParE_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ParE.molx&snapshot-url-type=molx
+[ParE.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ParE.2.molx&snapshot-url-type=molx
+[ParE.3_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ParE.3.molx&snapshot-url-type=molx
+[ParE-like_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/ParE-like.molx&snapshot-url-type=molx
+[YoeB_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YoeB.molx&snapshot-url-type=molx
+[YafO_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YafO.molx&snapshot-url-type=molx
+[YhaV_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YhaV.molx&snapshot-url-type=molx
+[HigB_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/HigB.molx&snapshot-url-type=molx
+[HigB-like_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/HigB-like.molx&snapshot-url-type=molx
+[BrnT_pdb_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BrnT_pdb.molx&snapshot-url-type=molx
+[BrnT_afdb_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BrnT_afdb.molx&snapshot-url-type=molx
+[BrnT.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BrnT.2.molx&snapshot-url-type=molx
+[BrnT.3_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BrnT.3.molx&snapshot-url-type=molx
+[MqsR_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/MqsR.molx&snapshot-url-type=molx
+[MqsR.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/MqsR.2.molx&snapshot-url-type=molx
+[MqsR.3_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/MqsR.3.molx&snapshot-url-type=molx
+[YafQ_pdb_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YafQ_pdb.molx&snapshot-url-type=molx
+[YafQ_afdb_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YafQ_afdb.molx&snapshot-url-type=molx
+[gp49_pdb_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/gp49_pdb.molx&snapshot-url-type=molx
+[gp49_afdb_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/gp49_afdb.molx&snapshot-url-type=molx
+[RegB_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RegB.molx&snapshot-url-type=molx
+[XendoU_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/XendoU.molx&snapshot-url-type=molx
+[XendoU.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/XendoU.2.molx&snapshot-url-type=molx
+[EndoU_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoU.molx&snapshot-url-type=molx
+[EndoU.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BECR-Tox5.molx&snapshot-url-type=molx
+[EndoU.3_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoU.3.molx&snapshot-url-type=molx
+[EndoU.4_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoU.4.molx&snapshot-url-type=molx
+[BC0920_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BC0920.molx&snapshot-url-type=molx
+[STox_60_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_60.molx&snapshot-url-type=molx
+[RNaseA_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseA.molx&snapshot-url-type=molx
+[RNaseA.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseA.2.molx&snapshot-url-type=molx
+[CdiA-CT_Ykris_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_Ykris.molx&snapshot-url-type=molx
+[Ntox41_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox41.molx&snapshot-url-type=molx
+[Ntox41.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox41.2.molx&snapshot-url-type=molx
+[Ntox50_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox50.molx&snapshot-url-type=molx
+[Ntox50.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox50.2.molx&snapshot-url-type=molx
+[PF15657_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PF15657.molx&snapshot-url-type=molx
+[EndoVII.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/EndoVII.2.molx&snapshot-url-type=molx
+[Ntox7_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox7.molx&snapshot-url-type=molx
+[Ntox7.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox7.2.molx&snapshot-url-type=molx
+[Ntox7.3_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox7.3.molx&snapshot-url-type=molx
+[Ntox36_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox36.molx&snapshot-url-type=molx
+[Ntox47.st1_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox47.st1.molx&snapshot-url-type=molx
+[Ntox47.st2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox47.st2.molx&snapshot-url-type=molx
+[Stox_2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Stox_2.molx&snapshot-url-type=molx
+[STox_6_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_6.molx&snapshot-url-type=molx
+[STox_11_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_11.molx&snapshot-url-type=molx
+[STox_11.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_11.2.molx&snapshot-url-type=molx
+[STox_11.3_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_11.3.molx&snapshot-url-type=molx
+[STox_32_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_32.molx&snapshot-url-type=molx
+[STox_39_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_39.molx&snapshot-url-type=molx
+[STox_39.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_39.2.molx&snapshot-url-type=molx
+[STox_57_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_57.molx&snapshot-url-type=molx
+[STox_58_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_58.molx&snapshot-url-type=molx
+[STox_59_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_59.molx&snapshot-url-type=molx
+[YeeF_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/YeeF.molx&snapshot-url-type=molx
+[Barnase_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Barnase.molx&snapshot-url-type=molx
+[Tox-Ribonuclease_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Tox-Ribonuclease.molx&snapshot-url-type=molx
+[STox_1_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_1.molx&snapshot-url-type=molx
+[STox_3_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_3.molx&snapshot-url-type=molx
+[STox_4_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_4.molx&snapshot-url-type=molx
+[STox_4.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_4.2.molx&snapshot-url-type=molx
+[STox_55_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_55.molx&snapshot-url-type=molx
+[BECR-Tox2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/BECR-Tox2.molx&snapshot-url-type=molx
+[STox_37_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_37.molx&snapshot-url-type=molx
+[PBECR5_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/PBECR5.molx&snapshot-url-type=molx
+[Ntox48_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox48.molx&snapshot-url-type=molx
+[CdiA-CT_ECL_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/CdiA-CT_ECL.molx&snapshot-url-type=molx
+[Ntox18.st1_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox18.st1.molx&snapshot-url-type=molx
+[Ntox18.st2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox18.st2.molx&snapshot-url-type=molx
+[RNaseT1_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNase_T1.molx&snapshot-url-type=molx
+[RNaseT1.2_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseT1.2.molx&snapshot-url-type=molx
+[RNaseT1.3_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/RNaseT1.3.molx&snapshot-url-type=molx
+[Sarcin_molx]: https://molstar.org/Rotiferer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Sarcin.molx&snapshot-url-type=molx
