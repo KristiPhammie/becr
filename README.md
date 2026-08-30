@@ -2,7 +2,7 @@
 
 ## 📰 Citation
 
-Insert Rxiv link
+Pham, K., Nicastro, G.G., Long, A.L., Aravind, L., Wilke, C.O., Souza., R.F., Bayer-Santos, E. (2026) A structure-guided classification framework reveals the diversity and catalytic architecture of BECR ribonuclease. bioRxiv. [(https://doi.org/10.64898/2026.08.28.747851)](https://doi.org/10.64898/2026.08.28.747851)
 
 ---
 
