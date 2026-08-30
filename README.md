@@ -41,7 +41,7 @@ Each table contains the following information for each protein family:
 | CdiA-CT<sup>EC3006</sup> | [Rotifer][CdiA-CT_EC3006_gn] | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [6CP8][CdiA-CT_EC3006_molx] |
 | CdiA-CT<sup>EC869</sup> | [Rotifer][CdiA-CT_EC869_gn] | [This Resource][CdiA-CT_EC869] | [7VMC][CdiA-CT_EC869_molx] |
 | CdiA-CT<sup>NC101</sup> | [Rotifer][CdiA-CT_NC101_gn] | [This Resource][CdiA-CT_NC101] | [5I4Q][CdiA-CT_NC101_molx] |
-| CdiA-CT <sup>96.154</sup> | [Rotifer][CdiA-CT_96.154_gn] | [PF14076][CdiA-CT_96.154_pfam] [This Resource][CdiA-CT_96.154_kristi] | [D9SFT1][CdiA-CT_96.154_molx] |
+| CdiA-CT<sup>96.154</sup> | [Rotifer][CdiA-CT_96.154_gn] | [PF14076][CdiA-CT_96.154_pfam] [This Resource][CdiA-CT_96.154_kristi] | [D9SFT1][CdiA-CT_96.154_molx] |
 | MuF-like | [Rotifer][MuF-like_gn] | [PF18819][MuF-like_pfam] [This Resource][MuF-like_kristi] | [A0A096XES0][MuF-like_molx] |
 | Ntox35 | [Rotifer][Ntox35_gn] | [PF15534][Ntox35] | [A0A1H3F8X0][Ntox35_molx] |
 | Ntox35.2 | [Rotifer][Ntox35.2_gn] | [This Resource][Ntox35.2] | [A0A841I6D6][Ntox35.2_molx] |
@@ -160,7 +160,7 @@ Each table contains the following information for each protein family:
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
 | BECR-Tox2 | [Rotifer][BECR-Tox2_gn] WebFlaGs: [pdf][BECR-Tox2_pdf] [operon.tsv][BECR-Tox2_tsv] [outdescription.txt][BECR-Tox2.txt] | [This Resource][BECR-Tox2] | [A0A352X7W3][BECR-Tox2_molx] |
-| CdiA-CT ECL | [Rotifer][CdiA-CT_ECL_gn] | [PF14426][CdiA-CT_ECL_pfam] [This Resource][CdiA-CT_ECL_kristi] | [4NTQ][CdiA-CT_ECL_molx] |
+| CdiA-CT<sup>ECL</sup> | [Rotifer][CdiA-CT_ECL_gn] | [PF14426][CdiA-CT_ECL_pfam] [This Resource][CdiA-CT_ECL_kristi] | [4NTQ][CdiA-CT_ECL_molx] |
 | Ntox18.st1 | [Rotifer][Ntox18.st1_gn] | [Nicastro et al., 2026][Ntox18.st1] | [A0A3Y4H1N0][Ntox18.st1_molx] |
 | Ntox18.st2 | [Rotifer][Ntox18.st2_gn] | [Nicastro et al., 2026][Ntox18.st2] | [A0A7T8FFU2][Ntox18.st2_molx] |
 
