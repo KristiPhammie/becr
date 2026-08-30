@@ -2,7 +2,7 @@
 
 ## 📰 Citation
 
-Pham, K., Nicastro, G.G., Long, A.L., Aravind, L., Wilke, C.O., Souza., R.F., Bayer-Santos, E. (2026) A structure-guided classification framework reveals the diversity and catalytic architecture of BECR ribonuclease. bioRxiv. [(https://doi.org/10.64898/2026.08.28.747851)](https://doi.org/10.64898/2026.08.28.747851)
+**Pham, K., Nicastro, G.G., Long, A.L., et al.** (2026) A structure-guided classification framework reveals the diversity and catalytic architecture of BECR ribonuclease. bioRxiv. [(https://doi.org/10.64898/2026.08.28.747851)](https://doi.org/10.64898/2026.08.28.747851)
 
 ---
 
@@ -17,7 +17,7 @@ Pham, K., Nicastro, G.G., Long, A.L., Aravind, L., Wilke, C.O., Souza., R.F., Ba
 - [RelE-like](https://kristiphammie.github.io/becr/#rele-like)
 - [Barnase-like](https://kristiphammie.github.io/becr/#barnase-like)
 - [BECR-like](https://kristiphammie.github.io/becr/#becr-like-like)
-- [Other BECRs](https://kristiphammie.github.io/becr/#other-becrs)
+- [BECR-Tox2-like](https://kristiphammie.github.io/becr/#becr-tox2-like)
 
 Each table contains the following information for each protein family:
 
