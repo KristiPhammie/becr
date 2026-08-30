@@ -142,6 +142,7 @@ Each table contains the following information for each protein family:
 | STox_11.2 | [Rotifer][STox_11.2_gn] | [This Resource][STox_11.2] | [A0A7X0PHU6][STox_11.2_molx] |
 | STox_11.3 | [Rotifer][STox_11.3_gn] | [This Resource][STox_11.3] | [A0A939KTB7][STox_11.3_molx] |
 | STox_32 | [Rotifer][STox_32_gn] | [This Resource][STox_32_kristi] | [UPI00217D55C6][STox_32_molx] |
+| STox_37 | [Rotifer][STox_37_gn] | [Nicastro et al., 2026][STox_37_gian] [This Resource][STox_37] | [A0A1M6MZG2][STox_37_molx] |
 | STox_39 | [Rotifer][STox_39_gn] | [Nicastro et al., 2026][STox_39] [This Resource][STox_39_kristi] | [A0A5T2NHZ2][STox_39_molx] |
 | STox_39.2 | [Rotifer][STox_39.2_gn] | [This Resource][STox_39.2] | [A0A937AZC2][STox_39.2_molx] |
 | STox_57 | [Rotifer][STox_57_gn] | [Nicastro et al., 2026][STox_57] | [A0A3S4HEL1][STox_57_molx] |
@@ -154,13 +155,11 @@ Each table contains the following information for each protein family:
 | STox_4.2 | [Rotifer][STox_4.2_gn] | [This Resource][STox_4.2] | [A0A7V8VAQ0][STox_4.2_molx] |
 | STox_55 | [Rotifer][STox_55_gn] | [Nicastro et al., 2026][STox_55] | [WP_117405990.1][STox_55_molx] |
 
-## Other BECRs
+## BECR-Tox2-like
 
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
 | BECR-Tox2 | [Rotifer][BECR-Tox2_gn] WebFlaGs: [pdf][BECR-Tox2_pdf] [operon.tsv][BECR-Tox2_tsv] [outdescription.txt][BECR-Tox2.txt] | [This Resource][BECR-Tox2] | [A0A352X7W3][BECR-Tox2_molx] |
-| STox_37 | [Rotifer][STox_37_gn] | [Nicastro et al., 2026][STox_37_gian] [This Resource][STox_37] | [A0A1M6MZG2][STox_37_molx] |
-| PBECR5 | [Rotifer][PBECR5_gn] | [PF18814][PBECR5_model] | [A0A396QF16][PBECR5_molx] |
 | CdiA-CT ECL | [Rotifer][CdiA-CT_ECL_gn] | [PF14426][CdiA-CT_ECL_pfam] [This Resource][CdiA-CT_ECL_kristi] | [4NTQ][CdiA-CT_ECL_molx] |
 | Ntox18.st1 | [Rotifer][Ntox18.st1_gn] | [Nicastro et al., 2026][Ntox18.st1] | [A0A3Y4H1N0][Ntox18.st1_molx] |
 | Ntox18.st2 | [Rotifer][Ntox18.st2_gn] | [Nicastro et al., 2026][Ntox18.st2] | [A0A7T8FFU2][Ntox18.st2_molx] |
@@ -170,6 +169,7 @@ Each table contains the following information for each protein family:
 | Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
 | BECR-Tox4 | WebFlaGs: [pdf][BECR-Tox4_pdf] [operon.tsv][BECR-Tox4_tsv] [outdescription.txt][BECR-Tox4.txt] | [This Resource][BECR-Tox4] | [A0A1F9Y1D8][BECR-Tox4_molx] |
+| PBECR5 | [Rotifer][PBECR5_gn] | [PF18814][PBECR5_model] | [A0A396QF16][PBECR5_molx] |
 
 <!-- Genome context PDFs -->
 [BECR-Tox1_gn]: https://KristiPhammie.github.io/becr/pdf/BECR-Tox1.pdf
