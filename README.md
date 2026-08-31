@@ -8,7 +8,7 @@
 
 ## 🔎 Contents of This Resource <a id="how-to-use"></a>
 
-[BECR_Sequences.xlsx](https://github.com/KristiPhammie/becr/blob/main/BECR_Sequences.xlsx)
+Link to download formatted Excel table containing all the sequences at each step of the analysis: [BECR_Sequences.xlsx](https://github.com/KristiPhammie/becr/blob/main/BECR_Sequences.xlsx)
 
 <p style="text-align: justify;">This page provides supplemental information for all  BECR-fold proteins identified in our comprehensive classfication study on the BECR superfamily. Each table represents a BECR structural group with a protein family in each row.</p>
 
