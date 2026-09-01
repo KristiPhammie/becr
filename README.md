@@ -513,7 +513,7 @@ Each table contains the following information for each protein family:
 [Ntox36_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox36.molx&snapshot-url-type=molx
 [Ntox47.st1_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox47.st1.molx&snapshot-url-type=molx
 [Ntox47.st2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Ntox47.st2.molx&snapshot-url-type=molx
-[Stox_2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/Stox_2.molx&snapshot-url-type=molx
+[Stox_2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_2.molx&snapshot-url-type=molx
 [STox_6_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_6.molx&snapshot-url-type=molx
 [STox_11_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_11.molx&snapshot-url-type=molx
 [STox_11.2_molx]: https://molstar.org/viewer/?snapshot-url=https://KristiPhammie.github.io/becr/molx/STox_11.2.molx&snapshot-url-type=molx
