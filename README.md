@@ -10,6 +10,8 @@
 
 Link to download formatted Excel table containing all the sequences at each step of the analysis: [BECR_Sequences.xlsx](https://github.com/KristiPhammie/becr/blob/main/BECR_Sequences.xlsx)
 
+Download .gzipped file of hmm/hhm concatenated database: [hmm](https://github.com/KristiPhammie/becr/blob/main/hmm.tar.gz) [hhm](https://github.com/KristiPhammie/becr/blob/main/hhm.tar.gz) 
+
 <p style="text-align: justify;">This page provides supplemental information for all  BECR-fold proteins identified in our comprehensive classfication study on the BECR superfamily. Each table represents a BECR structural group with a protein family in each row.</p>
 
 - [Colicin-like](https://kristiphammie.github.io/becr/#colicin-like)
@@ -25,13 +27,14 @@ Each table contains the following information for each protein family:
 
 - **Genome Context**: Gene neighborhoods collected with either [Rotifer](https://github.com/leepusp/rotifer.git) or [WebFlaGs](https://server.atkinson-lab.com/webflags)
 - **Alignment**: The source of the multiple sequence alignments used to construct a profile HMM used in this study. [PFAM](https://www.ebi.ac.uk/interpro/entry/pfam/#table) (if available), Citation of original publication, or from our work
+- **Model**: Downloadable hmm (hmmbuild) and hhm (hhmake) files
 - **Molstar**: [Mol*](https://molstar.org/) annotated representative structure
 
 ---
 
 ## Colicin-like
 
-| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
+| Toxin Family | Genome Context | **Alignment** | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
 | <span style="display:inlind-block;width:25px">BECR-Tox1</span> | [Rotifer][BECR-Tox1_gn] | <span style="display:inlind-block;width:100px">[This Resource][BECR-Tox1]</span> | [A0A417CPW8][BECR-Tox1_molx] |
 | BECR-Tox3 | [Rotifer][BECR-Tox3_gn] | [This Resource][BECR-Tox3] | [A0A3C1G575][BECR-Tox3_molx] |
@@ -61,13 +64,13 @@ Each table contains the following information for each protein family:
 
 ## RNase T2-like
 
-| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
+| Toxin Family | Genome Context | Alignment | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
 | RNase T2 | WebFlaGs: [pdf][RNaseT2_pdf] [operon.tsv][RNaseT2_tsv] [outdesc.txt][RNaseT2_txt] | [PF00445][RNaseT2_model] | [2EA1][RNaseT2_molx] |
 
 ## EndoU-like
 
-| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
+| Toxin Family | Genome Context | Alignment | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
 | XendoU | WebFlaGs: [pdf][XendoU_pdf] [operon.tsv][XendoU_tsv] [outdesc.txt][XendoU_txt] | [PF09412][XendoU] | [2C1W][XendoU_molx] |
 | XendoU.2 | [Rotifer][XendoU.2_gn] | [This Resource][XendoU.2] | [A0A1Z4JKT7][XendoU.2_molx] |
@@ -79,7 +82,7 @@ Each table contains the following information for each protein family:
 
 ## RNase A-like
 
-| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
+| Toxin Family | Genome Context | Alignment | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
 | RNase A | WebFlaGs: [pdf][RNaseA_pdf] [operon.tsv][RNaseA_tsv] [outdesc.txt][RNaseA_txt] | [PF00074][RNaseA_model] | [4WYN][RNaseA_molx] |
 | RNase A.2 | WebFlaGs: [pdf][RNaseA.2_pdf] [operon.tsv][RNaseA.2_tsv] [outdesc.txt][RNaseA.2_txt] | [This Resource][RNaseA.2] | [A0A3B1IEH8][RNaseA.2_molx] |
@@ -92,7 +95,7 @@ Each table contains the following information for each protein family:
 
 ## RelE-like
 
-| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
+| Toxin Family | Genome Context | Alignment | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
 | RelE (*Eschericia coli*) | [Rotifer][RelE_E.coli_gn] | [This Resource][RelE_E.coli] | [4FXI][RelE_E.coli_molx] |
 | RelE (*Methanococcus jannaschii*) | [Rotifer][RelE_M.jannaschii_gn] | [PF06296][RelE_M.jannaschii] | [3BPQ][RelE_M.jannaschii_pdb_molx] [A0A917YVE8][RelE_M.jannaschii_afdb_molx] |
@@ -117,7 +120,7 @@ Each table contains the following information for each protein family:
 
 ## Barnase-like
 
-| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
+| Toxin Family | Genome Context | Alignment | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
 | Barnase | [Rotifer][Barnase_gn] | [This Resource][Barnase] | [1B20][Barnase_molx] |
 | Tox-Ribonuclease | [Rotifer][Tox-Ribonuclease_gn] | [Nicastro et al., 2026][Tox-Ribonuclease] | [A0A744A5J7][Tox-Ribonuclease_molx] |
@@ -128,7 +131,7 @@ Each table contains the following information for each protein family:
 
 ## BECR-like
 
-| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
+| Toxin Family | Genome Context | Alignment | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
 | BECR-like-Tox1 | [Rotifer][EndoVII_gn] | [PF15657][EndoVII_pfam] [This Resource][EndoVII_kristi] | [U2R0G2][PF15657_molx] |
 | BECR-like-Tox1.2 | [Rotifer][EndoVII.2_gn] | [This Resource][EndoVII.2] | [A0A1N7BT64][EndoVII.2_molx] |
@@ -159,7 +162,7 @@ Each table contains the following information for each protein family:
 
 ## BECR-Tox2-like
 
-| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
+| Toxin Family | Genome Context | Alignment | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
 | BECR-Tox2 | [Rotifer][BECR-Tox2_gn] WebFlaGs: [pdf][BECR-Tox2_pdf] [operon.tsv][BECR-Tox2_tsv] [outdescription.txt][BECR-Tox2.txt] | [This Resource][BECR-Tox2] | [A0A352X7W3][BECR-Tox2_molx] |
 | CdiA-CT<sup>ECL</sup> | [Rotifer][CdiA-CT_ECL_gn] | [PF14426][CdiA-CT_ECL_pfam] [This Resource][CdiA-CT_ECL_kristi] | [4NTQ][CdiA-CT_ECL_molx] |
@@ -168,7 +171,7 @@ Each table contains the following information for each protein family:
 
 ## Undetermined
 
-| Toxin Family | Genome Context | Model (source) | Annotated Structure (accession) |
+| Toxin Family | Genome Context | Alignment | Annotated Structure (accession) |
 |--------------|----------------|----------------|---------------------------------|
 | BECR-Tox4 | WebFlaGs: [pdf][BECR-Tox4_pdf] [operon.tsv][BECR-Tox4_tsv] [outdescription.txt][BECR-Tox4.txt] | [This Resource][BECR-Tox4] | [A0A1F9Y1D8][BECR-Tox4_molx] |
 | PBECR5 | [Rotifer][PBECR5_gn] | [PF18814][PBECR5_model] | [A0A396QF16][PBECR5_molx] |
