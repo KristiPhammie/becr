@@ -57,8 +57,8 @@ Each table contains the following information for each protein family:
 | PBECR3.2 | [Rotifer][PBECR3.2_gn] | [This Resource][PBECR3.2] | [hmm][PBECR3.2_hmm] [hhm][PBECR3.2_hhm] | [A0A4U8UI43][PBECR3.2_molx] |
 | PBECR4 | [Rotifer][PBECR4_gn] | [PF18813][PBECR4_model] | [hmm][PBECR4_hmm] [hhm][PBECR4_hhm] | [A0A417QTL2][PBECR4_molx] |
 | PBECR4.2 | [Rotifer][PBECR4.2_gn] | [This Resource][PBECR4.2] | [hmm][PBECR4.2_hmm] [hhm][PBECR4.2_hhm] | [A0A2V2DIW2][PBECR4.2_molx] |
-| Ntox19 | [Rotifer][Ntox19_gn] | [Nicastro et al., 2026][Ntox19] | [hmm][Ntox19_hmm] [hhm][Ntox19_hhm] | [A0A5E7QDQ0][Ntox19_molx] |
-| Ntox49 | [Rotifer][Ntox49_gn] | [Nicastro et al., 2026][Ntox49] | [hmm][Ntox49_hmm] [hhm][Ntox49_hhm] | [A0A7H0VXI5][Ntox49_molx] |
+| Ntox19 | [Rotifer][Ntox19_gn] | [Nicastro et al., 2026][Ntox19] | [hmm][Ntox19.st_hmm] [hhm][Ntox19.st_hhm] | [A0A5E7QDQ0][Ntox19_molx] |
+| Ntox49 | [Rotifer][Ntox49_gn] | [Nicastro et al., 2026][Ntox49] | [hmm][Ntox49.st_hmm] [hhm][Ntox49.st_hhm] | [A0A7H0VXI5][Ntox49_molx] |
 | Ntox49.2 | [Rotifer][DUF4258.2_gn] | [This Resource][DUF4258.2] | [hmm][Ntox49.2_hmm] [hhm][Ntox49.2_hhm] | [A0A838VH86][DUF4258.2_molx] |
 | Ntox49.3 | WebFlaGs: [pdf][DUF4258.3_pdf] [operon.tsv][DUF4258.3_tsv] [outdesc.txt][DUF4258.3_txt] | [This Resource][DUF4258.3] | [hmm][Ntox49.3_hmm] [hhm][Ntox49.3_hhm] | [A0A1F7XZ82][DUF4258.3_molx] |
 | Ntox49.4 | WebFlaGs: [pdf][DUF4258.4_pdf] [operon.tsv][DUF4258.4_tsv] [outdesc.txt][DUF4258.4_txt] | [This Resource][DUF4258.4] | [hmm][Ntox49.4_hmm] [hhm][Ntox49.4_hhm] | [D2UA17][DUF4258.4_molx] |
