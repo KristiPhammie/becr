@@ -68,7 +68,7 @@ Each table contains the following information for each protein family:
 
 | Toxin Family | Genome Context | Alignment | Model | Annotated Structure (accession) |
 | -------------- | ---------------- | ---------------- | - | --------------------------------- |
-| RNase T2 | WebFlaGs: [pdf][RNaseT2_pdf] [operon.tsv][RNaseT2_tsv] [outdesc.txt][RNaseT2_txt] | [PF00445][RNaseT2_model] |  | [2EA1][RNaseT2_molx] |
+| RNase T2 | WebFlaGs: [pdf][RNaseT2_pdf] [operon.tsv][RNaseT2_tsv] [outdesc.txt][RNaseT2_txt] | [PF00445][RNaseT2_model] | [hmm][RNaseT2_hmm] [hhm][NNaseT2_hhm] | [2EA1][RNaseT2_molx] |
 
 ## EndoU-like
 
@@ -79,16 +79,16 @@ Each table contains the following information for each protein family:
 | EndoU | [Rotifer][EndoU_gn] | [PF14436][EndoU] | [hmm][EndoU_hmm] [hhm][EndoU_hhm] | [5HKQ][EndoU_molx] |
 | EndoU.3 | WebFlaGs: [pdf][EndoU.3_pdf] [operon.tsv][EndoU.3_tsv] [outdesc.txt][EndoU.3_txt] | [This Resource][EndoU.3] | [hmm][EndoU.3_hmm] [hhm][EndoU.3_hhm] | [A0A1V2YJU1][EndoU.3_molx] |
 | EndoU.4 | WebFlaGs: [pdf][EndoU.4_pdf] [operon.tsv][EndoU.4_tsv] [outdesc.txt][EndoU.4_txt] | [This Resource][EndoU.4] | [hmm][EndoU.4_hmm] [hhm][EndoU.4_hhm] | [UPI002E2B26D7][EndoU.4_molx] |
-| BC0920 | [Rotifer][BC0920_gn] | [This Resource][BC0920] |  | [Q813X6][BC0920_molx] |
+| BC0920 | [Rotifer][BC0920_gn] | [This Resource][BC0920] | [hmm][BC_0920_hmm] [hhm][BC_0920_hhm] | [Q813X6][BC0920_molx] |
 | STox_60 | [Rotifer][STox_60_gn] | [Nicastro et al., 2026][STox_60] | [hmm][STox_60_hmm] [hhm][STox_60_hhm] | [WP_029789863.1][STox_60_molx] |
 
 ## RNase A-like
 
 | Toxin Family | Genome Context | Alignment | Model | Annotated Structure (accession) |
 | -------------- | ---------------- | ---------------- | - | --------------------------------- |
-| RNase A | WebFlaGs: [pdf][RNaseA_pdf] [operon.tsv][RNaseA_tsv] [outdesc.txt][RNaseA_txt] | [PF00074][RNaseA_model] |  | [4WYN][RNaseA_molx] |
-| RNase A.2 | WebFlaGs: [pdf][RNaseA.2_pdf] [operon.tsv][RNaseA.2_tsv] [outdesc.txt][RNaseA.2_txt] | [This Resource][RNaseA.2] |  | [A0A3B1IEH8][RNaseA.2_molx] |
-| CdiA-CT<sup>Ykris</sup> | [Rotifer][CdiA-CTYkris_gn] | [PF18431][CdiA-CT_Ykris] |  | [5E3E][CdiA-CT_Ykris_molx] |
+| RNase A | WebFlaGs: [pdf][RNaseA_pdf] [operon.tsv][RNaseA_tsv] [outdesc.txt][RNaseA_txt] | [PF00074][RNaseA_model] | [hmm][RNaseA_hmm] [hhm][RNaseA_hhm] | [4WYN][RNaseA_molx] |
+| RNase A.2 | WebFlaGs: [pdf][RNaseA.2_pdf] [operon.tsv][RNaseA.2_tsv] [outdesc.txt][RNaseA.2_txt] | [This Resource][RNaseA.2] | [hmm][RNaseA.2_hmm] [hhm][RNaseA.2_hhm] | [A0A3B1IEH8][RNaseA.2_molx] |
+| CdiA-CT<sup>Ykris</sup> | [Rotifer][CdiA-CTYkris_gn] | [PF18431][CdiA-CT_Ykris] | [hmm][CdiA-CT_Ykris_hmm] [hhm][CdiA-CT_Ykris_hhm] | [5E3E][CdiA-CT_Ykris_molx] |
 | Ntox41 | [Rotifer][Ntox41_gn] | [Zhang et al., 2012][Ntox41] | [hmm][Ntox41_hmm] [hhm][Ntox41_hhm] | [A0A0E0USU5][Ntox41_molx] |
 | Ntox41.2 | WebFlaGs: [pdf][Ntox41.2_pdf] [operon.tsv][Ntox41.2_tsv] [outdesc.txt][Ntox41.2_txt] | [This Resource][Ntox41.2] | [hmm][Ntox41.2_hmm] [hhm][Ntox41.2_hhm] | [A0A1Q4EYU6][Ntox41.2_molx] |
 | Ntox50 | [Rotifer][Ntox50_gn] | [PF15542][Ntox50] | [hmm][Ntox50_hmm] [hhm][Ntox50_hhm] | [A0AAF0CX04][Ntox50_molx] |
@@ -99,8 +99,8 @@ Each table contains the following information for each protein family:
 
 | Toxin Family | Genome Context | Alignment | Model | Annotated Structure (accession) |
 | -------------- | ---------------- | ---------------- | - | --------------------------------- |
-| RelE (*Eschericia coli*) | [Rotifer][RelE_E.coli_gn] | [This Resource][RelE_E.coli] |  | [4FXI][RelE_E.coli_molx] |
-| RelE (*Methanococcus jannaschii*) | [Rotifer][RelE_M.jannaschii_gn] | [PF06296][RelE_M.jannaschii] |  | [3BPQ][RelE_M.jannaschii_pdb_molx] [A0A917YVE8][RelE_M.jannaschii_afdb_molx] |
+| RelE (*Eschericia coli*) | [Rotifer][RelE_E.coli_gn] | [This Resource][RelE_E.coli] | [hmm][RelE_E.coli_hmm] [hhm][RelE_E.coli_hhm] | [4FXI][RelE_E.coli_molx] |
+| RelE (*Methanococcus jannaschii*) | [Rotifer][RelE_M.jannaschii_gn] | [PF06296][RelE_M.jannaschii] | [hmm][RelE_M.jannaschii_hmm] [hhm][RelE_M.jannaschii_hhm] | [3BPQ][RelE_M.jannaschii_pdb_molx] [A0A917YVE8][RelE_M.jannaschii_afdb_molx] |
 | ParE | [Rotifer][ParE_gn] | [PF05016][ParE_pfam] [This Resource][ParE_kristi] | [hmm][ParE_hmm] [hhm][ParE_hhm] | [A0A4V1BZU9][ParE_molx] |
 | ParE.2 | [Rotifer][ParE.2_gn] | [This resource][ParE.2] | [hmm][ParE.2_hmm] [hhm][ParE.2_hhm] | [A0A0C1YHU8][ParE.2_molx] |
 | ParE.3 | [Rotifer][ParE.3_gn] | [This resource][ParE.3] | [hmm][ParE.3_hmm] [hhm][ParE.3_hhm] | [A0A938YUV1][ParE.3_molx] |
@@ -126,7 +126,7 @@ Each table contains the following information for each protein family:
 | -------------- | ---------------- | ---------------- | - | --------------------------------- |
 | Barnase | [Rotifer][Barnase_gn] | [This Resource][Barnase] | [hmm][Barnase_hmm] [hhm][Barnase_hhm] | [1B20][Barnase_molx] |
 | Tox-Ribonuclease | [Rotifer][Tox-Ribonuclease_gn] | [Nicastro et al., 2026][Tox-Ribonuclease] | [hmm][Tox-Ribonuclease_hmm] [hhm][Tox-Ribonuclease_hhm] | [A0A744A5J7][Tox-Ribonuclease_molx] |
-| RNase T1 | [Rotifer][RNaseT1_gn] | [This Resource][RNaseT1_model] |  | [1B2M][RNaseT1_molx] |
+| RNase T1 | [Rotifer][RNaseT1_gn] | [This Resource][RNaseT1_model] | [hmm][RNaseT1_hmm] [hhm][RNaseT1_hhm] | [1B2M][RNaseT1_molx] |
 | RNaseT1.2 | WebFlaGs: [pdf][RNaseT1.2_pdf] [operon.tsv][RNaseT1.2_tsv] [outdescription.txt][RNaseT1.2_txt] | [This Resource][RNaseT1.2] | [hmm][RNaseT1.2_hmm] [hhm][RNaseT1.2_hhm] | [A0A0B1NYA6][RNaseT1.2_molx] |
 | RNaseT1.3 | WebFlaGs: [pdf][RNaseT1.3_pdf] [operon.tsv][RNaseT1.3_tsv] [outdescription.txt][RNaseT1.3_txt] | [This Resource][RNaseT1.3] | [hmm][RNaseT1.3_hmm] [hhm][RNaseT1.3_hhm] | [A0A9W9CSS5][RNaseT1.3_molx] |
 | Sarcin | [Rotifer][Sarcin_gn] | [This Resource][Sarcin_model] [Full This Resource][Sarcin_full_model] | [hmm][Sarcin_hmm] [hhm][Sarcin_hhm] | [1DE3][Sarcin_molx] |
@@ -135,15 +135,15 @@ Each table contains the following information for each protein family:
 
 | Toxin Family | Genome Context | Alignment | Model | Annotated Structure (accession) |
 | -------------- | ---------------- | ---------------- | - | --------------------------------- |
-| BECR-like-Tox1 | [Rotifer][EndoVII_gn] | [PF15657][EndoVII_pfam] [This Resource][EndoVII_kristi] |  | [U2R0G2][PF15657_molx] |
+| BECR-like-Tox1 | [Rotifer][EndoVII_gn] | [PF15657][EndoVII_pfam] [This Resource][EndoVII_kristi] | [hmm][BECR-like-Tox1_hmm] [hhm][BECR-like-Tox1_hhm] | [U2R0G2][PF15657_molx] |
 | BECR-like-Tox1.2 | [Rotifer][EndoVII.2_gn] | [This Resource][EndoVII.2] | [hmm][BECR-like-Tox1.2_hmm] [hhm][BECR-like-Tox1.2_hhm] | [A0A1N7BT64][EndoVII.2_molx] |
-| Ntox7 | [Rotifer][Ntox7_gn] | [Nicastro et al., 2026][Ntox7] |  | [A0A5J5FSA8][Ntox7_molx] |
+| Ntox7 | [Rotifer][Ntox7_gn] | [Nicastro et al., 2026][Ntox7] | [hmm][Ntox7.st_hmm] [hhm][Ntox7.st_hhm] | [A0A5J5FSA8][Ntox7_molx] |
 | Ntox7.2 | [Rotifer][Ntox7.2_gn] | [This Resource][Ntox7.2] | [hmm][Ntox7.2_hmm] [hhm][Ntox7.2_hhm] | [A0A369YFT7][Ntox7.2_molx] |
 | Ntox7.3 | WebFlaGs: [pdf][Ntox7.3_pdf] [operon.tsv][Ntox7.3_tsv] [outdesc.txt][Ntox7.3_txt] | [This Resource][Ntox7.3] | [hmm][Ntox7.3_hmm] [hhm][Ntox7.3_hhm] | [A0A7Y4YHE2][Ntox7.3_molx] |
 | Ntox36 | [Rotifer][Ntox36_gn] | [Zhang et al., 2012][Ntox36_zhang] [This Resource][Ntox36] | [hmm][Ntox36_hmm] [hhm][Ntox36_hhm] | [Q7NP45][Ntox36_molx] |
 | Ntox47.st1 | [Rotifer][Ntox47.st1_gn] | [Nicastro et al., 2026][Ntox47.st1.gian] [This Resource][Ntox47.st1.kristi] | [hmm][Ntox47.st1_hmm] [hhm][Ntox47.st1_hhm] | [A0A740SFH9][Ntox47.st1_molx] |
 | Ntox47.st2 | [Rotifer][Ntox47.st2_gn] | [Nicastro et al., 2026][Ntox47.st2.gian] | [hmm][Ntox47.st2_hmm] [hhm][Ntox47.st2_hhm] | [A0A747XMS3][Ntox47.st2_molx] |
-| Stox_2 | [Rotifer][STox_2_gn] | [Nicastro et al., 2026][Stox_2] |  | [WP_212722943.1][Stox_2_molx] |
+| Stox_2 | [Rotifer][STox_2_gn] | [Nicastro et al., 2026][Stox_2] | [hmm][STox_2_hmm] [hhm][STox_2_hhm] | [WP_212722943.1][Stox_2_molx] |
 | STox_6 | [Rotifer][STox_6_gn] | [Nicastro et al., 2026][STox_6] | [hmm][STox_6_hmm] [hhm][STox_6_hhm] | [A0A748UZW8][STox_6_molx] |
 | STox_11 | [Rotifer][STox_11_gn] | [Nicastro et al., 2026][STox_11] [This Resource][STox_11_kristi] | [hmm][STox_11_hmm] [hhm][STox_11_hhm] | [A0A4V1G7W5][STox_11_molx] |
 | STox_11.2 | [Rotifer][STox_11.2_gn] | [This Resource][STox_11.2] | [hmm][STox_11.2_hmm] [hhm][STox_11.2_hhm] | [A0A7X0PHU6][STox_11.2_molx] |
@@ -167,14 +167,14 @@ Each table contains the following information for each protein family:
 | Toxin Family | Genome Context | Alignment | Model | Annotated Structure (accession) |
 | -------------- | ---------------- | ---------------- | - | --------------------------------- |
 | BECR-Tox2 | [Rotifer][BECR-Tox2_gn] WebFlaGs: [pdf][BECR-Tox2_pdf] [operon.tsv][BECR-Tox2_tsv] [outdescription.txt][BECR-Tox2.txt] | [This Resource][BECR-Tox2] | [hmm][BECR-Tox2_hmm] [hhm][BECR-Tox2_hhm] | [A0A352X7W3][BECR-Tox2_molx] |
-| CdiA-CT<sup>ECL</sup> | [Rotifer][CdiA-CT_ECL_gn] | [PF14426][CdiA-CT_ECL_pfam] [This Resource][CdiA-CT_ECL_kristi] |  | [4NTQ][CdiA-CT_ECL_molx] |
+| CdiA-CT<sup>ECL</sup> | [Rotifer][CdiA-CT_ECL_gn] | [PF14426][CdiA-CT_ECL_pfam] [This Resource][CdiA-CT_ECL_kristi] | [hmm][CdiA-CT_ECL_hmm] [hhm][CdiA-CT_ECL_hhm] | [4NTQ][CdiA-CT_ECL_molx] |
 | Ntox18.st1 | [Rotifer][Ntox18.st1_gn] | [Nicastro et al., 2026][Ntox18.st1] | [hmm][Ntox18.st1_hmm] [hhm][Ntox18.st1_hhm] | [A0A3Y4H1N0][Ntox18.st1_molx] |
 | Ntox18.st2 | [Rotifer][Ntox18.st2_gn] | [Nicastro et al., 2026][Ntox18.st2] | [hmm][Ntox18.st2_hmm] [hhm][Ntox18.st2_hhm] | [A0A7T8FFU2][Ntox18.st2_molx] |
 
 ## Undetermined
 
 | Toxin Family | Genome Context | Alignment | Model | Annotated Structure (accession) |
-| -------------- | ---------------- | ---------------- |  | --------------------------------- |
+| -------------- | ---------------- | ---------------- | - | --------------------------------- |
 | BECR-Tox4 | WebFlaGs: [pdf][BECR-Tox4_pdf] [operon.tsv][BECR-Tox4_tsv] [outdescription.txt][BECR-Tox4.txt] | [This Resource][BECR-Tox4] | [hmm][BECR-Tox4_hmm] [hhm][BECR-Tox4_hhm] | [A0A1F9Y1D8][BECR-Tox4_molx] |
 | PBECR5 | [Rotifer][PBECR5_gn] | [PF18814][PBECR5_model] | [hmm][PBECR5_hmm] [hhm][PBECR5_hhm] | [A0A396QF16][PBECR5_molx] |
 
