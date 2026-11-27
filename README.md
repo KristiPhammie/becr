@@ -135,7 +135,7 @@ Each table contains the following information for each protein family:
 
 | Toxin Family | Genome Context | Alignment | Model | Annotated Structure (accession) |
 | -------------- | ---------------- | ---------------- | - | --------------------------------- |
-| BECR-like-Tox1 | [Rotifer][EndoVII_gn] | [PF15657][EndoVII_pfam] [This Resource][EndoVII_kristi] | [hmm][BECR-like-Tox1_hmm] [hhm][BECR-like-Tox1_hhm] | [U2R0G2][PF15657_molx] |
+| BECR-like-Tox1 | [Rotifer][EndoVII_gn] | [PF15657][EndoVII_pfam] [This Resource][EndoVII_kristi] | [hmm][EndoVII_hmm] [hhm][EndoVII_hhm] | [U2R0G2][PF15657_molx] |
 | BECR-like-Tox1.2 | [Rotifer][EndoVII.2_gn] | [This Resource][EndoVII.2] | [hmm][BECR-like-Tox1.2_hmm] [hhm][BECR-like-Tox1.2_hhm] | [A0A1N7BT64][EndoVII.2_molx] |
 | Ntox7 | [Rotifer][Ntox7_gn] | [Nicastro et al., 2026][Ntox7] | [hmm][Ntox7.st_hmm] [hhm][Ntox7.st_hhm] | [A0A5J5FSA8][Ntox7_molx] |
 | Ntox7.2 | [Rotifer][Ntox7.2_gn] | [This Resource][Ntox7.2] | [hmm][Ntox7.2_hmm] [hhm][Ntox7.2_hhm] | [A0A369YFT7][Ntox7.2_molx] |
