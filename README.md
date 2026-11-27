@@ -41,14 +41,14 @@ Each table contains the following information for each protein family:
 | <span style="display:inlind-block;width:25px">BECR-Tox1</span> | [Rotifer][BECR-Tox1_gn] | <span style="display:inlind-block;width:100px">[This Resource][BECR-Tox1]</span> | [hmm][BECR-Tox1_hmm] [hhm][BECR-Tox1_hhm] | [A0A417CPW8][BECR-Tox1_molx] |
 | BECR-Tox3 | [Rotifer][BECR-Tox3_gn] | [This Resource][BECR-Tox3] | [hmm][BECR-Tox3_hmm] [hhm][BECR-Tox3_hhm] | [A0A3C1G575][BECR-Tox3_molx] |
 | BECR-Tox5 | WebFlaGs: [pdf][BECR-Tox5_pdf] [operon.tsv][BECR-Tox5_tsv] [outdesc.txt][BECR-Tox5_txt] | [This Resource][EndoU.2] | [hmm][BECR-Tox5_hmm] [hhm][BECR-Tox5_hhm] | [A0A1V4H847][EndoU.2_molx] |
-| Colicin D | [Rotifer][ColicinD_gn] | [PF11429][ColicinD_model] | [hmm][ColicinD_hmm] [hhm][BECR-Tox5_hhm] | [1V74][ColicinD_molx] |
-| Colicin D.2 | [Rotifer][ColicinD.2_gn] | [This Resource][ColicinD.2] |  | [A0A212J498][ColicinD.2_molx] |
-| Colicin E5 | [Rotifer][ColicinE5_gn] | [PF12106][ColicinE5_model] |  | [2DFX][ColicinE5_molx] |
-| CdiA-CT<sup>Kp342</sup> | [Rotifer][CdiA-CT_Kp342_gn] | [This Resource][CdiA-CT_Kp342] |  | [6CP9][CdiA-CT_Kp342_molx] |
-| CdiA-CT<sup>EC3006</sup> | [Rotifer][CdiA-CT_EC3006_gn] | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] |  | [6CP8][CdiA-CT_EC3006_molx] |
-| CdiA-CT<sup>EC869</sup> | [Rotifer][CdiA-CT_EC869_gn] | [This Resource][CdiA-CT_EC869] |  | [7VMC][CdiA-CT_EC869_molx] |
-| CdiA-CT<sup>NC101</sup> | [Rotifer][CdiA-CT_NC101_gn] | [This Resource][CdiA-CT_NC101] |  | [5I4Q][CdiA-CT_NC101_molx] |
-| CdiA-CT<sup>96.154</sup> | [Rotifer][CdiA-CT_96.154_gn] | [PF14076][CdiA-CT_96.154_pfam] [This Resource][CdiA-CT_96.154_kristi] |  | [D9SFT1][CdiA-CT_96.154_molx] |
+| Colicin D | [Rotifer][ColicinD_gn] | [PF11429][ColicinD_model] | [hmm][ColicinD_hmm] [hhm][ColicinD_hhm] | [1V74][ColicinD_molx] |
+| Colicin D.2 | [Rotifer][ColicinD.2_gn] | [This Resource][ColicinD.2] | [hmm][ColicinD.2_hmm] [hhm][ColicinD.2_hhm] | [A0A212J498][ColicinD.2_molx] |
+| Colicin E5 | [Rotifer][ColicinE5_gn] | [PF12106][ColicinE5_model] | [hmm][ColicinE5_hmm] [hhm][ColicinE5_hhm] | [2DFX][ColicinE5_molx] |
+| CdiA-CT<sup>Kp342</sup> | [Rotifer][CdiA-CT_Kp342_gn] | [This Resource][CdiA-CT_Kp342] | [hmm][CdiA-CT_Kp342_hmm] [hhm][CdiA-CT_Kp342_hhm] | [6CP9][CdiA-CT_Kp342_molx] |
+| CdiA-CT<sup>EC3006</sup> | [Rotifer][CdiA-CT_EC3006_gn] | [This Resource][CdiA-CT_EC3006] [Full This Resource][CdiA-CT_EC3006_full] | [hmm][CdiA-CT_EC3006_hmm] [hhm][CdiA-CT_EC3006_hhm] | [6CP8][CdiA-CT_EC3006_molx] |
+| CdiA-CT<sup>EC869</sup> | [Rotifer][CdiA-CT_EC869_gn] | [This Resource][CdiA-CT_EC869] | [hmm][CdiA-CT_EC869_hmm] [hhm][CdiA-CT_EC869_hhm] | [7VMC][CdiA-CT_EC869_molx] |
+| CdiA-CT<sup>NC101</sup> | [Rotifer][CdiA-CT_NC101_gn] | [This Resource][CdiA-CT_NC101] | [hmm][CdiA-CT_NC101_hmm] [hhm][CdiA-CT_NC101_hhm] | [5I4Q][CdiA-CT_NC101_molx] |
+| CdiA-CT<sup>96.154</sup> | [Rotifer][CdiA-CT_96.154_gn] | [PF14076][CdiA-CT_96.154_pfam] [This Resource][CdiA-CT_96.154_kristi] | [hmm][CdiA-CT_96.154_hmm] [hhm][CdiA-CT_96.154_hhm] | [D9SFT1][CdiA-CT_96.154_molx] |
 | MuF-like | [Rotifer][MuF-like_gn] | [PF18819][MuF-like_pfam] [This Resource][MuF-like_kristi] | [hmm][MuF-like_hmm] [hhm][MuF-like_hhm] | [A0A096XES0][MuF-like_molx] |
 | Ntox35 | [Rotifer][Ntox35_gn] | [PF15534][Ntox35] | [hmm][Ntox35_hmm] [hhm][Ntox35_hhm] | [A0A1H3F8X0][Ntox35_molx] |
 | Ntox35.2 | [Rotifer][Ntox35.2_gn] | [This Resource][Ntox35.2] | [hmm][Ntox35.2_hmm] [hhm][Ntox35.2_hhm] | [A0A841I6D6][Ntox35.2_molx] |
@@ -57,8 +57,8 @@ Each table contains the following information for each protein family:
 | PBECR3.2 | [Rotifer][PBECR3.2_gn] | [This Resource][PBECR3.2] | [hmm][PBECR3.2_hmm] [hhm][PBECR3.2_hhm] | [A0A4U8UI43][PBECR3.2_molx] |
 | PBECR4 | [Rotifer][PBECR4_gn] | [PF18813][PBECR4_model] | [hmm][PBECR4_hmm] [hhm][PBECR4_hhm] | [A0A417QTL2][PBECR4_molx] |
 | PBECR4.2 | [Rotifer][PBECR4.2_gn] | [This Resource][PBECR4.2] | [hmm][PBECR4.2_hmm] [hhm][PBECR4.2_hhm] | [A0A2V2DIW2][PBECR4.2_molx] |
-| Ntox19 | [Rotifer][Ntox19_gn] | [Nicastro et al., 2026][Ntox19] |  | [A0A5E7QDQ0][Ntox19_molx] |
-| Ntox49 | [Rotifer][Ntox49_gn] | [Nicastro et al., 2026][Ntox49] |  | [A0A7H0VXI5][Ntox49_molx] |
+| Ntox19 | [Rotifer][Ntox19_gn] | [Nicastro et al., 2026][Ntox19] | [hmm][Ntox19_hmm] [hhm][Ntox19_hhm] | [A0A5E7QDQ0][Ntox19_molx] |
+| Ntox49 | [Rotifer][Ntox49_gn] | [Nicastro et al., 2026][Ntox49] | [hmm][Ntox49_hmm] [hhm][Ntox49_hhm] | [A0A7H0VXI5][Ntox49_molx] |
 | Ntox49.2 | [Rotifer][DUF4258.2_gn] | [This Resource][DUF4258.2] | [hmm][Ntox49.2_hmm] [hhm][Ntox49.2_hhm] | [A0A838VH86][DUF4258.2_molx] |
 | Ntox49.3 | WebFlaGs: [pdf][DUF4258.3_pdf] [operon.tsv][DUF4258.3_tsv] [outdesc.txt][DUF4258.3_txt] | [This Resource][DUF4258.3] | [hmm][Ntox49.3_hmm] [hhm][Ntox49.3_hhm] | [A0A1F7XZ82][DUF4258.3_molx] |
 | Ntox49.4 | WebFlaGs: [pdf][DUF4258.4_pdf] [operon.tsv][DUF4258.4_tsv] [outdesc.txt][DUF4258.4_txt] | [This Resource][DUF4258.4] | [hmm][Ntox49.4_hmm] [hhm][Ntox49.4_hhm] | [D2UA17][DUF4258.4_molx] |
