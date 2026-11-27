@@ -11,7 +11,8 @@
 Link to download formatted Excel table containing all the sequences at each step of the analysis: [BECR_Sequences.xlsx](https://github.com/KristiPhammie/becr/blob/main/BECR_Sequences.xlsx)
 
 Download .gzipped file of concatenated database: 
-[Download HMM Models](https://raw.githubusercontent.com/KristiPhammie/becr/main/hmm.tar.gz) [Download HHM Models](https://raw.githubusercontent.com/KristiPhammie/becr/main/hhm.tar.gz) 
+- [Download HMM Models (.tar.gz)](https://raw.githubusercontent.com/KristiPhammie/becr/main/hmm.tar.gz) 
+- [Download HHM Models (.tar.gz)](https://raw.githubusercontent.com/KristiPhammie/becr/main/hhm.tar.gz) 
 
 <p style="text-align: justify;">This page provides supplemental information for all  BECR-fold proteins identified in our comprehensive classfication study on the BECR superfamily. Each table represents a BECR structural group with a protein family in each row.</p>
 

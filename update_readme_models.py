@@ -111,13 +111,13 @@ text += "\n\n"
 for stem, fname in sorted(hmm_files.items()):
     text += (
         f"[{stem}_hmm]: "
-        f"https://github.com/KristiPhammie/becr/blob/main/hmm/{fname}\n"
+        f"https://raw.githubusercontent.com/KristiPhammie/becr/main/hmm.tar.gz{fname}\n"
     )
 
 for stem, fname in sorted(hhm_files.items()):
     text += (
         f"[{stem}_hhm]: "
-        f"https://github.com/KristiPhammie/becr/blob/main/hhm/{fname}\n"
+        f"https://raw.githubusercontent.com/KristiPhammie/becr/main/hhm.tar.gz{fname}\n"
     )
 
 README.write_text(text)
